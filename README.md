@@ -13,6 +13,13 @@ Lightweight retrieval-augmented legal chatbot for querying local documents.
 **Release**
 - **This release:** v0.1 — initial public demo. To publish on GitHub, tag `v0.1` and create a Release with a short changelog.
 
+**Phase 1 (Done ✅)**
+- Fixed-size chunking
+- Overlap
+- ChromaDB
+- Cosine similarity
+- OpenAI embeddings
+
 **License**
 - See the `LICENSE` file for terms.
 

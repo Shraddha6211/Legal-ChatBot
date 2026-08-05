@@ -75,9 +75,9 @@ def build_prompt(question, retrieved_chunks):
 Rules:
 - Only use information found in the "Context" section to answer.
 - Do not use any outside knowledge, even if you know the answer.
-- Answer the question as long as the distance of the chunk is lesser than 0.6
-- If the context does not contain enough information to answer the question, respond exactly with:
-"I couldn't find that information in the provided document."
+- Answer the question using the provided context.
+- If the answer can be reasonably inferred from the context, answer it.
+- Only say "I couldn't find that information in the provided document." when the answer is clearly absent.
 
 Context:
 {context_text}
@@ -127,7 +127,7 @@ if __name__ == "__main__":
             continue
 
         # 4. Process the query
-        chunks, distances = retrieve_relevant_chunks(test_question, top_k=3)
+        chunks, distances = retrieve_relevant_chunks(test_question, top_k=5)
 
         print(f"\nTop {len(chunks)} retrieved chunks:\n")
         for i, (chunk_text, distance) in enumerate(zip(chunks, distances)):
