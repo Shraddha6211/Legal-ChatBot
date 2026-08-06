@@ -1,3 +1,6 @@
 openai
 python-dotenv
 chromadb
+langchain-text-splitters
+langchain
+tiktoken
