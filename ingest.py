@@ -5,6 +5,7 @@
 import config
 import chromadb
 from openai import OpenAI 
+from chunking import build_chunks 
 
 # Create a client object that handles authenticated requests to OpenAI's API
 client = OpenAI(api_key=config.OPENAI_API_KEY)
@@ -25,7 +26,7 @@ def read_markdown_file(file_path):
 
     return content
 
-def split_into_chunks(text, chunk_size=1000, overlap=200):
+# def split_into_chunks(text, chunk_size=1000, overlap=200):
     """
     Splits a long string into a list of smaller overlapping chunks.
 
@@ -36,19 +37,34 @@ def split_into_chunks(text, chunk_size=1000, overlap=200):
     Why overlap? It prevents ideas that fall on a chunk boundary from being
     completely severed between two chunks.
     """
-    chunks = []
-    start = 0
-    text_length = len(text)
 
-    while start < text_length:
-        # end is where this chunk stops
-        end = start + chunk_size
-        chunk = text[start:end]
-        chunks.append(chunk)
+     # 1. Edge case handling: Return empty list if text is empty
+    if not text or not text.strip():
+        return []
 
-        # Move the start forward, but step back by `overlap` characters
-        # so the next chunk repeats a bit of this one
-        start = end - overlap
+    # 2. Initialize the smart recursive splitter
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=chunk_size,
+        chunk_overlap=overlap,
+        length_function=len,
+        separators=["\n\n", "\n", ".", " ", ""] # Priority: Para -> Line -> Sentence -> Word
+    )
+    # chunks = []
+    # start = 0
+    # text_length = len(text)
+
+    # while start < text_length:
+    #     # end is where this chunk stops
+    #     end = start + chunk_size
+    #     chunk = text[start:end]
+    #     chunks.append(chunk)
+
+    #     # Move the start forward, but step back by `overlap` characters
+    #     # so the next chunk repeats a bit of this one
+    #     start = end - overlap
+
+    # 3. Split and return the text list directly
+    chunks = splitter.split_text(text)
 
     return chunks
 
@@ -71,8 +87,8 @@ def get_embedding(text):
   
 def build_vector_database(chunks):
     """
-    Embeds every chunk and stores it in a local ChromaDB collection,
-    persisted to disk at config.CHROMA_DB_PATH.
+    UPDATED: chunks is now a list of dicts (text + metadata) from build_chunks(),
+    instead of a plain list of strings. We now also store metadata in ChromaDB.
     """
     # PersistentClient saves data to disk (as opposed to an in-memory-only client)
     # so our database survives between separate runs of the program.
@@ -88,18 +104,16 @@ def build_vector_database(chunks):
 
     print(f"Embedding {len(chunks)} chunks. This may take a minute...")
 
-    for i, chunk_text in enumerate(chunks):
-        embedding = get_embedding(chunk_text)
-
-        # A unique string ID for this chunk, e.g. "chunk_0", "chunk_1", ...
-        chunk_id = f"chunk_{i}"
+    for i, chunk in enumerate(chunks):
+        embedding = get_embedding(chunk["text"])
 
         # collection.add() stores the id, the embedding vector, and the
         # original text together as one record.
         collection.add(
-            ids=[chunk_id],
+            ids=[chunk["chunk_id"]],
             embeddings=[embedding],
-            documents=[chunk_text]
+            documents=[chunk["text"]],
+            metadatas=[chunk["metadata"]]
         )
 
         # Simple progress indicator so we know it's not frozen
@@ -113,42 +127,58 @@ def build_vector_database(chunks):
 if __name__ == "__main__":
     # This block only runs when you execute `python ingest.py` directly
     # (it won't run if this file is imported elsewhere)
-
-    # document_text = read_markdown_file(config.DOCUMENT_PATH)
-
-    # print(f"Successfully read document.")
-    # print(f"Total characters: {len(document_text)}")
-
-    # chunks = split_into_chunks(document_text, chunk_size=1000, overlap=200)
-
-    # print(f"\nSplit into {len(chunks)} chunks.")
-    # print("\n--- First chunk ---")
-    # print(chunks[0])
-    # print("\n--- Second chunk (notice the overlap at the start) ---")
-    # print(chunks[1])
-
-    # document_text = read_markdown_file(config.DOCUMENT_PATH)
-    # print(f"Successfully read document.")
-    # print(f"Total characters: {len(document_text)}")
-
-    # chunks = split_into_chunks(document_text, chunk_size=1000, overlap=200)
-    # print(f"\nSplit into {len(chunks)} chunks.")
-
-    # # Test embedding on just the first chunk
-    # print("\nGenerating embedding for the first chunk...")
-    # test_embedding = get_embedding(chunks[0])
-
-    # print(f"Embedding generated successfully.")
-    # print(f"Vector length (number of dimensions): {len(test_embedding)}")
-    # print(f"First 5 values: {test_embedding[:5]}")
-
     document_text = read_markdown_file(config.DOCUMENT_PATH)
     print(f"Successfully read document.")
     print(f"Total characters: {len(document_text)}")
 
-    chunks = split_into_chunks(document_text, chunk_size=1000, overlap=200)
+    # CHANGED: use the new recursive Markdown chunker instead of split_into_chunks
+    chunks = build_chunks(
+        document_text,
+        source_name=config.DOCUMENT_PATH,
+        max_tokens=2000,
+        overlap_tokens=400
+    )
     print(f"Split into {len(chunks)} chunks.")
+
+    # Quick sanity check: print the first chunk's metadata
+    print("\nExample chunk metadata:")
+    print(chunks[0]["metadata"])
+    print("\nExample chunk text (first 200 chars):")
+    print(chunks[0]["text"][:200])
 
     collection = build_vector_database(chunks)
 
     print(f"\nCollection now contains {collection.count()} items.")
+    # document_text = read_markdown_file(config.DOCUMENT_PATH)
+
+    # print(f"Successfully read document.")
+    # print(f"Total characters: {len(document_text)}")
+
+    # chunks = build_chunks(
+    #     document_text, 
+    #     source_name=config.DOCUMENT_PATH,
+    #     max_tokens=2000,
+    #     overlap_tokens=400
+    # )
+
+    # print(f"Total chunks generated: {len(chunks)}")
+
+    # # 2. Inspect multiple chunks to verify quality, overlap, and context
+    # print("\n=== CHUNKING QUALITY CHECK ===")
+    
+    # # Check the first chunk, a middle chunk, and the last chunk
+    # sample_indices = [0, len(chunks) // 2, len(chunks) - 1]
+    # # Handle small documents with fewer than 3 chunks safely
+    # sample_indices = sorted(list(set(idx for idx in sample_indices if idx < len(chunks))))
+
+    # for idx in sample_indices:
+    #     print(f"\n" + "="*50)
+    #     print(f"--- INSPECTING CHUNK INDEX: {idx} ---")
+    #     print(f"="*50)
+    #     print(f"Metadata: {chunks[idx]['metadata']}")
+    #     print(f"Character Length: {len(chunks[idx]['text'])}")
+    #     print(f"--- Chunk Content Start ---")
+    #     print(chunks[idx]["text"])
+    #     print(f"--- Chunk Content End ---")
+
+   
