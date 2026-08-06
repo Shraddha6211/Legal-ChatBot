@@ -36,7 +36,7 @@ def get_collection():
     return collection
 
 
-def retrieve_relevant_chunks(question, top_k=3):
+def retrieve_relevant_chunks(question, top_k=15):
     """
     Given a user's question, returns the top_k most semantically
     similar chunks from the vector database.
@@ -127,7 +127,7 @@ if __name__ == "__main__":
             continue
 
         # 4. Process the query
-        chunks, distances = retrieve_relevant_chunks(test_question, top_k=5)
+        chunks, distances = retrieve_relevant_chunks(test_question, top_k=15)
 
         print(f"\nTop {len(chunks)} retrieved chunks:\n")
         for i, (chunk_text, distance) in enumerate(zip(chunks, distances)):
@@ -141,31 +141,3 @@ if __name__ == "__main__":
         print("=== Answer ===")
         print(answer)
         print("-" * 40 + "\n")  # Visual separator for the next turn
-
-
-    # Simple manual test loop
-    # test_question = input("Ask a question about the document: ")
-
-    # chunks, distances = retrieve_relevant_chunks(test_question, top_k=3)
-
-    # print(f"\nTop {len(chunks)} retrieved chunks:\n")
-    # for i, (chunk_text, distance) in enumerate(zip(chunks, distances)):
-    #     print(f"--- Chunk {i + 1} (distance: {distance:.4f}) ---")
-    #     print(chunk_text)
-    #     print()
-
-    # test_question = input("Ask a question about the document: ")
-
-    # chunks, distances = retrieve_relevant_chunks(test_question, top_k=3)
-
-    # print(f"\nTop {len(chunks)} retrieved chunks:\n")
-    # for i, (chunk_text, distance) in enumerate(zip(chunks, distances)):
-    #     print(f"--- Chunk {i + 1} (distance: {distance:.4f}) ---")
-    #     print(chunk_text)
-    #     print()
-
-    # print("Generating answer...\n")
-    # answer = generate_answer(test_question, chunks)
-
-    # print("=== Answer ===")
-    # print(answer)
