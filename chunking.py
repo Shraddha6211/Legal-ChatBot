@@ -140,41 +140,124 @@ def split_by_fixed_size(text, max_tokens, overlap_tokens):
     return pieces
 
 
+def merge_small_sections(sections, max_tokens):
+    """
+    Merges consecutive small heading-based sections together, up to
+    max_tokens, so we don't end up with a huge number of tiny chunks
+    (e.g. one short constitutional article per chunk, each only ~50 tokens).
+
+    This runs BEFORE recursive_split(), so recursive_split only ever has
+    to worry about sections that are too BIG — never too small.
+
+    Merging is "greedy": we just keep adding the next section to the
+    current group as long as it still fits under max_tokens, regardless
+    of which heading level each section came from.
+    """
+    merged_sections = []
+
+    # These track the group of sections we're currently accumulating
+    current_texts = []
+    current_heading_paths = []
+    current_tokens = 0
+
+    def flush_group():
+        """Turns whatever we've accumulated so far into one merged section."""
+        if not current_texts:
+            return
+        combined_text = "\n\n".join(current_texts)
+
+        # Keep track of every distinct heading path folded into this chunk,
+        # so we can still trace which original sections it covers.
+        unique_paths = []
+        for path in current_heading_paths:
+            if path not in unique_paths:
+                unique_paths.append(path)
+        combined_heading_path = " | ".join(unique_paths)
+
+        merged_sections.append({
+            "heading_path": combined_heading_path,
+            "text": combined_text
+        })
+
+    for section in sections:
+        section_tokens = count_tokens(section["text"])
+
+        if section_tokens > max_tokens:
+            # This section is already big enough on its own — flush
+            # whatever group we were building, then keep this section
+            # standalone (recursive_split will break it down further later).
+            flush_group()
+            current_texts = []
+            current_heading_paths = []
+            current_tokens = 0
+            merged_sections.append(section)
+            continue
+
+        if current_tokens + section_tokens > max_tokens:
+            # Adding this section would push the group over the limit —
+            # save the current group, start a new one with this section.
+            flush_group()
+            current_texts = [section["text"]]
+            current_heading_paths = [section["heading_path"]]
+            current_tokens = section_tokens
+        else:
+            # Still room — fold this section into the group being built.
+            current_texts.append(section["text"])
+            current_heading_paths.append(section["heading_path"])
+            current_tokens += section_tokens
+
+    # Don't forget the last group being built when the loop ends
+    flush_group()
+
+    return merged_sections
+
+def merge_pieces(pieces, max_tokens):
+    """
+    Greedily re-merges a list of text pieces (e.g. paragraphs) back together
+    up to max_tokens, joined by a blank line. This is the same idea as
+    merge_small_sections, just applied one level down — otherwise every
+    paragraph that individually fits under max_tokens becomes its own tiny
+    chunk, which is what was causing the huge, non-uniform chunk count.
+    """
+    merged = []
+    current = []
+    current_tokens = 0
+
+    for piece in pieces:
+        piece_tokens = count_tokens(piece)
+
+        if current and current_tokens + piece_tokens > max_tokens:
+            merged.append("\n\n".join(current))
+            current = [piece]
+            current_tokens = piece_tokens
+        else:
+            current.append(piece)
+            current_tokens += piece_tokens
+
+    if current:
+        merged.append("\n\n".join(current))
+
+    return merged
+
 def recursive_split(text, max_tokens, overlap_tokens):
-    """
-    The core recursive algorithm described in the explanation above.
-
-    Tries splitters in priority order:
-    paragraphs -> sentences -> fixed-size token split.
-
-    (Heading-level splitting happens separately, BEFORE this function is
-    called, in build_chunks() below — because headings need special
-    metadata handling, not just plain text splitting.)
-
-    Returns a list of text pieces, each within the max_tokens limit
-    (except in rare edge cases where a single "sentence" itself exceeds
-    max_tokens even after fixed-size splitting attempts... which
-    split_by_fixed_size handles directly).
-    """
-    # Base case: this piece already fits within our token budget
     if count_tokens(text) <= max_tokens:
         return [text]
 
-    # Try splitting by paragraphs first
     paragraphs = split_by_paragraphs(text)
 
     if len(paragraphs) > 1:
-        # Paragraph splitting actually did something (found more than 1 piece)
-        result = []
+        # First pass: break down any paragraph that's individually too big
+        pieces = []
         for paragraph in paragraphs:
             if count_tokens(paragraph) <= max_tokens:
-                result.append(paragraph)
+                pieces.append(paragraph)
             else:
-                # This paragraph is still too big — recurse down to sentence level
-                result.extend(recursive_split_sentences(paragraph, max_tokens, overlap_tokens))
-        return result
+                pieces.extend(recursive_split_sentences(paragraph, max_tokens, overlap_tokens))
+
+        # Second pass: re-merge the small pieces back up toward max_tokens,
+        # instead of emitting one chunk per tiny paragraph
+        return merge_pieces(pieces, max_tokens)
     else:
-        # No paragraph breaks found in this text — go straight to sentence level
         return recursive_split_sentences(text, max_tokens, overlap_tokens)
 
 
@@ -229,7 +312,7 @@ def recursive_split_sentences(text, max_tokens, overlap_tokens):
     return chunks
 
 
-def build_chunks(document_text, source_name, max_tokens=300, overlap_tokens=30):
+def build_chunks(document_text, source_name, max_tokens=2000, overlap_tokens=400):
     """
     Main entry point: takes the full document text and returns a list of
     chunk dictionaries, each with text + metadata, ready to be embedded
@@ -241,6 +324,9 @@ def build_chunks(document_text, source_name, max_tokens=300, overlap_tokens=30):
     # Step 1: split the document into heading-defined sections
     sections = split_by_headings(document_text)
 
+    # Step 2 (NEW): merge consecutive small sections together up to max_tokens
+    sections = merge_small_sections(sections, max_tokens)
+
     all_chunks = []
     chunk_counter = 0
 
@@ -248,7 +334,7 @@ def build_chunks(document_text, source_name, max_tokens=300, overlap_tokens=30):
         heading_path = section["heading_path"]
         section_text = section["text"]
 
-        # Step 2: for each section, recursively split it further if it's
+        # Step 3: for each section, recursively split it further if it's
         # still bigger than our token budget
         pieces = recursive_split(section_text, max_tokens, overlap_tokens)
 
@@ -256,9 +342,10 @@ def build_chunks(document_text, source_name, max_tokens=300, overlap_tokens=30):
             chunk_id = f"chunk_{chunk_counter}"
             chunk_counter += 1
 
-            # The last part of the heading path (e.g. "Prerequisites" out of
-            # "Introduction > Setup > Prerequisites") is a convenient short
-            # label for which specific section this chunk belongs to.
+            # CHANGED: heading_path may now contain multiple entries joined
+            # by " | " (from merged sections), so we grab the LAST one's
+            # LAST level as the short section label.
+            last_path = heading_path.split(" | ")[-1]
             section_label = heading_path.split(" > ")[-1]
 
             chunk = {
@@ -268,6 +355,7 @@ def build_chunks(document_text, source_name, max_tokens=300, overlap_tokens=30):
                     "chunk_id": chunk_id,
                     "heading_path": heading_path,
                     "section": section_label,
+                    "short_section_label": last_path,
                     "token_count": count_tokens(piece_text),
                     "source": source_name
                 }

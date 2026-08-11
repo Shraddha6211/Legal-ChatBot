@@ -1,47 +1,5 @@
 # **THE CONSTITUTION OF NEPAL**
 
-## **Table of Contents**
-
-Preamble
-
-Part-1
-
-Preliminary
-
-Part-2 Citizenship
-
-Part-3 Fundamental Rights and Duties
-
-Part-4
-
-Directive Principles, Policies and Obligations of the State Part-5
-
-Structure of State and Distribution of State Power
-
-Part -6
-
-President and Vice-President
-
-Part-7 Federal Executive Part-8 Federal Legislature Part-9
-
-Federal Legislative Procedures Part-10
-
-Federal Financial Procedures Part-11 Judiciary Part-12 Attorney General Part-13 State Executive
-
-Part-14 State Legislature Part- 15 State Legislative Procedures Part-16 State Financial Procedures Part-17 Local Executive Part-18 Local Legislature Part-19 Local Financial Procedures Part-20 Interrelations between Federation, State and Local level Part- 21 Commission for the Investigation of Abuse of Authority Part-22 Auditor General Part -23 Public Service Commission Part-24 Election Commission Part-25 National Human Rights Commission Part -26 National Natural Resources and Fiscal Commission Part -27 Other Commissions Part -28
-
-Provision Relating National Security Part- 29 Provision relating to Political Parties Part- 30 Emergency Power Part- 31 Amendment to the Constitution Part- 32 Miscellaneous Part- 33 Transitional Provisions Part- 34 Definitions and Interpretation Part- 35 Short Title, Commencement and Repeal Schedule- 1 National Flag of Nepal Schedule -2 National Anthem of Nepal Schedule -3 Coat of Arms of Nepal Schedule -4 States and Districts to be included in the States Schedule- 5 List of Federal Power Schedule- 6 List of State Power Schedule- 7 List of Concurrent Powers of Federation and State
-
-Schedule- 8
-
-List of Local level Power
-
-Schedule- 9
-
-List of Concurrent Power of Federation, State and Local level
-
-### **The Constitution of Nepal**
-
 ### Date of Publication in Nepal Gazette
 
 20 September 2015 (2072.6.3)
@@ -4065,3 +4023,10061 @@ Note bene: This Coat of Arms may be made in larger or smaller size as per necess
 |||
 |14.|Royalty from natural resources|
 |15.|Motor vehicle permits|
+
+# **CIVIL CODE**
+
+### **Part-1** 
+
+### **<u>Preliminary</u>** 
+
+### **Chapter-1** 
+
+### **<u>General Provisions</u>** 
+
+**1. Short title and commencement:** (1) This Act may be cited as the "National Civil (Code), 2017". 
+
+   - (2) It shall come into force on 17 August 2018 (first day of the 
+
+   - month of Bhadra of the year 2075). 
+
+**2. Definitions:** Unless the subject or the context otherwise requires, in this Act,- 
+
+**4** 
+
+   - (a) “court” means the Supreme Court, High Court or District Court, and this term includes a court, other judicial body or authority authorized by law to proceed and adjudicate any specific type of civil cases, 
+
+   - (b) "law" means a law in force for the time being, 
+
+   - (c) "person" means a natural person and this term includes a legal person, 
+
+   - (d) "law-suit" means a statement of claims, and this term includes any other kind of complaint, claim, counterclaim or equivalent petition, 
+
+   - (e) “minor” means a child who has not attained eighteen years of age, 
+
+   - (f) "Local Level" means the Rural Municipality ( _Gownpalika_ ) or Municipality, 
+
+   - (g) "property" means any movable or immovable property, 
+
+   - (h) "heir" means a person who is in the order of priority for succession pursuant to Section 239. 
+
+- **3** . **Not to prejudice special legal provisions:** Where a law in force provides a separate provision in any matter regulated by this Act, no provision of this Act shall affect such a matter. 
+
+**5** 
+
+### **Chapter - 2** 
+
+### **<u>General Principles of Civil Law</u>** 
+
+**4. Principles and provisions applicable generally:** The principles and provisions referred to in this Chapter shall generally be applicable to the matters of civil law. 
+
+**5. Ignorance of law not to be excused** : The ignorance of law shall not be excused. Every one shall be presumed to have the knowledge of law. 
+
+**6. Act against public interest not to be carried out:** No one may carry out any act in such a manner so that it may be against public interest. 
+
+**7. Act contrary to law to be invalid:** Any act contrary to law shall be invalid. 
+
+**8. A wrongdoer to bear liability for loss or damage:** (1) A person who causes loss or damage to another person by committing a wrong while doing, or causing to be done any act shall bear the liability for such loss or damage. 
+
+(2) Every person shall himself or herself bear the consequences of any wrongful act committed by him or her. 
+
+(3) Except as otherwise provided for in this Act or law, the concerned person shall bear compensation to perform the liability referred to in sub-section (1). 
+
+(4) Determination of the Compensation shall be as provided for in the law. 
+
+**6** 
+
+**9. Act causing nuisance to other not to be done:** No person shall do, or cause to be done, any act that causes nuisance, annoyance or damage to prestige, reputation or property of another person. 
+
+**10.  Not to enjoy benefit of wrong:** No person shall be entitled to enjoy benefit accrued from his or her own wrong. 
+
+**11. Act against interest to be invalid:** Any act done against the interest of a person who is under one's own guardianship, curatorship, subjection or influence or likely be under influence shall be invalid. 
+
+**12. Personality to be recognized:** Every person shall recognize other person's personality. 
+
+**13. Good neighborhood to be maintained:** Every person shall maintain so good neighborhood as not to cause damage, loss to the community or neighbors of his or her residence. 
+
+**14. Not to be relieved from civil liability:** No person shall be relieved from a civil liability under the law merely on the ground that the proceeding of criminal offense is initiated or not initiated against him or her. 
+
+**15. Custom or tradition contrary to law not to be recognized:** No custom or tradition contrary to law shall be recognized in the dispensation of justice. 
+
+**16. Applicable to foreigners as well:** Except in cases where the subject, context or nature requires application of any legal provision only to a Nepali citizen, this Act or other provisions concerning civil law shall be equally applicable to a foreigner as well. 
+
+**7** 
+
+### **Chapter - 3** 
+
+### **<u>Provisions Relating To Civil Rights</u>** 
+
+**17. To be equal before law:** (1) Every citizen shall be equal before law. 
+
+   - (2) No citizen shall be deprived of equal protection of law. 
+
+**18. Discrimination not to be made:** (1) No discrimination shall be made in the application of general law on grounds of origin, religion, color, caste, race, sex, physical condition, disability, condition of health, marital status, pregnancy, economic condition, language, region, ideological conviction or on similar other ground. 
+
+(2) No person shall discriminated in any public and private place on grounds of origin, religion, color, caste, race, sex, physical condition, disability, condition of health, marital status, pregnancy, economic condition, language, region, ideological conviction or on similar other ground; and no person shall, on such ground, be prevented from using service, amenities or utilities of public use or from entering into a public place or public religious place or from performing religious act according to his or her will. 
+
+(3) No person shall be discriminated on ground of sex with regard to remuneration and social security for the same work. 
+
+(4) In appointing any citizen to a governmental or public office, he or she shall be appointed only on the basis of the qualifications determined by the law. In so appointing, no citizen shall be discriminated on grounds of origin, religion, color, caste, race, sex, physical condition, disability, condition of health, marital 
+
+**8** 
+
+status, pregnancy, economic condition, language, region, ideological conviction or similar other ground. 
+
+**19. Discrimination not to be deemed where special provision is made:** Notwithstanding anything contained in Sections 17 and 18, any special provision made by law for the protection, empowerment or development of the citizens that are socially or culturally backward women, _dalit,_ **indigenous, indigenous nationalities** , _Madhesi_ , Tharu, Muslims, oppressed class, backward class, minorities, marginalized, peasants, workers, youths, children, senior citizens, gender and sexual minorities, persons with disabilities, pregnant women, the incompetent or helpless, backward region and also economically indigent Khash Arya shall not be considered to be a discrimination. 
+
+**20. Guarantee of freedoms and rights:** (1) No person shall be deprived of personal liberty except in accordance with law. 
+
+   - (2) Every citizen shall, subject to law, have the following 
+
+   - freedoms and rights: 
+
+      - (a) To express one’s opinion and expression, 
+
+      - (b) To assemble, hold assembly, conference peacefully without arms, 
+
+      - (c) To form union and association, 
+
+      - (d) To move and reside in any part of Nepal, 
+
+      - (e) To practice any profession, employment, industry, business, 
+
+**9** 
+
+   - (f) To obtain education of his or her choice or in his or her mother tongue, 
+
+   - (g) To earn, use, transfer property and carry out any other transaction of property, 
+
+   - (h) To profess and practice his or her religion practiced from time immemorial, subject to the compliance of public morality and traditions, 
+
+   - (i) To preserve and promote the language, script or culture of his or her community, 
+
+   - (j) To operate a religious place and religious trust, by maintaining independent existence of his or her religious community, 
+
+   - (k) To protect or maintain privacy of his or her body, residence, property, document, correspondence or information. 
+
+**21. Right to privacy deemed to be violated:** (1) If any person commits, save in accordance with law, any of the following acts without obtaining consent of the concerned person, he or she shall be deemed to have violated the right to privacy: 
+
+   - (a) Entry into any person’s residence, 
+
+   - (b) Opening a person's correspondence or using it, taping or recording or listening the discourse, speech, sound through the medium of telephone or other technology, 
+
+**10** 
+
+- (c) Watching, publishing, broadcasting or disseminating activities, behaviors of personal life of a person, 
+
+- (d) Taking figure or photograph of a person, 
+
+- (e) Imitating other's name, figure, photograph, sound and making the same public. 
+
+(2) Notwithstanding anything contained in clause (d) or (e) of sub-section (1), if a person commits any act referred to in the said clauses for literary or artistic purpose or public interest, the right to privacy shall not be deemed to have been violated. 
+
+**22. Right to make contract:** Every citizen shall have the right to make a contract subject to the law. 
+
+**23. No taxation except in accordance with law:** No tax shall be levied on and collected from a person’s property or income save in accordance with law. 
+
+**24. Not to employ in work against will:** No person shall be employed in a work against his or her will. 
+
+**25. Property not to be acquired, requisitioned, auctioned or forfeited:** (1) The State shall not acquire, requisition, or otherwise create any right in, the property of anyone, except in accordance with law for the purpose of public interest. 
+
+Provided that this provision shall not apply to a property earned illegally. 
+
+(2) No property of anyone shall be auctioned or forfeited except in accordance with law. 
+
+**11** 
+
+**26. Complaint may be filed:** (1) A person who is arrested or detained or any one on his or her behalf may file a petition in the Supreme Court, High Court or District Court for the writ of _habeas corpus._ 
+
+(2) If a person files a petition in more than one court, the petition filed in the higher court shall be maintained. 
+
+(3) If a person commit or there is sufficient suspicion that he or she is going to commit any act in contravention of this Chapter, the person aggrieved from such an act may, for the enforcement of his or her right, file a petition in the High Court or District Court having territorial jurisdiction. 
+
+(4) If it is found from inquiry into the petition filed pursuant to sub-section (1) that the person has been arrested or detained against law, the concerned court shall order to release him or her immediately. 
+
+(5) If it is found from inquiry in respect of the petition filed pursuant to sub-section (3) that the respondent has caused some damage or is about to cause damage to the petitioner's right, the concerned court may issue an order requiring the respondent to refrain from committing, or causing to be committed, any act damaging the petitioner’s right, and where some act has already been committed, from committing, or causing to be committed, the remaining act, or to do any act. 
+
+**27. Compensation to be awarded:** (1) If, from the examination of the complaint filed pursuant to Section 26, the respondent is found to have maliciously committed any act causing damage to the complainant, the concerned court shall, having regard to the 
+
+**12** 
+
+circumstances, order the respondent to pay reasonable compensation to the complainant. 
+
+(2) If an official or employee working in a governmental or public body is held to have knowingly violated the civil rights referred to in this Chapter, such an official or employee shall personally bear the amount of compensation referred to in subsection (1). 
+
+**28. Compensation for filing false complaint:** (1) If a person is held to have filed a complaint with the intention of knowingly causing pain or loss or damage to a person, the concerned court shall order the person so filing the false complaint to pay a reasonable compensation to the respondent. 
+
+(2) The compensation to be awarded under sub-section (1) shall include the costs incurred by the respondent for defense before the court, court fees and legal practitioner's cost. 
+
+**29. Statute of limitation:** A person aggrieved from any act done or action taken under this Chapter may make a lawsuit any time in the case of arrest or detention, and within a period of six months after the date on which such an act or action was done or taken, in the other cases. 
+
+**13** 
+
+### **Part - 2** 
+
+### **<u>Law Relating to Persons</u>** 
+
+### **Chapter – 1** 
+
+### **<u>Provisions Relating to Natural Persons</u>** 
+
+**30. To be recognized as person:** Every person shall, immediately after birth, be recognized as a person and be entitled to exercise rights under law until he or she survives. 
+
+**31. Right to Name:** (1) Every person shall, immediately after birth, have right to name and be entitled to use the given name respectfully. 
+
+   - (2) Every person shall have the right to defend his or her 
+
+   - name, reputation and prestige and such right shall not be transferable to others. 
+
+(3) No person shall be allowed to abuse another’s name. 
+
+**32. To attain competency:** (1) Every person who attains eighteen years of age shall be considered to become a major, and shall, in the same capacity, be considered to be legally competent. 
+
+(2) A person who is competent under sub-section (1) may, subject to law, exercise, bear and discharge any right, obligation and duty whatsoever. 
+
+**33. To be considered incompetent:** (1) Notwithstanding anything contained in Section 32, a person who has not attained ten years of age, or even if attained that age, is unable to protect his or her right and interest for the reason of unsoundness of mind shall be considered to be legally incompetent. 
+
+**14** 
+
+**Explanation:** For the purposes of this Act, the term "unsoundness of mind" means the condition of being incapable, due to physical and mental ill health, of knowing the act done by oneself in general understanding and consequences thereof. 
+
+(2) An incompetent person does not have to bear any type of legal obligation, and while exercising a right, it has to be exercised, or cause to be exercised, only with the consent of the guardian or curator or through the guardian or curator, as the case may be. 
+
+(3) In executing a document on behalf of an incompetent person, it shall be executed, or caused to be executed, through his or her guardian or curator, as the case may be. 
+
+**34. To be considered quasi-competent:** (1) A person who has attained ten years of age but not completed eighteen years of age shall be considered as a quasi-competent person. 
+
+(2) A quasi-competent person may, subject to law, exercise, bear and discharge any right, obligation and duty whatsoever. 
+
+(3) A quasi-competent person shall, in exercising a right, obtain the consent of the guardian or curator or exercise the right through the guardian or curator, as the case may be. 
+
+(4) In executing a document by a quasi-competent person, it shall be executed in the presence of his or her guardian or curator, as the case may be. 
+
+**15** 
+
+**35. To be according to court decision:** If a dispute arises about a person's competency, incompetency or quasi-competency, it shall be settled according to the decision of the court. 
+
+**36. Physical examination or change of organ may be made:** (1) Any person may, subject to law, get his or her body examined, treated or transplanted or collected any organ or part or a sample of his or her body. 
+
+(2) If a person is so incapable that he or she cannot express his or her consent, his or her guardian or curator, as the case may be, for the interest of such a person, carry out, or cause to be carried out, the act referred to in sub-section (1). 
+
+**37. Power to specify method of one’s cremation, obsequies rites or funereal acts:** (1) Any person may, while he or she is alive, specify the manner of cremation, obsequies rites or funereal acts to be carried out after his or her death. 
+
+(2) If a person has specified the manner of cremation, obsequies rites or funereal acts pursuant to sub-section (1), his or her successor shall carry out his or her cremation, obsequies rites or funereal acts accordingly. 
+
+(3) If a person has not specified the manner of his or her cremation, obsequies rites or funereal acts pursuant to sub-section (1), his or her successor shall conduct such person's cremation, obsequies rites or funereal acts according to the prevailing custom and tradition. 
+
+**38. Power to donate corpse or organ:** (1) Any person may express in writing his or her will to donate, after his or her death, his or her 
+
+**16** 
+
+corpse or any organ of body or any part thereof to a person for the purpose of using, or causing to be used, such corpse or organ for a particular work. 
+
+(2) If a person has expressed his or her will pursuant to sub-section (1), his or her successor shall use the deceased’s corpse, part of the body or a portion thereof according to the will of the deceased. 
+
+(3) Notwithstanding anything contained in sub-section (2), if the person accepting such corpse, organ or any part thereof is not available or if it is not possible to detach such corpse, organ or any part thereof, cremation, obsequies rites or funereal acts of such corpse shall be conducted pursuant to Section 37. 
+
+**39. To be considered address of residence:** (1) If a person's address of residence needs to be determined, the address given by him or her for that purpose, where he or she has so given, and if not so given, the place of his or her permanent residence within Nepal shall be considered to be the address of his or her residence. 
+
+(2) If a person does not have residence or his or her residence is not traced out pursuant to sub-section (1), the place of his or her abode for the time being shall be considered to be the address of his or her residence. 
+
+(3) If a person does not have a residence or his or her residence is not traced out pursuant to sub-section (1) or (2) and the person has carried on any trade, business, employment or transaction, the place where he or she has so carried on trade, 
+
+**17** 
+
+business, employment or transaction shall be considered to be the address of his or her residence. 
+
+(4) Notwithstanding anything contained in sub-section (1), (2) or (3), where the address of a person's residence is changed, the place where he or she is residing for the time being shall be considered to be the address of his or her residence. 
+
+(5) If the residence of an incompetent or quasi-competent person needs to be determined, the place of his or her permanent residence and if such place is not traced out, the place where his or her guardian or curator resides shall be considered to be the address of his or her residence. 
+
+(6) Notwithstanding anything contained elsewhere in this Section, if a person considers any address as the place of his or her residence for a particular purpose, such a place shall be considered to be the address of his or her residence. 
+
+**40. Presumed to be dead:** (1) If a person misars without any notice for a period of consecutive twelve years or if a person for whom it is natural to have information about such disappeared person has not received any information about him or her for the last twelve years, such a person shall, except in cases where an evidence establishing that he or she is alive is received, be deemed to be dead. 
+
+Provided that in the following circumstance, such a person shall be deemed to have died after the completion of the following period: 
+
+(1) In the case of a person having attained eighty years of age, five years, 
+
+**18** 
+
+- (2) In the case of a soldier deputed to war-field, four years after the cessation of the war; 
+
+- (3) In the case of a person traveling by an aircraft, ship or other vehicle that met with an accident, three years after the date of such accident. 
+
+(2) Notwithstanding anything contained in clause (3) of the proviso to sub-section (1), if a person dies in an accident and there is no evidence of another person meeting with the same accident to remain alive, such a person also shall be deemed to have died at the same time. 
+
+(3) Where more than one person are dead at one and the same time in an accident, each person so died is deemed, except as otherwise proved, to have been died at the same time. 
+
+Provided that where, for a particular purpose, a question that which of the persons died first in such an accident requires to be settled, the person who was older by age at the time of death shall, unless otherwise proved, be deemed to have been died first. 
+
+(4) If the concerned person files a petition stating that any person has disappeared without a notice or died due to a disaster or accident and requests for a judicial declaration on such person's death, disclosing therewith the date, place, cause of death and basis thereof, the court may, after examining the evidence, make an order of judicial declaration on the death of such a person. 
+
+(5) If a person already declared dead pursuant to subsection (4) comes back alive and files a petition in person to get the judicial declaration made earlier to be annulled or if his or her 
+
+**19** 
+
+successor files a petition for amendment to the previous judicial declaration on death for the reason that the date of death of such deceased happened to be different than the date referred to in the judicial declaration, the court shall, having examined into this matter, annul or amend the judicial declaration made pursuant to sub-section (4). 
+
+### Provided that- 
+
+      - (1) Where a living wife has concluded another marriage after such declaration, the matrimonial relationship with the person declared to be dead cannot be re-established. 
+
+      - (2) There shall be no adverse effect on the legal right of the person declared to be dead. 
+
+      - (3) The act that has already been carried out pursuant to the previous judicial declaration shall not be prejudiced by virtue of the establishment of a new date of death. 
+
+      - (4) The right, interest or concern of the person provided by law shall not be affected by any act done or action taken pursuant to clause (3). 
+
+**41. Statute of limitation:** A person aggrieved from any act done or action taken under this Chapter may make a lawsuit as follows: 
+
+   - (a) In the case of the circumstance referred to in Section 36, within three months after the date on which such act was done or action taken, 
+
+**20** 
+
+- (b) In the case of the circumstance referred to in subsection (5) of Section 40, within one year after the date of knowledge of such an act or action, 
+
+- (c) In any circumstance other than that referred to in clauses (a) and (b), within six months after the date on which such an act was done or action taken. 
+
+**21** 
+
+### **Chapter-2** 
+
+### **<u>Provisions Relating to Legal Persons</u>** 
+
+**42. Legal person to acquire competency:** (1) A body corporate incorporated pursuant to law shall obtain legal personality, and obtain legal competency in the same capacity. 
+
+(2) In order to obtain legal competency pursuant to subsection (1), any body shall be registered in accordance with law. 
+
+(3) Except where a separate provision has been made by law for registration pursuant to sub-section (2), an application shall be made to the competent authority, setting out the following matters: 
+
+- (a) Name of the body corporate, 
+
+- (b) Head office of the body corporate, and address of such office, 
+
+- (c) Objectives and functions of the body corporate, 
+
+- (d) Details of the capital structure, if any, of the body corporate, 
+
+- (e) Other necessary details. 
+
+(4) After the registration of a body corporate pursuant to sub-section (2), such a body shall be deemed to have been incorporated. 
+
+(5) A legal person shall have a corporate personality and use a separate seal for its activities. 
+
+(6) A body incorporated pursuant to this Section shall be an autonomous and body corporate with perpetual succession, and 
+
+**22** 
+
+may, in the same capacity, subject to law, carry out as a person the following functions: 
+
+- (a) To acquire, hold, earn, possess, dispose off, sell or otherwise manage a property, 
+
+- (b) To execute a contract, exercise rights and discharge obligations under the contract or to assume any kind of right or obligation in any other way, 
+
+- (c) To frame statute or bye-laws required to operate its own functions, proceedings or business, 
+
+- (d) To appoint necessary employees based on law to carry out its functions, 
+
+   - Provided that the commissions, institutions or 
+
+   - bodies referred to in clause (g) of Section 44 shall not be allowed to appoint employees. 
+
+- (e) To open branches or other offices, subject to its statute and bye-laws, 
+
+- (f) To open an account in a bank or financial institution and to operate the account, 
+
+- (g) To carry out other functions according to law. 
+
+(7) A legal person may sue or initiate other legal action and may also be sued or subjected to other legal action by its name. 
+
+**43. To obtain legal competency upon incorporation:** (1) A legal person shall, upon its incorporation, obtain legal competency to carry out civil and commercial acts and transactions, in addition to the acts mentioned in Section 42. 
+
+**23** 
+
+   - (2) The legal competency obtained pursuant to sub-section 
+
+   - (1) shall continue to exist until the legal person is liquidated, dissolved or wounded up in accordance with law. 
+
+**44. Legal competency deemed to be acquired,** **_ipso facto_ :** Notwithstanding anything contained in Section 42, the following body, as a legal person, shall be deemed to have, _ipso facto,_ obtained competency: 
+
+      - (a) The State of Nepal, 
+
+      - (b) The Government of Nepal, 
+
+      - (c) The Federal Parliament or Legislature-Parliament, 
+
+      - (d) A court, constitutional body or any office thereunder, 
+
+      - (e) A Ministry, Secretariat, Department of the Government of Nepal and any other government office, 
+
+      - (f) A Province, 
+
+      - (g) The Province Government or Provincial level Government offices, 
+
+      - (h) A Provincial Assembly, 
+
+      - (i) A Rural Municipality, Municipality or District Assembly or Local Level government office under such a body, 
+
+      - (j) A commission, committee or similar other body set up in accordance with law by the Government of 
+
+**24** 
+
+Nepal, Provincial Government or Local Level Government, 
+
+   - (k) A corporation, corporate body or body set up in accordance with law, 
+
+   - (l) Any organization established for public purpose such as a shrine, temple, deity place, _Chaitya,_ monastery, mosque, church, public rest house, public inn, and graveyard remained in operation from the time immemorial and in possession of a property, 
+
+   - (k) A community school, college or university established for public purpose. 
+
+**45. Address of location of legal person:** The address of location of a legal person shall be as specified at the time of incorporation of the body corporate, and where such address is not so specified, the address where its headquarters or registered office is located and where such office or address also is not specified, the address where the main administrative office or transaction and business of such a body corporate is located shall be considered to be its address of location. 
+
+**46. Management and operation of legal person:** (1) A legal person shall, except as otherwise provided by law, be managed and operated in accordance with the provisions set forth in the statute of such a person, and where such provisions is not made, it shall be managed and operated by one or more directors. 
+
+**25** 
+
+(2) The legal person shall be responsible for the management and operation made by the director or directors pursuant to sub-section (1). 
+
+**47. Operation of business of legal person:** (1) In operating business on behalf of a legal person, the business shall, except as otherwise provided by law, be operated by the decision of directors of such a person. 
+
+(2) In operating business pursuant to sub-section (1), the director may delegate powers to any director or other person to operate any business. **48. Right or liability to devolve upon merger of legal person:** (1) If a legal person is, for any reason, merged with another legal person, the right or liability of such person shall be as specified at the time of such merger. 
+
+(2) If not specified pursuant to sub-section (1), the right or liability of the legal person to be merged shall devolve on the legal person with which such a person is merged. 
+
+**49. Legal person may become agent:** A legal person may, subject to law, act as an agent of any other person. 
+
+**50. Not to participate in decision-making in case of conflict of interest:** (1) A member or director of any body or institution shall not take part in the decision making process on a matter involving his or her personal interest. 
+
+(2) If a decision is affected by the conflict of interest under sub-section (1), such a decision shall be void. 
+
+**26** 
+
+**51. Legal person to be liable:** If a loss or damage is caused to a person from an act done and action taken by a person on behalf of a legal person, such a legal person shall be liable and bear compensation therefor. 
+
+Provided that if any loss is caused by doing an act beyond the objective or competency of the legal person or dishonestly, the director or a person doing such act shall personally be liable therefor. 
+
+**52. Assets or liability to be settled:** If a legal person is dissolved for any reason, the assets and liabilities of such a person shall be settled in accordance with law. 
+
+**53. Statute of limitation:** A person aggrieved from any act done or action taken under this Chapter may make a lawsuit within three months after the date of knowledge of such an act or action in the cases of Section 50 and within six months after the date on which such an act was done or action taken, in the other cases. 
+
+**27** 
+
+### **Chapter-3** 
+
+### **<u>Provisions Relating to Bankruptcy of Natural Persons</u>** 
+
+**54. Bankruptcy proceedings may be initiated:** (1) If a person’s debts and other liabilities to be borne by him or her exceed his or her assets, bankruptcy proceedings may be initiated for payment or recovery of debts or settlement of liabilities from such assets. 
+
+(2) Notwithstanding anything contained in sub-section (1), no bankruptcy proceedings may be initiated in the following circumstances: 
+
+- (a) If a person who has regular income or is certain to earn income in the future proves that his or her income can pay or set off debts or other liabilities in a certain period or the creditor is satisfied in such matter, 
+
+- (b) If a person likely to be a bankrupt asks for a period of up to five years specifying the period of time to repay the debts of creditors and sources thereof from the date of origin of conditions necessitating the commencement of bankruptcy proceedings in order to enjoin or cause to be enjoined from initiating that proceedings, 
+
+- (c) If the creditor does not agree to initiate, or cause to be initiated, bankruptcy proceedings. 
+
+### **Explanation:** 
+
+- (1)   For the purposes of this Chapter, the term "assets" means the concerned person's property 
+
+**28** 
+
+standing for the time being or to be earned or likely to be earned up to the time prior to the completion of bankruptcy proceedings pursuant to this Chapter. 
+
+- (2) For the purposes of clause (c), the term "creditor" means, where there are more than one creditor, creditors or a group of creditors who hold fifty percent or more debts out of the total debts of the person likely to become bankrupt. 
+
+(3) If a debt or claim of a creditor is settled from the assets of a person under this Chapter, such a person shall be deemed to become a bankrupt. 
+
+(4) The court shall send the record of the person being bankrupt pursuant to sub-section (3) to the bankruptcy administration office established for that purpose. 
+
+(5) The bankruptcy administration office shall update the records referred to in sub-section (4). 
+
+(6) Any person declared bankrupt pursuant to sub-section (3) shall not be required to repay debt or fulfill the obligation other than the debt or obligation he or she has to pay or fulfill and settle under this Chapter. 
+
+(7) Notwithstanding anything contained in sub-section (6), the following obligation shall be fulfilled from the trade, business or transaction he or she starts after his or her declaration of being bankrupt: 
+
+**29** 
+
+- (a) Tax, fee or charge to be paid to the Government of Nepal, Province Government or Local Government 
+
+- (b) Amount of penalty or fine to be paid according to the order of a court, 
+
+- (c) Amount to be paid for the embezzlement of property of the person under his or her guardianship or curatorship, 
+
+- (d) Amount to be paid for the goods stolen, 
+
+- (e) Amount to be paid for the embezzlement of property of a trust. 
+
+(8) Notwithstanding anything contained elsewhere in this Section, if any person becomes bankrupt, he or she may carry on any trade, business or transaction other than any act or activity he or she is prohibited from doing or taking in that capacity according to law. 
+
+**55. Petition to be filed to initiate bankruptcy proceedings:** (1) A person who is likely to become a bankrupt may himself or herself, or a creditor or group of creditors having claim of at least twentyfive percent or more of the total debts if the amount of debts is disclosed and, if the amount of debts is not disclosed, a creditor or group of creditors having claim of more than five hundred thousand rupees borrowed by such a person, may file a petition in the court, in order to initiate bankruptcy proceedings. 
+
+**30** 
+
+(2) In filing a petition by a person likely to become a bankrupt for bankruptcy pursuant to sub-section (1), the petition shall specify the following details: 
+
+- (a) Actual statement of his or her total assets and value thereof, 
+
+- (b) Statement of total amount of debts borrowed by him or her, interest accrued thereon and details of the creditor or creditors having lent such debts, along with their addresses, 
+
+- (c) If he or she has to discharge other liabilities, details thereof, 
+
+- (d) The reason for the failure to repay or discharge debts and other liabilities. 
+
+(3) In filing a petition by a creditor or group of creditors for bankruptcy pursuant to sub-section (1), the petition shall specify the following details: 
+
+- (a) Evidence indicating that the borrower is likely to be a bankrupt, 
+
+- (b) Statement of the assets of the borrower and approximate value thereof, to the extent of the petitioner's knowledge, 
+
+- (c) Statement of the petitioner’s claim, and if the petitioner has knowledge of other creditor's debt or claim, such debt or claim, 
+
+- (d) Details including addresses of the creditors. 
+
+**31** 
+
+(4) Prior to filing a petition pursuant to sub-section (1) to initiate bankruptcy proceedings, a creditor or group of creditors shall give a notice to the borrower indicating that the borrower shall repay his or her debts or discharge other liabilities within a period of at least three months and that in the event of failure to repay the debts within that period, a petition shall be filed in the court to initiate bankruptcy proceedings. 
+
+**56. Notice to be given to creditor:** (1) If a petition is filed by a borrower pursuant to Section 55 to initiate bankruptcy proceedings, the court shall issue a notice of thirty-five days and serve the same on the creditor or group of creditors whose debts the borrower has specified as due and payable and publish the notice in any national daily newspaper. 
+
+(2) The notice to be published pursuant to sub-section (1) shall also contain a statement inviting any other person having any type of claim, if any, over the assets of the person whose assets is under bankruptcy proceedings to make a claim with evidence within the time-limit as specified in the same sub-section. 
+
+(3) The claim made within the time-limit referred to in sub-section (1) or (2) by the creditor or group of creditors or by other person shall be considered to be the final claim made against the assets of the borrower, and the bankruptcy proceedings of his or her assets shall commence on the same basis. 
+
+**57. Notice to be given to borrower:** (1) If a petition is filed by a creditor or group of creditors pursuant to Section 55 to initiate the bankruptcy proceedings of the assets of the borrower, the court shall serve a notice, along with a time-limit of thirty-five days, on 
+
+**32** 
+
+the borrower to appear before the court, along with a reply whether or not the bankruptcy proceedings require to be instituted, and if there exists any ground for not instituting the bankruptcy proceedings, and evidence thereof. 
+
+(2) If a notice is served on the borrower pursuant to subsection (1), a notice shall be given to the other creditor or claimant to submit a claim in that respect within a period of thirty-five days and such a notice shall be published in any national daily newspaper. 
+
+(3) The claim of a person who fails to submit a claim within the period referred to in sub-section (2) shall not be valid after that period. 
+
+(4) The fee to be incurred in publishing a notice in a national daily newspaper pursuant to sub-section (2) or sub-section (1) of Section 56 shall be recovered from the concerned petitioner. 
+
+(5) The fee recovered pursuant to sub-section (4) may be awarded to be paid by the debtor in the course of bankruptcy. 
+
+**58. Order to be given to initiate bankruptcy proceedings:** (1) If a petition is filed in the court pursuant to Section 55 to initiate the bankruptcy proceedings, the court shall make order as to whether it would be appropriate to initiate the bankruptcy proceedings in respect of that petition or not. 
+
+(2) If an order is made to initiate the bankruptcy proceedings pursuant to sub-section (1), the court shall, at the request of the person likely to become bankrupt himself or herself or of the creditor, order any other family member of such a person 
+
+**33** 
+
+to maintain status quo of the assets of the person in respect of whose assets the bankruptcy proceedings are to commence, for the purpose of bankruptcy. 
+
+(3) If the  court thinks that the assets of the person likely to be bankrupt may be embezzled or may not be properly managed if such a person or his or her family member is allowed to manage the assets, the court may, on the basis of the petition by the party or _suo motu_ , entrust the responsibility for management of such assets to any of the following persons: 
+
+- (a) A person licensed as bankruptcy professional pursuant to law, 
+
+- (b) A bankruptcy trustee appointed pursuant to law, 
+
+- (c) The concerned ward committee of the Local Level, 
+
+- (d) Such an officer employee of the court or law practitioner as designated by the court. 
+
+(4) The Local Level, trustee or person designated pursuant to sub-section (3) shall manage the assets of the person likely to become bankrupt, in accordance with the order of the court. 
+
+**59. Transaction to be,** **_ipso facto_ , stayed or void:** (1) If a court makes an order, pursuant to sub-section (1) of Section 58, to initiate the bankruptcy proceedings in relation to the assets of a person, any of the following acts cannot be carried out after the making of such an order, and if any of such acts has already commenced or is being carried out but not completed, such act shall, _ipso facto_ , be stayed: 
+
+- (a) To transfer in any manner to any person the title to, bail, pledge, mortgage or to lease or rent in any 
+
+**34** 
+
+manner for a period exceeding one year, the assets of a person who is likely to become bankrupt, 
+
+- (b) To attach, or execute the pledge, mortgage of, the assets of the person likely to become bankrupt pursuant to the judgment of a court, 
+
+(c) To repay debt or discharge liability of any creditor from the assets of the person likely to be bankrupt. 
+
+(2) Any deed, contract, dealing, transaction or arrangement executed in contravention of the provision set forth in sub-section (1) shall, _ipso facto_ be deemed to have been void. 
+
+**60. Opportunity to be provided to reconcile sum of debts:** (1) If the court has made an order to commence the bankruptcy proceedings pursuant to sub-section (1) of Section 58, the Local Level, trustee or person, as the case may be entrusted with responsibility to manage property pursuant to sub-section (3) of the same Section shall, after the assets, debts and other liabilities of the borrower are ascertained, call a meeting of the debtors, creditors or other claimants. 
+
+(2) In the meeting called pursuant to sub-section (1), the creditor or claimant shall be provided with a reasonable opportunity to waive his or her claim wholly or partly from all or any of the assets of the borrower or to reconcile sum by taking amount lesser than his or her claim, by mutual understanding between the person likely to become bankrupt and the creditor or other claimant. 
+
+(3) In making reconciliation of sum pursuant to subsection (2), an arrangement may be so made that a creditor pays the 
+
+**35** 
+
+debt or claim of some or most creditors and submits a lump sum claim against such a person. 
+
+(4) If the parties reach mutual understanding pursuant to sub-section (2) or (3) or the concerned parties agree, for any reasons, to stay the bankruptcy proceedings for the time being, a joint petition may be filed in the court accordingly. 
+
+(5) If a petition is filed for staying the bankruptcy proceedings pursuant to sub-section (4), the court shall make an order to stay as requested the bankruptcy proceedings for a period not exceeding the period set forth in clause (b) of sub-section (2) of Section 54. 
+
+(6) If an order is made pursuant to sub-section (5), the bankruptcy proceedings in respect of the assets of such a person cannot be instituted until the expiry of that period. 
+
+**61. Priority order of paying debt or liability:** (1) In carrying out or causing to be carried out the bankruptcy proceedings of the assets of a person pursuant to this Chapter, the debts to be paid or liabilities to be discharged by such a person shall be settled, on the basis of the following priority order, from the assets of such a person: 
+
+- (a) Costs incurred in the carrying out of the bankruptcy proceedings, 
+
+- (b) The liability of the secured creditor, who has provided debt against a pledge or mortgage, to the extent of such pledge or mortgage, 
+
+**36** 
+
+- (c) Tax, fine to be paid to the Government of Nepal, Province Government or Local Government or other government charges and dues, 
+
+- (d) Debts of the creditors other than those referred to in clause (b), 
+
+- (e) Claim of the claimants other than those referred to in clause (b), (c) or (d). 
+
+(2) In paying or setting off debts or liabilities pursuant to sub-section (1), if there are more than one creditor or claimant of the same priority order, the debt or claim shall be paid or set off pro rata basis from the assets bankrupted in proportion to the debt or claim of each creditor or claimant. 
+
+(3) In paying the debts of the secured creditors pursuant to clause (b) of sub-section (1), if, after recovery of his or her debts from the assets pledged or mortgaged to him or her, there remains any portion or sum of such pledge or mortgage, other creditors or claimants may make claim over such portion or sum. 
+
+Provided that if the secured creditor's debts cannot be fully recovered from such assets, he or she cannot claim other property. 
+
+**62. Debt of creditor who shows excess debt not to receive priority:** Notwithstanding anything contained in sub-section (1) of Section 61, if it is held that, by a collusion between a person likely to become a bankrupt and any creditor, and being guided by a malafide motive to cause loss to another creditor or claimant, more debts or claims have been shown from any transaction which has never happened nor been carried on, the debt or liability of such a 
+
+**37** 
+
+creditor shall be paid or set off only after the debt or liability of other creditor or claimant is satisfied. 
+
+**63. Property to be set aside:** (1) Prior to effecting bankruptcy of the assets of a person pursuant to this Chapter, the following property shall be set aside and the bankruptcy proceedings shall be carried out from the remaining assets: 
+
+   - (a) Any property that remains as the personal property of a person other than one who is likely to become a bankrupt, 
+
+   - (b) Clothes up to three pairs and shoes up to three pairs being worn or to be worn by the person who is likely to become bankrupt and an undivided family member of that person, 
+
+   - (c) One set of cooking and dining utensils, pots and cups, one set of bedding materials and reasonable number of furniture required for the undivided family member of the person likely to become a bankrupt, 
+
+   - (d) Medicines and health-related equipment required to the person likely to become a bankrupt and the undivided family member of that person, 
+
+   - (e) Books necessary to carry out study and teaching, 
+
+   - (f) Food necessary for subsistence for a period not exceeding three months to the persons referred to in clause (b), 
+
+**38** 
+
+- (g) One set of tools or instruments related to the profession and employment of the persons referred to in clause (b). 
+
+(2) Notwithstanding anything contained in clause (b), (c), (d), (e), (f) or (g) of sub-section (1), the total value of the properties referred to in these clauses shall not exceed one hundred thousand rupees. 
+
+**64. Assets not to be concealed:** (1) A person who files a petition pursuant to Section 55 for commencing the bankruptcy proceedings of his or her assets shall submit an exact inventory of his or her total assets. 
+
+(2) In submitting an inventory pursuant to sub-section (1), if he or she hides or conceals such assets with mala fide intention of causing loss or damage to the creditor, a separate lawsuit may be instituted against him or her. 
+
+(3) If assets are hidden or concealed pursuant to subsection (1), and such assets are discovered before the completion of the bankruptcy proceedings, the proceedings referred to in subsection (2) of Section 61 shall be carried out in respect of the creditor and the claimant having so discovered the assets and the other creditor and claimant as well. 
+
+(4) If any creditor or claimant discovers any assets pursuant to sub-section (3) after the completion of the bankruptcy proceedings, ten percent amount of the assets so discovered shall be provided to the creditor or claimant who has so discovered the assets if such creditor or claimant has already satisfied the sum 
+
+**39** 
+
+according to his or her claim at the time of bankruptcy proceedings, and if his or her claim has not been so satisfied, his or her sum shall be caused to be satisfied from such assets and the remaining assets shall be distributed pursuant to the said sub-section to the other creditors and claimants. 
+
+Provided that if the creditor or claimant is the successor or relative of the bankrupt person, he or she shall not be entitled to such facility. 
+
+(5) If the assets hidden or concealed pursuant to subsection (2) remain after payment to the creditor or claimant pursuant to sub-section (4), such assets shall be returned to the concerned person. 
+
+**65. Status of bankruptcy to be terminated:** (1) The status of a bankrupt person falling under bankruptcy shall remain for a period of twelve years from the date on which he or she became a bankrupt. 
+
+(2) Notwithstanding anything contained in sub-section (1), if a bankrupt person pays all liabilities payable to the creditors at the time of bankruptcy, he or she may file a petition in the court to terminate the status of bankruptcy along with the evidence thereof. 
+
+(3) The court shall make an order to summon the presence of all creditors who were either partially paid or unpaid at the time of bankruptcy of such a person within a period of fifteen days, excluding the time required for journey, to have a hearing on the petition filed pursuant to sub-section (2). 
+
+(4) If, in hearing the petition filed pursuant to sub-section (2), it appears that the bankrupt person has satisfied all the debts 
+
+**40** 
+
+and liabilities remained unpaid at the time of bankruptcy, the court may annul the order made at the time of his or her bankruptcy. 
+
+(5) If an order is annulled pursuant to sub-section (4), the status of the bankrupt person shall be deemed have been terminated after one year from the date of the annulment of such an order. 
+
+**66. Statute of limitation:** A person aggrieved from any act done or action taken pursuant to this Chapter may make a lawsuit within the following period from the date of accrual of the cause of action for the commencement of the bankruptcy proceedings: 
+
+   - (a) In matters under Section 54, within three years from the date of accrual of the cause of action, 
+
+   - (b) In matters under Sections 62 and 64, within two years from the date of knowledge thereof, 
+
+   - (c) In the matters other than those referred to in clauses (a) and (b), within six months from the date of commission of such an act or action. 
+
+**41** 
+
+### **Part-3** 
+
+### **<u>Family Law</u>** 
+
+### **Chapter-1** 
+
+### **<u>Provisions Relating to Marriage</u>** 
+
+**67. Marriage deemed to be concluded:** If a man and a woman accept each other as the husband and wife through any occasion, ceremony, formal or other act, a marriage shall be deemed to have been concluded. 
+
+**68. Marriage to be inviolable social bond:** (1) Marriage shall be a permanent, inviolable and holy social and legal bond, which is based on free consent and established to start conjugal and family life between a man and a woman. 
+
+(2) The marital bond referred to in sub-section (1) shall subsist until extinguished pursuant to Section 82. 
+
+**69. Freedom of marriage:** (1) Every person shall, subject to law, have the freedom to conclude a marriage, establish a family and spend a conjugal life. 
+
+(2) A marriage must be made, or caused to be made, public irrespective of the manner used to conclude it. 
+
+   - (3) Every person's family life shall be inviolable. 
+
+**70. Marriage may be concluded:** (1) Subject to this Chapter, a marriage may be concluded between a man and a woman on the following conditions: 
+
+      - (a) If the man and the woman agree to accept each other as husband and wife, 
+
+**42** 
+
+- (b) If the man and the woman are not relatives, punishable by law on incest, 
+
+- (c) If matrimonial relationship of both the man and the woman does not exist, 
+
+- (d) If both have attained twenty years of age. 
+
+(2) Notwithstanding anything contained in clause (b) of sub-section (1), nothing shall bar the conclusion, or causing the conclusion of, a marriage within the relationship that is allowed to marry in accordance with the practices prevailing in their ethnic community or clan. 
+
+**71. Marriage not to be concluded:** (1) No one shall conclude, or cause to be concluded, marriage with a man or a woman, as the case may be, who is not in a condition where marriage can be concluded pursuant to Section 70. 
+
+(2) No one shall conclude, or cause to be concluded, marriage with a man or a woman on any of the following conditions, by way of misrepresentation: 
+
+- (a) One who has contracted human immunodeficiency virus (HIV) or Hepatitis 'B' or similar other incurable severe disease, 
+
+- (b) One who has already been proved to have no sexual organ, to be impotent or to have no reproductive capability, 
+
+- (c) One who is dumb or has lost hearing capacity, being fully blind or is suffering from leprosy, 
+
+**43** 
+
+- (d) One who is of unsound mind, 
+
+- (e) One who is already a married, 
+
+- (f) One who is a pregnant, 
+
+- (g) One who has been convicted of a criminal offense involving moral turpitude by a court and sentenced for the same. 
+
+(3) A person who is aggrieved from the conclusion of marriage by way of misrepresentation pursuant to sub-section (2) may get such a marriage voided and claim a reasonable compensation from the person who concludes, or causes to be concluded, marriage by misrepresentation. 
+
+**72. Marriage to be void:** (1) A marriage concluded on any of the following conditions shall, _ipso facto_ , be void: 
+
+   - (a) A marriage concluded without consent of the man or the woman, 
+
+   - (b) A marriage concluded between the relatives, punishable by law on incest. 
+
+   - (c) Marriage against Section 70(1) (d). 
+
+   - (d) Another marriage concluded by a man or woman whilst the current marital relationship is still prevalent except in the situation of being separated by taking partition according to law. 
+
+(2) A marriage concluded pursuant to sub-section (1) shall be invalid _ab initio._ 
+
+**44** 
+
+(3) Notwithstanding anything contained in clause (b) of sub-section (1), a marriage concluded pursuant to sub-section (2) of Section 70 shall not be void. 
+
+**73. Voidable marriage:** (1) If a marriage is concluded in any of the following circumstances and any person who concludes such a marriage does not accept it, the person may get such a marriage voided: 
+
+### (a) Deleted 
+
+- (b) If the marriage has been concluded, or caused to be concluded, by way of misrepresentation pursuant to sub-section (2) of Section 71. 
+
+(2) Notwithstanding anything contained in sub-section (1), a marriage shall be void only with the consent of the woman if she is pregnant or has delivered a baby as the consequence of the marriage. 
+
+**74. Marriage to be deemed concluded if child is born from physical intercourse:** (1) Notwithstanding anything contained in sub-section (2) of Section 69, if a woman is proved to have delivered a child by conceiving pregnancy from physical intercourse with a man, marriage between such a man and a woman shall, ipso _facto,_ be deemed to have been concluded. 
+
+(2) Notwithstanding anything contained in sub-section (1), no marriage shall be deemed to have been concluded between a man and a woman in any of the following circumstances even if a child is born from physical intercourse with the man: 
+
+**45** 
+
+- (a) If a woman gives birth to a child by conceiving pregnancy as the consequence of rape, 
+
+- (b) Except in case of the relationship of under subsection (2) of Section 70, if a woman delivers a child by conceiving pregnancy from a physical intercourse with a man within the relationship punishable by law on incest. 
+
+- (c)  If the age of marriage is not complete according to part (d) of subsection 1 of section 70. 
+
+(d) If there is situation which causes polygamy. 
+
+**75. No lawful rights of child already born to be prejudiced:** There shall be no prejudice in the lawful rights of a child already born from a marriage if the marriage becomes void pursuant to Section 72 or the marriage is got voided pursuant to Section 73 or of the child born in any of the circumstance referred to in sub-section (2) of Section 74. 
+
+**76. Marriage to be registered:** (1) Both husband and wife shall get their marriage registered by filing an application in the authority appointed as per law. 
+
+Provided that in the circumstance referred to in sub-section (1) of Section 74, both or either of husband and wife may file an application for the registration of marriage. 
+
+(2) A husband and wife residing outside Nepal may file an application for the registration of marriage in the Nepali embassy or consulate general located in the country in which they have been residing. 
+
+**46** 
+
+(3) If an application is filed pursuant to sub-section (1) or (2) for the registration of a marriage, the concerned authority shall, after registering the marriage in the marriage book maintained in the office, issue the marriage registration certificate, in the form according to prevailing laws, to the applicant, within fifteen days of the filing of the application. 
+
+**Explanation:** For the purposes of this Chapter, the term "concerned authority" means the marriage registering authority. 
+
+(4) If the marriage cannot be registered according to the application filed pursuant to sub-section (1) or (2), the concerned authority shall give the applicant information, specifying the reasons therefor, within seven days of the filing of the application. 
+
+(5) If any one party does not appear for the registration of a marriage according to the application filed pursuant to the proviso to sub-section (1), the concerned authority shall register the marriage after inquiring into such a party. 
+
+(6) If, in making inquiry pursuant to sub-section (5), the other party expresses disagreement to the registration of marriage, the concerned authority shall not register the marriage and inform the applicant that the decision on that matter shall be made as decided by the court. 
+
+(7) The concerned authority shall safely maintain the records of the details of the registration of marriage under this Section. 
+
+(8) If a couple who have already concluded marriage prior to the commencement of this Act but have not registered the 
+
+**47** 
+
+marriage may, if they so desire, get their marriage registered pursuant to this Section. 
+
+Provided that the marriage of such a couple shall not be deemed to be legally invalid merely for the reason that such marriage is not registered. 
+
+**77. Marriage by registration:** (1) Notwithstanding anything contained in sub-section (2) of Section 69 and Section 74, if a man and a woman desire to conclude marriage by registration, they shall file an application in the concerned District Court, if they are in Nepal, and in the Nepali embassy or consulate general, if they are outside Nepal, specifying therein their name, surname, age, address, profession, name of their father, mother, grand-father, grand-mother, whether previously married or not, if married, the details of the dissolution of marriage and also the name of at least two witnesses. 
+
+(2) In order to file an application pursuant to sub-section (1), either the man or the woman or both must have resided since at least fifteen days ago in the concerned district if the application has to be filed in the District Court, and, if the application is to be filed in the embassy or consulate general, in the country in which such an embassy or a consulate general is situated. 
+
+**78. Decision to be made as to whether marriage is capable of being concluded:** (1) If an application is filed pursuant to Section 77 for the conclusion of a marriage by registration, the concerned authority shall make, after making necessary inquiry, a decision within seven days of the filing of the application, as to whether or not the marriage is capable of being concluded. 
+
+**48** 
+
+(2) Notwithstanding anything contained in sub-section (1), if the concerned authority based in a foreign country has suspicion about the proposed marriage, the authority shall submit the matter to the Government of Nepal and settle the matter according to the decision of the Government of Nepal. 
+
+**79. Deed of consent to be prepared:** If a decision is made pursuant to Section 78 to the effect that marriage is capable of being concluded between the applicants, the concerned authority shall prepare a deed of consent for marriage, also recording the matters specified in the application and a statement to the effect that the parties to the marriage have consented to accept each other as husband and wife, cause the contracting parties and witnesses present to affix their signature and thumb impression on the deed in his or her presence and also sign the deed. 
+
+**80. Provisions relating to registration of marriage:** (1) After the deed of consent has been signed pursuant to Section 79, the concerned authority shall register such a marriage in the registration book, which has to be signed by such an authority and also by the parties to the marriage and witnesses present. 
+
+(2) Once the marriage is registered pursuant to sub-section (1), the concerned authority shall issue a marriage registration certificate, in the form according to prevailing laws, to the parties to the marriage registration. 
+
+(3) Marriage shall be deemed to have been concluded between the applicants from the date on which the marriage registration certificate is obtained pursuant to sub-section (2). 
+
+**49** 
+
+**81. Provision relating to use of surname by married woman:** (1) A married woman may, after marriage, use the surname used by her father or mother or the surname of her husband or both the surnames. 
+
+(2) If a question arises as to the surname of a married woman, except as otherwise proved, she shall be deemed to have used the surname of her husband. 
+
+(3) If the marriage of a woman who has used the surname of her husband is dissolved, she may, if she so desires, use the surname used by her father or mother. 
+
+**82. Matrimonial relationship deemed to be terminated:** In any of the following circumstances, the matrimonial relationship between the husband and the wife shall be deemed to have been terminated: 
+
+   - (a) If marriage is annulled pursuant to Section 72 or 73, 
+
+   - (b) If marriage is dissolved according to law between husband and wife, 
+
+   - (c) If the wife concludes another marriage before effecting divorce pursuant to law. 
+
+**83. Re-marriage may be concluded:** Notwithstanding anything contained elsewhere in this Chapter, a man or a woman may remarry in any of the following circumstances: 
+
+   - (a) If the matrimonial relationship between husband and wife is terminated pursuant to Section 82, 
+
+   - (b) If husband or wife dies, 
+
+   - (c) If husband and wife are separated upon partition in accordance with law. 
+
+**50** 
+
+**84. Statute of limitation:** A person aggrieved from any act done or action taken under this Chapter may make a lawsuit within three months after the date on which such act was done or action taken. 
+
+**51** 
+
+### **Chapter-2** 
+
+### **<u>Provisions Relating to Consequences of Marriage</u>** 
+
+**85. To be considered husband and wife:** After the conclusion of marriage between a man and a woman, they shall, so long as such matrimonial relationship subsists, be considered each other's husband and wife. 
+
+**86. Relation and obligation of husband and wife:** (1) The husband and wife must have mutual love and good faith. 
+
+(2) The husband and wife must establish and spend conjugal life by living together, except as otherwise arranged through mutual understanding. 
+
+(3) The husband and wife must help, protect and respect each other. 
+
+**87. Husband's home to be considered residence** : Except where a separate residence is fixed by mutual understanding of the husband and wife, the husband's home shall be considered to be the wife’s residence. 
+
+- **88** . **To be considered each other's agent:** Except as otherwise provided for in the law or except where there is a legal dispute between the husband and wife, the husband and wife shall be considered as each other's agent in the general household affairs. 
+
+**89. To provide, or cause to be provided, maintenance in accordance with reputation:** The husband and wife shall provide, or cause to be provided, maintenance cost and health care to each other according to their reputation and capacity. 
+
+**52** 
+
+**90. Household affairs to be managed by consent:** (1) The husband and wife of an undivided family shall manage the household affairs by mutual consent according to their property, income and capacity. 
+
+   - (2) Except as otherwise provided in the law, the husband 
+
+   - or wife shall obtain each other's consent in selling or otherwise transferring a property registered in his or her name. 
+
+**91. Not to preclude from exercising profession, business or occupation:** The husband or wife or any member of the family shall not preclude each other from exercising a profession, business or occupation of their respective skill, qualification or ability. 
+
+**92. Statute of limitation:** A person aggrieved from any act done or action taken under this Chapter may make a lawsuit within three months after the date on which such an act was done or action was taken. 
+
+**53** 
+
+### **Chapter-** 3 
+
+### **<u>Provisions Relating to Divorce</u>** 
+
+**93. Divorce may be effected by consent of both:** If both the husband and wife so desire, they may divorce the relationship of husband and wife at any time. 
+
+**94. Husband may effect divorce:** The husband may effect divorce in any of the following circumstances even without consent of the wife: 
+
+   - (a) Except where the husband and wife are living separately after obtaining their partition share or separating **bread and board** in accordance with law, if the wife has been living separately for three or more consecutive years, without consent of the husband, 
+
+   - (b) If the wife deprives the husband of maintenance costs or expels him from the house, 
+
+   - (c) If the wife commits an act or conspiracy likely to cause the grievous hurt or other severe physical or mental pain to the husband,inher 
+
+   - (d) If the wife is proved to have made sexual relation with another person. 
+
+**95. Wife may effect divorce:** The wife may effect divorce in any of the following circumstances, even without consent of the husband: 
+
+   - (a) Except where the husband and wife are living separately after obtaining their partition share or separating bread and board in accordance with law, if 
+
+**54** 
+
+the husband has been living separately for three years or more consecutively, without consent of the wife, 
+
+      - (b) If the husband deprives the wife of maintenance costs or expels her from home, 
+
+      - (c) If the husband commits an act or conspiracy likely to cause grievous hurt or other severe physical or mental pain to the wife, 
+
+      - (d) If the husband concludes another marriage, 
+
+      - (e) If the husband is proved to have made sexual intercourse with another woman, 
+
+      - (f) If the husband is proved to have raped the wife. 
+
+**96. Petition to be filed for divorce:** The husband or wife, as the case may be, desiring to get the relationship divorced shall file a petition in the concerned district court. 
+
+**97. Mediation to be made between husband and wife:** If a petition is filed for divorce pursuant to Section 96, the court shall, to the extent possible, remind and convince both the parties and conciliate them. 
+
+**98. Divorce to be effected:** If the court fails to make conciliation between the husband and wife even after reminding and convincing them pursuant to Section 97 and deems appropriate to get the relationship divorced rather than to continue it any longer, the court shall effect divorce between them. 
+
+   - Provided that if the husband and wife do not agree to 
+
+   - conciliate between them despite being reminded and convinced by 
+
+**55** 
+
+the court to that effect, the court shall effect divorce after one year of the filing of the petition. 
+
+**99. Partition of property to be effected before divorce** : (1) If divorce is to be effected because of the husband, the concerned court shall, if the wife so demands, cause partition to be effected between the husband and wife before effecting divorce. 
+
+(2) If a petition is filed by the wife for divorce on the ground referred to in clause (b), (c), (d), (e) or (f) of Section 95, divorce is deemed to be effected because of the husband, for the purposes of sub-section (1). 
+
+(3) If a property in common is registered in the name of both husband and wife or either of them, then such property shall be partitioned between them according to law, prior to effecting divorce. 
+
+(4) If the husband himself has not obtained partition from his father or other coparceners, the court shall, by causing both the parties to disclose the coparceners, and if there are other coparceners who are entitled to partition, by inquiring such coparceners as well, cause partition to be apportioned between the husband and wife. 
+
+(5) If it appears that it may take a long time to effect partition pursuant to sub-section (1), (3) or (4), the court may effect divorce between the husband and wife and order the husband to provide the wife with monthly expenses as alimony according to the property and income of the husband until the partition is effected. 
+
+**56** 
+
+Provided that if such a woman concludes another marriage before effecting partition, she shall not be entitled to a partition share. 
+
+(6) Notwithstanding anything contained elsewhere in this Section, if a petition is filed for divorce on the ground referred to in clause (b), (c) or (d) of Section 94, the husband shall not be compelled to provide partition share or alimony to the wife pursuant to this Chapter. 
+
+**100. Order to pay lump sum amount or alimony:** Notwithstanding anything contained in Section 99, if the wife who effects divorce desires to obtain from the husband a lump sum amount or annual or monthly alimony or expense, instead of the partition share, the court may order the husband to provide such a wife with a lump sum amount or annual or monthly alimony or expense on the basis of his property or income. 
+
+Provided that if such a wife concludes another marriage, it is not required to provide such amount or alimony. 
+
+**101. Order to provide maintenance costs:** If the wife, who has not obtained partition from the husband for there being no property for partition under Section 99, desires to receive maintenance costs from the husband and the husband has income, the Court may order the husband to provide maintenance costs to the wife according to the income of the divorced husband. 
+
+Provided that: 
+
+- (1) If such a wife concludes another marriage, it is not required to provide such costs, 
+
+**57** 
+
+      - (2) If the income of the wife is higher than that of the husband, it is not required to provide such costs. 
+
+**102. To be according to agreement:** Notwithstanding anything contained elsewhere in this Chapter, if there exists a written agreement between the husband and wife on the partition share or alimony to which the wife is entitled upon divorce, it shall be according to such agreement. 
+
+   - Provided that no agreement which is against the interest of a 
+
+   - minor may be made. 
+
+**103. Previous child or husband to obtain property:** On the death of a divorcee woman, her son, daughter, if any, shall be entitled to her property, and if not, the previous husband shall obtain the property received by her from such a husband, and the successor on her mother's side shall obtain the other property. 
+
+**104. Statute of limitation:** A person aggrieved from any act done or action taken under this Chapter may make a lawsuit within three months after the date of accrual of the cause of action or knowledge of such an act or action. 
+
+**58** 
+
+### **Chapter-4** 
+
+### **<u>Provisions Relating to Relationship of Mother, Father and Son and</u>** 
+
+### **<u>Daughter</u>** 
+
+**105. Maternity or paternity to be determined from mother or father:** (1) If it is required to determine a person's maternity or paternity, it shall be determined on the basis of his or her mother or father, as the case may be. 
+
+(2) In determining paternity pursuant to sub-section (1), the person who was the husband of his or her mother at the time of birth of such a person shall be presumed, unless otherwise proved, to be a father of such a person. 
+
+**106. Child presumed to be born from married husband:** Unless otherwise proved, a child born in any of the following circumstances shall be presumed to be born from the married husband: 
+
+   - (a) Born after one hundred eighty days from the date on which the marriage was concluded, 
+
+   - (b) Born within two hundred seventy-two days from the date on which the husband died or divorce was effected. 
+
+**107. Paternity may be denied** :  (1) Except as otherwise agreed upon between the husband and wife, the paternity of a child born to the wife before one hundred eighty days of the conclusion of marriage may be denied by the husband and by the successor to the husband where the husband had already died before the birth of such child. 
+
+(2) Notwithstanding anything contained in sub-section (1), where a man concludes marriage with a woman with knowledge or 
+
+**59** 
+
+having reasonable ground to know that she was pregnant before the marriage, the paternity of a child cannot be denied merely on the ground of his or her birth before that period. 
+
+**108. Son, daughter or paternity to be claimed:** (1) If a child whose paternity or maternity is not determined has to be claimed as one's own son or daughter, such claim shall be made within a period of two years of the child being born or being identified. 
+
+(2) In claiming the paternity of a child born without the paternity being identified, a claim shall be made within a period of two years of the birth of such child. 
+
+Provided that no claim may be entertained if such child is already dead. 
+
+**109. Paternity of child born from artificial insemination to be of father:** A child born from the use, with consent of the husband and wife, of artificial insemination system from semen of another person shall be considered to have been born from the married husband and his or her paternity shall be determined accordingly. 
+
+**110. To be according to court's decision:** If there arises a dispute as to the maternity or paternity of a person, its settlement shall be as decided by the Court. 
+
+**111. To obtain name and surname:** (1) Each person shall, after birth, obtain the name as designated by his or her mother or father according to his or her religion, culture, usage or tradition. 
+
+(2) If the mother or father of a person is not available for the time being or is not likely to be so available, the person shall 
+
+**60** 
+
+obtain the name as designated by the guardian or curator taking care of **(herchaha)** him or her. 
+
+(3) Each person shall, after birth, be entitled to use after his or her name the surname designated with the consent of his or her father and mother or failing such consent, the surname of his or her father. 
+
+Provided that a person whose paternity is not traced out shall be entitled to use after his or her name the surname of his or her mother. 
+
+(4) Notwithstanding anything contained in sub-section (3), a person may, if he or she so wishes, use the surname of his or her father or mother or of both. 
+
+(5) If a dispute arises as to the surname of a person, he or she shall be considered, unless otherwise proved, to have used the surname of his or her father. 
+
+(6) Notwithstanding anything contained elsewhere in this Section, a person whose both father and mother are not traced out shall be entitled to use after his or her name the surname given by the guardian taking care of **(herchaha)** him or her. 
+
+**112. Name of mother, father, grand-father and grand-mother may be mentioned:** (1) If the name of mother, father and grand-father, grand- mother is required by law to be mentioned in a formal act, legal act and proceeding or deed, any person shall be entitled to mention the name of his or her mother, father and grand-father, grand-mother. 
+
+**61** 
+
+(2) If the father of a person who has to mention the name of his or her mother, father and grand-father, grand-mother pursuant to sub-section (1) is not traced out, the person may mention the name of his or her mother and the mother's grand-father, grandmother, and even where the mother's name is not traced out, it shall be sufficient to mention, setting out that matter, the name of the guardian or curator if he or she is a minor, and only his or her name if he or she is a major. 
+
+**113. Birth of son, daughter to be registered:** (1) If a son or daughter is born to a couple, the mother or father shall file an application, within three months of the birth of such a son or a daughter, before the authority specified according to law, for the birth registration. 
+
+(2) If one intends to file an application for the registration of a son or a daughter after the expiry of the time-limit referred to in sub-section (1), such fee as specified according to prevailing laws shall be charged. 
+
+(3) If an application is filed pursuant to sub-section (1) or (2), the concerned authority shall, after entering the details in the birth register maintained in the office, issue a certificate of birth registration in the form as specified by the law to the applicant. 
+
+(4) The details to be entered in the register under subsection (3) shall include the concerned person's name, surname, date of birth (year, month, instant and day as well) and place of birth, and the name, surname and address of his or her mother, father and grand-mother and grand-father, as well. 
+
+**62** 
+
+(5) The concerned authority shall forward the details entered, pursuant to sub-section (3), in the register maintained in the office up to the last day of every month to the District Administration Office, within a period of fifteen days of the first month thereafter and the said Office shall also enter such details up to the end of every month in the birth register maintained in the office for that purpose and forward the same in every three months to the Ministry specified by the Government of Nepal by a notification in the Nepal Gazette. 
+
+(6) The concerned Ministry shall enter the details received pursuant to sub-section (5) in the birth register maintained for that purpose and maintain up-dated details each year. 
+
+**114. Obligation to care (herchaha) and maintain(shyahar samhar):** (1) The mother and father shall jointly care and maintain their every minor. 
+
+(2) In caring and maintaining pursuant to sub-section (1), the father and mother shall provide for maintenance, health care, education, sports and entertainment and other necessary arrangements, according to their financial condition and capability. 
+
+**115. To be under custody of mother or father:** (1) Notwithstanding anything contained in Section 114, if matrimonial relationship between a husband and wife is extinguished in accordance with law, a minor born from them shall remain in the custody of the mother or the father as provided herein below: 
+
+   - (a) In the case of a minor who has not attained five years of age, under the custody of the mother, if she 
+
+**63** 
+
+so desires irrespective of whether or not she has concluded another marriage, 
+
+- (b) In the case of a minor above five years of age, except where the mother has concluded another marriage, under the custody of the mother, if she so desires, 
+
+- (c) In the circumstance other than that referred to in clause (a) or (b), under the custody of the father. 
+
+(2) Notwithstanding anything contained in sub-section (1), where the husband and wife have entered a separate agreement on the custody of a minor at the time of divorce or judicial separation, the agreement shall apply to the custody of the minor. 
+
+(3) Notwithstanding anything contained in sub-section (1), while deciding as to which of the father and the mother has the custody of a minor above ten years of age, the opinion of the concerned minor may also be obtained. 
+
+(4) Notwithstanding anything contained elsewhere in this Section, if the mother or father, under whose custody a minor is living, dies, the surviving father or mother shall take the minor under his or her custody without any delay. Provided that if the mother has already concluded another marriage, she is not obliged to take a minor above five years of age under her custody. 
+
+(5) Notwithstanding anything contained elsewhere in this Section, if the husband and wife, who get separated in accordance with law, have a minor, the maintenance, education and heath care 
+
+**64** 
+
+of such a minor shall be according to the agreement concluded, if any, between the husband and wife in that respect, and in the absence of such an agreement, it shall be as follows: 
+
+   - (a) In the case of a minor below five years of age, the minor shall be under the mother's custody, 
+
+   - (b) In the case of a minor who is of five years of age or above five but below ten years of age, the minor shall be under the father’s custody, 
+
+   - (c) In case of a minor having attained ten years of age, the minor shall be under the mother’s or the father’s custody, with whom the minor desires to live. 
+
+**116. Obligation to take necessary care (herchaha) and provide maintenance (shyahar samhar):** (1) The father or mother, as the case may be, who takes the custody of a minor pursuant to Section 115, shall take care of and maintain such minor, and, in so taking care of and maintaining the minor, the father or mother, as the case may be, shall do so in accordance with the provisions referred to in sub-section (2) of Section 114. 
+
+(2) Notwithstanding anything contained in sub-section (1), if the income of the father or mother who does not take the custody of a minor is higher than that of the father or mother who takes the custody of the minor, such a mother or a father shall provide such a minor with such expenses, for the purpose of maintenance, education and treatment of the minor, as agreed upon between such father and mother and in the absence of such agreement, as specified by the court. 
+
+**65** 
+
+**117. Facility of visit to be provided:** (1) In cases where matrimonial relationship is extinguished or the mother or father are living separately in accordance with law, the minor shall be allowed to visit, from time to time, the father if he or she is living under the mother’s custody and the mother if he or she is living under the father’s custody, or with the consent of the mother and father, to stay with either of them for some time. 
+
+Provided that if it appears that the interest of the minor is likely to be prejudiced in availing the facility of such visit or stay, the concerned court may issue an order prohibiting such visit or stay. 
+
+(2) The frequency of visit to, or the period of stay with, the father or the mother, as the case may be, pursuant to sub-section (1), shall be as fixed by the concerned mother and father and, in the absence of such fixation, shall be as ordered by the concerned court. 
+
+(3) If a minor is living with his father or mother pursuant to this Section, the father or mother taking the custody of the minor shall take care of and maintain him or her in accordance with subsection (2) of Section 114. 
+
+**118. Rights of son, daughter remain to exist:** (1) Notwithstanding the matrimonial relationship between the husband and wife is extinguished pursuant to this Chapter, the legal rights of the son, daughter born from them vis-à-vis the father, mother and the obligation of the father, mother vis-à-vis him or her shall remain in existence. 
+
+**66** 
+
+(2) In spite of the father and mother of a person being incapable of becoming husband and wife in accordance with this Act, the legal rights of the son, daughter born from them vis-à-vis the father, mother and the obligation of the father, mother vis-à-vis him or her shall remain in existence. 
+
+**119. Prohibition on living separately without consent:** (1) A son, daughter shall not, without consent of his or her father or mother, live separately from his or her father or mother. 
+
+   - (2) Notwithstanding anything contained in sub-section (1), 
+
+   - a son, daughter may live separately from his or her father, mother in the following circumstance: 
+
+      - (a) If he or she is separated from his or her father, mother, with or without obtaining partition according to law, 
+
+      - (b) If he or she concludes marriage, 
+
+      - (c) If he or she attains at least twenty one years of age, or 
+
+      - (d) If he or she is already employed. 
+
+**120. Minor not to work as labor:** A minor who is allowed to be engaged in a work as a labor according to law cannot work as a labor without consent of the mother, father, other guardian or curator. 
+
+**121. Decision of father, mother taking custody of minor to prevail:** If there arises a dispute between the father and mother, who cannot conclude marriage between them or whose matrimonial relationship is extinguished pursuant to this Act, on any matter to be decided in 
+
+**67** 
+
+respect of the right and interest of a minor born from such father and mother, the decision made by the father or mother, as the case may be, with whom such a minor is living shall prevail. 
+
+**122. Son or daughter to honor, respect and care (herchaha) mother, father:** (1) Every son or daughter shall treat his or her mother, father with honor and respect. 
+
+(2) Every son or daughter shall, according to his or her financial and social status, provide necessary care, maintenance, medical treatment or attention to his or her mother, father, notwithstanding living in an undivided family or separately in accordance with law. 
+
+**123. Statute of limitation:** A person aggrieved from any act done or action taken under this Chapter may make a lawsuit within the specific statute of limitation, if any, provided in this Chapter for making such lawsuit, and within six months after the date on which such an act was done or action taken, in the other circumstances. 
+
+**68** 
+
+### **Chapter-5** 
+
+### **<u>Provisions Relating to Parental Authority</u>** 
+
+**124. To be under supervision and control of father and mother:** (1) A minor son, daughter shall live under the supervision, oversight, control or authority of their father and mother. 
+
+   - (2) A minor living under sub-section (1) shall obey lawful 
+
+   - order or direction given by his or her father, mother. 
+
+**125. Parental authority to be exercised jointly:** (1) The mother and father shall, jointly and with their mutual consent, exercise such authority over, fulfill such responsibility and duty towards, their son and daughter as required to be exercised and fulfilled under this Chapter. 
+
+   - (2) Notwithstanding anything contained in sub-section (1), 
+
+   - the following mother or father, as the case may be, shall, in the following circumstance, exercise such authority and fulfill such responsibility and duty as to be exercised and fulfilled pursuant to the said sub-section: 
+
+      - (a) If either of the father and mother dies, the surviving mother or father, 
+
+      - (b) If either of the mother and father is of unsound mind, the mother or father of sound mind, during the period of existence of such state of mind, 
+
+      - (c) If the matrimonial relationship between the mother and father is dissolved or they have been living separate according to law, the mother or father who has taken the custody of the minor, 
+
+**69** 
+
+   - (d) If the father of a minor is not traced out, the mother. 
+
+**126. Rights, responsibilities and duties of person exercising maternal and parental authority:** The rights, responsibilities and duties of the father or mother who is entitled to exercise the parental authority pursuant to this Chapter shall be as follows: 
+
+   - (a) To keep the minor with him or her, provide company to the minor and watch the minor's works, actions and behaviors, 
+
+   - (b) To provide food and clothes and to teach him or her to eat, wear and labor, 
+
+   - (c) To provide affection, fondness and love, 
+
+   - (d) To inculcate in him or her social dignity, decency, morals, rites, culture, customs and to educate him or her to behave accordingly; 
+
+   - (e) To provide moral education based on social values such as honesty, self-confidence, self-reliance, integrity, labor and discipline, 
+
+   - (f) To vigil physical and mental health, to provide and cause to be provided medical treatment, 
+
+   - (g) To provide opportunity, according to necessity, for sports and entertainment, 
+
+   - (h) To make available read-worthy and messageoriented educational materials, 
+
+   - (i) To guide to remain loyal to the family, society, community, nation and state, 
+
+**70** 
+
+   - (j) To prevent from bad habits, bad association and obscene matter, 
+
+   - (k) To teach to obey order, honor and revere, 
+
+   - (l) To do, or cause to be done, such other act whatsoever as may be required for the development of physical, mental and intellectual personality. 
+
+**127. Prohibition on discrimination:** The mother or father shall not make discrimination between their children, in any manner, in the maintenance, education and upbringing, sports, medical treatment, entertainment, facility or household work of their children on the ground of son or daughter or between sons or between daughters. 
+
+**128. Special care (herchaha)  to be taken:** (1) If any son or daughter is physically or mentally handicapped or disabled or has contracted a deadly disease such as human immune-deficiency virus (HIV) or Hepatitis B, the mother, father shall take special care of, and provide special treatment and protection to, such a son or a daughter. 
+
+**Explanation:** For the purposes of this Chapter, the term "physically or mentally handicapped" means a physically or mentally impaired person who himself or herself is unable or incompetent to carry out daily work. 
+
+(2) In order to make the son or daughter as referred to in sub-section (1) financially self-reliant in the future by having arrangements for providing special medical treatment, the mother and father shall make, according to their financial condition and 
+
+**71** 
+
+capacity, arrangements for imparting special education or training to such son or daughter. 
+
+**129. Power to cause minor to improve conduct and habit:** If the mother or father consider it necessary to make the minor, who is under their supervision, oversight, control or authority pursuant to this Chapter, improve his or her behavior, habit, conduct and character, they may do such acts as they think appropriate vis-à-vis such a minor and make him or her improve his or her behavior, habit or conduct. 
+
+   - Provided that the minor shall not be subjected to any 
+
+   - treatment that entails physical or mental pain. 
+
+**130. Authority deemed to be provided to exercise right:** If the mother and father appoint a teacher for the education and upbringing of their son or daughter or admits the child into an educational institute for any kind of education, the teacher  so appointed or the headmaster or teacher of such an institute shall be deemed to have been given the authority to exercise the rights as referred to in Section 129 in respect of education and upbringing. 
+
+**131. Guardian or curator may also exercise parental authority:** If a minor is living with the guardian or curator for the reason that both of his or her mother and father have died or disappeared or his or her mother has concluded another marriage following the death of his or her father or both of his or her mother and father have become of unsound mind, his or her guardian or curator, as the case may be, may exercise such paternal authority and fulfill such responsibilities and duties as required to be exercised and fulfilled by the mother and father under this Chapter. 
+
+**72** 
+
+**132. Power to restrict parental authority:** (1) If a complaint is filed by a person or a child welfare organization incorporated pursuant to law specifying that a person who is entitled to exercise the paternal authority pursuant to this Chapter has committed any of the following acts against a minor and, if the allegation is proved from an inquiry into the matter, the court may prevent such a person from exercising such authority: 
+
+   - (a) Subjecting a minor to cruel, inhumane or torturous punishment or treatment, 
+
+   - (b) Neglecting, disregarding or abusing the minor from time to time, 
+
+   - (c) Engaging a minor in an immoral or sexual profession, 
+
+   - (d) Employing a minor in a work likely to endanger the body, life or health, 
+
+   - (e) Causing loss and damage to a minor’s property by spending it against his or her interest or selling such property to others with the intention of taking it subsequently, 
+
+   - (f) Compelling a minor to abandon family life by making him or her a _Sanyasi,_ fakir, monk, nun, _Paschar_ or in similar other way, 
+
+   - (g) Engaging a minor in begging, except while observing a religious or cultural rite, 
+
+**73** 
+
+- (h) Causing a minor to do any other act constituting an offense under law. 
+
+(2) If a restriction is imposed pursuant to sub-section (1), the court shall appoint a guardian according to law, authorizing him or her to exercise the parental authority in respect of such a minor. 
+
+(3) If the guardian is appointed to exercise the parental authority pursuant to sub-section (2), such a guardian may exercise the parental authority under this Chapter in consonance with the interests of the minor. 
+
+(4) If the person, who is prevented from exercising the parental authority pursuant to sub-section (1), makes a petition in the Court, making an undertaking not to repeat the act referred to in the said sub-section, the court may lift the restriction imposed on him or her and revoke the appointment as referred to in sub-section (2). 
+
+**133. Termination of parental authority:** (1) The parental authority which the mother and father are entitled to exercise over their son or daughter child pursuant to this Chapter shall be deemed to have been terminated in any of the following circumstances: 
+
+   - (a) If the son or daughter attains eighteen years of age, 
+
+   - (b) If the son or daughter lives separately after getting an employment. 
+
+Provided that where any son or daughter is physically or mentally handicapped, the parental authority over him or her shall, except in cases 
+
+**74** 
+
+where he or she lives separately by concluding marriage, not be terminated. 
+
+**134. Statute of limitation:** A person aggrieved from any act done or action taken under this Chapter may make a lawsuit within six months after the date on which such an act was done or action was taken. 
+
+**75** 
+
+### **Chapter-6** 
+
+### **<u>Provisions Relating to Guardianship</u>** 
+
+**135. To be considered guardian:** A person who is appointed or liable under this Chapter to protect the person, protection of rights and interest of an incompetent or quasi-competent person shall be considered to be a guardian. 
+
+**136. Priority order of guardian:** (1) Subject to the other Sections of this Chapter, a person in the following priority order shall, _ipso facto_ , be a guardian of an incompetent or quasi-competent person: 
+
+   - (a) Husband or wife living in a joint family, 
+
+   - (b) Father or mother, 
+
+   - (c) Son, daughter or widow daughter-in-law living in a joint family, 
+
+   - (d) Separated husband or wife, 
+
+   - (e) Separated son, daughter or widow daughter-in-law, 
+
+   - (f) Grand-father or grand-mother, 
+
+   - (g) Grand-son or grand-daughter, 
+
+   - (h) Elder or younger brother or elder or younger sister, 
+
+   - (i) Grand-father, grand-mother on the mother's parent side, maternal uncle, maternal aunty. 
+
+(2) Notwithstanding anything contained in sub-section (1), the following person shall be a guardian in the following circumstances: 
+
+**76** 
+
+- (a) Where there are more than one person in one priority order eligible to be a guardian, the person mutually agreed upon by them, and in the absence of such agreement, the person as designated by the court, 
+
+- (b) In the case of a person of sound mind and having attained ten years of age, a person chosen by him or her, 
+
+   - Provided that in so choosing the guardian, a deed 
+
+   - shall be executed to that effect and certified by the court. 
+
+- (c) In the case of a minor of a couple whose matrimonial relationship has been extinguished in accordance with law, the father or mother who maintains him or her, 
+
+- (d) If any person who is in the first priority order declines to be a guardian, becomes of unsound mind or does not act in the capacity of a guardian, the person who is in the next priority order. 
+
+Provided that if a person in the next order is to so become a guardian, the person shall get it certified by the court that he or she is the guardian. 
+
+**137. Other person considered to be guardian:** Notwithstanding anything contained in Section 136, if guardianship to an incompetent or quasi-competent person is provided by a person other than the one referred to in that Section, the person so 
+
+**77** 
+
+providing guardianship shall be considered to be a guardian of such a person. 
+
+Provided that the person who so becomes a guardian shall get it certified by the court that he or she is the guardian. 
+
+**138. Organization considered to be guardian:** (1) If a child, who is living in an organization, such as a child welfare house, orphanage, child home or children's organization, registered pursuant to law with the object to have welfare of and protect rights and interests of children, has no other guardian, such an organization shall be considered to be his or her guardian. 
+
+(2) In doing any act or taking any action on behalf of a minor living in an organization referred to in sub-section (1), the chief of such an organization shall do such an act or take such an action. 
+
+**Explanation:** For the purposes of this Chapter and Chapter-7 of Part-3, the term "chief" means the chief executive officer of that organization or the chairperson, general manager, managing director or other officer acting in that capacity. 
+
+**139. Guardian may be appointed by court:** (1) Notwithstanding anything contained in Section 136 or 137, the court may, in the following circumstances, appoint a particular person as the guardian, specifying the reason therefor: 
+
+   - (a) If the concerned ward committee of the concerned Local Level files a petition in the court for the appointment of guardian in cases where any person declines to be a guardian pursuant to Section 136, 
+
+**78** 
+
+(b) If the stakeholder files a petition in the court for the appointment of guardian. 
+
+(2) In appointing a guardian pursuant to sub-section (1), the court shall consider whether or not the rights, interests or protection of such incompetent or quasi-competent person may be secured. 
+
+(3) In appointing a guardian pursuant to sub-section (1), the court shall also obtain the consent of the person to be appointed as the guardian. 
+
+(4) After appointing a guardian pursuant to sub-section (1), the court shall give a written notice thereof to the person to be guardian and the Local Level. 
+
+**140. Supervisor may be designated:** (1) If a guardian is appointed by the court pursuant to Section 139, the court may, if it considers necessary to inquire into the acts and actions of such a guardian, designate any person as the supervisor. 
+
+(2) The supervisor designated pursuant to sub-section (1) shall make necessary inquiry into the acts and actions of the guardian and submit a report thereof to the court. 
+
+(3) If the guardianship is terminated pursuant to Section 148, the state of supervision shall also be, _ipso facto_ deemed to be, terminated. 
+
+**141. Disqualifications for guardian:** None of the following persons may become a guardian: 
+
+(a) An incompetent or quasi-competent person, 
+
+**79** 
+
+- (b) A person proved to have done an act against the rights and interests of an incompetent or quasicompetent person, 
+
+- (c) A person sentenced by a court to imprisonment for a term of three years or more. 
+
+Provided that this clause shall not be deemed to prevent a person who is in the priority order under sub-section (1) of Section 136 from being a guardian. 
+
+   - (d) A person deemed disqualified to be a guardian by a count. 
+
+**142. Maintenance (palan poshan) and care of (herbichar) incompetent or quasi-competent person:** (1) The guardian shall make arrangements for the maintenance, health, education, entertainment and care of an incompetent or quasi-competent person under his or her guardianship from the property belonging to such a person, if any, and if such property is not available, from the property belonging to the guardian himself or herself. 
+
+(2) The arrangements for the maintenance, health, education, entertainment and care of an incompetent or quasicompetent person, pursuant to sub-section (1), shall be made from the movable property belonging to such a person, if any, and where there is no such movable property or where arrangements for the maintenance, health, education, entertainment and care cannot be made from that property, his or her immovable property may be sold for that purpose with the prior permission of the court. 
+
+**80** 
+
+Provided that it is not required to obtain permission of the court to sell the immovable property where a person in the priority order under sub-section (1) of Section 136 is the guardian. 
+
+**143. Property to be supervised, protected and managed properly:** (1) The guardian shall supervise and protect the property belonging to the incompetent or quasi-competent person under his or her guardianship. 
+
+(2) The guardian may carry on any business or transaction by investing the property belonging to the person under his or her guardianship. 
+
+**144. To maintain books and accounts accurately:** (1) The guardian shall maintain accurately the books and accounts of expenditures incurred in the maintenance **(palan poshan)** , health, education and care of **(herbichar)** the incompetent or quasi-competent person under his or her guardianship, and of the incomes and expenditures made in the course of the management of the property belonging to that person and the inventory proving the ownership of such property. 
+
+Provided that it is not required to maintain such books and accounts where a person in the priority order referred to in subsection (1) of Section 136 is a guardian. 
+
+(2) The guardian shall submit the books and accounts maintained pursuant to sub-section (1) and the inventory proving the ownership of that property to the incompetent or quasi-competent person within one year after the date on which that person has attained majority pursuant to law or the date on which that person has notified in writing the court that he or she is competent to carry out business. 
+
+**81** 
+
+(3) If an incompetent or quasi-competent person dies when he or she was under guardianship, the guardian shall submit the books and accounts and the inventory proving ownership of that property referred to in sub-section (1) to that person’s nearest successor within six months after the date of his or her death. 
+
+**145. Power to institute legal action or defend case:** The guardian may, for the protection of the rights, interests of an incompetent or quasicompetent person under his or her guardianship, institute a legal action against such a person or defend a case filed against him or her. 
+
+Provided that the guardian is not allowed to so renounce a claim or plea in relation to a case instituted upon the incompetent or quasi-competent person being its plaintiff or defendant or execute a deed of compromise in any case as to cause an adverse effect to him or her. 
+
+**146. Power to act on behalf of incompetent or quasi-competent person:** Subject to the provisions contained elsewhere in this Chapter, the guardian may carry out such act on behalf of the incompetent or quasi-competent person as may be carried out by that person according to law. 
+
+**147. Act may be carried out only in consonance with terms:** Notwithstanding anything contained elsewhere in this Chapter, if a person is designated as the guardian for an incompetent or quasicompetent person with specification of certain terms, such a guardian shall have the authority to carry out acts only in consonance with such terms. 
+
+**82** 
+
+**148. Termination of guardianship:** (1) A guardianship shall be deemed to be terminated in any of the following circumstances: 
+
+   - (a) If a petition filed by the guardian stating that he or she is unable to be a guardian is accepted by the court, 
+
+   - (b) If the guardian or the incompetent or quasicompetent person under guardianship dies, 
+
+   - (c) If the incompetent or quasi-competent person becomes a competent, 
+
+   - (d) If, at the request of the incompetent or quasicompetent person under guardianship, the court removes the guardian. 
+
+(2) If a guardianship is terminated pursuant to sub-section (1) and the person who was the guardian and the person who was under guardianship are surviving, the person who had worked as guardian shall continue to maintain **(palan poshan)** and take care of **(herbichar)** the incompetent or quasi-competent person under his or her guardianship until another guardian is appointed. 
+
+(3) If a guardianship is terminated pursuant to sub-section (1), the statute of limitation, time-limit or appointed date for appearance in relation to any legal proceedings required to be carried out by the guardian pursuant to this Chapter shall not be deemed to have been expired, from the date on which the guardianship is so terminated until another guardian is appointed. 
+
+**149. Guardianship not to be transferred to successor:** If a guardianship is terminated upon the death of the guardian pursuant to Section 148, 
+
+**83** 
+
+the right, authority and responsibility vested in him or her in the capacity of a guardian shall not be transferred to his or her successor. 
+
+Provided that in cases where another guardian is required to be appointed for an incompetent or quasi-competent person, he or she shall, in the capacity of the successor to the guardian, maintain **(palanposhan)** and take care of **(herbichar)** such incompetent or quasi-competent person until another guardian is appointed. 
+
+**150. Power to recover expenses:** If any guardian has arranged the maintenance, health, education, sports, entertainment and care of **(herbichar)** the incompetent or quasi-competent person under his or her guardianship from his or her own property, the guardian may recover the amount of expenses so incurred from the property belonging to the incompetent or quasi-competent person under his or her guardianship. 
+
+Provided that such expense cannot be so recovered where a person in the priority order referred to in sub-section (1) of Section 136 is the guardian. 
+
+**151. Amount of loss and damage may be recovered:** If the guardian knowingly, deceitfully, fraudulently or dishonestly causes loss and damage to the property belonging to the incompetent or quasicompetent person under his or her guardianship in such manner as to or not to benefit himself or herself, the incompetent or quasicompetent person aggrieved therefrom may recover the amount of loss and damage caused to him or her from such a guardian. 
+
+**84** 
+
+**152. Statute of limitation:** A person aggrieved from any act done or action taken under this Chapter may make a lawsuit within six months after the date of knowledge of such act or action. 
+
+**85** 
+
+### **Chapter-7** 
+
+### **<u>Provisions Relating to Curatorship</u>** 
+
+**153. To be curator of minor:** (1) If any minor does not have any guardian as referred to in Chapter-6 of this Part, any person may act in the capacity of curator of such a minor for the maintenance, health, education, care of, and protection of property belonging to, him or her, until the minor attains eighteen years of age. 
+
+   - (2) Notwithstanding anything contained in sub-section (1), 
+
+   - a person may appoint any one as a curator for the maintenance, health, education and care of his or her minor. 
+
+**154. Curator of person of unsound mind:** (1) If a person of unsound mind does not have any guardian as referred to in Chapter-6 of this Part, any other person may act in the capacity of curator for the maintenance, care of, and protection of property belonging to, him or her. 
+
+   - (2) If there is no curator or the curator cannot be 
+
+   - ascertained under sub-section (1), the person under whose custody, supervision or oversight the person of unsound mind is living for the time being shall be the curator of such a person. 
+
+**155. Mother to become curator of minor:** Notwithstanding anything contained in Section 153, if the father of any minor below ten years of age has died or disappeared or become of unsound mind or is in abroad and the mother of such a minor is alive, she herself shall be the curator of that minor even though she has concluded another marriage. 
+
+**86** 
+
+**156. Body corporate to become curator:** (1) If any person who has no guardian under Chapter-6 of this Part is under the supervision, protection or custody of a body corporate, such a body corporate shall be the curator of such a person. 
+
+(2) If a body corporate referred to in sub-section (1) becomes a curator, the chief of such a body corporate shall exercise the authority of a curator. 
+
+**157. Court may appoint curator:** (1) If any person has no guardian under Chapter-6 of this Part or no one acts as his or her curator, the concerned ward committee of the Local Level may file a petition, stating the details thereof, in the court for the appointment of a curator. 
+
+(2) In filing a petition pursuant to sub-section (1), the concerned ward committee of the Local Level shall set out the names, surnames, addresses and professions of the potential persons who could be appointed as the curator and also submit, along with the petition, a deed of consent given by such potential persons to act as the curator. 
+
+(3) If a petition is filed pursuant to sub-section (1), the court shall make an order to appoint any one appropriate person, out of the persons whose names are submitted pursuant to subsection (2), as the curator. 
+
+**158. Qualifications of curator:** Any person other than a person who is disqualified for being a guardian pursuant to Section 141 may become a curator. 
+
+**87** 
+
+**159. Curator to take custody of property:** (1) The curator shall take custody of, manage and operate, the property belonging to the person under his or her curatorship. 
+
+   - (2) The curator shall arrange for the maintenance, 
+
+   - education and medical treatment of the person under his or her curatorship, to the extent possible in view of his or her capacity, from the property taken into custody by him or her. 
+
+**160. Power to use property:** A person who becomes a curator may spend all the returns obtained from the property under his or her custody for the maintenance, health of the person under his or her curatorship and for the education of such a person, if he or she is a minor. 
+
+**161. Power to spend immovable property with court's permission:** (1) If the movable property belonging to the person under his or her curatorship is insufficient to meet the expenses required for the maintenance, education or medical treatment of that person, the curator may file a petition, setting out the matter, in the court for permission to sell the immovable property or any part thereof for that purpose. 
+
+   - (2) If, upon inquiring into a petition filed pursuant to sub- 
+
+   - section (1), it considers the reason for selling such immovable property to be reasonable, the court may grant permission to so sell the immovable property or any part thereof as it considers appropriate. 
+
+**162. Property to be taken care of and protected rationally and carefully:** (1) A curator shall look after of and protect the property 
+
+**88** 
+
+belonging to a person under his or her curatorship rationally and carefully. 
+
+(2) The concerned curator shall be liable for any kind of loss or damage to the property belonging to the person under his or her curatorship because of his or her failure to so look after and protect the property pursuant to sub-section (1). 
+
+Provided that the curator shall not be liable for any loss or damage to such property due to a disaster. 
+
+(3) If a complaint is filed with allegation that the curator has failed to look after of and protect the property pursuant to subsection (1), the court may remove the concerned person from curatorship. 
+
+**163. Transfer of title,** **_ipso facto_ to be void:** If a curator sells any immovable property belonging to the person under his or her curatorship to himself or herself or to any of his or her family members, with ulterior motive to disentitling such a person to that property or the title thereto happens to be transferred to him or her in any manner, such transfer of title shall, _ipso facto,_ be void. 
+
+**164. Curatorship to be terminated** **_ipso facto_ :** (1) Curatorship shall be deemed to have been terminated _ipso facto_ in any of the following circumstances: 
+
+   - (a) In the case of a minor, if he or she attains eighteen years of age, 
+
+   - (b) In the case of a person of unsound mind, if he or she becomes of sound mind, 
+
+**89** 
+
+- (c) If custody of the minor is taken by the mother or father or both, 
+
+- (d) If the guardian of a minor or person of unsound mind is appointed, 
+
+- (e) If the court removes a person from curatorship pursuant to sub-section (3) of Section 162, 
+
+- (f) If the curator has no qualification referred to in Section 158, 
+
+- (g) If the curator or the person under curatorship dies. 
+
+(2) If curatorship is terminated pursuant to sub-section (1), the curator shall immediately return to the concerned person the property taken into custody in the capacity of curator. 
+
+**165. Custody of property may be handed over:** (1) Notwithstanding anything contained elsewhere in this Chapter, if a person is unable to protect and manage the property under his or her title, ownership or possession on his or her own, for the reason that he or she has to go elsewhere by leaving the place where he or she resides, he or she may appoint any person as a curator to that end and hand over the custody of such property to that other person. 
+
+(2) If the custody of property is handed over to any person pursuant to sub-section (1), the person taking the custody of such property shall protect and manage the property and return the property to the person handing over its custody as and when the handing over person so requires. 
+
+**90** 
+
+**166. Requirement to certification by court:** One who becomes a curator pursuant to Sections 153, 154 and 165 shall get that matter certified by the court. 
+
+**167. Application of other provisions:** The provisions contained in Sections 144, 145, 146, 147, 149, 150 and 151 shall also apply _mutatis mutandis_ to the curator and the person under curatorship. 
+
+**168. Statute of limitation:** A person aggrieved from any act done or action taken under this Chapter may make a lawsuit within six months after the date of knowledge of such an act or action. 
+
+**91** 
+
+### **Chapter-8** 
+
+### **<u>Provisions Relating to Adoption</u>** 
+
+**169. To be deemed adopted son or adopted daughter:** If a person accepts a son or daughter of another person as his or her son or daughter, such a son or a daughter shall be deemed to be an adopted son or daughter. 
+
+**170. Adoption to be effected in a manner to protect the best interests of child:** In effecting adoption pursuant to this Act, adoption shall be effected in a manner to protect the best rights and interests of the child. 
+
+**171. Prohibition on adoption by person having child:** (1) No person having his or her own son shall adopt a son and no person having his or her own daughter shall adopt a daughter pursuant to this Chapter. 
+
+(2) Notwithstanding anything contained in sub-section (1), if a son or daughter does not live with a man or woman who is living separately by the reason of judicial separation, such a man or a woman may adopt a son or a daughter. 
+
+**Explanation:** For the purposes of this Chapter and Chapter-9 of this Part, the term "judicial separation" means a circumstance where a person obtains partition in property according to the order of the court or lives separately according to law or lives separately after separation of bread and board from other coparceners. 
+
+(3) Notwithstanding anything contained in sub-section (1) or (2), if a person who has a biological son or daughter makes a petition in the concerned court for the adoption of another child, 
+
+**92** 
+
+disclosing therein his or her financial capacity to make arrangements for the maintenance, health care, education and care of the child, and if, upon inquiring into such a petition, it appears that the petitioner has such status, the court may grant permission to him or her to adopt such child. 
+
+**172. Adoption may be effected:** (1) The following person may effect adoption of a child: 
+
+         - (a) A couple to whom no child has born even up to ten years of the marriage, 
+
+         - (b) An unmarried woman having completed forty-five years of age, a widow, divorcee woman or judicially separated woman, having no son or daughter, 
+
+         - (c) An unmarried man having completed forty-five years of age, a widower, divorcee or judicially separated man, having no son or daughter. 
+
+   - (2) Notwithstanding anything contained in sub-section (1), 
+
+   - the following person cannot effect adoption: 
+
+      - (a) One who is of unsound mind, 
+
+      - (b) One who is convicted by the court of a criminal offense involving moral turpitude, 
+
+      - (c) One who does not have financial capacity to afford maintenance, health care, education, sports facility, entertainment and care of the minor. 
+
+**93** 
+
+(3) In effecting adoption by the husband or wife living in a joint family pursuant to this Section, they shall obtain each other's consent. 
+
+**173. Adoption not to be effected:** (1) No one shall effect adoption of any of the following persons: 
+
+   - (a) One who has completed fourteen years of age, 
+
+   - (b) One who is the only son or daughter, 
+
+Provided that this provision shall not apply to the circumstance referred to in sub-section (3) of Section 175. 
+
+- (c) One who has been once adopted as a son or daughter, 
+
+Provided that this provision shall not apply where the adoption is annulled according to law. 
+
+- (d) One who is in higher degree of relationship than the person adopting the son or daughter, 
+
+- (e) One who is not a citizen of Nepal. 
+
+Provided that the provision of this clause shall not apply to a non-resident Nepali citizen who has obtained a foreign citizenship. 
+
+(2) Notwithstanding anything contained in clause (a) of sub-section (1), if the person to be adopted is a person within the relation of three generations or a son or daughter born to the exhusband of the wife, that person may be adopted even though he or she has completed fourteen years of age. 
+
+**94** 
+
+**174. Difference of age between adopter and adoptee:** (1) The age difference between the adopter and the adoptee shall be at least twenty-five years. 
+
+(2) Notwithstanding anything contained in sub-section (1), no age restriction shall apply to the adoption of a person within the relation of three generations. 
+
+**175. Consent to be obtained for adoption:** (1) In effecting adoption of a child, the adopter shall obtain written consent of both father and mother of such a child, if both of them are surviving, and of the surviving father or mother, as the case may be, if either of them is surviving. 
+
+(2) Notwithstanding anything contained in sub-section (1), if the father and mother are separated because of the dissolution of matrimonial relationship between the husband and wife or judicial separation, and a child living with such a father or mother according to the agreement made at the time of such dissolution or judicial separation is intended to be adopted, the adopter shall obtain consent of the person with whom, out of the father and the mother, the child has been living. 
+
+(3) Notwithstanding anything contained in sub-section (1), adoption of a child whose father and mother are not traced or surviving or a child whose father and mother are surviving but who has been maintained or cared by a person or organization following the conclusion of another marriage either by his or her father or mother may be effected by obtaining written consent of the person or organization so maintaining or caring the child. 
+
+**95** 
+
+(4) While adopting a child above ten years of age pursuant to sub-section (1), (2) or (3), written consent of such a child shall also be obtained. 
+
+(5) Written consent referred to in sub-section (4) shall be executed by the concerned child in the presence of his or her father, mother or guardian or curator exercising the maternal and parental authority. 
+
+(6) Before obtaining consent pursuant to this Section, information shall be given to the person putting a child up for adoption, guardian or curator and the child about, _inter alia_ , the meaning, legal status and consequences of adoption. 
+
+(7) No financial inducement of any type shall be made in obtaining consent pursuant to this Section and such consent requires to be given voluntarily. 
+
+**176. Adoption deemed to have been effected by couple themselves:** If adoption was effected by the husband or wife living under judicial separation and, subsequent thereto, the husband and wife have lived jointly, the adoption effected before living so jointly shall be deemed to have been effected by the couple. 
+
+**177. Procedures for effecting adoption:** (1) If a person is desirous of adopting a child, he or she shall make a petition to the concerned court, along with a duly executed deed of adoption, in fulfillment of the legal requirements. 
+
+(2) If, upon inquiring into the deed of adoption received pursuant to sub-section (1), the concerned district court finds that permission may be given to the petitioner for adoption, it shall issue 
+
+**96** 
+
+an order granting permission for adoption and shall authenticate such deed. 
+
+(3) If, upon making inquiry pursuant to sub-section (2), the court finds that permission cannot be given to the petitioner for adoption, it shall issue an order accordingly and give information thereof to the petitioner. 
+
+**178. Entitlements and rights of adopted son or daughter:** (1) The entitlements, rights, obligations and responsibilities of an adopted son or daughter shall be the same as that of a biological son or daughter of the adoptive person. 
+
+(2) Even if a son or daughter is born to a person who has already adopted a person, the equal status of such adopted son or adopted daughter to that of biological son or daughter shall not be prejudiced thereby. 
+
+**179. Surname of adopted son or daughter:** An adopted son or daughter may use the surname of either or both of the adoptive father and mother. 
+
+Provided that- 
+
+   - (1) If an adopted son or daughter so desires, he or she may use also the surname of his or her biological father or mother. 
+
+   - (2) If the adoption is annulled, his or her surname shall be that of his or her biological father or mother. 
+
+**180. Not allowed to claim partition share of father and mother:** An adopted son or daughter shall not be entitled to claim partition share in the property belonging to his or her biological father and mother. 
+
+**97** 
+
+Provided that- 
+
+      - (1) If the adoption is annulled, he or she may claim partition share in the property belonging to his or her biological father and mother, 
+
+      - (2) If an adopted son or daughter has already obtained his or her partition share at the time of effecting adoption, he or she may receive such property as well. 
+
+**181. Adoptive person's obligations:** (1) The obligations of an adoptive person shall be as follows: 
+
+         - (a) To make arrangements for the maintenance, health care, sports, entertainment and proper education of the adopted son or daughter according to his or her reputation and capacity as if he or she were his or her biological son or daughter, 
+
+         - (b) To protect the rights and interests of the adopted son or daughter, 
+
+         - (c) To exercise the authority as referred to in Chapter-5 of this Part. 
+
+   - (2) If the adoptive person does not fulfill the obligations 
+
+   - under sub-section (1), the adopted son or daughter may live separately by obtaining his or her partition share. 
+
+**182. Obligations of adopted son or daughter:** The obligations of the adopted son or daughter shall be as follows: 
+
+         - (a) To make arrangements for the maintenance, health care and care of the adoptive person according to 
+
+**98** 
+
+his or her reputation and capacity as if such person were his or her natural father or mother, 
+
+   - (b) To protect, look after and properly manage the property of the adoptive person, 
+
+   - (c) To protect the rights and interests of the adoptive person. 
+
+**183. Facility of visit and making correspondences to be provided:** The adoptive person shall provide facility to the adopted son or daughter to make visits to, and correspondence with, his or her biological father and mother, from time to time. 
+
+**184. Adoption to be void:** If a person effects adoption in contravention of Section 171, sub-section (1) of, and clauses (a) and (b) of subsection (2) of Section 172, Sections 173, 174 and 175, such adoption shall _ipso facto_ be void. 
+
+**185. Voidable adoption:** (1) If an adoptive person fails to fulfill the obligations referred to in Section 181, any adopted son or daughter may have the adoption annulled. 
+
+Provided that if such adopted son or daughter has already received a partition share, he or she shall not be entitled to have the adoption annulled. 
+
+- (2) An adoptive person may have the adoption annulled in 
+
+- any of the following circumstances: 
+
+   - (a) If the adopted son or daughter fails to fulfill the obligations referred to in Section 182, 
+
+**99** 
+
+- (b) If the adopted son or daughter expels him or her from home or subjects him or her to physical or mental torture, from time to time, 
+
+- (c) If the adopted son or daughter misuses his or her property, 
+
+- (d) If the adopted son or daughter leaves him or her and lives separately without his or her consent for three years or more. 
+
+(3) The provisions of clauses (a) and (d) of sub-section (2) shall not apply to the married adopted daughter. 
+
+**186. Termination of adoption:** (1) If adoption is annulled pursuant to Section 184 or 185, the relationship between the adoptive person and the adopted son or daughter shall be deemed to have been terminated. 
+
+(2) If the relationship between the adoptive person and the adopted son or daughter is terminated pursuant to sub-section (1), the entitlements, rights and obligations vested in him or her in the capacity of adopted son or daughter shall also be terminated. 
+
+Provided that no facilities already enjoyed, rights acquired or exercised and obligations fulfilled in the capacity of adopted son or daughter during the validity period of adoption shall be prejudiced. 
+
+**187. Statute of limitation:** A person aggrieved from any act done or action taken under this Chapter may make a lawsuit within one year after the date on which such an act was done or an action was taken. 
+
+**100** 
+
+### **Chapter-9** 
+
+### **-** **<u>Provisions Relating to Inter Country Adoption</u>** 
+
+**188. Inter-country adoption deemed to be accepted:** If any foreigner accepts a minor of a Nepali citizen or of a foreigner domiciled in Nepal as an adopted son or daughter, it shall be deemed to be accepted as an inter-country adoption. 
+
+**189. Adoption not to be effected without obtaining permission:** (1) No foreigner shall be allowed to hold any minor of a Nepali citizen or of a foreigner domiciled in Nepal as an adopted son or daughter, without obtaining permission from the Government of Nepal. 
+
+(2) Permission for adoption under this Chapter shall be granted only to the citizens or married couple of those countries which are opened by the Government of Nepal, by a notification in the Nepal Gazette, for inter-country adoption in Nepal. 
+
+**190. Best interests of minor to be ensured in granting permission for adoption:** (1) Prior to granting permission to a foreigner for adoption, the Government of Nepal shall consider whether or not the best interests of the child will be ensured, his or her human rights will be protected and such a child will be abducted, sold, trafficked or otherwise abused. 
+
+(2) Permission for adoption under this Chapter shall be granted only if, upon considering the matters pursuant to subsection (1), it appears appropriate to grant permission to a foreigner to adopt a child. 
+
+**101** 
+
+**191. Child eligible to be given for adoption:** Any of the following children having stayed in a children home for at least six months may be given to a foreigner for adoption: 
+
+   - (a) Orphan children who, upon death of both father and mother, are not under protection of any one, 
+
+   - (b) Voluntarily abandoned children. 
+
+**Explanation:** For the purposes of this Chapter,- 
+
+- (1) "Children home" means a child welfare home and orphanage established in accordance with law, with the objective of protecting the rights and interests of children, and this term includes a children home or _Balmandir_ established by the Government of Nepal. 
+
+- (2) "Orphan child" means any of the following child certified as an orphan by the District Administration Office: 
+
+   - (a) A child found unclaimed by the police, and whose father or mother is not found, 
+
+   - (b) A child left unclaimed in a hospital or health institution, 
+
+   - (c) A child whose father and mother are not traced out, 
+
+   - (d) A child whose father and mother are both dead and who has no property for maintenance. 
+
+**102** 
+
+   - (3) "Voluntarily abandoned children" means the following children who have been surrendered to the custody of a children home, through the District Administration Office, by the following person, upon being unable to make arrangements for their maintenance and education, by executing a deed relating thereto: 
+
+      - (a) In the case of a child whose father is dead or disappeared and mother has concluded another marriage, such a mother, 
+
+      - (b) If more than one child have born, and the mother is not financially able to afford their maintenance or education because the father is dead, disappeared or of unsound mind, in the case of such children, their mother, 
+
+      - (c) If more than one child have born, and the father is not financially able to afford their maintenance or education because the mother is dead, disappeared or of unsound mind, in the case of such children, their father, 
+
+      - (d) In the case of an orphan child who has no property, his or her guardian or curator. 
+
+**192. Foreigner eligible for adopting son or daughter:** (1) Permission may be granted to the following foreigner for the adoption of any child of a Nepali citizen or of a foreigner domiciled in Nepal: 
+
+   - (a) A couple from whom no child is born even up to ten years of their marriage, 
+
+**103** 
+
+   - (b) An unmarried woman a widow, divorcee woman or a judicially separated woman who has completed fortyfive but not fifty-five years of age, having no son or daughter, 
+
+   - (c) An unmarried man a widower, divorcee or a judicially separated man who has completed forty-five but not fifty-five years of age, having no son or daughter. 
+
+- (2) Notwithstanding anything contained in sub-section (1), 
+
+- no permission may be granted to the following foreigner for adoption: 
+
+   - (a) One who is of unsound mind, 
+
+   - (b) One who is convicted of a criminal offense involving moral turpitude, by a court of Nepal or the concerned country. 
+
+(3) Notwithstanding anything contained in sub-section (1), where the law of a foreign country provides that a citizen of that country may adopt more than one child, he or she may adopt a child despite that he or she has a child. 
+
+(4) Notwithstanding anything contained elsewhere in this Section, a person of the country that prohibits a Nepali citizen from adopting a child or provides discrimination between the rights of an adopted son or a daughter and the rights of naturally born son or daughter shall not be permitted to adopt a child from Nepal. 
+
+**193. Provision relating to Inter-country Adoption Board:** (1) The Government of Nepal may, by a notification in the Nepal Gazette, form an Inter-country Adoption Board so as to act as the central 
+
+**104** 
+
+agency for the purpose of making recommendation for granting permission to a foreigner for adoption of a child pursuant to this Chapter or designate any government body to perform such function. 
+
+**Explanation:** For the purposes of this Chapter, the term "Board" means the Inter-country Adoption Board, and this term includes the government body designated to perform such function. 
+
+(2) The Board referred to in sub-section (1) shall be so formed as to include one child right worker who has worked in the field of the rights of the child for at least fifteen years. 
+
+(3) Other functions, powers and duties of the Board, in addition to those mentioned elsewhere in this Chapter, shall be as follows: 
+
+- (a) To frame policies on inter-country adoption and recommend the same to the Government of Nepal, 
+
+- (b) To make coordination between the various agencies on matters of inter-country adoption, 
+
+- (c) To prevent undue financial and other advantage likely to be exchanged while giving or taking adoption, 
+
+- (d) To make available any information required by the central adoption agencies or other relevant public agencies of other countries about the condition of adopted sons or daughters, 
+
+- (e) To prevent child abuse, exploitation, trafficking or kidnapping likely to happen in effecting adoption 
+
+**105** 
+
+and to protect Nepali children from any other practice likely to harm them, 
+
+      - (f) To make recommendation to the Government of Nepal to fix the charges applicable for adoption, 
+
+      - (g) To specify the form of application to be filed for adoption, 
+
+      - (h) To make arrangements for maintaining confidentiality of records of the minors desirous to be adopted, their biological father and mother or adoptive father and mother, 
+
+      - (i) To carry out such other functions relating to intercountry adoption as may be required. 
+
+   - (4) Other matters including the procedures relating to the 
+
+   - meeting of the Board shall be as determined by the Board itself. 
+
+**194. Application to be filed for adoption:** (1) A foreigner or couple qualified under Section 192 and desirous of adopting a Nepali minor or a minor of a foreigner domiciled in Nepal shall make an application to the Board, accompanied by the following documents, through the embassy of his or her country in Nepal and where no such an embassy is situated in Nepal, the embassy designated for Nepal or the central agency of the concerned country which gives permission for adoption: 
+
+      - (a) The applicant's birth registration certificate, 
+
+      - (b) The applicant's recently taken photograph, 
+
+      - (c) A photocopy of the applicant's passport, 
+
+**106** 
+
+- (d) A document certifying the applicant’s marital status, 
+
+- (e) A certificate issued by a licensed medical doctor on the applicant’s health, 
+
+- (f) A certificate issued by the governmental body of the concerned country, indicating that the applicant is of good character and has not been convicted by a court of a criminal charge involving moral turpitude, 
+
+- (g) A document that certifies the applicant's property and income source, 
+
+- (h) The applicant's social, psychological and home study report, 
+
+- (i) Age, sex and other details of the child sought for adoption, 
+
+- (j) A letter of consent issued by the government of the applicant’s country for making adoption in Nepal, 
+
+- (k) A letter of guarantee issued by the government of the concerned country or by the embassy of that country based in Nepal or designated for Nepal indicating that according to the law of the applicant’s home country, the status of the person to be adopted is equal to that of the applicant’s biological son or daughter, 
+
+**107** 
+
+- (l) A letter of guarantee issued by the government of the applicant's home country, embassy of that country based in Nepal or designated for Nepal indicating that, according to the law of the applicant’s home country, the applicant is qualified to make adoption and has the financial capacity to bear all responsibilities including maintenance, health care, education and protection of the minor to be adopted. 
+
+(2) The documents referred to in sub-section (1) shall be written in the English language or translated into the English or Nepali language by a competent body. 
+
+(3) If it is found, from an inquiry into the application received pursuant to sub-section (1), that it is appropriate to grant permission for adoption according to the applicant’s request, the Board shall, by keeping confident the applicant’s name and address, forward the details relating thereto to the selection committee. 
+
+(4) The application to be made pursuant to sub-section (1) shall be accompanied by the application fee as determined by the Government of Nepal, on the recommendation of the Board. 
+
+**195. Provisions relating to selection committee:** The Government of Nepal shall form a selection committee, by a notification in the Nepal Gazette, for the purpose of making recommendations to the Board as to which of minors may be appropriate for adoption by any foreigner or foreign couple, after selecting the person or couple desirous of making adoption, and the minor. 
+
+**108** 
+
+**196. To make recommendation by selecting person effecting adoption and child:** The Board shall, based on the minor’s details according to the applicant’s details and relevant matters received pursuant to sub-section (1) of Section 194, and also having regard to the applicant’s request, ascertain what type of minor is appropriate for being adopted by which applicant and recommend the name of the applicant and the minor to the Board. 
+
+**197. Permission to be granted for adoption:** (1) If the Board considers, from an inquiry into the recommendation received from the selection committee pursuant to Section 196, that it is appropriate to grant a minor as recommended for adoption by a foreigner, it shall make according recommendation to the Government of Nepal. 
+
+(2) If, upon an inquiry into the recommendation made by the Board pursuant to sub-section (1), it thinks reasonable to do so, the Government of Nepal shall, according to the recommendation of the Board, grant permission for the adoption of such a minor by the foreigner. 
+
+(3) After permission has been granted pursuant to subsection (2), the Government of Nepal shall issue a certificate relating thereto for that purpose. 
+
+(4) After the certificate has been issued pursuant to subsection (3), inter-country adoption shall be deemed to have duly been effected from Nepal. 
+
+(5) Notwithstanding anything contained in sub-section (2), if, prior to granting permission for the adoption of any minor by a foreigner, the father, mother or other guardian of the minor desires 
+
+**109** 
+
+to take his or her minor back, such a minor may not be granted for adoption. 
+
+(6) If the Government of Nepal grants permission for the adoption of any minor by a foreigner pursuant to sub-section (2), the applicant shall appear in person and take over the concerned minor. 
+
+Provided that if the applicant is a couple and either of them is unable to appear in person, the other spouse may take over such a minor on the basis of the certified deed of consent executed by the absent spouse. 
+
+(7) After permission has been granted for the adoption of any minor by a foreigner pursuant to this Section, the Government of Nepal shall give information thereof to the central agency responsible for inter-country adoption situated in the country of the adoptive person and also to the embassy of the concerned country designated for Nepal, if any. 
+
+(8) A foreigner or couple making application for adoption may, if not satisfied with any decision made by the Government of Nepal, make an appeal to the concerned High Court. 
+
+### **198. Special provision relating to selection of families for minors in** 
+
+**need of special care:** (1) Notwithstanding anything contained elsewhere in this Chapter, the Board may accord priority to those applicants who have applied for the adoption of minors in need of special care and select families to that effect. 
+
+**Explanation:** For the purposes of this Section, the term “minors in need of special care” means those minors, out of orphan 
+
+**110** 
+
+minors or voluntarily abandoned minors, who are in need of special care due to physical or mental condition, unusual or abnormal growth or more age. 
+
+(2) The Board shall determine as to whether any minor is a minor in need of special care or not. 
+
+(3) Notwithstanding anything contained in sub-section (1), if, in selecting the families and the minors in need of special care pursuant to that sub-section, any detail relating to the age, sex and health of the minor as demanded by a family in the first order of priority does not match, those minors in need of special care who match to the details as demanded by such family may be selected respectively. 
+
+(4) The other procedures on the selection of families for minors in need of special care and classification of such minors shall be as prescribed by the Government of Nepal. 
+
+**199. Special provision relating to permission to be granted for adoption:** (1) Notwithstanding anything contained elsewhere in this Chapter, if any renowned foreign citizen desires to adopt any minor as referred to in Section 191, he or she may make an application to the Board, along with a formal recommendation by the head of state, head of government or foreign minister of the concerned country. 
+
+**Explanation:** For the purposes of this Section, the term “renowned foreign citizen” means any of the following persons: 
+
+- (a) Head of state or head of government of a foreign country, 
+
+**111** 
+
+- (b) Chief of an international intergovernmental organization, 
+
+- (c) A laureate of the noble prize, 
+
+- (d) A person or entrepreneur who has an income of more than three hundred thousand US Dollars a year. 
+
+(2) If the Board considers, from an inquiry into an application received pursuant to sub-section (1), that it is reasonable to grant a minor as demanded by such a foreign citizen for adoption, it shall make recommendation to the Government of Nepal, Council of Ministers, accordingly. 
+
+(3) If a recommendation is made pursuant to sub-section (2), the Government of Nepal, Council of Ministers may give permission to such a foreign citizen to adopt the minor demanded by him or her. 
+
+(4) Any foreign citizen making adoption pursuant to this Section shall, upon making such adoption, comply with the other provisions set forth in this Chapter. 
+
+**200. Details to be forwarded:** A foreigner who makes adoption pursuant to this Chapter shall each year forward details relating to the arrangements he or she has made for the maintenance(palanposhan), education, health and care of(herchaha) the adopted minor until such minor attains the age of majority according to the law of the concerned country, in each six months for a period of two years and thereafter in each year to the Government of Nepal through the Nepali Embassy or Consulate based in his or her country or Nepali mission abroad, and if such 
+
+**112** 
+
+mission is not situated there, through the Embassy of Nepal related to such a country. 
+
+**201. To monitor:** (1) The Board may itself monitor as to whether a foreigner who has adopted a Nepali minor has made arrangements for the maintenance (Palanposhan), health, education and care of (Herchaha) such minor until the minor attains the age of majority, or for that purpose, form, as per necessity, a sub-committee consisting also of a representative of the Nepali Embassy or Consulate based in the concerned country. 
+
+(2) The Board or sub-committee referred to in sub-section (1) may, for that purpose, carry out monitoring by visiting the place where the child is residing. 
+
+(3) The Board or sub-committee shall submit a report of monitoring conducted by it under sub-section (2) to the Government of Nepal. 
+
+(4) The report referred to in sub-section (3) shall contain, _inter alia_ , a statement whether the best interests of the adopted Nepali minor have been served when he or she is residing with the adoptive person or not. 
+
+(5) If the report received pursuant to sub-section (3) contains a statement that the best interests of the adopted Nepali minor have not been served when he or she is residing with the adoptive person, the Government of Nepal shall, also taking opinion of the concerned minor if her or she is able to express his or her opinion or is above ten years of age, bring that matter to the 
+
+**113** 
+
+attention of the Government of the concerned country through the diplomatic channel. 
+
+(6) If the condition of the adopted Nepali minor is not improved even after the attention drawn pursuant to sub-section (5), the Government of Nepal shall, by a notification in the Nepal Gazette, remove such a country from the list of countries opened for their citizens to make inter-country adoption from Nepal. 
+
+**202. Case may be filed:** A case may be filed in the court of the concerned country for the annulment of adoption, by a minor adopted as an adopted son or daughter within one year after the date on which the minor attained majority, on the grounds of failure to make arrangements for proper maintenance(Palanposhan), health, education and care of (Herchaha) him or her, and by the Nepali Embassy or Consulate based in the country where the adopted son or daughter is residing within one year after the date on which the adoptive person failed to make such arrangements. 
+
+**203. Provisions of the Act to be applicable:** (1)  Provisions contained in Sections 173, 174, 175, 178, 179, 180, 181 and 183 in relation to adopted sons or daughters shall also apply to the sons or daughters adopted by foreigners pursuant to this Chapter. 
+
+(2) Provision of Section 191 shall not apply for the adoption of the minors of foreigners domiciled in Nepal. (3) The Government of Nepal may, on the recommendation of the Board, make necessary Guidelines for the implementation of the provisions contained in this Chapter. 
+
+**204. Statute of limitation:** If a separate statute of limitation for making a lawsuit is specified in this Chapter, the lawsuit may be made 
+
+**114** 
+
+accordingly, and if such statute of limitation is not specified, a person aggrieved from any act committed or action taken under this Chapter may make a lawsuit within one year after the date on which such an act was done or action was taken. 
+
+**115** 
+
+### **Chapter-10** 
+
+### **<u>Provisions Relating to Partition</u>** 
+
+**205. To be deemed coparcener:** For the purposes of apportionment of a property in common, the husband, wife, father, mother, son and daughter shall be deemed to be coparceners, subject to the other Sections of this Chapter. 
+
+**206. Equal entitlement to partition share:** (1) Each coparcener shall have equal entitlement to partition share. 
+
+(2) If a woman coparcener is pregnant at the time of partition, and the baby to be delivered by her is to become a coparcener, partition shall be made by treating also such would be born baby as a coparcener and only after setting aside his or her partition share of property. 
+
+   - (3) If the pregnant woman under sub-section (2) does not 
+
+   - deliver a live baby, the partition share set aside for such a baby shall be divided equally between the other coparceners. 
+
+**207. Son and daughter born from couple whose matrimonial relationship is dissolved to obtain partition share:** A son and daughter born to a couple who cannot conclude a marriage or whose marriage cannot be considered valid or whose matrimonial relationship is dissolved according to law shall obtain their partition share from such a father and mother. 
+
+**208. To obtain partition share from mother:** (1) A son and daughter whose father is not traced out shall obtain their partition share from the property belonging to their mother only. 
+
+**116** 
+
+(2) A wife kept without making public or a son and daughter born from her shall not be entitled to claim a partition share after the death of the husband or father. 
+
+**209. To obtain partition share from part of father or husband:** (1) A son and daughter child or wives of brothers living in an undivided family shall obtain partition share only from the part of their respective father or husband, as the case may be. 
+
+(2) If the husband, father or mother dies before effecting partition, his wife or his or her child shall obtain the partition share to which the husband, father or mother is entitled. 
+
+(3) If a person has more than one wife, they shall obtain their respective partition share only from the part of the husband. 
+
+**210. Latter wife or child to obtain partition share from part of husband or father:** (1) If a person concludes another marriage or a child is born from the wife so married, after effecting partition between his wife, son, daughter or while he is living together with such a wife, son, daughter after mixing his partition share with that of them, such a wife, son or daughter shall obtain her or his partition share only from the part of the property of the husband or father, as the case may be. 
+
+(2) Notwithstanding anything contained elsewhere in this Chapter, if a person whose wife is surviving concludes another marriage before effecting partition, the partition shares of the other coparcener shall first be set aside and the woman who is so married shall be provided with a partition share from the part to which he is entitled. 
+
+**117** 
+
+**211. Right to obtain partition share:** (1) A husband, wife, father, mother, son and daughter having property in common shall make, according to their reputation and income, arrangements for the maintenance and medical treatment of the wife, husband, son, daughter, father and mother, as the case may be. 
+
+(2) If a person who is bound to make arrangements as referred to in sub-section (1) fails to make such arrangements, the coparcener is entitled to get separated by obtaining his or her partition share. 
+
+**212. Separation may be effected at anytime:** (1) If there is a mutual agreement between the coparcener, they may get separated at any time by obtaining their respective partition share. 
+
+(2) If the husband, father, mother or person acting as the head of family considers it appropriate for the coparcener to obtain their respective partition share and get separated rather than living in a single family, the coparcener may get separated by effecting partition at any time. 
+
+**Explanation:** For the purposes of this Act, the term “person acting as the head of family” means a person who has attained the age of majority pursuant to law and acts as the head of family or who has the responsibility to run the household affairs living in the joint family by engaging in farming, trade, business or any other work in various places. 
+
+**213. Husband or wife may get separated by obtaining partition share:** (1) Notwithstanding anything contained in Section 211, the 
+
+**118** 
+
+husband or wife may, in any of the following circumstances, get separated at any time by obtaining his or her partition share: 
+
+   - (a) If the husband or wife expels the wife or husband from the house, 
+
+   - (b) If the husband or wife causes physical or mental torture to the wife or husband. 
+
+**214. Widow may effect separation by taking her partition share:** (1) Notwithstanding anything contained elsewhere in this Chapter, a widow may get separated at any time by taking her partition share. 
+
+(2) If a widow concludes another marriage, the property obtained by her by way of partition share shall devolve on the son and daughter, if any, born to her from the previous husband and, if there is no such a son or daughter, she herself may retain such property. 
+
+**215. Relinquishment of partition share:** (1) Any coparcener may, by executing a deed to that effect, relinquish his or her partition share, with or without taking his or her partition share in part or taking some cash or kind only in consideration for his or her partition share. 
+
+(2) While executing a deed on relinquishment of partition share pursuant to sub-section (1), if a coparcener has husband, wife, or son or daughter having attained the age of majority, the deed on relinquishment of partition share shall be deemed to have been executed only when consent of such a husband, wife, son or daughter has been obtained. 
+
+**119** 
+
+Provided that the entitlement of a minor coparcener to partition share may not be relinquished. 
+
+(3) If a deed on relinquishment of partition share is executed pursuant to sub-section (1), it shall be deemed as if he or she received his or her partition share. 
+
+(4) A coparcener shall have to appear in person for executing a deed on relinquishment of partition share or for receiving his or her partition share. 
+
+Provided that if a coparcener is not able to appear in person, he or she shall, for that purpose, appoint an authorized attorney in accordance with law. 
+
+**216. Partition to be effected:** (1) In partitioning a property in common, a deed of partition shall be executed in writing between the coparceners, subject to this Chapter. 
+
+(2) In effecting partition pursuant sub-section (1), partition of property in common and debts in common shall be so made that partition shares thereof are equal. 
+
+**Explanation:** For the purposes of his Chapter, the term "debts in common" means any debts agreed to by the person acting as the head of family or by all coparceners or borrowed by the coparceners, who have attained the age of majority and live in the undivided family and carry on household work, farming, trade or any other work in various places or incurred in such transaction or incurred in transaction carried on by the other persons, who have attained the age of majority and live in the undivided family as to which such persons have consented in writing. 
+
+**120** 
+
+(3) Partition shall be effected by balancing both high value and less value properties, with the consent of all the coparceners, and failing such consent, by a lottery. 
+
+(4) If, in effecting partition, there arises a dispute on any property, partition shall be effected after the settlement of the dispute. 
+
+Provided that if it takes a long time for the settlement of such a dispute, the property in dispute may be kept as undivided property and the other properties may be partitioned. 
+
+**217. Matters to be specified in deed of partition:** The following matters shall be specified in the deed of partition: 
+
+   - (a) Name, surname, age, address of every coparcener and that of his or her mother, father, grand-father and grand-mother, 
+
+   - (b) Property to be received by the coparceners, 
+
+   - (c) If the part of a coparcener involves debts, moneys receivable, amount of such debts and moneys, 
+
+   - (d) If, upon partition, any coparcener is to live with another coparcener, that details thereof, 
+
+   - (e) A matter to the effect that no coparcener has hidden or concealed any property subject to partition, 
+
+   - (f) If any property is to devolve on a coparcener only, upon the death of the father, mother, husband or wife, details thereof, 
+
+**121** 
+
+- (g) If the partition share of any coparcener is to be entrusted to any one, details thereof, 
+
+- (h) Other necessary matters. 
+
+**218. Deed of partition to be registered:** (1) In effecting partition, a deed of partition shall be drawn up in presence of witnesses, bear signature and thumb-impression of the witness and the coparcener and registered in the concerned office, having duly fulfilled the legal requirements. 
+
+(2) Notwithstanding anything contained in sub-section (1), in cases where partition was effected in household making a balance between highly valuable and less valuable property, whether or not executing a deed of partition between any coparceners before 10 January 1978 (27 Poush 2034) and a coparcener has already taken his or her partition share and effected transmission thereof or the coparceners have individually possessed or sold or transacted their respective partition share of immovable property according to partition, partition shall be deemed to have been effected in spite of being the deed of partition not registered. 
+
+**219. Prohibition of providing property without effecting partition:** (1) No person acting as the head of family shall, without effecting partition, provide a property in common to only a coparcener who has not taken partition share or who would be a coparcener. 
+
+### Provided that- 
+
+- (1) That such a person may, with the consent of all the coparceners, provide any property to any coparcener. 
+
+**122** 
+
+- (2) That such a person may, even without consent of the other coparceners, provide the property to the extent of his or her partition share, to any coparcener. 
+
+(2) In effecting partition pursuant to this Chapter, the other property shall be partitioned by setting off the property provided to a coparcener pursuant to clause (1) of the proviso to sub-section (1) for the partition share to which the coparcener is entitled. 
+
+**220. Lawsuit to be filed by setting out inventory of property:** (1)  If a coparcener is desirous of getting separated by setting aside his or her partition share, he or she shall file a lawsuit, specifying therein the date of separation of bread and board from the other coparceners and setting out an inventory of such property and debts and assets held in his or her name and that of the other coparceners, to the best of his or her knowledge, as is liable to partition. 
+
+   - **Explanation:** For the purposes of this Section, the term "date 
+
+   - of separation of bread and board" means the following date or day: 
+
+      - (a) The date mentioned in the deed of separation of bread and board, 
+
+      - (b) If there is no deed of separation of bread and board, the date as agreed between the coparceners on the separation of bread and board, 
+
+      - (c) If no agreement is reached between the coparceners pursuant to clause (b), the day immediately before the day of filing a lawsuit, 
+
+      - (d) Except as otherwise agreed upon, in the case of a married daughter, the day of her marriage. 
+
+**123** 
+
+(2) If the deed of separation of bread and board is executed between any coparceners only, such a deed shall come into force only on the date of its registration. 
+
+(3) If the person filing a lawsuit pursuant to sub-section (1) is unable to submit the inventory of property, he or she shall also specify the reason therefor. 
+
+(4) If a lawsuit is filed pursuant to sub-section (1), the concerned person also shall submit a statement of defense, together with a statement whether the plaintiff is to be provided with a partition share or not and if he or she agrees to provide a partition share, together with an inventory of the property held in his or her name and the debts and assets. 
+
+**221. Matters to be set out in inventory:** (1) The following matters shall be set out in the inventory of the property to be submitted pursuant to this Chapter: 
+
+   - (a) The place of location of land, plot No., area and approximate value thereof, 
+
+   - (b) In the case of a house, place of location, plot no, area, **Kabal (rooms), Naal (size),** storey of the house, whether it is concretely built or mud made, and approximate value thereof, 
+
+   - (c) In the case of a movable property, details and approximate value thereof, 
+
+   - (d) In the case of cash, details thereof, and also details of bank balance, share, debenture, treasury bills, if any, 
+
+**124** 
+
+- (e) In the case of livestock, details and approximate value thereof, 
+
+- (f) In the case of gold, silver and jewelries, details and approximate value thereof, 
+
+- (g) In the case of a motor vehicle, details and approximate value thereof, 
+
+- (h) Details and approximate value of the properties, if any, other than those referred to clauses (a) through (g). 
+
+(2) If the value of any property is not set out pursuant to sub-section (1) or a dispute arises as to the value thereof, the court shall take the basis of the price fixed by the Land Revenue Office, in the case of an immovable property, and of the prevailing market price for the time being, in the case of a movable property. 
+
+**222. Partition to be effected by taking inventory:** (1) If it appears from the lawsuit filed or statement of defense submitted pursuant to Section 220 that partition requires to be effected and an inventory of property is submitted along with the lawsuit or statement of defense, the court shall effect partition, having the coparceners executed a deed stating, _inter alia_ , that the property they have submitted is the only property to be partitioned and that they have not concealed or hidden any other property. 
+
+(2) If an inventory of property is not submitted along with the lawsuit or statement of defense, the court shall, by specifying a time-limit, require the coparceners to submit the inventory of the property and effect partition by causing the coparceners to execute 
+
+**125** 
+
+a deed pursuant to sub-section (1),  if the coparceners submit such an inventory within the time-limit so specified. 
+
+**223. Partition to be effected on the basis of inventory received:** (1) If a person who in to submit an inventory of property within the timelimit referred to in Section 222 fails to submit the inventory or has elapsed the time-limit without submitting a statement of defense, the court shall effect partition on the basis of the inventory of the property submitted by other coparceners. 
+
+(2) If the partition is effected pursuant to sub-section (1), no lawsuit may be entertained on the ground of dissatisfaction with the partition share. 
+
+(3) Notwithstanding anything contained in sub-section (2), if a lawsuit is filed for the partition of a property not set out in the inventory of the property submitted by the coparceners but discovered subsequently, the court shall effect partition of that property. 
+
+**224. Power to take inventory by breaking padlock:** If, because of the failure of a person to submit an inventory of the property required to be submitted by him or her, the inventory of property has to be taken by breaking the padlock of the house custody of which is taken by him or her, the court may, by opening the padlock in presence also of the person holding the key of the house, if he or she is present, and if not, in presence of at least two persons including the person requesting for partition share and a representative of the concerned ward of the Local Level, take an inventory of the property found there, by maintaining a record thereof. 
+
+**126** 
+
+**225. Partition to be effected when inventory produced:** (1) If the person who has to submit an inventory fails to submit the inventory or lapses the time-limit by not submitting a statement of defense and the person filing a lawsuit requesting for the partition of property also fails to submit the inventory of property, the court shall, by causing the person filing the lawsuit to execute a deed of the same statement, abate the lawsuit subject to the condition that the partition shall be effected at the time when an inventory of the property is produced. 
+
+(2) If a lawsuit is abated pursuant to sub-section (1) and the person filing the lawsuit makes a petition subsequently, accompanied by an inventory, the court shall effect partition between the coparceners in accordance with law, on the basis of the previous case-file itself. 
+
+**226. Prohibition of concealing or hiding property:** (1) No person shall conceal or hide a property that is liable to partition. 
+
+(2) If a coparcener is subsequently held to have concealed or hidden any property which is held in his or her name and is liable to partition, at the time of effecting partition or at the time when asked by the court to submit an inventory, the coparcener so concealing or hiding the property shall have no right to obtain such property. 
+
+(3) The property concealed or hidden under sub-section (2) shall be partitioned between the other coparceners. 
+
+**227. Partition share to be reimbursed:** If a coparcener is not allowed to own and possess any property falling in his or her partition share 
+
+**127** 
+
+due to the property being defective under law, all the coparceners shall proportionately reimburse to him or her property equal to the defective property. 
+
+**228. Partition share not to be exchanged:** Except in the case of mutual consent among the coparceners, no coparcener shall be entitled to exchange any property received by him or her by way of partition for the reason that after partition it is disordered, damaged or he or she does not prefer it. 
+
+**229. Partition of pledged or mortgaged property:** (1) If a coparcener is found to have pledged or mortgaged a property that is liable to partition, the court shall, if all the coparceners so agree, effect partition of the property by causing the property to be released from, or on the condition of having an obligation to release it from, the property in common. 
+
+(2) If all the coparceners do not agree pursuant to subsection (1) and the court finds that the person acting as the head of family has pledged or mortgaged the property or that the other persons having attained majority living in the undivided family have, taking signature and thumb-impression also of the person acting as the head of family, pledged or mortgaged it, the court shall effect partition of the property by causing the property to be released from, or on the condition of having an obligation to release it from, the property in common. 
+
+(3) Save in the cases referred to in sub-section (1) or (2), if a coparcener is found to have pledged or mortgaged a property liable to partition, the court shall effect partition by causing the property to be released from, or on the condition of having an 
+
+**128** 
+
+obligation to release it from, the property falling in his or her partition share. 
+
+**230. Power to withhold property or income until partition is effected:** If one filing a lawsuit appears to obtain a partition share in a case of partition and, after the inventory of property has been submitted, makes a petition to the court, praying that the property to the extent of his or her partition share or income thereof be withheld, the court may withhold the property to the extent of his or her partition share or income of such property until partition is effected in the fulfillment of the legal requirements. 
+
+**231. Partition to be so effected as to have provision of way or passage:** While effecting partition, if there is no access to way or passage to a house or land partitioned to a coparcener and if such way or passage can be managed from the land of other coparcener, partition shall be so effected that the concerned coparcener shall have to provide the way or passage for access to such house or land. 
+
+**232. Debtor not to be specified without consent of creditor:** (1) Partition shall not be so effected as to give the responsibility of payment of the debt of joint family to a sole coparcener without consent of the creditor. 
+
+   - (2) Even if the responsibility of payment of the debt is 
+
+   - given solely to any coparcener contrary to sub-section (1), all the coparceners shall pay the debt in common equally, if the creditor does not so agree. 
+
+**233. Compensation to be paid if lawsuit filed by person not entitled to partition:** If a person who is not entitled to receive a partition 
+
+**129** 
+
+share is held to have filed a lawsuit for receiving it, the court shall order the law-suit filing person to pay to the defendant a reasonable compensation, having regard to the amount in controversy, if set out from the case-file, and if such amount is not set out, to the status of such a person. 
+
+**234. Partition share, money or expenditure may be awarded:** (1) If a person who is entitled to obtain a partition share, money or expenditure from any person according to the judgment, files, having failed to so receive, a petition in the court of first instance which has passed judgment in the case, the court shall, if the parties are the same, cause the partition, money or expenditure according to the judgment to be awarded as soon as possible. 
+
+(2) If the partition share, expenditure or money is not provided pursuant to sub-section (1), the person who has to provide the partition share, money or expenditure shall be caused to pay a reasonable compensation as well to the petitioner. 
+
+**235. Statute of limitation:** A person who is aggrieved from any act done or action taken under this Chapter may make a lawsuit as follows: 
+
+   - (a) Any time, where partition has never been effected or a common general deed has been executed in effecting partition and even though there is no deed where both the parties have enjoyed the property upon making calculation, 
+
+   - (b) Within three months from the date of partition if one is not satisfied with such partition, 
+
+**130** 
+
+   - (c) In case of concealing or hiding of property, till the life of the concerned coparcener, 
+
+   - (d) In the cases other than that referred to in clauses (a), (b) and (c), within six months after the date on which such an act was done or action taken. 
+
+**236. Partition deemed to be executed:** (1) A partition effected pursuant to the law prior to the commencement of this Act shall be deemed to have been effected pursuant to this Act. 
+
+(2) Notwithstanding anything contained in sub-section (1), if a person has taken maintenance for living ( _Jiuni_ ) in consideration for his or her partition share prior to the commencement of this Act, the person shall be deemed to have taken his or her partition share. 
+
+**131** 
+
+### **Chapter-11** 
+
+### **<u>Provisions Relating to Succession</u>** 
+
+**237. Succession deemed to be opened:** Upon the death of a person, succession to his or her property shall be deemed to be opened. 
+
+**Explanation:** For the purposes of this Chapter, the term "succession" means devolution of liabilities and rights in regard to debt, wealth and property of the deceased upon his or her heirs in accordance with law. 
+
+**238. Heir entitled to succession:** Where succession to a person's property is opened, his or her nearest heir shall be entitled to such succession. 
+
+**239. Order of preference of heirs for succession:** (1) The order of preference of nearest heirs for succession shall, subject to the other Sections of this Chapter, be as follows: 
+
+   - (a) Husband or wife living in the undivided family, 
+
+   - (b) Son, daughter, widow daughter-in-law living in the undivided family, 
+
+   - (c) Father, mother, step mother, grand-son, granddaughter, grand-daughter-in-law, on the side of son or daughter, living in the undivided family, 
+
+   - (d) Separated husband, wife, son, daughter, father, mother, step-mother, 
+
+   - (e) Separated grand-son, grand-daughter from the son's generation, 
+
+   - (f) Separated grand-father, grand-mother, 
+
+**132** 
+
+- (g) Grand-father, grand-mother, elder brother, younger brother, elder sister, younger sister, widow elder brother’s wife or younger brother’s wife living in the undivided family, 
+
+- (h) Uncle, aunt, nephew, niece, living in the joint family, 
+
+- (i) Separated elder brother, younger brother, elder sister, younger sister, widow elder brother's wife or younger brother's wife. 
+
+(2) So long as the person who is in the first order of preference referred to in sub-section (1) at the time when succession to one’s property is open is serving the person in the subsequent order of preference shall not be entitled to succession. 
+
+(3) If there are more than one heir in the same order of preference pursuant to sub-section (1), all of them shall equally be entitled to the succession. 
+
+(4) If any heir in the order of preference entitled to succession does not intend to succeed, the other heirs in the same order shall be entitled to succession, and even any heir in that order of preference does not intend to accept succession, the heir in the successive order of preference shall be entitled to the succession. 
+
+**240. Distant heir entitled to succession:** If a person dies when he or she was staying with any distant heir after taking his or her partition share of property in spite of having his or her nearer heir and succession to him or her is open, the heir with whom that person was so staying shall be entitled to his or her property succession. 
+
+**133** 
+
+**241. Maintaining (Shyahar samhar) and caretaking heir entitled to succession:** If a nearer heir has not maintained and taken care of a person but a distant heir has done so, the distant heir who has so maintained and taken care of him or her shall be entitled to succession. 
+
+**242. Separated heir entitled to succession:** (1) If a person dies when that person was staying with any heir who has lived separately, after taking his or her partition share of property, because an unseparated heir has not maintained (Shyahar samhar) and taken care of that person, such separated heir shall be entitled to the succession of that person. 
+
+   - (2) Notwithstanding anything contained in sub-section (1), 
+
+   - if a person dies when that person was staying with any heir only for few days, without taking his or her partition share of property, the heir with whom that person had so stayed shall not be entitled to succession of that person. 
+
+**243. Maintaining (Shyahar samhar) and caretaking person entitled to succession:** Notwithstanding anything contained elsewhere in this Chapter, if another person has maintained (Shyahar samhar) and taken care of the deceased because the heir has not done so, the person who has so maintained (Shyahar samhar)  and taken care of shall be entitled to such succession. 
+
+**244. Not to be obliged to accept succession:** (1) Notwithstanding anything contained elsewhere in this Chapter, no person shall be obliged to accept a succession. 
+
+**134** 
+
+(2) A person who declines to accept a succession shall give information thereof in writing to the concerned District Court within a period of three years of the devolution of succession. 
+
+(3) If a person does not accept a succession within the period referred to in sub-section (2), such succession shall be deemed to have been devolved upon the other heir in the successive order of preference for succession. 
+
+(4) Even if a person does not accept a succession pursuant to sub-section (1), he or she shall have to conduct obsequies of the deceased in accordance with the rites and rituals. 
+
+**245. Disqualified for succession:** Notwithstanding anything contained elsewhere in this Chapter, if a person who kills, or causes the death of, another person with intent to serve any premeditation or with ulterior motive to obtain succession, such person and the heir to the person who so kills or causes death shall be disqualified from the succession of the deceased or his or her heir. 
+
+**246. Obligations and rights of person upon whom succession is devolved:** (1) The obligations and rights of the person upon whom succession is devolved shall be as follows: 
+
+   - (a) To perform, or cause to be performed, funeral and obsequies rites of the deceased according to his or her rites and rituals, 
+
+   - (b) To repay the debt borrowed by the deceased to the creditor, 
+
+   - (c) To have right over the debt lent and investment made by the deceased. 
+
+**135** 
+
+(2) If the funeral and obsequies rites of a deceased has been performed by a person other than one who is entitled to the succession, the person so entitled shall pay the costs incurred in the performance of funeral and obsequies rites of the deceased and additional twenty-five percent of such costs to the person who has performed such rites. 
+
+Provided that if any person has, instead of doing on his or her own, caused another person to perform the funeral and obsequies rites of the deceased, he or she shall be liable to pay only the actual costs incurred in the performance of such rites. 
+
+**247. Creditor may recover debt:** If succession to one’s property is opened and one has creditors, such creditors may recover their debts and liabilities from the person upon whom succession has devolved. 
+
+Provided that no heir shall be obliged to pay debts and liabilities in excess of the deceased's property succeeded to by him or her. 
+
+**248. Local Level to receive property under succession:** (1) If succession to the property of a person is opened and he or she has no heir or his or her heir declines to accept such succession, the property of the dead person remaining after deducting the costs incurred in the performance of his or her funeral and obsequies rites and even after payment of debts due to his or her creditors shall be devolved on the Local Level. 
+
+(2) If a person dies and has no heir but has property, a person who performs his or her obsequies or maintains his or her 
+
+**136** 
+
+books and accounts shall immediately give a notice thereof to the Local Level. 
+
+(3) If a notice is received pursuant to sub-section (2), the Local Level shall prepare an inventory of the properties of the deceased in witness of at two local persons and forward the inventory, accompanied by a copy of the memorandum (Muchulka) executed to that effect, to the concerned district level administrative office. 
+
+(4) If a memorandum, along with the inventory of properties, is received pursuant to sub-section (3) and the address of the deceased is traced out, such an office shall send a notice in accordance with law to the heir of the deceased to appear to receive the property of the deceased within a period of three months. 
+
+(5) If the heir does not accept the property pursuant to subsection (1) or the heir of the deceased does not appear within the time-limit referred to in sub-section (4) or the address of such heir is not traced out, such an office shall publish a notice in a national newspaper, inviting his or her heir, if any, to appear to claim the property of the deceased, within a period of thirty five days. 
+
+(6) If the heir of the deceased appears within the time-limit referred to in sub-section (5), the property that remains after deducting therefrom the expenses incurred in the performance of obsequies of the deceased or providing such expenses to the person having performed such obsequies, and ten percent of the property, shall be returned to the concerned heir. 
+
+**137** 
+
+(7) If no heir of the deceased appears within the time-limit referred to in sub-section (5) or his or her address is not traced out, the property that remains after deducting therefrom the expenses incurred in the performance of obsequies of the deceased, which amount is to be provided to the person having performed such obsequies, shall devolve on the concerned Local Level. 
+
+(8) The concerned heir or the office under sub-section (3) shall hand over the property receivable by the Local Level pursuant to sub-section (1) or (7) to the Local Level in accordance with law. 
+
+(9) The Local Level shall use the property that it has received pursuant to this Section for public interest. 
+
+**249. Succession to property of foreigner died in Nepal:** (1) If a foreigner who dies in Nepal has property without heir in Nepal, a person who performs his or her obsequies or maintains his or her books and accounts shall immediately give a notice thereof to the nearby Local Level. 
+
+(2) If a notice is received pursuant to sub-section (1), the Local Level shall prepare an inventory of the properties of the deceased in witness of at two local persons and forward the inventory, accompanied by a copy of the memorandum (Muchulka) executed to that effect, to the concerned district level administrative office. 
+
+(3) If a memorandum, along with the inventory of properties, is received pursuant to sub-section (2), such an office shall immediately give information thereof to the Federal Ministry of Home Affairs. 
+
+**138** 
+
+(4) If information referred to in sub-section (3) is received, the Federal Ministry of Home Affairs shall also send a notice, in accordance with law, through the diplomatic channel of the concerned country, to the heir of the dead person to appear to receive the properties of the deceased within four months. 
+
+(5) If information under sub-section (3) is received upon the death of a citizen of a country having no diplomatic relation with Nepal, the Federal Ministry of Home Affairs shall publish a notice in a national daily English newspaper for receiving such property within six months, and the Federal Ministry of Home Affairs shall also put such notice on its website. 
+
+(6) If the heir of the deceased appears within the time-limit referred to in sub-section (4) or (5), the property that remains after deducting therefrom the expenses incurred in the performance of obsequies of the dead person or providing such expenses the person having performed such obsequies, and ten percent of the property, shall be returned to the concerned heir. 
+
+(7) If no heir of the dead person appears within the timelimit referred to in sub-section (4) or (5) or his or her address is not traced out, the property that remains after providing the expenses incurred in the performance of obsequies of the deceased to the person having performed such obsequies shall devolve on the Local Level. 
+
+(8) The property received by the Local Level pursuant to this Section shall be used only for public interest. 
+
+**139** 
+
+**250. Statute of limitation:** A lawsuit may be made within the statute of limitation, if any, set forth elsewhere in this Chapter, and in the other cases, within a period of three years after the date on which the succession is opened. 
+
+**140** 
+
+### **Part-4** 
+
+### **<u>Laws Relating to Property</u>** 
+
+### **Chapter-1** 
+
+### **<u>General Provisions Relating to Property</u>** 
+
+**251. Deemed to be property:** Any cash, goods or work shall be deemed to be a property if such cash, goods or action can be used or transacted in or the title thereto can be transferred by way of purchase, sale or otherwise or any benefit can be derived therefrom. 
+
+**Explanation:** Except otherwise provided for in this Act, the term "goods" means a physical property capable of being purchased or sold. 
+
+**252. Property deemed to be in movable or immovable form:** A property shall be deemed to be in either movable or immovable form irrespective of its physical or non-physical, tangible or intangible form. 
+
+**253. Property deemed to be immovable:** (1) The following property shall be deemed to be an immovable property: 
+
+   - (a) A building or land or structure fixed thereto, 
+
+   - (b) Any goods attached to a building or land permanently, 
+
+   - (c) A mine, stone or mineral embedded in land, 
+
+   - (d) Natural water, surface water and underground water, 
+
+   - (e) A building or other structure so made permanently that it can float over a river, lake or pond, 
+
+**141** 
+
+- (f) A standing tree, plant or fruit tree or fruit or flower growing on such a tree, plant or fruit tree or crops in the land, or 
+
+- (g) A movable property attached to an immovable property. 
+
+(2) Notwithstanding anything contained in sub-section (1), if any structure, goods or any part thereof, fixed or attached to any immovable property gets or is detached or unfixed in any manner, the structure, goods or part so detached or unfixed shall be deemed to be a movable property. 
+
+**254. Property deemed to be movable:** The following property shall be deemed to be a movable property: 
+
+   - (a) Cash or goods that can be transacted as cash or foreign currency, 
+
+   - (b) Gold, silver, jewelry, _Ratna_ , gold or silver ornament or precious stone, 
+
+   - (c) Other good that can be moved from one place to another, except those referred in clause (a) or (b), 
+
+   - (d) A bond, security, promissory note, bill of exchange, letter of credit or other negotiable instrument or a benefit derived therefrom, 
+
+   - (e) Intellectual property, 
+
+   - (f) A right in security, 
+
+   - (g) A trade good-will or franchise, 
+
+**142** 
+
+   - (h) A property other than the immovable property. 
+
+**255. Classification of property according to ownership:** The property shall, according to the ownership and the form of use thereof be classified as follows: 
+
+   - (a) Private property, 
+
+   - (b) Property in common, 
+
+   - (c) Joint property, 
+
+   - (d) Community property, 
+
+   - (e) Public property, 
+
+   - (f) Government property, 
+
+   - (g) Trust property. 
+
+**256. Property deemed to be private property:** (1) Any of the following properties owned by any person or properties accrued therefrom shall be deemed to be a private property of such a person: 
+
+      - (a) Property earned by way of his or her knowledge, skills or effort, 
+
+      - (b) Property acquired by way of donation, bequeath, or succession, 
+
+      - (c) Property acquired by way of a lottery or gift, 
+
+      - (d) Property acquired by way of remuneration, gratuity, pension, medical expense, provident fund, insurance or other social security, 
+
+**143** 
+
+         - (e) Property acquired by way of intellectual property or royalty, 
+
+         - (f) Property acquired in any manner whatsoever while living apart by separating bread and board in accordance with law or while managing one’s accommodation at one’s cost despite not so living apart, 
+
+         - (g) Property earned or acquired by a woman prior to marriage or acquired from her parental side at the time of marriage or accrued therefrom, 
+
+         - (h) Property so granted to a woman by the husband or with consent of all coparceners of the husband side that she will have exclusive right in it or movable or immovable property received from the relatives or friends of the husband side and property accrued therefrom, 
+
+         - (i) Property which, according to law, is considered to be the exclusive private property of a person. 
+
+   - (2) Any person shall be entitled to exclusively deal with 
+
+   - his or her private property, subject to this Act. 
+
+**257. Property deemed to be property in common:** (1) Any of the following properties or property accrued therefrom shall be deemed to be the property in common, irrespective of such property being owned by any coparcener whosoever, out of the coparceners, subject to Section 256: 
+
+      - (a) Property inherited from ancestors, 
+
+**144** 
+
+- (b) Property owned by the coparceners except the private property, 
+
+- (c) Property earned by the coparceners from the farming, industry, trade or business in common or property accrued therefrom. 
+
+(2) Except where separated in accordance with law, any property earned by the husband or wife or property accrued therefrom shall be deemed to be the property in common of the husband **or** wife. 
+
+(3) Notwithstanding anything contained elsewhere in this Chapter, any property earned by the parents for the purpose of partition between the parents and their children shall also be deemed to be the property in common. 
+
+(4) The use of, and transfer of right in, the property in common and other provisions shall be as set forth in the other Chapters of this Act. 
+
+**258. Property deemed to be joint property:** (1) Any property owned by two or more persons except the coparceners living in a joint family or property accrued therefrom shall be deemed to be a joint property. 
+
+(2) The right or share of a joint holder in the joint property shall be as set forth in a deed setting out such rights and share, and failing such a deed, the holders of that property shall be deemed to have equal rights and share. 
+
+**145** 
+
+(3) The use and management of, transfer of title to, and other provisions relating to, the joint property shall be governed by this Chapter and the other Chapters of this Act. 
+
+**259. Trees, plants or goods on boundary to be deemed joint property:** Except as otherwise proved, the trees, plants or goods lying on the boundary of two or more owners of adjoining lands shall be deemed to be the joint property of all owners. 
+
+**260. Management, protection and maintenance of joint property:** (1) The management, protection and maintenance of a joint property shall be made as per the consent of the owners of that property. 
+
+(2) Failing consent between the owners in relation to the management, protection and maintenance of a joint property pursuant to sub-section (1), the management, protection and maintenance of the joint property shall be made according to the decision of majority members. 
+
+(3) Failing a majority opinion between the owners in relation to the management, protection and maintenance of the joint property pursuant to sub-section (2), the owner who has the largest right or share in that property shall make its management, protection and maintenance. 
+
+Provided that if the owners have equal right, all owners shall have to make management, protection and maintenance of such property on an equal basis. 
+
+(4) Expenses incurred in the management, protection and maintenance of the joint property, if any, made by any owner 
+
+**146** 
+
+pursuant to sub-section (2) or (3) shall be borne by all owners in proportion to their respective right or share. 
+
+(5) The owner who does not manage, protect and maintain the joint property pursuant to sub-section (4) shall pay the expenses incurred in the management, protection and maintenance of that property to the owner who has made such management, protection and maintenance within a period of one year. 
+
+(6) If any owner fails to pay the expenses incurred in the management, protection and maintenance of the joint property within the period referred to in sub-section (5), the owner who has made management, protection and maintenance thereof shall be entitled to purchase the right and share of that other owner in that property at the prevailing price. Such purchaser of the joint property may deduct management and maintenance expenses of his or her portion. 
+
+**261. Prohibition of alteration in joint property without consent:** Any alteration in a joint property or any change in its form may not be made without consent of all the owners of the joint property. 
+
+**262. Legal action or defense may be made by any owner of joint property:** (1) If it is necessary to institute a legal action against any person or defend a case in relation to the protection of a joint property, all owners shall make such institution or defense. 
+
+(2) If all owners are not available as referred to in subsection (1), any owner may, on behalf of him or her or the other owners, institute legal action against any person or defend any case. 
+
+**147** 
+
+**263. Separation of one’s share from joint property:** (1) Any owner of a joint property may separate his or her right or share therein from the other owners at any time. 
+
+(2) The separation of a joint property referred to in subsection (1) shall be effected in accordance with the consent of all the owners. 
+
+(3) Notwithstanding anything contained in sub-section (1) or (2), if the separation of any joint property results either in a substantial loss to the other owners or in a disorder in the form of that property, such separation may not be made. 
+
+(4) If any joint property cannot be separated owing to the circumstance referred to in sub-section (3), the owners of that property shall sell such property and divide the proceeds of sale between them in proportion to their respective right and share therein. 
+
+(5) If any joint property cannot be sold in accordance with sub-section (4) or all the owners do not agree to sell it and any owner intends to buy such property, such an owner may exclusively own it by paying the price of that property to the other owners in the same proportion. 
+
+(6) If more than one owner intend to buy the joint property pursuant to sub-section (5), the owner who agrees to pay the highest price shall be entitled to purchase such property. 
+
+**264. Provisions relating to community, public, government and trust properties:** The provisions relating to, and ownership, use, management, and transfer of right in, and other provisions of, the 
+
+**148** 
+
+community, public, government and trust properties shall be as set forth in the other Chapters of this Act. 
+
+**265. Statute of limitation:** A person aggrieved from any act done or action taken under this Chapter may make a lawsuit within six months after the date on which such an act was done or action was taken. 
+
+**149** 
+
+### **Chapter-** 2 
+
+### **<u>Provisions Relating to Ownership and Possession</u>** 
+
+**266. Ownership to be deemed:** If a person acquires the right in any property in accordance with law, his or her ownership in that property shall be deemed. 
+
+**288. Right of owner:** Any person, in capacity of the owner of any property, shall have the following right, subject to laws: 
+
+   - (a) To use the property, 
+
+   - (b) To sell or otherwise transfer the title to the property to any other person, 
+
+   - (c) To mortgage or pledge the property in any manner, 
+
+   - (d) To deal in the property, 
+
+   - (e) To take benefits of the property in any manner whatsoever, 
+
+   - (f) To make any kind of physical structure, wall or fence or delimit boundary, in his or her land or change the form of any property or otherwise protect it, 
+
+   - (g) To use his or her land or part below its surface or goods therein or sky above its surface, 
+
+   - (h) To destroy or dispose of property in any manner, 
+
+   - (i) To institute a legal action in any manner in relation to the acquisition or security of the property. 
+
+**268. Possessory right to be deemed:** If a person holds a property with him or her lawfully with intention to possess the property, the person shall be deemed to have the possessory right over such property. 
+
+**269. When possessory right can be acquired:** (1) The possessory right may be acquired over any property in the following manner: 
+
+**150** 
+
+      - (a) By holding the property in the capacity of its owner, 
+
+      - (b) By acquiring the property owned by another person, in accordance with law, 
+
+      - (c) By obtaining consent to have possessory right. 
+
+   - (2) Only the possessory right which is acquired in good 
+
+   - faith, peacefully or openly shall be deemed to have been acquired lawfully. 
+
+**270. Person competent to acquire possessory right:** (1) A person may acquire the possessory right either in person or through his or her agent. 
+
+(2) A person who is incompetent or quasi-competent may acquire the possessory right through his or her guardian or curator. 
+
+**271. Rights of possessor:** (1) A person, in the capacity of a possessor, shall, subject to law, have the following rights: 
+
+   - (a) To uninterruptedly possess the property in his or her possession, subject to the laws in force or the contract, if any, entered into in relation to the property, 
+
+   - (b) To use any benefits of the property in his or her possession. 
+
+(2) In the event of acquisition of, by a person, the possessory right in bona fide over any property owned by anyone else, the person shall be entitled to reimbursement from the owner of that property for essential expenses incurred in the management, maintenance or care of (rekh dekh) such property while it was under his or her possessory right. 
+
+(3) Notwithstanding anything contained in sub-section (2), the former possessor shall be entitled to retain such property with 
+
+**151** 
+
+him or her unless and until the expenses referred to in that subsection are reimbursed. 
+
+(4) If a bona fide possessor of any property not in his or her ownership has attached any goods to such property, the possessor shall be entitled to detach or take out the goods so attached by him or her from the property without tempering with such property. 
+
+**272. Circumstances when possessory right is extinguished:** The possessory right of a person over a property shall be deemed to have been extinguished in any of the following circumstances: 
+
+   - (a) If the person abandons the property, 
+
+   - (b) If the person transfers the property, 
+
+   - (c) If the property gets totally destroyed or becomes 
+
+useless. 
+
+**273. Adverse possessory right to be deemed:** (1) Notwithstanding anything contained elsewhere in this Chapter, if any person has possessed any movable property or land owned by anyone else, since more than three years ago in the case of the movable property and thirty years ago in the case of the land as if the property or land were owned by himself or herself, that person shall be deemed to have adverse possessory right over such property or land. 
+
+Provided that: 
+
+- (1) No adverse possessory right may be acquired over a government, public, community or trust land despite the length of the period of possession. 
+
+- (2) Where a contract or other law provides for separate provisions in relation to any property or 
+
+**152** 
+
+land, such provisions shall be applicable to such property or land. 
+
+(2) If any person acquires the adverse possessory right over any property pursuant to sub-section (1), the person may obtain ownership over such property in his or her name. 
+
+(3) Notwithstanding anything contained in sub-section (1), if a property or land is possessed without knowledge of its owner, secretly or forcibly, this Section shall not apply. 
+
+(4) In computing the period pursuant to this Section, it shall be computed from the date of the commencement of this Act. 
+
+**274. Compensation to be paid:** (1) If any person possesses any property forcibly, with mala fide intention or secretly, the person shall return the benefits derived from that possession and such property to the concerned person and pay a reasonable compensation for any loss caused to the property due to his or her negligence in the course of possessing such property. 
+
+(2) If any property owned by anyone else is lost or damaged during the continuance of the possessory right of a person over the property, the person shall pay compensation for such property to the concerned person. **275. Statute of limitation:** A person who is aggrieved from any act done or action taken pursuant to this Chapter may make a lawsuit within three months after the date of knowledge of commission of such act or action. 
+
+**153** 
+
+### **Chapter-3** 
+
+### **<u>Provisions Relating to Uses of Property</u>** 
+
+**276. Prohibition of use, temperance or acquisition of other's property:** (1) No person shall use other's property without consent of that other person. 
+
+(2) No person shall temper with other's property by closing the road or exit of the other person or doing any act or construction on the border of his or her land or otherwise. 
+
+(3) No person shall acquire other's property without consent of that person. 
+
+Provided that the Government of Nepal may, in accordance with law, acquire property of any person for public interest. 
+
+(4) No person shall enter other's house and compound without consent of any person except in accordance with law. **277. Property to be inviolable:** (1) No person shall encroach or trespass other's property by way of overlapping, pressing or otherwise. 
+
+(2) If any person takes possession of other's property by way of any act referred to in sub-section (1), that person shall be deemed to have encroached or trespassed such property. 
+
+**278. Safety measures to be adopted:** A person shall, while doing any work on his or her house or land, adopt safety measures in order to avoid any loss or damage or effect to the neighbor's house or land in any manner. 
+
+Provided that, except where a business transaction is carried on by any neighbor, matters such as gas, smell, smoke or noise of 
+
+**154** 
+
+general nature emitted or produced from the use by the neighbor of his or her house or land shall not be deemed to have caused a loss or damage or effect to the house or land. 
+
+**279. Prohibition of building a house in other's land without consent:** (1) No person shall build a house in a land without obtaining written consent of the owner of that land. 
+
+(2) If any person builds a house in a land without obtaining written consent of the owner of that land, the land-owner may, if he or she so desires, purchase the house on payment of the price that is less by up to twenty-five percent of the market price of that house. 
+
+(3) If the land-owner does not purchase such house pursuant to sub-section (2), the house-owner may, if the owner so consents, purchase the land on payment of the price that is higher by up to twenty-five percent of the market price of the land where the house is located. 
+
+(4) If both parties do not agree to purchase and sell the house or land pursuant to sub-section (2) or (3), the person who has built the house shall demolish the house and take away his or her materials within a period of three months of the date on which the house was so built. 
+
+(5) If the house is not demolished within the period referred to in sub-section (4), such a house shall belong to the landowner. 
+
+**280. To leave land while putting window:** If a person or government body has to build a house by putting a window or door towards the 
+
+**155** 
+
+neighbor's land, the person or body shall leave the land according to the standards specified by the concerned body. 
+
+**281. Prohibition of channeling water of house or roof:** No person shall channel the water of his or her house or roof to other's house or land or a public road. 
+
+**282. Prohibition of making safety tank adjoining to neighbor's land:** (1) No person shall construct a safety tank by adjoining it to the neighbor's land. 
+
+(2) If a person has to construct a safety tank in his or her land, he or she shall leave at least the land according to the standards specified by the concerned body, except in cases where the neighbor's consent is available. **283. To leave land while digging well or** **_Kuwa_ :** In digging a well or a small ( _Kuwa)_ in one's land, one shall leave the land so that the distance of at least one meter can be maintained from the neighbor’s land. 
+
+**284. Prohibition of planting trees or plants causing effect:** (1) No person shall plant a tree or plants in such a way so that it causes effects to other's house, land or property. 
+
+(2) If any tree or plant planted by a person in one's land cause any effect by expanding to other's house, land or property, the person who has planted such tree or plants shall cut the branches or roots of the tree or plant in such manner as not to cause loss or damage to that person's house, land or property. 
+
+(3) If a person who has planted such tree or plants fails to cut off the branches or roots of the tree or plants pursuant to sub- 
+
+**156** 
+
+section (2), the person who is affected therefrom may cut off the branches or roots of such tree or plants on his or her own. 
+
+**285. Compensation to be recovered:** If any damage is caused to any person from any act done or action taken by any person under this Chapter, the damage sustaining person shall be entitled to recover a reasonable compensation from the person who has done such act. 
+
+**286. Statute of limitation:** A person who is aggrieved from any act done or action taken under this Chapter may make a lawsuit within six months after the date of knowledge of the commission of such act or action. 
+
+**157** 
+
+### **Chapter-4** 
+
+### **<u>Provisions Relating to Cultivation, Use and Registration of Land</u>** 
+
+**287. Prohibition of use of other's land:** No person shall cultivate or use, or cause to be cultivated or used, any land in which another person has right, possession and ownership, without consent of that person. 
+
+**288. Requirement to allow land to be used for ditch:** (1) If a person who needs to construct a ditch through other's land to cultivate land requests for land, the concerned owner of the land shall provide the land for the construction of the ditch through the place where the concerned landowner considers appropriate. 
+
+(2) In consideration for the land provided for construction of a ditch through it pursuant to sub-section (1), the person who constructs the ditch shall provide a substitute land, amount according to the prevailing price of the land used in the construction of the ditch or reasonable compensation to the concerned landowner. 
+
+(3) Notwithstanding anything contained in sub-section (2), if a ditch is constructed in a public or government land, it is not required to provide a substitute land, price of land or compensation for the land used in construction of the ditch. **289. Prohibition of using whole water of river or stream:** No owner of a land shall so use the whole water of the river or stream which originates or flows from the land as to prevent the owner of downstream land from using the same or as to endanger the life of aquatic animals in the river or stream or as to adversely affect the ecological balance. 
+
+**158** 
+
+**290. Prohibition of making new ditch affecting irrigated field:** No person shall construct a new ditch above a land irrigated by a ditch already made and in operation in a manner to significantly lessen the volume of water in that land. 
+
+**291. Use and allocation of ditch water:** (1) A person who has spent labor or money in the construction of a ditch shall have the first priority to the ditch water for the cultivation of land. 
+
+   - (2) Notwithstanding anything contained in sub-section (1), 
+
+   - in a place where people have been using the water according to agreed division between them from the time immemorial, all people shall be entitled to use the ditch water according to the division. 
+
+(3) If the water is sufficient for or no longer required for a person who uses the water pursuant to sub-section (1), another person shall be entitled to use the ditch water for cultivating the land irrespective of the person whom the ditch belongs to. 
+
+(4) If the land of a person is irrigated and then water overflows to other’s land, such water may be used even without the consent of the concerned land-owner, and no claim shall entertained for the same. 
+
+**292. Prohibition of alteration in ditch without consent:** If any ditch is constructed only in the land of a person and other persons have also been using the ditch, the owner of land where such ditch is situated shall not be allowed to alter the ditch without consent of the other persons using it. 
+
+**293. One who does not make labor or expenses in making ditch not allowed to use water:** (1) While making a new ditch or repairing 
+
+**159** 
+
+an old ditch, all persons who use the water of such ditch shall make necessary labor or expenses in proportion to their respective land. 
+
+(2) A person who does not make labor or expenses in making a new ditch or repairing an old one pursuant to sub-section (1) shall not be entitled to use the water of such a ditch. 
+
+**294. Construction of ditch or use of water with mutual consent:** Notwithstanding anything contained elsewhere in this Chapter, if there is a separate agreement between the concerned land-owners or those who make a ditch or who are users of water in relation to the construction of ditch or using of water for the cultivation of land, the ditch may be made or water used according to that agreement. 
+
+**295. Cultivation of land adjacent to river bank:** If a river or stream enters in a land and divides it or cuts a land, the land shall belong to its owner and may be cultivated by the owner after the river or stream changes its course and leaves the land. 
+
+**296. Prohibition of registration:** No person shall register, or cause to be registered, other’s land in his or her name. 
+
+### **297. Transmission and registration and deregistration to be effected:** 
+
+- (1) If a person needs to have transfer of a land on the death of its registration holder or to have registration and deregistration of a land in which the person has got right in any manner, the concerned person shall submit an application to the Land Revenue Office and obtain transmission and registration and deregistration of the matter within thirty-five days of the occurrence of such an event. 
+
+(2) If a person submits an application for transmission and registration and deregistration of the matter after the expiry of the 
+
+**160** 
+
+time-limit referred to in sub-section (1), the Land Revenue Office shall execute the transmission and registration of such land in the applicant's name by collecting the fee of one hundred rupees irrespective of the length of time after such expiration. 
+
+**298. Statute of limitation:** A person who is aggrieved from any act done or action taken pursuant to this Chapter may make a lawsuit within six months after the date of knowledge of commission of such an act or action. 
+
+**161** 
+
+### **Chapter-5** 
+
+### **<u>Provisions Relating to Government, Public and Community</u>** 
+
+### **<u>Properties</u>** 
+
+**299. Property deemed to be government property:** The following property title to which belongs to, or which is owned, controlled by, or subject to, the Government of Nepal, Province Government and Local Government shall be deemed to be the government property: 
+
+   - (a) Government houses, buildings or lands, 
+
+   - (b) Roads, paths or railways, 
+
+   - (c) Forests, or trees or trees, bushes in forests, 
+
+   - (d) Rivers, rivulets, streams, lakes, ponds and banks thereof, 
+
+   - (e) Canals, ditches or uncultivated, barren lands, 
+
+   - (f) Mines or minerals, 
+
+   - (g) Himalaya, mountains, rocks, sandy lands, public gardens, 
+
+   - (h) Any Property other than a public, community, trust property or any one's property. 
+
+**300. Property deemed to be public property:** (1) The following property which is for public purpose shall be deemed to be the public property: 
+
+   - (a) Houses, lands, sewerage or roads having been used since ancient times, 
+
+   - (b) Wells, water conduits, shores, ponds and banks thereof, 
+
+**162** 
+
+      - (c) Exits for chattels, pasture lands, _Kharka_ , graveyards, _Chihan_ , Samadhisthal, _Kabristan_ and lands where these are located, 
+
+      - (d) Inns, _Pauwas_ , _Dewals_ , religious meditation sites, memorials, temples, shrines, _Chaitya_ , monasteries, _Stupas_ , churches, _Chowk_ , _Dawali_ , _Chautari_ or lands where these are located, 
+
+      - (e) Lands where fairs, markets and public entertainment or sports sites are located, 
+
+      - (f) Private property provided by any person for public purposes, 
+
+      - (g) Such other property as prescribed to be the public property by the Government of Nepal, by a notification in the Nepal Gazette. 
+
+   - (2) The ownership of the public property shall vest in the 
+
+   - public body or the Government of Nepal. 
+
+**301. Property deemed to be community property:** Any land held by a community for its use, any structure built in such land or other property owned by it shall be deemed to be the community property. 
+
+**302. Details to be updated:** (1) The Land Revenue Office shall prepare and update the following details in relation to the government and public properties situated within the district: 
+
+      - (a) The location where the government or public properties are situated, plot number and area, in the case of a land, and situation of the house, if any, 
+
+**163** 
+
+- (b) If the government or public properties are possessed by, or subjected to, any body or organization, details thereof, 
+
+- (c) Other necessary details. 
+
+(2) The Local Level shall render necessary assistance to the Land Revenue Office in preparing the details referred to in subsection (1). 
+
+(3) After the preparation of the details pursuant to subsection (1), the Land Revenue Office shall forward a copy thereof to the concerned district level administrative office and Local Level. 
+
+(4) The Local Level shall collect and update the details referred to in sub-section (1) in relation to the community properties situated within its jurisdiction and forward a copy thereof to the concerned Land Revenue Office. 
+
+**303. Land ownership registration certificate to be provided:** (1) If any government land is held in the name of a government body or public organization, the Land Revenue Office shall prepare the land ownership registration certificate of such land in the name of such body or organization and provide it to such body or organization. 
+
+(2) If any land is available to a community in accordance with law, the Land Revenue Office shall prepare the land ownership registration certificate of such land in the name of such community and provide it to that community. 
+
+**304. Obligation to protect government, public or community properties:** (1) The Government of Nepal, public organization or 
+
+**164** 
+
+community holding the right in, possession, custody of, and control over, the government, public or community properties shall itself protect such properties. 
+
+(2) To protect government and public properties shall be responsibility of the concerned district level administrative office and Local Level. 
+
+(3) The concerned community and Local Level shall be responsible for the protection of the community property. 
+
+**305. Prohibition of registration of government, public or community properties in individual's name:** (1) No person shall register, or cause to be registered, any government, public or community property in his or her name. 
+
+(2) If a person registers, or causes to be registered, any government, public or community property in the name of any individual, such registration shall, _ipso facto_ , be void. 
+
+(3) If a complaint is filed as to the registration of any government, public or community property in any individual's name, the concerned Land Revenue Office shall summon the presence of the registration-holder also and inquire into the matter, as required, and make necessary decision within six months after the date of filing the complaint. 
+
+(4) If the registration of any government, public or community property in any individual's name is annulled pursuant to this Section, the Land Revenue Officer shall make necessary entries in the records maintained in his or her office and give 
+
+**165** 
+
+information thereof to the concerned district level administrative office and Local Level. 
+
+(5) The Land Revenue Office shall punish a person who registers, or causes to be registered, any government, public or community property in contravention of this Section with a fine of twenty-five thousand to one hundred thousand rupees. 
+
+(6) The registration of government, public or community property in oneself or some individual's name which in itself is offence as per prevailing laws, nothing written in this section shall be an obstacle to take action in offence related to it. 
+
+### **306. Prohibition of possession or cultivation of government, public** 
+
+**or community land:** (1) No person shall possess any government, public or community land by way of overlapping, encroachment, surrounding or otherwise. 
+
+(2) No person shall, except with the permission of the Government of Nepal, concerned public organization or community, cultivate, or cause to be cultivated, any government, public or community land. 
+
+(3) If any person possesses or cultivates any government, public or community land in contravention of sub-section (1) or (2), the concerned Land Revenue Office, in the case of the government or public land, and the concerned Local Level, in the case of the community land, shall separate such land, recover the crops yielded in the land from that person and vacate the land. 
+
+(4) The Land Revenue Office may punish any person who possesses or cultivates any government, public or community land 
+
+**166** 
+
+in contravention of this Section with a fine not exceeding ten thousand rupees. 
+
+**307. Prohibition of building structure:** (1) No person shall build any structure in any government, public or community land, for any personal or public purpose. 
+
+Provided that any structure may be constructed as considered appropriate by the Government of Nepal, in the case of a government or public land, and by the concerned community for public purpose, in the case of a community land. 
+
+**(** 2) If any person initiate to construct any structure in any government, public or community land in contravention of subsection (1), the concerned Chief District Officer or Local Level shall stop such work immediately. 
+
+(3) If any person has already constructed any structure in any government, public or community land in contravention of subsection (1), the concerned Chief District Officer shall give a timelimit of fifteen days to the main person having constructed the structure to demolish such structure. 
+
+(4) The main person having constructed such a structure shall demolish the structure at his or her own expense within the time-limit given pursuant to sub-section (3). 
+
+(5) If the main person having constructed such a structure fails to demolish the structure within the time-limit given pursuant to sub-section (3), the concerned Chief District Officer shall demolish such a structure. 
+
+**167** 
+
+(6) If the Chief District Officer demolishes any structure pursuant to sub-section (5), the Chief District Officer may recover the expenses incurred in such demolition from the main person having constructed the structure and punish him or her with a fine not exceeding twenty-five thousand rupees. 
+
+(7) It shall be the duty of the concerned police office to render necessary assistance, if any, sought by the Local Level in stopping the construction of any structure or in demolishing any already built structure pursuant to this Section. **308. Power to transfer government property:** The Government of Nepal may transfer any government property owned and possessed by, or subjected to, any body or organization to any other body or organization, with the permission of such an owner body or organization. 
+
+**309. Conversion of community property into public property:** (1) If any community holding a community property does not use it or submits an application bearing signature or thumb impression of each of the main persons of all families of such a community, setting out that it is not necessary to use such community property in its purpose, to the concerned Land Revenue Office, the concerned Land Revenue Officer may make necessary inquiry into the matter and convert such property into the public property. 
+
+(2) In the event of conversion of any community property into the public property pursuant to sub-section (1), the concerned Land Revenue Officer shall make necessary entries in the records maintained in his or her office and give information thereof to the concerned district level administrative office and Local Level. 
+
+**168** 
+
+**310. To reward complainant:** (1) Any person whosoever may make a complaint with the concerned body on the matters of registration, or causing registration, of a government, public or community property, or possession, use or cultivation of a land under such property or construction work done in such land, in contravention of this Chapter. 
+
+   - (2) If, on inquiring into a complaint made pursuant to sub- 
+
+   - section (1), the complaint is held to be true, the concerned body shall provide the complainant with a reward in a sum that is half the fine imposed on the wrongdoer pursuant to this Chapter. 
+
+(3) The concerned body may keep confidential a complaint made pursuant to sub-section (1). 
+
+**311. Action to be taken:** (1) If any employee, either knowingly or negligently or recklessly registers, or causes to be registered, any government, public or community property in the name of any person or if any employee with the duty to render assistance pursuant to this Chapter does not render such assistance, such employee shall be liable to departmental action in accordance with the law of terms and conditions of his or her service. 
+
+   - (2) Nothing shall prevent the taking of action against an 
+
+   - employee who commits an act referred to in sub-section (1) on a criminal offence, in addition to the action taken under sub-section (1). 
+
+**312. Governmental attorney empowered to file or make case, petition or appeal:** (1) The concerned government attorney shall have power to file or make a case, petition or appeal against any 
+
+**169** 
+
+decision made by any body or authority, adversely affecting any government or public property. 
+
+(2) The concerned office or authority shall provide the government attorney with such documents and other assistance as may be necessary in relation to the filing or making of a case, petition or appeal pursuant to sub-section (1). 
+
+**313. Statute of limitation:** A person may make a lawsuit at any time in the cases of Sections 305, 306 and 307 of this Chapter, and a person who is aggrieved from any act done or action taken referred to in other Sections of this Chapter may make a lawsuit within six months after the date on which such an act was done or action was taken. 
+
+**170** 
+
+### **Chapter-6** 
+
+### **<u>Provisions Relating to Trusts</u>** 
+
+**314. Trust deemed to be established:** If a person makes necessary arrangements for the operation and management by another of a property in which the person has right, ownership and possession for the benefit of beneficiary, a trust shall be deemed to be established. 
+
+**Explanation:** For the purposes of this Chapter, the term "beneficiary" means a person, group, general public, body whether incorporated or unincorporated, or community getting the benefit from the trust property. 
+
+**315. Trust may be public or private:** (1) A trust may be either public or private. 
+
+   - (2) A trust established for the accomplishment of the 
+
+   - following object shall be deemed to be a public trust: 
+
+      - (a) To establish, operate and use a fund for infrastructures of economic development or other development works, 
+
+      - (b) To establish and operate a fund necessary for the development of skills, creation of employment opportunities and development of the people with low income, 
+
+      - (c) To operate social welfare programs, 
+
+      - (d) To establish and operate such educational and academic institutes like schools, colleges and 
+
+**171** 
+
+universities as may be useful for the general public, 
+
+- (e) To establish and operate **clinics** such as hospitals and health posts for public purposes, 
+
+- (f) To protect natural, historical or cultural heritages or to promote such act, 
+
+- (g) To operate programs for the protection of wildlife, aquatic animals or environment, 
+
+- (h) To operate programs for the protection of interest, welfare or upliftment of various classes, groups or communities, 
+
+- (i) To operate programs relating to sports, 
+
+- (j) To carry out service-oriented welfare programs, 
+
+- (k) To operate rescue works, 
+
+- (l) To establish shrines, temples, monasteries, domes, mosques, churches or carry out similar other religious activities, 
+
+- (m) To operate other public programs for the interest of public. 
+
+(3) A trust which is established with object to render benefit, advantage or facility to any particular person or group shall be deemed to be a private trust. 
+
+(4) If a trust is established to accomplish both public and private objectives, such a trust shall be deemed to be a public trust. 
+
+**172** 
+
+**316. Application to be made for establishment of trust:** (1) A person who intends to establish a trust shall make an application, setting out the following matters, to the Registrar: 
+
+      - (a) Value and details of the property held for the trust, 
+
+      - (b) Beneficiary, and benefit and facility to the beneficiary, the terms and limitation thereof, 
+
+      - (c) If the trust is to be established for any particular period, matter relating thereto, 
+
+      - (d) Other necessary details. 
+
+   - (2) In making an application pursuant to sub-section (1), 
+
+   - the following documents shall also be submitted with the application: 
+
+      - (a) Memorandum of incorporation of the trust, 
+
+      - (b) Trustee's name and photocopy of the deed relating to his or her consent, 
+
+      - (c) Photocopy of the deed, if any, executed for the establishment of the trust, 
+
+      - (d) Photocopy of a reliable deed relating to the trust settler's identity, and, in the case of the trust settler being a body corporate, certified copies of the documents relating to the incorporation of the body corporate and of the decision by such a body corporate in relation to the establishment of trust, 
+
+      - (e) Receipt of payment of the fees chargeable by law for the registration of trust. 
+
+**173** 
+
+**Explanation:** For the purposes of this Chapter: 
+
+- (1) "Registrar" means the authority provided for by law for the registration, supervision and liquidation of trusts, and this term also includes the Land Revenue Officer in the concerned district if such authority is not so provided for. 
+
+- (2) "Trustee" means the person who is responsible for the operation and management of a trust property. 
+
+(3) Notwithstanding anything contained in sub-section (1), if any person has, by way of his or her oral behavior, conduct or a testamentary gift or will, provided for the operation and management of a property in which he or she has right, ownership and possession as a trust, the trust shall be deemed to have been established by such behavior, conduct or will. 
+
+Provided that in the case of a property requiring registration for the transfer of its title in accordance with law, a deed pertaining to such transfer has to be registered. 
+
+(4) If a foreign person intends to establish a trust, the person shall make an application, upon fulfilling the procedures as referred to in sub-sections (1) and (2). A foreign person may be the founder of the trust to be so established. 
+
+Provided that a foreign person is not allowed to establish a trust for the accomplishment of the object referred to in clause (l) of sub-section (2) of Section 315. 
+
+**174** 
+
+(5) At least one-thirds of the trustees of a trust established pursuant to sub-section (4) shall be Nepali citizens having permanent residence in Nepal. 
+
+**317. Details to be set out in memorandum of incorporation:** The following matters shall be set out in the memorandum of incorporation of a trust: 
+
+   - (a) Names, surnames and addresses of the founders of the trust, and, if a body corporate is the founder, names, surnames and addresses of the directors of such body, 
+
+   - (b) Objects and nature of the trust, 
+
+   - (c) Names, surnames and addresses of the trustees, details of the business to be performed by them, and, if a body corporate is a trustee, name, surname and address of the person designated by the body to act as the trustee, 
+
+   - (d) Details of the beneficiaries, 
+
+   - (e) Method of use of the trust property, 
+
+   - (f) Details of the tenure of the trustee, if any, so specified, 
+
+   - (g) If the beneficiaries are entitled to remuneration or other facilities, details thereof and limitation, 
+
+   - (h) If the trust is intended to be established for a certain period, details of such period, 
+
+   - (i) In the event of termination of the trust, consequences thereof, 
+
+   - (j) Provisions relating to the operation, management and monitoring of the trust property, 
+
+**175** 
+
+      - (k) Other necessary matters. 
+
+**318. Trust to be registered:** (1) If an application is made for the establishment of a trust pursuant to Section 316, the Registrar shall make necessary inquiry into the objects of the trust and the details of the property proposed for the establishment of the trust, and, if it appears reasonable to register the trust, register the trust and issue the trust registration certificate, within a period of thirty-five days of the making of such application. 
+
+   - (2) If a trust is registered pursuant to sub-section (1), the 
+
+   - trust is deemed to have been established. 
+
+(3) Notwithstanding anything contained elsewhere in this Section, a private trust may be operated even without registration. 
+
+Provided that if a person so operates a private trust, the person shall give information thereof to the concerned Registrar. 
+
+**319. Power to refuse registration of trust:** (1) Notwithstanding anything contained in Section 318, the Registrar may refuse to register a trust in any of the following circumstances: 
+
+   - (a) If the details, documents or fees referred to in Section 316 are not mentioned or paid, 
+
+   - (b) If the name of the trust resembles with the name of any other trust already registered prior to the registration of the trust applied for, 
+
+   - (c) If the objects or terms of the trust appear to be inappropriate or undesirable for reasons of public interest, decency, courtesy or public order, are not 
+
+**176** 
+
+lawful or are not capable of being implemented owing to their uncertainty or vagueness. 
+
+(2) If a trust is not capable of being registered pursuant to sub-section (1), the Registrar shall give information thereof, along with the reason for refusal, to the applicant within thirty-five days. 
+
+(3) If, upon receipt of information pursuant to sub-section (2), the applicant makes necessary corrections and an application again for the registration of the trust, the Registrar shall register the trust and issue the registration certificate pursuant to sub-section (1) of Section 318, within fifteen days of the making of such an application. 
+
+**320. Transfer of property for incorporation of trust:** (1) The trust founder shall transfer the property settled for the trust to the trustee within a period of three months of the establishment of the trust. 
+
+(2) If the property to be transferred pursuant to sub-section (1) is an immovable property, such a property shall be deemed to have been duly transferred only when it is transferred in accordance with law. 
+
+(3) A foreign person that establishes a trust in Nepal shall remit into Nepal a movable property equivalent to at least one million United States Dollars through regular banking channel and hand over the same to the trustee within a period of three months. 
+
+(4) The information of the hand-over of the movable property pursuant to sub-section (3) shall be given to the Registrar. **321. Dissolution of trust on failure of transfer of property:** In the event of failure to transfer the property within the time-limit 
+
+**177** 
+
+referred to in Section 320, the registration of such a trust shall be deemed to be void _ipso facto_ and the trust shall be deemed to have been dissolved. 
+
+**322. Operation and management of trust property according to memorandum of incorporation:** (1) The trustee shall, subject to the terms and restrictions set forth in the memorandum of incorporation, operate and manage the trust property. 
+
+(2) Except as otherwise provided for in the memorandum of incorporation, the trustee shall, in operating and managing the property pursuant to sub-section (1), not sell, mortgage, or otherwise transfer title to, the immovable property or any part thereof without prior permission of the concerned Registrar. 
+
+(3) In asking for prior permission of the Registrar pursuant to sub-section (2), the reason for the sale, mortgage of, or transfer of title to, such property, and the reasons and grounds that it may result in more benefit to the beneficiary shall be set out. 
+
+**323. Duty to operate and manage trust property properly:** (1) The trustee shall operate and manage the trust property properly, by exercising his or her capacity and diligence honestly. 
+
+(2) In the operation and management of the trust property pursuant to sub-section (1), the trustee shall make arrangement to avoid any loss and damage to, and maintain sustainability of, such property. 
+
+(3) Except as otherwise provided for in the memorandum of incorporation, in the operation and management of the trust property pursuant to sub-sections (1) and (2), income earned from 
+
+**178** 
+
+the trust property which is not required immediately to accomplish the objects of trust may be invested for the accomplishment of the objects of trust. 
+
+(4) Except as otherwise provided for in the memorandum of incorporation, in making investment pursuant to sub-section (3), it may be invested as follows, in the following proportion of the total sum: 
+
+- (a) At lest twenty-five percent in the purchase of bonds or treasury bills issued by the Government of Nepal or Nepal Rastra Bank or bonds guaranteed by the Government of Nepal, 
+
+- (b) Deposit of a maximum of twenty-five percent in a fixed account with a commercial bank, 
+
+- (c) Deposit of a maximum of ten percent in a fixed account with a development bank, 
+
+- (d) A maximum of five percent in the subscription of ordinary shares of a commercial bank, 
+
+- (e) Deposit of a maximum of ten percent in a fixed account with a finance company, 
+
+- (f) A maximum of five percent in the subscription of such ordinary shares of an enlisted public limited company as are dealt publicly. 
+
+(5) The trustee shall, from time to time, carry out monitoring as to the investment made pursuant to sub-section (4), and if it appears from such monitoring that the returns of investment made in one sector be lesser, such investment shall be 
+
+**179** 
+
+withdrawn immediately and made in another sector yielding more returns, subject to the terms and restrictions of the investment. 
+
+(6) In making monitoring or investment pursuant to subsection (5), opinion of an expert in the concerned sector may, as required, be obtained. 
+
+(7) An opinion obtained pursuant to sub-section (6) may be taken as the basis for monitoring or investment. 
+
+(8) The trustee shall maintain his or her personal property and the trust property separately and operate and mange the trust property accordingly, and in the event of a need to operate an account, separate accounts shall be maintained. 
+
+**324. Trustee to be appointed:** (1) A trustee shall be appointed for the operation, management, protection and care of (herbichar)the trust property and for using fruits of such property to the benefit of the beneficiary or making proper arrangements thereof. 
+
+(2) Except as otherwise provided for in the memorandum of incorporation, the founder of the trust shall appoint the trustee. 
+
+(3) In the event of the failure to appoint or inability to appoint the trustee pursuant to sub-section (1) or (2), the founder of trust shall be deemed to be the trustee. 
+
+**325. Disqualification of trustee:** The following person shall not be qualified to be a trustee: 
+
+   - (a) A person who is not competent to make contract, 
+
+   - (b) A person who has embezzled a property in his or her custody, 
+
+**180** 
+
+   - (c) A person who has been convicted by a court of the offense of corruption, 
+
+   - (d) A person who has been sentenced for a criminal offense involving moral turpitude, 
+
+   - (e) A person who is the sole beneficiary of the trust property. 
+
+**326. Number of Trustees:** Except as otherwise provided for in the memorandum of incorporation, the number of trustees shall, subject to the other provisions of this Chapter, be one in minimum and seven in maximum. 
+
+**327. Body corporate being eligible to be trustee:** (1) A body corporate which is established in accordance with law may be appointed as a trustee. 
+
+(2) If the body corporate referred to in sub-section (1) is appointed as a trustee, the person working as the chief of such a body or a person to whom the power is delegated by a decision of the board of directors of such a body shall act on behalf of such a body. 
+
+**Explanation:** For the purposes of this Section, the term "person working as the chief" means the chairperson, director, managing director, general manager, executive director of such body or a person empowered by such a body to work as its chief. 
+
+**328. Provisions relating to vacancy in office of trustee:** (1) The office of the trustee shall be fallen vacant in any of the following circumstances: 
+
+   - (a) If the person is not qualified to be a trustee, 
+
+**181** 
+
+- (b) If the person resigns from the office of a trustee, 
+
+- (c) If the person dies or becomes insolvent, 
+
+- (d) If, in the case of a body corporate, it is dissolved, liquidated or becomes insolvent in accordance with law, 
+
+- (e) If a trust is established for a certain period and such a period is completed, 
+
+- (f) If the trustee is appointed for a certain tenure and such a tenure is completed, 
+
+- (g) If the trustee is removed by the trust founder or court on the ground that he or she has embezzled the trust property or has not taken a reasonable care of (herchaha) such property. 
+
+(2) If the office of a trustee is fallen vacant pursuant to sub-section (1), such an office shall be filled in accordance with the procedures set forth in the memorandum of incorporation. 
+
+(3) If the office of trustee cannot be fulfilled pursuant to sub-section (2), the beneficiary, if available, and the concerned Local Level, if there is no beneficiary or the beneficiary cannot be identified, shall make an application, accompanied by a list of possible candidates, to the concerned District Court for the appointment of a trustee. 
+
+(4) If an application is made for the appointment of trustee pursuant to sub-section (3), the District Court shall appoint to the office of trustee an appropriate person from the list of candidates 
+
+**182** 
+
+provided by the applicant, in consonance with the spirit of the memorandum of incorporation. 
+
+(5) If any trustee is relieved of his or her office by virtue of the circumstance referred to in sub-section (1), he or she shall, as promptly as possible, hand over the trust property in his or her custody, control or use to other trustees, and he or she shall not get immunity from any kind of liability or legal action for any act done or action taken by him or her while in office of a trustee by the reason only that he or she has been so relieved of office. 
+
+Provided that if all trustees are relieved of office, such property shall be transferred after the appointment of another trustee. 
+
+(6) If the office of a trustee of a public trust with only one trustee falls vacant or is fulfilled pursuant to this Section, information thereof shall be given to the registrar. 
+
+**329. To specify roll of succession of trustee:** (1) Except as otherwise provided for in as to the roll of succession of trustees in the memorandum of incorporation, after the death of a trustee, his or her eldest son, daughter-in-law or daughter shall succeed the office of a trustee according to the roll of succession, and if there is no one out of them, his or her heir shall succeed the office of trustee. 
+
+(2) If a person who becomes the trustee pursuant to subsection (1) is not qualified to be the trustee, his or her guardian or the person taking care of (herchaha) him or her shall perform the obligation of the trustee on his or her behalf until such a person becomes qualified. 
+
+**183** 
+
+(3) Except as otherwise provided for in the memorandum of incorporation, if there is a provision that one's descendents are entitled to be the trustee, the descendents of such a person shall succeed the office of trustee according to the limit of their respective rights, and the provisions contained in Section 326 shall not apply to such case. 
+
+**330. Requirement to perform obligation of trustee in special circumstance:** If there exists a situation that the office of trustee falls vacant in entirety and the office of trustee cannot be filled immediately pursuant to sub-section (2) of Section 328, the Local Level shall function as the trustee until the office is filled. 
+
+**331. Requirement to operate trust by consensus:** (1) Except as otherwise provided for in the memorandum of incorporation, the trust with more than one trustee shall be operated by consensus decision of all the trustees as far as possible. 
+
+(2) In the event of failure to reach consensus pursuant to sub-section (1), the trust may be operated by a majority decision of the then existing trustees, and if that is not possible, by the decision of the eldest trustee. 
+
+**332. To carry out object of trust:** The trustee shall carry out the object of trust as set forth in the memorandum of incorporation, and in so carrying out the object, the trustee shall discharge functions honestly and according to his or her capacity and diligence. 
+
+**333. To maintain records of trust property:** (1) The trustee shall prepare an inventory of the trust property and update the records 
+
+**184** 
+
+thereof, and, in the case of a public trust, a copy of such records shall be submitted to the registrar each year. 
+
+(2) The inventory referred to in sub-section (1) shall also reflect the total assets, loans, or if such property has been invested in any business, principal, interest or other returns of such investment. 
+
+**334. Protection of trust property:** (1) The trustee shall protect and maintain the trust property, and may also make any kind of such legal action or complete any kind of such formality with any public authority as may be required for this purpose. 
+
+(2) In protecting or maintaining the trust property, the trustee shall take proper and reasonable care of (herbichar), and do act conducive to the enhancement of, the trustee property as if the property were his or her own. 
+
+**335. Prohibition of possession of trust property to prejudice benefit of beneficiary:** No trustee shall so possess or use the trust property for himself or herself or other person as may be prejudicial to the benefit of the beneficiary. 
+
+**336. Duty to prevent loss to trust property:** (1) It shall be the duty of the trustee to prevent destruction, termination of, or otherwise loss to, the trust in a manner prejudicial to the benefit of the beneficiary or contrary to the object of the trust. 
+
+(2) If the trust property is not managed properly or is made subject to cheating or fraud or is embezzled or used for other purposes, any trustee or beneficiary may, subject to the provisions 
+
+**185** 
+
+set forth in the memorandum of incorporation, file a complaint in the court for the prevention of such embezzlement. 
+
+Provided that any one whosoever may file a complaint in the case of a public trust. 
+
+(3) If, upon a complaint filed pursuant to sub-section (2), it is held that the trust property has not been managed properly or has been made subject to cheating or fraud or embezzled or used for other purposes, the court shall recover the claimed amount from the embezzler and may also order compensation to be paid by a trustee if the trustee has committed such embezzlement. 
+
+**337. To maintain accounts of trust:** (1) The trustee shall maintain accounts in a manner to reflect clearly and actually the accounts of the trust property, and provide statements thereof available to the registrar, and trust founder or beneficiary, identified, if any, intends to inspect the same. 
+
+(2) In the case of a public trust, the trustee shall have its accounts audited by a recognized auditor each year and submit a copy of the audit report to the registrar. 
+
+**338. Breach of trust:** (1) If a trustee fails to fulfill the duties required to be fulfilled pursuant to this Chapter, the trustee shall be deemed to have committed a breach of trust. 
+
+(2) In the event of a breach of trust pursuant to sub-section (1), the trustee so breaching trust shall be responsible for the loss and damage caused to the beneficiary and bear liability for the same. 
+
+(3) In bearing the liability pursuant to sub-section (2), the trustee breaching trust shall bear such profits as may be equal to the 
+
+**186** 
+
+income or profits which the trust or beneficiary would have made or earned if the trust had not been breached. 
+
+(4) If a trust has more than one trustee, all trustees who commit a breach of trust shall collectively bear the liability for the loss and damage caused from such breach of trust. 
+
+(5) If, in relation to one portion of any trust, the trust is breached, and, in relation to another portion of the trust, benefit is derived, the trustee shall not use such benefit in the fulfillment of his or her liability. 
+
+(6) Notwithstanding anything contained elsewhere in this Section, the trustee shall not bear the liability for the loss and damage caused from the breach of trust, in the following circumstance: 
+
+- (a) If the loss and damage is caused by operation of law, 
+
+- (b) If the loss and damage is a result of the breach of trust by any act done by the previous trustee or the consequence thereof. 
+
+(7) Notwithstanding anything contained elsewhere in this Section, any one who does any of the following acts in relation to a trust in operation upon being incorporated in accordance with law in force for the time being prior to the commencement of this Act shall be deemed to have committed a breach of trust: 
+
+- (a) Failing to do acts set forth in the Donative inscription, _Shilapatra_ of the trust or deed establishing such trust, 
+
+- (b) Selling, disposing of, gifting, donating or pledging or mortgaging the trust property by the trust founder or 
+
+**187** 
+
+his or her offspring or heir, except for the residual property that can be possessed and used after making operation as set forth in the deeds including the Donative inscription, _Shilapatra_ of the trust, 
+
+      - (c) Embezzling the movable trust property by the trustee, except for reasonable wear and tear while using it for the trust purpose. 
+
+   - (7) One who commits a breach of trust under sub-section 
+
+   - (7) shall be liable to action in accordance with the law in force at the time of the commencement of this Act. 
+
+**339. Deed of trust property to remain with trustee:** (1) Except as otherwise provided for in the memorandum of incorporation, the deeds, documents of the ownership and possession of the trust property and other proofs and evidences pertaining thereto shall all be in the custody of the trustee, and in the case of a public trust, the trustee shall submit copies of such deeds and documents to the registrar. 
+
+Provided that in the case of any deed, document or evidence to be approved by the registrar, it is not required to submit the copies of such deeds, documents or evidence to the registrar. 
+
+(2) The trustee and the registrar shall safely retain the deeds, documents and evidences referred to in sub-section (1). 
+
+**340. Entitlement to reimbursement from trust property:** Notwithstanding anything contained elsewhere in this Chapter, if the trustee has used his or her personal property or other's property in the course of the protection of the trust property, accomplishment 
+
+**188** 
+
+of the object of trust or protection of the benefit of the beneficiary, the trustee shall be entitled to reimburse the amount for such property from the trust property. 
+
+**341. Other powers, duties and liabilities deemed to be vested with trustee:** Except as otherwise provided for in the memorandum of incorporation, in addition to the powers, duties and liabilities clearly set forth in this Chapter, such other powers and duties as may be required for the implementation and accomplishment of the object of trust, care (herbichar)and protection of the trust property and protection of the rights and benefits of the beneficiary shall be deemed to be vested with the trustee. 
+
+**342. Acts not to be done by trustee:** (1) Except as otherwise provided for in the memorandum of incorporation, no trustee shall do, or cause to be done, any of the following acts: 
+
+   - (a) To use the trust property in any manner other than in the accomplishment of the object of trust, 
+
+   - (b) To use, or caused to be used, the trust property in any act yielding profit to the trustee himself or herself or to anyone else, except in the accomplishment of the object of trust, 
+
+   - (c) To delegate or hand over the responsibility or obligation of trustee to another trustee or a person, 
+
+      - Provided that nothing shall bar the appointing of 
+
+      - his or her agent or attorney in the course of ordinary transaction or assigning of any responsibility or obligation if such responsibility or obligation is to be 
+
+**189** 
+
+assigned in view of the nature of such transaction or assigning of any responsibility to another person with the consent of the beneficiary, if any, identified. 
+
+- (d) To carry out any act relating to the trust solely contrary to Section 329, if there are more than one trustee, 
+
+- (e) To obtain any remuneration, allowance or facility in consideration for being a trustee, 
+
+Provided that nothing shall bar the receiving of reasonable remuneration, allowance or facility for any work done whole-time or part-time after establishing the office or with the prior permission of the registrar, without prejudicing the object of the trust or benefit of the beneficiary. 
+
+- (f) To purchase or otherwise receive on pledge, mortgage, lease or rent the property of the trust for which he or she is a trustee during his or her tenure or before at least three **years of his or her** retirement from the office of a trustee. 
+
+(2) The trustee shall not make any economic transaction between his or her private property and the trust property. He or she shall make compensation for the loss, if any, to the trust property from such transaction. 
+
+(3) The trustee shall not merge his or her property with the trust property. **343. To give direction to transfer trust property:** Except as otherwise provided for in the memorandum of incorporation, in the case of 
+
+**190** 
+
+only one beneficiary, after he or she becomes competent to make contract, and in the case of more than one beneficiary, after all of them become competent to make contract and reach consensus, such beneficiary or beneficiaries may direct the trustee to hand over the trust property to him or her or them, and if any direction is so given, it shall be the duty of the trustee to abide by such direction. 
+
+Provided that this provision shall not apply to the public trust. 
+
+**344. Power to relinquish benefit of trust property:** (1) In the case of a private trust, the beneficiary who is competent to make contract may, by a notice in writing to the trustee and the registrar, relinquish any or all of his or her right, benefit, facility or interest from the trust property. 
+
+(2) If every beneficiary wholly relinquishes the right, benefit, facility or interest from the trust property pursuant to subsection (1), such a trust shall be deemed to have been dissolved. 
+
+**345. Duty to maintain ownership of trust property:** (1) The trust property shall be entered as such in the records of trust and held in the name of the person specified in the memorandum of incorporation and in the name of the beneficiary, if such a person is not specified in the memorandum of incorporation. 
+
+(2) If, in the case of a public trust, the memorandum of incorporation provides for the establishment of a separate body corporate for the operation and management of the trust property, such property shall be held in the name of the body corporate so established. 
+
+**191** 
+
+**346. Alteration in the object of trust:** (1) Notwithstanding anything contained elsewhere in this Chapter, if the trust founder considers appropriate to make any amendment or alteration in the object set forth in the memorandum of incorporation at the time of the creation of trust, he or she may make an application, accompanied by the reason for such amendment or alteration, to the registrar. 
+
+(2) If, on an inquiry into an application made pursuant to sub-section (1), the reason for the amendment or alteration in the object set forth in the memorandum of incorporation seems to be reasonable, the registrar may issue an order to amend or alter such object, and, if an order is so made, the object set forth in the memorandum of incorporation shall be deemed to have been amended or altered accordingly. 
+
+**347. Trust property not to be counted:** Any trust property operated and managed by the trustee shall not be counted as the property of the trustee for the purpose of assessment of tax or for any other purpose. 
+
+Provided that in the case of a person who derives any benefit, facility or interest from such property, such benefit, facility or interest shall be counted. 
+
+**348. Consequence of voidance of trust:** (1) If a trust once established is dissolved or voided for any reason, such dissolution or voidance shall not affect any act already done. 
+
+(2) In the event of dissolution or voidance of a trust for any reason pursuant to sub-section (1), in the case of a public trust, except as otherwise provided for in the memorandum of its 
+
+**192** 
+
+incorporation, the trustee may, by order of the registrar, hand over the trust property to any other trust with the identical object or to any public body with similar objects if such other trust is not available, and in the case of a private trust, the trustee shall hand over the trust property to the beneficiary, if identified, or to the nearest successor to the beneficiary if the beneficiary is not available or to the trust founder if even such successor is not available or to other successor if even the trust founder is not available. 
+
+(3) If any body or person referred to in sub-section (2) is not available, the property of the dissolved or voided trust shall devolve on the Government of Nepal. 
+
+**349. Appeal may be made:** A party who is not satisfied with any order or decision made by the registrar pursuant to this Chapter may make an appeal to the concerned District Court within thirty-five days after the date of knowledge of such order or decision. 
+
+**350. Not to affect other trust:** (1) Nothing contained in this Chapter shall affect any trust in operation upon being incorporated in accordance with law in force for the time being prior to the commencement of this Act, and such a trust may be operated in accordance with the Donative inscription _(Danpatra)_ , _Shilapatra_ , memorandum of incorporation or other deed establishing such a trust or with the ritual, custom or practice. 
+
+Provided that such a trust shall be registered under this Act or information of its operation shall be given to the registrar within three years of the commencement of this Act, and records thereof shall be maintained. 
+
+**193** 
+
+(2) The trust referred to in sub-section (1) shall be managed and operated as previously for the object and purpose for which it was established, and the property or income that remains upon the accomplishment of that object and purpose may be possessed, used, pledged or mortgaged. 
+
+(3) The property of a trust established pursuant to subsection (1) may be purchased or sold in a manner without prejudice the object and purpose of the trust. 
+
+(4) The purchaser under sub-section (3) shall use the property for the object and purpose for which the trust was established. 
+
+(5) If a trust under sub-section (1) has been established or operated for any specific purpose by obtaining a government land, such a land shall be used for the accomplishment of the object and purpose for which the trust was established, and such a land shall not be used by the trustor or his or her offspring or successor. 
+
+(6) If the person referred to in sub-section (5) does not accomplish the object and purpose of such a trust, the person who accomplishes such object and purpose shall be entitled to possess and use such a land. 
+
+(7) Notwithstanding anything contained elsewhere in this Section, if any person has continuously operated a trust referred to in sub-section (1) since last sixteen years or more than sixteen years ago without any deed to that effect, that person may possess and use such property upon the accomplishment of the object and purpose of such a trust. 
+
+**194** 
+
+(8) Matters other than those set forth in this Section shall be as set forth in the memorandum of incorporation of a trust, _Sheelapatra_ , Donative Inscription or as per the custom and practice in relation to the operation of such a trust. 
+
+**351. Statute of limitation:** (1) There shall be no statute of limitation in relation to the following matters if a person who is aggrieved from any act done or action taken pursuant to this Chapter is to make a lawsuit: 
+
+      - (a) Embezzlement of the trust property, 
+
+      - (b) Fraud or forgery of any document relating to the trust property, 
+
+      - (c) Embezzlement or misappropriation of the trust property, 
+
+      - (d) Derivation of benefit by the trustee contrary to the terms of the memorandum of incorporation of the trust, 
+
+      - (e) Restitution of the trust property or its value or income from the trustee or other person. 
+
+   - (2) A lawsuit may be made within six months after the 
+
+   - date of the accrual of cause of action in relation to any matter other than that set forth in sub-section (1). 
+
+**195** 
+
+### **Chapter-7** 
+
+### **<u>Provisions Relating to Usufruct</u>** 
+
+**352. Usufruct deemed to be constituted:** (1) When a person gives free a property in which he or she has title and ownership and fruits, benefit, income or facility to be yielded from that property to another person entitling that other person to enjoy such property and fruits, benefit, income or facility thereof, usufruct shall be deemed to be constituted. 
+
+   - (2) The provisions of usufruct shall be as set forth in a 
+
+   - contract entered into between the concerned persons. 
+
+**353. Usufruct to be effective:** The provision of usufruct constituted by a contract shall become effective on the date of the commencement of the contract unless otherwise set forth in the contract. 
+
+**354. Deed to be executed:** (1) In giving an immovable property in usufruct, its owner shall execute a deed to that effect in accordance with law. 
+
+   - (2) In giving a property in common in usufruct, consent of 
+
+   - the coparceners living in a joint family shall be obtained. 
+
+### **355. Entitlement of usufructuary to enjoy property as if it belonged** 
+
+- **to him or her:** (1) If a person gives another person his or her property in usufruct, the usufructuary of such property shall be entitled to enjoy the property, fruits, benefit, income or facility to be yielded or earned from the property and fruits, benefit, income or facility accrued from the property as if it were his or her own property. 
+
+**196** 
+
+(2) If there are more than one usufructuary obtaining a property pursuant to sub-section (1), every usufructuary shall be entitled to enjoy that property jointly or severally. 
+
+(3) If a property obtained under the provision of usufruct is partitioned, every coparcener who is entitled to enjoy the property in usufruct shall be entitled to enjoy the property pursuant to subsection (1). 
+
+(4) A usufructuary may make a lawsuit in the court, as required, for the protection or enjoyment of the property obtained under the provision of usufruct. 
+
+**356. Property which usufructuary cannot enjoy:** Notwithstanding anything contained in Section 355, a usufructuary shall not be entitled to enjoy the following properties relating to the property obtained under the provision of usufruct: 
+
+   - (a) Mines and minerals related with the property, 
+
+Provided that where the mines are the subject of usufruct, the mines may be enjoyed. 
+
+- (b) Grown trees. 
+
+Provided that fruits, flowers or other products obtained from the trees may be enjoyed. 
+
+**357. Prohibition of alteration in structure of property without consent:** A usufructuary shall not be entitled to significantly alter the substance or form of the property obtained under the provision of usufruct or to destroy such property, except with the owner's prior permission. 
+
+**197** 
+
+Provided that if the enjoyment of the property given under the provision of usufruct is not possible without an alteration in the form of or destruction of the property, except as otherwise provided for in the contract, the property may be enjoyed by altering its form or destroying it, on payment of the price that may be set at the time of returning such property. 
+
+### **358. Power to rent, lease or mortgage property under provision of** 
+
+**usufruct:** (1) The usufructuary may, if he or she so desires, rent, lease or mortgage the property obtained under the provision of usufruct, by executing a deed, subject to the contract referred to in sub-section (2) of Section 352. 
+
+Provided that: 
+
+- (1) It is not required to execute a deed for renting a property for a monthly rent not exceeding twenty thousand rupees. 
+
+- (2) If a property is so rented, leased or mortgaged, the usufructuary shall give information thereof to the owner. 
+
+- (3) The property obtained under the provision of usufruct may not be rented, leased or mortgaged for a period that exceeds the validity period of usufruct. 
+
+(2) The usufructury shall, in renting, leasing or mortgaging the property obtained under the provision of usufruct, mention in the relevant deed that the property is under the provision of usufruct. 
+
+**198** 
+
+(3) If a rent, lease or mortgage of the property obtained under the provision of usufruct is executed in contravention of subsections (1) and (2), such a transaction shall _ipso facto_ be void. 
+
+(4) A person who obtains a property on rent, lease or mortgage pursuant to sub-section (1) shall be entitled to enjoy the property as if the person were the usufructuary. 
+
+**359. Duty to maintain (marmat samhar) and care (herbichar) property under the provision of usufruct:** (1) The usufructuary shall maintain **(marmat samhar)** and take care of **(herbichar)** the property which he or she has obtained under the provision of usufruct properly and reasonably as if it were his or her own property. 
+
+(2) If a person obtains a property under the provision of usufruct by way of rent, lease or mortgage, the person shall take care of such property properly and reasonably. 
+
+(3) The usufructuary shall maintain the property obtained under the provision of usufruct at his or her cost. 
+
+Provided that if it is necessary to maintain such property by spending a substantial amount in consequence of a disaster, the usufructuary shall obtain the owner's prior permission, and the owner shall bear such maintenance expenses. 
+
+**360. Prohibition of causing damage to property obtained under the provision of usufruct:** (1) The usufructuary shall not damage, or cause to be damaged, the property obtained under the provision of usufruct. 
+
+**199** 
+
+(2) If such a property is damaged in any manner in the course of its enjoyment by the usufructuary or by the person who has obtained it on rent, lease or mortgage pursuant to Section 358, the usufructuary shall be liable for it. 
+
+Provided that the usufructuary shall not be liable for any damage or loss caused to such property by a disaster. 
+
+(3) The usufructuary may make insurance or take other necessary preventive measures for the protection of the property obtained under the provision of usufruct against possible loss or damage in the course of its enjoyment pursuant to sub-section (2). 
+
+**361. Usufructuary to bear tax or fee:** The usufructuary shall pay such tax or fee as may be leviable by law in relation to the property obtained under the provision of the usufruct. 
+
+Provided that the owner shall bear the wealth tax payable for the property obtained under the provision of the usufruct. 
+
+**362. Information of claim or interference by any one to be given to owner:** (1) If any one makes encroachment, claim or interference on or with the property under the provision of usufruct, the usufructuary shall give information thereof to the owner within fifteen days of such encroachment, claim or interference. 
+
+(2) The usufructuary who does not give information pursuant to sub-section (1) shall be liable to any consequence resulting therefrom. 
+
+**363. Validity period of the provision of usufruct:** (1) The provision of usufruct shall remain valid for the period set forth in the contract. 
+
+**200** 
+
+(2) Notwithstanding anything contained in sub-section (1), the provision of usufruct shall not remain valid beyond the following period, except as otherwise provided for in the contract: 
+
+- (a) If the usufructuary is a natural person, the death of the usufructuary or the expiration of a period of forty-nine years since the execution of the provision of usufruct, whichever occurs earlier, 
+
+- (b) If the usufructuary is a legal person, the dissolution of the usufructuary or the expiration of a period of twenty-nine years since the execution of the provision of usufruct, whichever occurs earlier. 
+
+   - **Explanation:** For the purposes of this Section, 
+
+   - the term "dissolution" includes the termination, liquidation, revocation of registration or insolvency of a legal person. 
+
+(3) If there are more than one usufructuary, the property in usufruct shall devolve on the owner in proportion to the death or dissolution of any usufructuary, except as otherwise provided in the contract. 
+
+**364. Usufruct may be canceled:** (1) Notwithstanding anything contained in Section 363, if the usufructuary damages or misuses the property obtained under the provision of usufruct or does not enjoy it for the purpose for which it has been given in usufruct or otherwise does any act that prejudices the right of the owner in such property, the concerned owner may cancel the provision of usufruct at any time. 
+
+**201** 
+
+(2) In the event of cancellation of the provision of usufruct pursuant to sub-section (1), the usufructuary shall return the property obtained under the provision of usufruct. 
+
+**365. Power to return property by usufructuary:** Notwithstanding anything contained in Sections 363 and 364, if the usufructuary does not wish to enjoy the property obtained under the provision of usufruct, the usufructuary may return such a property to the owner at any time, by giving a notice of at least forty-five days. 
+
+**366. Usufruct deemed to be extinguished:** (1) The provision of usufruct shall be deemed to be extinguished in any of the following circumstances: 
+
+   - (a) In the event of expiration of the validity period of usufruct pursuant to Section 363, 
+
+      - **Explanation:** For the purposes of this Chapter, the term "expiration of the validity period" means: 
+
+      - (1) If more than one natural person are usufructuary, the usufruct shall be deemed to be terminated on the date on which the last survivor usufructuary dies. 
+
+      - (2) If more than one legal person are usufructuary, the usufruct shall be deemed to be terminated on the date on which the last usufructuary legal person is dissolved. 
+
+   - (b) In the event of return of the property on the cancellation of usufruct pursuant to Section 364, 
+
+**202** 
+
+- (c) In the event of return of the property in usufruct by the usufructuary pursuant to Section 365, 
+
+- (d) In the event, except for a reasonable reason, of the failure of the usufructuary to enjoy the property in usufruct until six months after the date on which the provision of usufruct became effective, 
+
+- (e) In the event of the accomplishment of the special purpose for the accomplishment of which the provision of usufruct has been made, 
+
+- (f) In the event that the property obtained under the provision of usufruct is transferred to the usufructuary in accordance with law, 
+
+- (g) In the event of total loss of the property obtained under the provision of usufruct. 
+
+(2) In the event of the extinguishment of the provision of usufruct pursuant to sub-section (1), the property given to any person in usufruct shall _ipso facto_ devolve on the owner except in the circumstance set forth in clause (f) or (g). 
+
+(3) Notwithstanding anything contained in sub-section (1) or (2), if a property is given in usufruct on the condition that it shall remain valid until any person attains a certain age, the provision of usufruct shall remain valid until the date on which the person attains that age even if the person dies before the date of attainment of such age, as if he or she were surviving. 
+
+**367. Statute of limitation:** A person who is aggrieved from any act done or action taken pursuant to this Chapter may make a lawsuit 
+
+**203** 
+
+within six months after the date of knowledge of the commission of such an act or action. 
+
+**204** 
+
+### **Chapter-8** 
+
+### **<u>Provisions Relating to Servitudes</u>** 
+
+**368. Servitude to be deemed:** (1) If there is a provision of enjoyment or use by the owner of another property of any immovable property or any part thereof in which another person has right, ownership or possession pursuant to this Chapter, provision of servitude shall be deemed to have been created. 
+
+   - (2) A servitude shall be in existence in accordance with the 
+
+   - contract, nature of the place where the immovable property is situated, custom or practice exercised since ancient time therein. 
+
+**369. Use of provision of servitude to be allowed:** (1) If there is a provision of servitude pursuant to Section 368, the owner of the concerned immovable property shall allow another person to enjoy or use the immovable property in accordance with the provision of servitude. 
+
+   - (2) Notwithstanding anything contained in sub-section (1), 
+
+   - if there is a provision of servitude for public purpose, such a servitude may also be used for personal purpose. 
+
+(3) Notwithstanding anything contained elsewhere in this Section, a servitude created by operation of law may be used in accordance with law. 
+
+### **370. Servitude not to be adversely affected by transfer of immovable** 
+
+- **property:** (1) A servitude in a servient immovable property shall continue to exist even if the owner of such a immovable property transfers all or any of such property to another person in any manner. 
+
+**205** 
+
+(2) Even if the servient immovable property is partitioned, each coparcener shall be deemed to have provided such a servitude. 
+
+(3) Notwithstanding anything contained in sub-section (1) or (2), if in transferring or partitioning the servient immovable property, there is a provision of servitude elsewhere in such property and servitude is not thus required to be provided in the immovable property in which a person acquires right by way of such transfer or partition, the servitude shall be deemed to have been extinguished to that extent. 
+
+**371. To allow enjoyment or use:** (1) If any land, despite that a person has right, ownership or possession in it, has been in use since ancient time as a public or community road, cattle exit, pasture land, ditch, cannel, quay, pond, public road, sewage, track road or main road, public shelter, tomb, graveyard, shrine, temple, monastery, dome, mosque, _Idgaha, Karbala, Kabristan_ or church, community school, hospital or similar other public monument or site, the land shall be allowed to be used by the concerned persons accordingly for the particular purpose. 
+
+(2) The owner or possessor of the servient land shall not cultivate or use, make any structure in, or otherwise own or possess, it in such manner as to adversely affect the provision set forth in sub **-** section (1). 
+
+**372. Use of neighbor's house or land at time of disaster:** If, at the time of disaster such as fire, earthquake, volcano and flood, it is not possible to rescue victims of such disaster without entering or using the house or land of a person, the victims may be rescued, or caused to be rescued, by entering the house or land with the consent of the 
+
+**206** 
+
+owner of the house or land if the owner is available, and even without consent of the owner of the house or land if the owner is not available for the time being or refuses to give consent. 
+
+**Explanation:** For the purposes of this Section, the term "the owner of the house or land" means the person who is using, possessing or controlling the concerned house or land for the time being. 
+
+**373. Acquisition of servitude of passage:** (1) If the passage originally available to have access to and from a house or land is destroyed subsequently due to a disaster, the person who has been using the passage to and from such house or land from the past shall have the servitude of a reasonable passage to the public road. 
+
+(2) A person shall not be entitled to demand the servitude of passage from the owners of all surrounding houses or land pursuant to sub-section (1), and he or she may demand such a servitude from the owner of the house or land through which the distance to the public road is the shortest. 
+
+**374. Prohibition of transfer of house or land without provision of passage or exit:** (1) In setting aside and transferring any part of the house or land with the provision of passage or exit, such a house or land shall not be transferred without making provision of passage or exit to both the purchaser and the seller. 
+
+(2) Notwithstanding anything contained in sub-section (1), if there is another passage or exit to and from such house or land, it is not required to make provision of passage or exit. 
+
+**207** 
+
+**375. Power to extend basic services:** If it is not possible to provide basic services such as sewerage, water supply, electricity, gas and telephone service to the house of a person through his or her own land or public, government or community land, the person shall be entitled to lay pipe or line in the neighbor's land in such manner as not to cause any loss or damage to the owner of such land. 
+
+**376. Power to use river or stream or river or stream bank:** Any person may carry out movement, navigation, boating or fishing in the river or stream which is situated in, or originated from, the personal property of any person or within the zone of a maximum of four meters in either side of such river or stream. 
+
+   - Provided that such activity is not allowed in small rivulets 
+
+   - that do not have perennial flow of water. 
+
+**377. Power to use exit road:** (1) If a river or stream is diverted or a reservoir is built or a dam is made for any reason in the river or stream, the owner of the concerned land shall provide a reasonable exit for the public and livestock to have access to and from such diversion, reservoir or dam. 
+
+(2) If, in maintaining the provision of exit passage referred to in sub-section (1), it is possible to maintain such exit passage through the land of more than one person, the exit passage shall, unless provided otherwise, be maintained through the nearest land that is technically feasible for the access to the diversion, reservoir or dam though that passage. 
+
+**208** 
+
+**378. Prohibition of preventing natural flow of water:** (1) Every house or land owner shall himself or herself manage the rain water flow from his or her house or land. 
+
+   - (2) If there is no provision referred to in sub-section (1), 
+
+   - the rain water shall be allowed to make its natural course. 
+
+Provided that no water shall be let to so flow as to cause adverse effect on the downstream land by making a ditch, controlling floods or otherwise diverting the flow or through human intervention. 
+
+**379. Power to use stream, river or pond water:** Any person may use the water of a stream, river or pond, which is originated from, flows through or situated in, the land of another person for the purpose of irrigation and drinking, after the use of such water by the concerned owner. 
+
+Provided that in making such use, the adjoining neighbor shall have priority. 
+
+**380. Requirement to allow passage or exit for farming:** (1) If a person does not have a passage or exit for people or livestock to have access to and from his or her farm land and needs such passage or exit, the owner of the concerned land shall provide the facility of passage or exit to such a person. 
+
+Provided that no person shall be compelled to provide such a passage or exit through the house and compound land. 
+
+(2) A person who uses the passage or exit pursuant to subsection (1) shall so use it that no loss or damage is caused to the 
+
+**209** 
+
+crops or other property of the person providing such a passage or exit. 
+
+**381. Compensation to be paid:** If, in using a house or land belonging to another person, any kind of loss or damage is caused to any one for the purposes set forth in Sections 372, 373, 375, 377 and 380, the person using the passage or exit shall pay a reasonable compensation to the concerned house or landowner. 
+
+**382. Statute of limitation:** A person who is aggrieved from any act done or action taken pursuant to this Chapter may make a lawsuit within six months after the date of knowledge of such an act or action. 
+
+**210** 
+
+### **Chapter-9** 
+
+### **<u>Provisions Relating to House Rent</u>** 
+
+**383. House deemed to be rented:** If a person who has right, possession or ownership in a house lends, for a rent, the house to another person to use it for a certain period of time, the person shall be deemed to rent the house. 
+
+**Explanation:** For the purposes of this Chapter, the term "house" means any house, storey, unit or room of the house, or land or cartilage occupied by such a house. 
+
+**384. Prohibition of renting unsafe house:** (1) No person shall rent or take on rent a house which is not safe for human habitation from health and security perspectives. 
+
+   - (2) The quality standards of a house for non-residential 
+
+   - purpose such as a warehouse, livestock farming, storage and cold storage shall be as specified in the house rent agreement. 
+
+**385. Period of house rent:** (1) The period of house rent shall be as set forth in the agreement, not exceeding five years. 
+
+Provided that if a house is rented for a commercial purpose, it shall be as set forth in the agreement. 
+
+(2) Notwithstanding anything contained in sub-section (1), after the expiration of the period of house rent, the period may be extended at times with the consent of the house owner and the tenant. 
+
+**211** 
+
+**386. Agreement to be concluded while renting:** (1) While renting a house, its owner shall enter into an agreement in writing with the tenant, setting out the following matters: 
+
+   - (a) Full name and address of the owner and of the tenant, their citizenship number, and passport or identification certificate, in the case of a foreigner, 
+
+   - (b) Place and plot number of the land where the house is located, 
+
+   - (c) Purpose for rent, 
+
+   - (d) Date of commencement of rent, 
+
+   - (e) Validity period of rent, 
+
+   - (f) Monthly rent, 
+
+   - (g) Time and mode of payment of rent, 
+
+   - (h) Liability to pay tariffs of electricity, water supply, telephone etc. used in the house, 
+
+   - (i) Matter on payment of house rent tax, 
+
+   - (j) If the rented house is to be insured, matter relating thereto, 
+
+   - (k) Matter on leaving the rented house and eviction of the tenant from it, 
+
+   - (l) Matter as to whether the rented house can be sublet to another, and 
+
+   - (m) Other necessary matters. 
+
+**212** 
+
+(2) Notwithstanding anything contained in sub-section (1), it is not necessary to enter into an agreement in writing with the tenant if the monthly house rent does not exceed twenty thousand rupees. 
+
+(3) The tenant's photograph shall also be affixed to the agreement referred to in sub-section (1). 
+
+(4) The agreement referred to in sub-section (1) shall also be signed by at least two witnesses of each side, namely the house owner and the tenant, and a copy thereof shall be retained each by the owner and the tenant. 
+
+(5) After the completion of the procedures referred to in sub-section (4), an agreement shall be deemed to be entered into between the house owner and the tenant. 
+
+**387. Details of house to be provided:** In renting a house, the owner shall, at the time of entering into agreement, disclose the weakness or fault, if any, in the structure of the house to the tenant. 
+
+**388. Preparation of description of goods or chattels:** (1) The houseowner shall, prior to renting his or her house, prepare a description of the goods or chattels in the house to be rented. 
+
+(2) If the tenant is to use the goods or chattels set forth in the description prepared pursuant to sub-section (1), he or she shall receive such goods or chattels and give a receipt thereof to the house-owner. 
+
+**389. Obligations of house owner:** The obligations of the house-owner shall be as follows: 
+
+**213** 
+
+      - (a) To allow the tenant to use the house in accordance with the agreement, 
+
+      - (b) To arrange for such water and electricity supply, sewerage and sanitation in the rented house as may be required, except as otherwise provided for in the agreement, 
+
+      - (c) To prevent the tenant from insecurity, harassment or unrest from other persons dwelling in the house, 
+
+      - (d) To abide by the other matters set forth in the agreement. 
+
+**390. Obligations of tenant:** The obligations of the tenant shall be as follows: 
+
+      - (a) To pay the rent to the house owner within the specified period, 
+
+      - (b) To maintain sanitation in, take care of **(herchaha)** , protect and safeguard the rented house properly and reasonably, as if it were his or her own, 
+
+      - (c) Not to do any act such as causing unrest, harassment or insecurity to the other dwellers in the house or neighbors, 
+
+- (d) To abide by the other matters set forth in the agreement. 
+
+- **391. Mode and procedure of payment of rent:** (1) The tenant shall pay the rent to the house owner in accordance with the mode and procedure set forth in the agreement. 
+
+   - (2) If the agreement does not provide for any mode and 
+
+   - procedure of the payment of rent pursuant to sub-section (1), the 
+
+**214** 
+
+tenant shall pay the rent to the house owner within seven days of the expiry of each month. 
+
+(3) The rent may be paid by way of cheque or cash pursuant to sub-section (2). 
+
+(4) If the owner receives the rent in cash pursuant to this Section, he or she shall give a receipt thereof to the tenant. 
+
+**392. Obligation to pay tax and other charge:** (1) Except as otherwise set forth in the agreement, it shall be the obligation of the house owner to pay the tax and other charge leviable by law in relation to the house rented. 
+
+(2) If it is the obligation of the land owner to pay tax or charge pursuant to sub-section (1) and the house owner fails to pay the tax or charge in time, the tenant may pay such tax or charge. 
+
+(3) If the tenant pays the tax or charge pursuant to subsection (2), he or she shall be entitled to deduct such an amount from the rent payable to the house owner. 
+
+**393. Insurance of house to be procured:** (1) A tenant who rents a house for industrial or business purpose shall procure the insurance of the house for its security. 
+
+**Explanation:** For the purposes of this Section, the term "industrial or business purpose" means the operation of any industry or carrying on a business or trade by having a departmental store or one or more than one shop. 
+
+(2) If the person obliged to procure insurance pursuant to sub-section (1) fails to procure insurance of the house and the house 
+
+**215** 
+
+is damaged by such cause as disaster, unrest, riot or fire, the tenant shall be liable for such damage. 
+
+**394. Repair and maintenance of house rented:** (1) Except as otherwise set forth in the agreement, the tenant shall be obliged to repair and maintain the rented house, as required. 
+
+(2) If the agreement provides that the house owner is obliged to repair and maintain the rented house and it is necessary to carry out any repair and maintenance of the house, the tenant shall give a notice in writing to the house owner in time. 
+
+(3) If the land-owner fails to repair and maintain the rented house despite the notice given pursuant to sub-section (2), the tenant may repair and maintain such a house. 
+
+(4) The tenant shall be entitled to deduct the billed amount of expenses incurred in the repair and maintenance of the house carried out pursuant to sub-section (3) from the rent payable to the house owner. 
+
+(5) Except as otherwise agreed upon between the house owner and the tenant in respect of the repair and maintenance of the house, the tenant shall, prior to carrying out repair and maintenance under sub-section (4), prepare a cost estimate of the repair and maintenance and give its written information to the house owner in advance of fifteen days. 
+
+**395. Subletting house rented to other person:** (1) If the agreement entered into with the house owner provides that the tenant may sublet the whole or any portion of the house rented by him or her to 
+
+**216** 
+
+another person, the tenant may, subject to the agreement, sublet the whole or any portion of such a house to another person. 
+
+(2) If the tenant sublets the whole or any portion of the house rented to another person pursuant to sub-section (1), the tenant shall, no later than fifteen days, give information in writing indicating the name and address of the sub-tenant to the houseowner. 
+
+(3) A sub-tenant who rents the house pursuant to subsection (1) shall pay the rent of the house or its portion to the tenant who has so sublet. 
+
+(4) The sub-tenant who rents the house pursuant to subsection (1) shall, while dwelling in the rented house, abide by all such terms and provisions as required to be abided by the tenant pursuant to this Chapter. 
+
+(5) If the sub-tenant who rents the house pursuant to subsection (1) fails to act in accordance with the terms while dwelling in the rented house or fails to maintain sanitation in, protect or safeguard, the house or carries out any act such as causing harassment, pain or unrest to the other dwellers of the house or neighbors, the tenant may evict the sub-tenant from the house at any time. 
+
+**396. Prohibition of altering structure without consent:** (1)  Except as otherwise provided in the agreement, the tenant shall not demolish, remove or disorder any structure of, or add any structure to, the rented house or otherwise alter it without the house owner's consent in writing. 
+
+**217** 
+
+(2) If the tenant does any act in contravention of subsection (1) and thereby causes any loss to the house-owner, the house-owner shall be entitled to recover compensation for the loss caused to him or her from the tenant. 
+
+**397.  Prohibition of using house contrary to agreement:** The tenant shall not use the house for any purpose other than that for which he or she has rented it, without prior consent of the house-owner. 
+
+**398. Alteration in agreement:** The house owner and the tenant may, with mutual consent, make necessary alteration in the house rent agreement. 
+
+Provided that if such an agreement is registered pursuant to this Act, alteration shall be made upon making application to the concerned body. 
+
+**399. Power to inspect:** (1) The house-owner may, by an advance notice to the tenant, inspect the rented house from time to time. 
+
+(2) If the house-owner intends to inspect the rented house pursuant to sub-section (1), it shall be the duty of the tenant to allow the house-owner to inspect the house. 
+
+**400. Leaving rented house:** (1) A tenant may leave the rented house prior to the expiration of the period of rent in any of the following circumstances: 
+
+   - (a) If the house owner fails to perform his or her obligations pursuant to Section 389, 
+
+   - (b) If the tenant no longer needs the house for the purpose for which he or she rented it, 
+
+**218** 
+
+- (c) If the house owner does any act in contravention of the agreement or this Chapter. 
+
+(2) If the tenant is to leave the house in the circumstance referred to in clause (b) of sub-section (1), except as otherwise provided in the agreement, the tenant shall give a notice in writing to the house-owner in advance of at least thirty-five days. 
+
+(3) If the tenant leaves the house without giving a notice pursuant to sub-section (2), the house-owner shall be entitled to deduct the rent for that period from the rent, if any, paid in advance by the tenant and to recover the same from the tenant, failing such advance payment. 
+
+**401. Power to evict tenant:** (1) The house-owner may evict the tenant from the house in any of the following circumstances: 
+
+   - (a) If the tenant fails to perform his or her obligations pursuant to Section 390, 
+
+   - (b) If the tenant commits in the rented house any offense related activity prohibited by law, 
+
+   - (c) If the house-owner needs the house for himself or herself, 
+
+   - (d) If it is necessary to repair and maintain the house by removing inhabitants from the house, 
+
+   - (e) If the rented house does not appear to be appropriate for human habitation from the technical and health perspectives, 
+
+   - (f) If the period of house rent expires, 
+
+**219** 
+
+- (g) If the tenant does any act in contravention of the agreement or this Chapter, 
+
+- (h) If there exists the circumstance under sub-section (5) of Section 395. 
+
+(2) If it is necessary to evict the tenant from the house in the circumstance referred to in clause (c) of sub-section (1), the land-owner shall give a notice in writing to the tenant in advance of at least thirty-five days. 
+
+(3) If the house owner evicts the tenant from the house pursuant to sub-section (2), the house-owner is not entitled to rent such a house to another person until three months, without using it on his or her own. 
+
+(4) If the house-owner is to rent such house to another person within three months pursuant to sub-section (3) and the previous tenant intends to rent such a house, he or she shall get priority. 
+
+**402. House rent agreement deemed to be terminated:** A house rent agreement entered into pursuant to Section 386 shall be deemed to have been terminated in any of the following circumstances: 
+
+   - (a) If the tenant leaves the house, 
+
+   - (b) If the house-owner evicts the tenant from the house, 
+
+   - (c) If the house-owner and the tenant cancel the agreement with mutual consent, 
+
+   - (d) If the period of house rent expires. 
+
+**220** 
+
+**403. Duty to hand over goods or chattels in good condition:** (1) The tenant shall, while leaving the rented house, count the goods or chattels in his or her custody, clean or color the house, if required, and hand over the same in good condition to the house-owner. 
+
+(2) If the tenant looses or damages any goods or chattel in his or her custody, the tenant shall hand over similar goods or chattel or pay a sum of money as per the prevailing price of such goods or chattel to the house-owner. 
+
+(3) Notwithstanding anything contained in sub-section (2), the tenant shall not be bound to reimburse for any goods or chattel which is depreciable or destroyable in the course of daily use or to pay price for such goods or chattel. 
+
+**404. Power to vacate house:** (1) Notwithstanding anything contained elsewhere in this Chapter, if a tenant disappears without paying the rent for three months or more without notice and the tenant is not found despite a public notice or correspondence with his or her address or the tenant or his or her successor or agent does not appear despite that he or she has been found, the house-owner shall submit an application with such statement to the concerned ward office of the Local Level. 
+
+(2) If an application is submitted pursuant to sub-section (1), the concerned ward office shall make a public notice inviting the tenant to appear within a period of fifteen days. 
+
+(3) If a notice is published pursuant to sub-section (2), the tenant shall appear within such a period. 
+
+**221** 
+
+(4) If such a person does not appear within the period referred to in sub-section (3), the concerned ward office may open and vacate the rented house, upon having the goods therein in its or any one's custody. 
+
+(5) If the person who has disappeared pursuant to subsection (3) returns or sends his or her agent within six months, the concerned ward office shall collect the due rent from, and return the goods to him or her. 
+
+(6) Notwithstanding anything contained elsewhere in this Section, if the concerned ward office of the Local Level does not take any action even within one month of the application submitted to it, the concerned house-owner shall submit an application to the concerned ward office and the nearby police office, and execute a deed and open the house in witness of a police employee and at least two local persons, and hand over the custody of the tenant's goods to the police. 
+
+**405. Statute of limitation:** A person who is aggrieved from any act done or action taken pursuant to this Chapter may make a lawsuit within six months after the date on which such an act was done or action was taken. 
+
+**222** 
+
+### **Chapter-10** 
+
+### **<u>Provisions Relating to Donation and Gift</u>** 
+
+**406. Donation or gift deemed to be effected:** (1) If a person grants free of cost a property in which the person has right and ownership to another person or for any religious, social, public or community purpose such an act shall be deemed to be a donation. 
+
+(2) If a person grants free of cost a property in which the person has right and ownership to another person as a reward, prize or tip in consideration for merits to him or her by that other person by way of fostering him or her or otherwise or for family love or affection such an act shall be deemed to be a gift. 
+
+(3) In effecting a donation or gift pursuant to sub-section (1) or (2), such a donation or gift may be so effected that it is effective immediately or after a certain period or after the death of its maker. 
+
+(4) If a donation or a gift becomes effective only after the death of the maker of such donation or gift, it shall be deemed that he or she has executed a testamentary donation or testamentary gift. 
+
+**407. Property may be donated by pronouncement:** A person may donate a certain amount or property for any specific purpose by making pronouncement in writing or publicly in a public function organized for that purpose. 
+
+Provided that no lawsuit may be made if the person does not transfer the property so donated by him or her. 
+
+**223** 
+
+**408. Voidance of donation or gift:** Any donation or gift made pursuant to this Chapter shall _ipso facto_ be void in any of the following circumstances: 
+
+   - (a) If the person entitling to donation or gift does not accept the donated or gifted property himself or herself or through his or her agent, 
+
+   - (b) If a property is donated or gifted to a person with entitlement after testament and the receiver of donation or gift dies before the person making such a donation or gift or the organization obtaining donation or gift is dissolved, 
+
+   - (c) If a property is donated or gifted to an unborn baby and the baby is not born alive, 
+
+   - (d) If the donated or gifted property is so destroyed that its existence is extinct before the donation or gift becomes effective. 
+
+**409. Donation or gift to be voidable** :(1) Notwithstanding anything contained elsewhere in this Act, a donation or gift may be voided in any of the following circumstances: 
+
+   - (a) If a person donates or gifts a property in which another has right and ownership, 
+
+   - (b) If any property is donated or gifted without obtaining the consent of another person where such consent is needed pursuant to law, 
+
+   - (c) If the maker of the donation or gift is an incompetent or quasi-competent person, 
+
+**224** 
+
+- (d) If the donation or gift is made without fulfilling the legal requirements. 
+
+(2) In the case of a donation or gift made without the consent of another person pursuant to clause (b) of sub-section (1) where such consent is required, the property shall be void to the extent of such consent not taken. 
+
+**410. Power to amend or revoke deed of gift with testament:** (1) The maker of gift with testament may, if he or she so wishes, amend the terms of, or revoke, the deed of gift with testament executed by him or her at any time, by making an application in person before the concerned authority. 
+
+(2) In amending or revoking the deed of gift with testament pursuant to sub-section (1), such a person shall appear before the concerned authority, execute a separate deed and then amend or revoke such a deed of gift with testament. 
+
+(3) The deed revoking or amending the deed of gift with testament pursuant to sub-section (2) shall be executed in fulfillment of the procedures applicable to the execution of the deed of gift with testament. 
+
+(4) No person may grant a property once granted to any one by executing the deed of gift with testament to other person by executing such a deed, without revoking the earlier deed of gift with testament pursuant to this Section. 
+
+(5) If a deed of gift with testament is executed in contravention of sub-section (4), the deed of gift with testament executed earlier shall ipso facto be valid. 
+
+**225** 
+
+**411. Not to obtain property under deed of gift with testament:** If the receiver of gift with testament is convicted to have committed any criminal offense against the maker of such a gift before the deed of gift with testament becomes effective, the receiver shall not be entitled to obtain the property under such a deed. 
+
+**412. Statute of limitation:** A lawsuit may be made within the statute of limitation, if any, specified separately in this Chapter, within two years after the date of maturation of one's right in donation or gift received by one and after the date of possession and enjoyment upon maturity of right in a donation or gift incapable of being made, and, in relation to the other cases, within one year after the date of knowledge of any act done or action taken pursuant to this Chapter, by a person who is aggrieved from such an act or action. 
+
+**226** 
+
+### **Chapter-11** 
+
+### **<u>Provisions Relating to Transfer and Acquisition of Property</u>** 
+
+**413. Property deemed to be transferred** : If a person sells, donates, gifts or otherwise transfers a property in which he or she has right and ownership to another person, the property shall be deemed to have been transferred to that other person. 
+
+**414. Property may be transferred:** (1) Any person, other than a person who is not competent to make contract pursuant to this Act or laws in force, may, subject to this Act, transfer a property in which he or she has right and ownership to one or more than one person jointly or severally. 
+
+(2) The competency or incompetency referred to in subsection (1) shall be determined on the basis of whether he or she was competent or incompetent at the time of the transfer of property by him or her. 
+
+(3) A person may, pursuant to sub-section (1), transfer a property in which he or she has right and ownership to another person with immediate or testamentary effect. 
+
+(4) In transferring a property pursuant to this Section, a deed shall be executed in fulfillment of the legal requirements. 
+
+Provided that: 
+
+- (1) It is not required to execute a deed to donate or gift any movable property or cash amounting up to one hundred thousand rupees. 
+
+**227** 
+
+      - (2) Sale or otherwise transfer of a movable property shall be made in accordance with the laws in force. 
+
+**415. Power of guardian or curator to sell property:** (1) A guardian or curator may, subject to this Act, sell and transfer a property for the rights, interests and protection of the person under his or her guardianship or curatorship. 
+
+   - (2) Notwithstanding anything contained in sub-section (1), 
+
+   - except as otherwise provided in this Act, no immovable property may be sold without permission of the court. 
+
+**416. Ownership devolving on transferee of property:** (1) If any person transfers his or her property to another person pursuant to Section 414, his or her ownership in that property shall cease to exist from the date of such transfer and the transferee shall have ownership in such property. 
+
+(2) Notwithstanding anything contained in sub-section (1), if a person transfers the right in his or her property to be effective with testament, the transferee shall have ownership in such property only after the death of the transferor. 
+
+(3) If two or more persons acquire the same property, they shall have that much entitlement to such property in proportion to their respective portion. 
+
+(4) If a deed does not indicate the portion to which a person is entitled on the acquisition of a property, all the persons acquiring the property shall be deemed to have acquired it equally. 
+
+**417. Power to transfer private property:** A person may transfer his or her private property to another person without any one's consent. 
+
+**228** 
+
+**418. Joint property may be sold by way of sale:** (1) A joint property may be sold and transferred with the consent of all of its owners. 
+
+(2) Even though all the owners do not agree to transfer the joint property pursuant to sub-section (1), any owner may transfer the property of his or her right or portion. 
+
+(3) If, in making a transfer pursuant to sub-section (1), it is technically not possible to separate the right or portion of any owner from the joint property, and another owner intends to acquire such property, that other owner shall be entitled to obtain it at the price mutually agreed upon between the owners. 
+
+(4) If more than one owner intend to acquire the joint property, the owner who agrees to pay the highest price shall be entitled to obtain such property. 
+
+(5) Notwithstanding anything contained in sub-section (3), if the other owners do not intend to acquire the right or portion of any owner and it is not possible technically to separate such property and, the whole of the joint property shall be sold and the proceeds of sale shall be divided between the owners according to their respective right or portion in that property. 
+
+(6) If any person transfers the joint property in contravention of sub-section (1), only the transfer of the extent of his or her right or portion in such property shall be valid, and the concerned person shall be entitled to get return of the property transferred in excess of the right or portion of the transferor. 
+
+**419. Prohibition of transferring property in common without obtaining consent:** (1) No person shall, without obtaining written 
+
+**229** 
+
+consent of the coparceners in common, transfer a property in common to another person. 
+
+(2) Notwithstanding anything contained in sub-section (1), if a coparcener of the joint family is a witness to the deed of transfer of a property in common, consent of that coparcener shall be deemed to have been obtained. 
+
+(3) If any person transfers a property in common in contravention of sub-section (1), the transfer of title only to the extent of such right or portion that person has in that property shall be valid. The concerned coparcener shall be entitled to get back the property transferred in excess of such right or portion. 
+
+**420. Property in common may be sold for household purpose:** Notwithstanding anything contained in Section 419, the person acting as the head of family may, for the household purpose, sell whole of the property in common, in the case of a movable property, and the half of such property, in the case of an immovable property, without consent of the others. 
+
+**421. Prohibition of transferring other's property:** (1) No person shall transfer a property to another person in which any one else has right and ownership. 
+
+(2) If any person transfers a property in contravention of sub-section (1), such a deed or transaction shall be void. 
+
+(3) If the real owner makes a claim in the property transferred pursuant to sub-section (1), the transferee of such property shall return it to the concerned owner. 
+
+**230** 
+
+(4) If a person finds any lost or stolen property, the owner of such property may claim it, along with evidence showing his or her ownership, within three years after the date on which the property was lost or stolen. 
+
+(5) If any person claims such property pursuant to subsection (4), the finder of that property shall return it to the owner, by collecting the amount of expenses, if any, incurred in its preservation or maintenance. 
+
+(6) Notwithstanding anything contained in sub-section (4), if a person has acquired any stolen or lost property by way of purchase at a public market or auction or bidding made publicly by any person or body, the person shall not be bound to return such property to the real owner unless and until he or she obtains the real value of such property and the fees or amount, if any, paid by him or her in the acquisition of such property. 
+
+**422. Prohibition of transferring property in duplication:** (1) No person shall re-transfer to another person a property which he or she has already transferred to some other person. 
+
+(2) If any person transfers a property in contravention of sub-section (1), the deed of transfer registered at an earlier date shall get legal validity if the transfer of an immovable property has been made, and if the transfer of a movable property has been made, the transfer to the person who acquires the property earlier shall be valid. 
+
+**423. Donation or gift incapable of being effected by guardian or curator:** No guardian or curator may donate or gift any property 
+
+**231** 
+
+belonging to the person under his or her guardianship or curatorship to any person. 
+
+**424. Entitlement to amount or compensation in event of deprivation of enjoyment of property:** (1) If a person transfers a property by way of sale pursuant to this Chapter and the purchaser is deprived of enjoying the property wholly or partly because of such transfer being invalid for any reason, the purchaser shall be entitled to recover from the transferor the amount paid by him or her for the property to the extent that he or she is so deprived of enjoying, an interest to be set by yearly ten percent of the amount and the registration fee or other amount, if any, he or she has paid for the transfer of that property as if it were an unsecured bond ( _Kapali_ ). 
+
+(2) If any person makes any structure in a property purchased pursuant to this Chapter and is not able to enjoy that property because of such transfer being invalid for any reason, that person may demolish and take away the structure made by him or her within six months. 
+
+(3) If any person is aggrieved from the transfer of a property in contravention of Sections 419, 421 and 422 or the failure to demolish and take away any structure pursuant to subsection (2), such a person shall also be entitled to a reasonable compensation for actual loss and damage suffered by him or her from such transferor, in addition to the amount referred to in subsection (1). 
+
+(4) If a person who may be entitled to a donation or who is entitled to a donation or gift is aggrieved from being unable to use the property for any reason under this Chapter, the person shall be 
+
+**232** 
+
+entitled to get a reasonable compensation from the person making donation or gift, subject to the other Sections of this Chapter. 
+
+Provided that compensation cannot be recovered in the case of a testamentary gift being void. 
+
+(5) Notwithstanding anything contained elsewhere in this Section, a person who obtains a property in any of the following circumstances shall not be entitled to recover the amount referred to in sub-sections (1), (3) and (4): 
+
+- (a) If he or she has obtained the property knowingly that it was other’s property or a stolen property, 
+
+- (b) If he or she has obtained the property knowingly that it was already transferred to another person. 
+
+**425. Right in property may be transferred by attorney:** (1) If a person appoints another person, who is competent to be an attorney in accordance with law, as his or her authorized attorney indicating the reason that he or she is not able to appear in person before the concerned office in order to sell and transfer his or her immovable property, such an authorized attorney may, on his or her behalf, sell and transfer his or her property to another person. 
+
+(2) A person may sell his or her movable property through his or her attorney or agent. 
+
+**426. Procedure to be followed by body corporate while purchasing or transferring property:** (1) If, in transferring an immovable property held in the name of a body corporate established in accordance with law, the board of directors of such a body gives power by a decision to any member of the board of directors or 
+
+**233** 
+
+employee of such a body to transfer the property, such a person may transfer the property on behalf of such a body. 
+
+(2) If the procedure referred to in sub-section (1) is fulfilled while purchasing or otherwise obtaining an immovable property in the name of a corporate body, the property may be purchased or obtained in the name of such a body. 
+
+**427. Property may be purchased or obtained by other person on one’s behalf:** If, except the circumstance set forth in Section 426, a person who purchases or obtains a property in accordance with this Chapter is, for any reason, unable to appear in person before the concerned office and gives a power of attorney, accompanied by his or her citizenship certificate, to a person who is competent to be an attorney by law in relation to the purchase or obtainment of the property, such an attorney may purchase or obtain the property in the name of that person. 
+
+**428. Property may be purchased or obtained in the name of incompetent or quasi-competent person:** A guardian or curator may acquire any property by way of donation, gift, purchase or otherwise for incompetent, quasi competent minor or a guardian or member of undivided family for the baby in the womb under his or her guardianship or curatorship. 
+
+**429. Registration and deregistration of property right in which is transferred in testament:** (1) If a person transfers his or her right in a property to another person with testamentary effect and such transferor of property dies, one who obtains the property shall submit an application, accompanied by the death registration certificate as well as other evidences, to the concerned office for the 
+
+**234** 
+
+transmission of the property to him or her, within six months after the date of the transferor’s death. 
+
+(2) If an application is submitted pursuant to sub-section (1), the concerned office shall examine the deed maintained in it and make necessary inquiry as to whether the deed executor has died or not and the deed is void or not. 
+
+(3) If, upon an inquiry made pursuant to sub-section (2), it appears that the transferor of the property has died and has not got the deed voided, such property shall be transmitted to the applicant. 
+
+(4) If any person submits an application to the office for the transmission after the expiration of the time-limit referred to in sub-section (1), the office shall transmit such property to the applicant in accordance with such a deed, by collecting the fees by five hundred rupees for each year after the expiration of the timelimit. **430. Not to claim for damage, destroy or low quality:** A person who has once purchased a property from another person shall not be entitled to make a claim that such property is damaged, destroyed or of low quality. 
+
+Provided that if the seller has sold the property by misrepresentation or with deviation from the particulars set forth in the deed, the purchaser shall be entitled to compensation for the same. 
+
+**431. Property may be exchanged:** (1) Any person may exchange his or her property with another person with or without adding any amount. 
+
+**235** 
+
+(2) A deed shall be executed in accordance with law in exchanging a property pursuant to this Act. 
+
+**432. Restriction on transfer of immovable property to foreigner:** (1) No person shall, without obtaining prior permission of the Government of Nepal, transfer any immovable property to a foreigner but for the person who has acquired the non-resident citizenship of Nepal, it will be according to prevailing law. 
+
+(2) If any person transfers any immovable property to a foreigner in contravention of sub-section (1), the relevant deed shall _ipso facto_ be void, and such property shall devolve on the Government of Nepal. 
+
+(3) The amount invested by the creditor in the obtainment of an immovable property pursuant to sub-section (1) shall be equivalent to an unsecured bond (Kapali). 
+
+**433. Foreigner to transfer partition share or inheritance, if any obtained:** (1) If any foreigner obtains a partition share in or succeeds to any immovable property in Nepal, the property shall not be eligible to be transferred to or registered in his or her name nor shall he or she be entitled to enjoy the income of that property, except where so permitted by the Government of Nepal. 
+
+Provided that this provision shall not apply to a person who has obtained non-resident Nepali citizenship. 
+
+(2) Any foreigner who obtains any partition share or succession pursuant to sub-section (1) shall transfer such property to a citizen of Nepal in any manner, and the concerned office shall, 
+
+**236** 
+
+for that purpose, issue a provisional landownership registration certificate valid for the day of transfer of right. 
+
+(3) If the foreigner fails to transfer a partition share or succession obtained in his or her name pursuant to sub-section (1) to a citizen of Nepal pursuant to sub-section (2) at any time, in the case of the partition share, and within three years of its obtainment, in the case of succession, the Government of Nepal shall have right in such property after the expiration of that time-limit. 
+
+**434. Statute of limitation:** A lawsuit may be made within the statute of limitation, if any, specified separately in this Chapter, at any time in the case of Section 432, and, in relation to the other cases, within six months after the date of knowledge of any act done or action taken pursuant to this Chapter, by a person who is aggrieved from such act or an action. 
+
+**237** 
+
+### **Chapter-12** 
+
+### **<u>Provisions Relating to Mortgage of Immovable Property</u>** 
+
+**435. Property deemed to be mortgaged:** (1) If a debtor gives the whole or any portion of an immovable property in which the debtor has right, ownership or possession to a creditor in consideration for a loan which the debtor borrows from the creditor, entitling the creditor to possess that property with effect from the date of execution of the deed or after a certain period, such property shall be deemed to have been given in mortgage. 
+
+(2) If the deed provides that the creditor is entitled to possess the property mortgaged pursuant to sub-section (1) with immediate effect at the time of lending or after a certain period, such a mortgage shall be deemed to be a mortgage with possession ( _Bhogbandaki_ ), and if the deed provides that the creditor is entitled to possess the property in the event of the debtor’s default on repayment of the loan within the deadline set by the creditor and the debtor for repayment, such a mortgage shall be deemed to be a mortgage without possession ( _Drishtibandhaki_ ). 
+
+(3) A property to be mortgaged shall be of such nature as may be capable of being enjoyed by the mortgagee. 
+
+(4) A person shall not mortgage a property in which he or she has not right, ownership or possession or which he or she will acquire in the future. 
+
+**436. Deed to be executed:** (1) A deed shall be executed in accordance with law for mortgaging any property pursuant to this Chapter. 
+
+**238** 
+
+(2) A person executing the deed of mortgage shall be competent in accordance with law. 
+
+**437. Mortgaged property to be possessed and enjoyed:** (1) The creditor shall possess and enjoy the property in mortgage with possession from the date of execution of the deed thereon or from a particular date, if any, specified in the deed, and the property in mortgage without possession within two years of the expiration of the date for repayment of loan by the debtor. 
+
+(2) If, for any reason, the creditor is not able to possess and enjoy such property within the period referred to in sub-section (1) or if the debtor does not allow, by any means, the creditor to possess and enjoy it, the creditor may make a lawsuit in accordance with law for effecting the possession and enjoyment of such property. 
+
+(3) If the creditor fails to possess and enjoy the property pursuant to sub-section (1) or to make a lawsuit for effecting its possession and enjoyment pursuant to sub-section (2), such a mortgage shall _ipso facto_ be inoperative. 
+
+(4) If the deed of a mortgage becomes inoperative pursuant to sub-section (3), the deed shall be equivalent to an unsecured bond ( _Kapali_ ). 
+
+**438. Possessory right in mortgaged property to be deemed transferred:** If any person mortgages any property, the possessory right in such property shall be deemed to have been transferred to the creditor from the date of its possession and enjoyment by the creditor. 
+
+**239** 
+
+**439. Entitlement to possess as if it belonged to oneself:** (1) The creditor shall be entitled to possess and enjoy the property mortgaged to him or her and fruit, benefit and facility brought out from such property as if the same were his or her own property. 
+
+(2) If the creditor is not able to possess and enjoy the property mortgaged to him or her because of its incapability of being transferred or of any hindrance or obstruction by the debtor, the debtor shall pay a reasonable compensation to the creditor for the same. 
+
+**440. Duty to take reasonable care of (herbichar)  mortgaged property:** (1) After acquiring possessory right in the mortgaged property, the creditor shall take a reasonable care and protection of that property as if it were his or her own. 
+
+(2) The creditor himself or herself shall pay the tax or charge, if any, payable by law for the possession and enjoyment of the mortgaged property. 
+
+Provided that the debtor shall pay the land revenue payable by law. 
+
+(3) If the creditor is not able to possess and enjoy the mortgaged property because of any hindrance or obstruction by any person other than the debtor, the creditor may make a lawsuit in accordance with law for its possession and enjoyment. 
+
+**441. Interest, charge or fee not to be collected:** (1) Notwithstanding anything contained elsewhere in this Act, no creditor who has lent money against the security of mortgage with possession in a 
+
+**240** 
+
+property shall collect any kind of interest, charge or fee in consideration of such loan from the debtor. 
+
+(2) After the creditor has acquired possession in the property of mortgage without possession, the creditor shall not collect any kind of interest, charge or fee in consideration for such loan. 
+
+**442. Period for possession and enjoyment of property in mortgage with possession:** (1) Except as otherwise provided in the deed of mortgage, no property in mortgage with possession may be possessed and enjoyed for a period exceeding ten years. 
+
+(2) If the property in mortgage with possession is not redeemed within the period referred to in sub-section (1), the deed of mortgage shall be equivalent to an unsecured bond. 
+
+**443. Maximum period of mortgage without possession:** (1) No period of a mortgage without possession in a property shall exceed five years. 
+
+(2) No creditor is entitled to take action for effecting possession in the property in mortgage without possession or having recovery of the related loan from the debtor prior to the completion of the period referred to in sub-section (1). 
+
+(3) After the expiry of the period referred to in sub-section (1), the property may be possessed for a period not exceeding ten years. 
+
+(4) If the property given in mortgage without possession is not redeemed within the period of ten years after the possession 
+
+**241** 
+
+pursuant to sub-section (3), the relevant deed shall be equivalent to an unsecured bond. 
+
+**444. Redemption of mortgaged property at any time:** The debtor may, at any time, redeem his or her property from the creditor by repaying the loan, in the case of a property given in mortgage with possession, and also the interest, if any, payable on the loan, in the case of a property given in mortgage without possession, to the creditor. 
+
+(2) Notwithstanding anything contained in sub-section (1), if the property in mortgage is a cultivable land and the creditor has already planted crops in such a land at the time of redemption, the creditor shall be entitled to possess and enjoy such crops except as otherwise agreed upon between the creditor and the debtor. 
+
+**445. Property in mortgage may be remortgaged:** (1) A person who has obtained a property in mortgage shall be entitled to remortgage such property or any part thereof to another person in consideration for an amount which is equal to, or lesser than, the amount specified in the deed of mortgage, and in such a case, a re-mortgage is deemed to have been created. 
+
+Provided that a mortgaged property shall not be the object of re-mortgage prior to the existence of the possessory right in such property. 
+
+(2) The period of possession and enjoyment of the remortgage given pursuant to sub-section (1) shall not exceed the period of possession and enjoyment under the mortgage. 
+
+**242** 
+
+(3) If the debtor who has right and ownership in the property intends to redeem the property re-mortgaged pursuant to sub-section (1), the debtor may redeem the property upon payment of the price directly from the re-mortgagee if the price of the remortgage is equal to the original price and through the original mortgagee if such price is less than the original price. 
+
+(4) Notwithstanding anything contained elsewhere in this Section, the transaction of remortgage made inconsistent with the terms of the mortgage shall _ipso facto_ be void to the extent of such inconsistency. 
+
+(5) If the creditor is not entitled to possess the property remortgaged pursuant to this Chapter, the deed of such a re-mortgage shall be equivalent to an unsecured bond ( _Kapali_ ). 
+
+**446. Fruits or benefits of property may be mortgaged:** Notwithstanding anything contained in Section 445, a creditor who has obtained a property in mortgage may, instead of remortgaging the whole property, remortgage only the fruits, benefit or facility of such property, or, if such property is a cultivable land, only the crops, products, trees, bamboo trees, reaped or to be reaped fruits, vegetables, flowers or any other kinds of products to be yielded from such land. 
+
+**447. Mortgaging by third party on behalf of debtor:** (1) A third person may, in consideration for a loan borrowed by a debtor, mortgage a property in which the third person has right and ownership to the creditor on behalf of the debtor. 
+
+**243** 
+
+(2) The creditor shall, pursuant to this Chapter, be entitled to possess and enjoy the property mortgaged pursuant to subsection (1) as if it were the property mortgaged by the debtor to the creditor. 
+
+(3) If a property is mortgaged by a third person pursuant to sub-section (1), the relationship between the debtor and the third person shall be governed by the deed of mortgage or other separate contract, and in the default of such provision, such transaction shall be equivalent to an unsecured bond (Kapali). 
+
+**448. Property in mortgage to be indivisible:** (1) A property mortgaged by a debtor to a creditor shall remain indivisible notwithstanding the creation of more than one creditor by virtue of the partition or succession between the creditor’s coparceners or the division between creditor’s partners, and the debtor shall not be entitled to redeem the whole or any portion of the mortgaged property until the loan borrowed by him or her is repaid in full in accordance with the deed of mortgage. 
+
+(2) If more than one debtor are maintained by virtue of the partition, succession between the debtor’s coparceners or division between the debtor’s partners, the mortgaged property shall not be liable to redemption until each debtor repays his or her respective portion of the loan in full. 
+
+**449. Creditor to be liable for loss and damage to property in mortgage:** (1) After the creation of the creditor’s possessory right in the property in mortgage, the creditor shall be liable for any kind of loss or damage, if any, caused to the property in mortgage. 
+
+**244** 
+
+(2) In the event of any loss or damage to the property in mortgage pursuant to sub-section (1), the creditor shall so repair such property, at his or her cost, as to restore it into its original form. 
+
+(3) Notwithstanding anything contained in sub-section (1), the creditor shall not be liable for any loss or damage to the property in mortgage caused by a disaster, and the creditor shall repair such loss or damage with the debtor's consent in writing. 
+
+(4) The debtor shall, while redeeming the property in mortgage, pay also the expenses incurred in the maintenance under sub-section (3), in addition to the loan borrowed from the creditor. **450. Not to create trouble on property in mortgage:** After the creation of the possessory right in the property in mortgage, the creditor shall not so trouble the debtor stating that such property is inappropriate or inaccurate or less as to be inconsistent with the terms of the deed. 
+
+Provided that nothing shall bar the making of a claim for the repayment of a loan in accordance with the deed of mortgage if the creditor is not entitled to possess the property in mortgage for any reason or if the property is held to be defective for any reason. 
+
+**451. Mortgage not to be made to foreigner:** No person may mortgage an immovable property to a foreign person other than a person having obtained the non-resident Nepali citizenship, without prior approval of the Government of Nepal. 
+
+**452. Not to be mortgaged or transferred in duplication:** (1) No property once mortgaged may be mortgaged or transferred again, in duplication, to other person. 
+
+**245** 
+
+(2) If a person mortgages a property in duplication in contravention of sub-section (1), the deed registered at an earlier date shall be valid and the subsequent deed shall _ipso facto_ be void. 
+
+(3) If a deed becomes void pursuant to sub-section (2), the amount of a creditor who knowingly executes the deed in duplication shall lapse, and that of a creditor who executes it without knowledge of duplication shall be equivalent to an unsecured bond (Kapali). 
+
+(4) Notwithstanding anything contained in sub-section (1), in the event of the execution of deeds in duplication, and the first deed providing for any kind of mortgage and the second deed providing for the transfer of title, the transferee shall be entitled to establish the title by making repayment of loan in accordance with the first deed of mortgage. 
+
+(5) One who executes a deed in duplication as mentioned in this Section shall be liable to the punishment with a fine of a sum that is equal to the amount in controversy, if any, indicated in the second deed, to the amount indicated in the earlier deed, if such amount in controversy is not indicated in the second deed, and a sum not exceeding twenty-five thousand rupees if no such amount is indicated even in the earlier deed. 
+
+Provided that a fine in excess of one hundred thousand rupees shall not be imposed irrespective of the sum of amount in controversy. 
+
+(6) Notwithstanding anything contained elsewhere in this Section, in the event of the execution of the deed of mortgage in 
+
+**246** 
+
+duplication, possessory right shall be established within two years from the date of the first deed if it provides for mortgage with possession (Bhogbhandhaki) and within two years from the date of entitlement to the possessory right if the first deed provides for mortgage without possessory right (Drishtibandhaki). 
+
+(7) In the event of a failure to establish the possessory right pursuant to sub-section (6), the creditor's amount shall be equivalent to an unsecured bond (Kapali). 
+
+**453. Statute of limitation:** A lawsuit may be made within the statute of limitation, if any, specified separately in this Chapter, and, in relation to the other cases, within a period of one year after the date on which any act was done or action was taken pursuant to this Chapter, by a person who is aggrieved from such an act or action. 
+
+**247** 
+
+### **Chapter-13** 
+
+### **-** **<u>Provisions Relating to Pre emption of Immovable Property</u>** 
+
+**454. Pre-emption deemed to be made:** If a person transfers, in any manner, any immovable property in which that person has right, ownership and possession to another person and anyone who is in neighbor of such property redeems it in accordance with this Chapter, pre-emption shall be deemed to be made. 
+
+**Explanation:** For the purposes of this Chapter, the term “in neighbor of" includes a situation where a ditch, water supply, passage, exit etc. for one will be closed by the reason that one does not have other’s house or land that is bordering one’s house or land and has been transferred. 
+
+**455. Entitlement of heir to pre-emption:** (1) If a person sells his or her immovable property, the heir in neighbor of such property may preempt such property upon payment of the amount paid by the buyer of that property as well as the fees incurred in course of approval of deed to the buyer. 
+
+(2) If there are more than one heir who intend to make preemption pursuant to sub-section (1), the nearest heir, and, if such heirs are also more than one, the heir who is the most immediate neighbor, and, if even such heirs are more than one, all the heirs may pre-empt such property in equal proportion. 
+
+(3) If the nearest heir does not pre-empt such property pursuant to sub-section (2), the heir who is the nearest in the order of preference may pre-empt such property. 
+
+**248** 
+
+**456. Pre-emption by tenant:** If there is no heir in neighbor of the property pursuant to Section 455 or even if there is an heir, he or she does not intend to make pre-emption and if there is a tenant in accordance with law in such a property, the tenant may pre-empt such property. 
+
+**457. Pre-emption of sold house:** (1) If there are different owners of the different parts of the same house and the owner of a part sells his or her part to another person, the owner of another part may, if he or she intends to pre-empt that part, preempt such a part of the house by paying the amount paid by the buyer and the fee incurred in the registration of the deed to the buyer. 
+
+   - (2) In making pre-emption pursuant to sub-section (1), the 
+
+   - following person shall get preference as follows: 
+
+      - (a) If the owner of the other part is the heir, such an  heir, and if there are more than one heir, the nearest heir, 
+
+      - (b) If the owner of the other part is a person other than the heir, the owner in neighbor of or the owner of the part adjoining such a part. 
+
+**458. Pre-emption of house donated or gifted:** (1) Notwithstanding anything contained in Section 455,456 or 457, if any person relinquishes in any manner his or her right in and donates or gifts the half part of the same house or any portion thereof or the land occupied by or appurtenant to the house and the donee has transferred the right in the house or land in any manner to another person, the donor or his or her heir residing in the same place may, 
+
+**249** 
+
+if he or she so intends, pre-empt such a house or any portion thereof or the land occupied by or appurtenant to the house. 
+
+(2) Notwithstanding anything contained in sub-section (1), if a person gets a donation or gift of the half part or any portion of the same house or the land occupied by or appurtenant to the house from a donor and the donor donates or gifts the remaining part of such a house or land to another person, the former donee or giftee or his or her heir may pre-empt such remaining part or portion. 
+
+(3) In making pre-emption pursuant to sub-section (1) or (2), the figure of price, if any, indicated in the instrument of donation or gift, and amount equal to the prevailing market price, if such figure is not so indicated, and the fees incurred in the registration of the deed shall be paid to the creditor. 
+
+(4) If, there are more than one heir intending to make preemption pursuant to sub-section (1) or (2), the nearest heir, and the most aggrieved heir, if even the nearest heirs are more than one, may make pre-emption. 
+
+**459. Where pre-emption is not permitted:** Notwithstanding anything contained in Sections 457 and 458, any part of or house built under the provision of joint housing shall not be subject to pre-emption. 
+
+**460. Procedures for making pre-emption:** (1) A person who intends to make pre-emption of any immovable property pursuant to this Chapter shall make a petition to the office making registration of the relevant deed, and such a petition has to be accompanied by a deposit of an amount equal to the price of the property to be preempted, if any, indicated in the deed registered for the transfer of 
+
+**250** 
+
+such property, or an amount equal to the prevailing market price if such price is not indicated in the deed, and the fees charged in the approval of registration of such a deed. 
+
+(2) If a petition is received pursuant to sub-section (1), the office that approves the registration of the deed shall hold the petitioner on recognizance and send a process of summon to the person obliged to allow preemption to appear in the office, within a period of seven days excluding the time required for journey. 
+
+(3) If the person obliged to allow preemption appears and consents to preemption within the time limit as referred to in subsection (2), the office that approves the registration of the deed shall effect preemption by paying to him or her the amount deposited pursuant to sub-section (1). 
+
+(4) If, despite that the person obliged to allow preemption does not appear and consent to preemption within the time-limit referred to in sub-section (2), it appears from the received petition, registered deed and records of the office that pre-emption is to be effected, the office that approves registration of the deed shall make decision to effect pre-emption, and if it appears that pre-emption is not to be made, that office shall make decision not to effect preemption and give according information to the petitioner. 
+
+(5) If the person obliged to allow pre-emption does not appear within the time limit referred to in sub-section (2), and, after the expiration of the time limit, if it appears from the received petition, registered deed and records of the office that pre-emption is to be effected, the office shall make decision to effect preemption and give an execution slip to the person entitled to pre- 
+
+**251** 
+
+emption to enjoy the property to be pre-empted, and send a notice to the person obliged to allow preemption to receive the amount of deposit made pursuant to sub-section (1). 
+
+(6) If the person obliged to allow pre-emption appears within the time-limit referred to in sub-section (2) but expresses his or her disagreement with the market price of such property, the office that approves the registration of the deed shall fix the market price of that property and effect pre-emption by having the amount equal to that market price paid to the person obliged to allow preemption. 
+
+(7) If any party does not agree to the market price of the property subject to pre-emption fixed pursuant to sub-section (6) or if the person obliged to allow preemption appears within the time limit and shows the reason why pre-emption is not to be made, and it is necessary to decide it upon examination of evidence on the matter, the office that approves the registration of the deed shall inform that the concerned person may make a lawsuit in the court within thirty-five days; and in such a case, action shall be taken pursuant to a decision of the court if a lawsuit has been filed within the time-limit, and pursuant to a decision of the office if no such a lawsuit has been filed. 
+
+(8) In returning the amount to the petitioner on holding that pre-emption cannot be made pursuant to sub-section (4), two and half percent of the amount deposited pursuant to sub-section (1) shall be deducted. 
+
+(9) If the person who has petitioned for pre-emption does not subsequently intend, for any reason, to make pre-emption or 
+
+**252** 
+
+fails to appear at the appointed dates, the office shall punish that person with a fine of three percent of the amount of deposit furnished by him or her and the amount that remains after deducting that fine from the amount of deposit shall be returned to him or her. 
+
+**461. To update records upon pre-emption:** If it is held by the concerned office or court that pre-emption can be made pursuant to this Chapter, the office shall make entries into and update accordingly the records of the pre-empted property maintained in such an office. 
+
+**462. Statute of limitation:** A person who is aggrieved from any act done or action taken pursuant to this Chapter may file a lawsuit within thirty-five days after the date of knowledge thereof not later than six months after the date of registration of the deed. 
+
+Provided that a tenant may file a lawsuit within thirty-five days after the date of expiration of the date within which the landowner may make pre-emption. 
+
+**253** 
+
+### **Chapter-14** 
+
+### **<u>Provisions Relating to Approval of Registration of Deeds</u>** 
+
+**463. Deed deemed to be registered:** If any deed submitted by a person to the concerned office for approval pursuant to this Chapter is approved by such an office, such a deed shall be deemed to be registered. 
+
+**Explanation:** For the purposes of this Chapter, the term “concerned office” means such an office as may be designated by the Government of Nepal, by a notification in the Nepal Gazette, and includes the concerned Land Revenue Office until the office is so designated. 
+
+**464. Deeds to be registered:** (1) In making any of the following deeds, such a deed shall be got registered with the concerned office: 
+
+   - (a) A deed transferring the right in an immovable property in any manner, 
+
+   - (b) A deed of mortgage with possession, mortgage without possession or re-mortgage, 
+
+   - (c) A deed on donation or gift of immovable property in testament, 
+
+   - (d) A deed on exchange of immovable property, 
+
+   - (e) A deed on partition or relinquishment of partition share of property in common, 
+
+   - (f) A deed on separation of board and bread or unification of board and bread, 
+
+   - (g) A deed on establishment of a trust, 
+
+**254** 
+
+- (h) A deed on house renting with a monthly rent of more than one hundred thousand rupees, 
+
+- (i) A deed on usufruct in an immovable property, 
+
+- (j) Such other deed required to be registered pursuant to this Act or law. 
+
+(2) If any person fails to have registered a deed required to be registered pursuant to sub-section (1), such a deed shall not be legally recognized. 
+
+**465. Other deeds may be registered:** (1) A person may, if he or she so intends, have registered also any deed other than that set forth in Section 464. 
+
+(2) If a person makes an application for the approval of registration of a deed pursuant to sub-section (1), the concerned office shall register such deed by fulfilling the legal requirements. 
+
+**466. Deed may be registered by commission:** (1) If a person makes an application to the concerned office for the approval of registration of a deed by a commission deputed by the office and it appears that such a deed can be registered by that office, the chief of office or other employee deputed by him or her shall, on deposit with the office of the fees chargeable for such registration, visit the location indicated by the applicant within five days and register such a deed by fulfilling the legal requirements. 
+
+(2) If the deed is approved by a commission deputed pursuant to sub-section (1), the office shall credit into revenue the deposit made pursuant to that sub-section. 
+
+**255** 
+
+(3) If, for any reason, the deed is not approved and registered by a commission deputed pursuant to sub-section (1), the applicant shall get refund of the deposit within three months. 
+
+(4) If the applicant fails to get refund of the deposit within the time-limit referred to in sub-section (3), the office shall credit such deposit into revenue. 
+
+**467. Deed may be approved and registered with office in other district:** (1) If the parties to a deed intend to get the deed approved and registered in a district other than the district in which either of them resides or the property is situated, they shall make an application, setting out the matter, to the concerned office of that district. 
+
+(2) If an application is made for the registration of a deed pursuant to sub-section (1), such an office shall make necessary inquiry into the matter and approve and register such deed by fulfilling the legal requirements. 
+
+(3) If a deed of immovable property is approved and registered in other district pursuant to sub-section (2), the office shall send a copy of the registered deed to the relevant office of the concerned district. 
+
+**468. Fee chargeable for registration of deed:** (1) The fee specified by law shall be charged for the approval and registration of a deed. 
+
+(2) Except where the law provides for the fee of approval and registration of a deed, fee shall be charged according to the amount set forth in the deed dealing with transaction of money. 
+
+**256** 
+
+Provided that if the price of the immovable property referred to in the deed is less than the minimum price specified by the Government of Nepal, the fee shall be charged according to the price specified by the Government of Nepal. 
+
+(3) Notwithstanding anything contained in sub-section (1) or (2), in registering a deed in another district, there shall be charged an additional fee by ten percent of the fee set forth in that sub-section. 
+
+**469. Obligation to pay fees:** (1) The following person shall pay the fee chargeable for the registration of the following deed: 
+
+   - (a) In the case of a deed transferring a property or relating to mortgage, the transferee or mortgagee, 
+
+   - (b) In the case of a deed on partition or relinquishment of partition share, separation of board and bread or unification of board and bread, all coparceners in equal portion, 
+
+   - (c) In the case of a deed on exchange of property, both parties to the deed, 
+
+   - (d) In the case of a deed of testamentary gift, the donor or testator, 
+
+   - (e) In the case of a deed on house renting, the house lord, 
+
+   - (f) In case of a memorandum of establishment of trust, founder of a trust, 
+
+**257** 
+
+- (g) In the case of any other deed, both parties to the deed. 
+
+(2) In registering the deed referred to in clause (e) of subsection (1), the fee shall be determined considering the amount of rent of the first month receivable for house rent as the price. 
+
+**470. Provision relating to payment of amount:** If any amount is to be paid and received between the parties to a deed according to the deed intended to be approved and registered, such payment may be effected either in household or in presence of the concerned employee of the office or by a good for payment cheque. 
+
+**471. Transmission and registration and de-registration to be made:** (1) If any transmission has to be effected in consequence of a deed registered, the concerned office shall execute transmission, and registration and deregistration of the matter on the day of registration of the deed, and on the following day if it is not possible to do so on that day. 
+
+(2) If any transmission and registration and deregistration of the matter have to be made in the records of another office according to the deed registered by one office, the latter shall give a time-limit of thirty-five days to the transferee, thereby informing him or her to go to the concerned office for the transmission, and registration and deregistration of the matter, and send also the deed to the concerned office. 
+
+(3) On receipt of a deed sent by another district for the transmission, and registration and deregistration of the matter pursuant to sub-section (2), the concerned office shall enter the 
+
+**258** 
+
+matter of such registration into its records and effect transmission and registration and deregistration of the matter according to the deed. 
+
+**472. Deed registered at earlier date to be valid:** In the event of approval and registration of more than one deed in relation to the same matter, the deed approved and registered on the earlier date shall be valid. 
+
+**473. Statute of limitation:** (1) A person who is aggrieved from any act done or action taken pursuant to this Chapter may make a lawsuit within six months after the date on which such an act was done or action was taken. 
+
+(2) Notwithstanding anything contained in sub-section (1), if a deed is approved and registered by an office of another area, a lawsuit may be made within one year after the date of receipt by the concerned office of a copy of such a deed. 
+
+**259** 
+
+### **Chapter-15** 
+
+### **<u>Provisions Relating to Transactions</u>** 
+
+**474. Transaction deemed to be made:** (1) If there is give-and-take of any amount or goods between two or more persons subject to any condition, transaction shall be deemed to have been made between them. 
+
+   - (2) If a transaction is made pursuant to sub-section (1), the 
+
+   - receiver of amount or goods shall return the same to the giver of amount or goods. 
+
+**Explanation:** For the purposes of this Chapter, the term “amount” includes the price of a goods. 
+
+**475. Loan deemed to be borrowed:** If a person has an obligation to pay any amount or goods to another person in any manner, such obligation shall be deemed to be a loan borrowed by that person, and such a person shall return such amount or goods to the concerned person, subject to the provisions of this Chapter. 
+
+**476. Transaction not to be carried on without executing deed:** No person shall carry on transaction without executing a deed in accordance with law. 
+
+**Explanation:** For the purposes of this Chapter, the term “deed” means any document that substantiates a transaction including a cheque, bill, voucher and receipt. 
+
+**477. Matters to be set out in deed:** In carrying on a transaction, the following matters shall be set out in the deed according to the nature of transaction: 
+
+**260** 
+
+- (a) Name, surname, age and address of each person involved in transaction, and name of his or her father, mother, grand-father and grand-mother, 
+
+Provided that in the case of a married person, the name of his or her husband or wife, as the case may be, shall also be mentioned. 
+
+- (b) Reason for transaction, 
+
+- (c) Volume of transaction, 
+
+- (d) In the case of transaction of any good, price of such goods, 
+
+- (e) In the case of exchange of any goods by way of borrowing, loan or otherwise, the matter to that effect, 
+
+- (f) Details of the goods, if any, exchanged, 
+
+- (g) Date for repayment of the transacted amount, 
+
+- (h) Rate of interest, if any, payable on the transaction, 
+
+- (i) Matter that the creditor may recover the amount involved in the transaction from the borrower's assets in the event of failure to repay such amount within the specified time or to fulfill the other conditions set forth in the deed, 
+
+- (j) Place of the deed executed, 
+
+- (k) Date of the deed executed, 
+
+- (l) Such other matters as required to be set out according to the nature of transaction. 
+
+**261** 
+
+**478. Entitlement of creditor to interest from debtor:** (1) If a deed on transaction provides for the payment of interest, the creditor may collect the interest from the debtor as set forth in the deed. 
+
+(2) The amount of interest which the creditor is entitled to collect from the debtor pursuant to sub-section (1) shall not exceed ten percent of the principal per annum. 
+
+(3) If the deed executed pursuant to sub-section (1) does not provide for the rate of interest but only for the payment of interest, the creditor may collect interest from the debtor at the rate of ten percent of the principal per annum. 
+
+(4) If the deed executed pursuant to sub-section (1) provides for the payment of profit instead of interest but does not specify the amount of such profit, the creditor may collect such profit from the debtor as if it were interest. 
+
+**479. Creditor not allowed to collect interest from debtor:** If the deed on transaction does not provide for the payment of interest, the creditor shall not collect interest from the debtor. 
+
+**480. Compound interest not to be collected:** (1) The creditor shall not collect compound interest from the debtor. 
+
+(2) If any creditor collects compound interest from a debtor in contravention of sub-section (1), such interest shall be deducted from the principal and refunded if the principal has already been repaid. 
+
+**481. Interest in excess of principal not to be collected:** Notwithstanding anything contained elsewhere in this Chapter, the creditor shall not collect interest in excess of the principal. 
+
+**262** 
+
+**482. Procedures to be fulfilled in paying and collecting principal and interest:** The following procedures shall be fulfilled in paying and collecting interest: 
+
+   - (a) If the debtor repays the whole of the principal and interest, the creditor shall sign and return the deed on transaction to the debtor by tearing out the deed or indicating on its space or reverse side that the loan has been repaid, 
+
+   - (b) If the deed is not found at the time of repayment of the principal and interest pursuant to clause (a), the creditor shall give the debtor a receipt indicating the receipt of the particular amount on the particular date, 
+
+   - (c) In repaying some amount out of the principal and interest, the creditor shall indicate on the reverse side of the deed how much he or she has received from the debtor on which date, and get the debtor to sign the deed and issue a separate receipt of amount accordingly if the deed is not found immediately or it is not with the creditor for the time being. 
+
+**483. Interest accruable as of the date of recovery of amount:** Notwithstanding anything contained elsewhere in this Chapter, if the court passes a judgment on a lawsuit, if any, made within the period under Section 484 entitling the creditor to recover interest as well, the creditor shall be entitled to the interest as of the date of recovery according to the judgment. 
+
+**263** 
+
+**484. Period of deed executed in household:** (1) The period of a deed executed in household pursuant to this Chapter shall not exceed ten years. 
+
+- (2) Notwithstanding anything contained in sub-section (1), 
+
+- if the debtor repays some of the principal or interest thereon to the creditor or the term of a deed is extended for the repayment of principal or interest within the period of ten years, another period of ten years shall be extended from the date of such repayment of principal or interest or extension of the period, as the case may be. 
+
+- **485. Transaction carried on with incompetent or quasi-competent person not to be recognized:** A transaction carried on by a person with an incompetent or quasi-competent person shall not get legal recognition. 
+
+**486. Recovery of amount not available from property in common:** (1) If any person carries on transaction with another person and the deed of such transaction does not bear the signature of the person acting as the head of family, the creditor shall not be entitled to recover his or her amount from such property until the debtor's right in the property in common is established. 
+
+(2) Notwithstanding anything contained in sub-section (1), if the person acting as the head of family repays such amount, the creditor may recover the same. 
+
+(3) If any person is not able to recover the amount from the debtor on the occurrence of the circumstance referred to in subsection (1), the creditor shall make a lawsuit against the debtor and maintain his or her right within a period of ten years. 
+
+**264** 
+
+(4) In the event of the maintenance of the right with the debtor pursuant to sub-section (3), the creditor may recover his or her amount from the debtor in accordance with law after his or her right in the property in common has been established. 
+
+(5) The statute of limitation for making a lawsuit shall, for the recovery of the amount pursuant to sub-section (4), commence from the date of establishment of the debtor's right. 
+
+**487. Exchange of movable property not allowed without consent:** (1) A person of majority age in a joint family is not allowed to exchange any movable property in common without consent of the person acting as the head of family. 
+
+Provided that the consent of the person acting as the head of family shall not be required to exchange his or her private property. 
+
+(2) If a person exchanges a movable property in contravention of sub-section (1), the exchange of such property shall not be valid if the person acting as the head of family does not consent to such exchange. (3) If there is no consent of the person acting as the head of family to the exchange of movable property made in contravention of sub-section (1), the property so exchanged may be taken back within thirty-five days. 
+
+### **488. Recovery of amount if transaction appears to have been carried** 
+
+**on:** Even though any person does not execute a deed by fulfilling the procedures referred to in this Chapter, if it appears from any deed, banking transaction, **negotiable instrument,** cheque, voucher or book of account that transaction has been carried on with any 
+
+**265** 
+
+person, the court may, based on such deed, banking transaction, negotiable instrument, cheque, voucher or book of account, order the recovery of such amount from the debtor to the lawsuit maker. 
+
+**489. Procedure to be followed if deed executed on household is lost or destroyed due to force majeure event:** (1) If a deed executed in household is lost or destroyed due to a force majeure event, the creditor shall make an application, setting out the matter, to the concerned Local Level within fifteen days from the date of loss or occurrence of the force majeure event. 
+
+(2) If an application is made pursuant to sub-section (1), the concerned Local Level shall draw up a receipt setting out the matter and issue the receipt, sealed with the stamp of the office, to the applicant. 
+
+(3) If an application is made pursuant to sub-section (1), the Local Level shall summon the presence of the deed executor, if he or she is alive, and of the nearest heir, if such executor is not alive, within seven days, and cause a deed to be prepared as per the original deed, if he or she so consents, and authenticate such deed and deliver it to the applicant. 
+
+(4) If the deed executor does not consent to execute another deed indicating that the deed was lost or destroyed due to a force majeure event pursuant to sub-section (3), the creditor shall make a lawsuit and maintain his or her right, showing the evidence of the loss of deed or occurrence of the force majeure event, within thirty-five days of the expiry of that time-limit. 
+
+**266** 
+
+**490. To return goods transacted in the event of imperfection:** (1) Except as otherwise provided for in the deed, if the receiver of any goods transacted with specification of price is not able to possess the goods due to the fact that the goods do not correspond to that set forth in the deed or are imperfect for any reason, he or she shall give a notice thereof to the giver of goods within thirty-five days of such transaction. 
+
+(2) If a notice is received from the receiver of goods pursuant to sub-section (1) and his or her statement appears to be reasonable, the exchange of goods shall be made if the giver has similar other goods, and if the giver does not have such goods, he or she shall get back his or her goods and cancel the deed executed in relation to such transaction. 
+
+(3) If the giver of goods refuses to exchange or to take back the goods pursuant to sub-section (2), the receiver of goods may make a lawsuit to have recovery of an amount equivalent to the price of such goods and a reasonable compensation for the loss and damage caused to him or her from the concerned person or get such transaction to be void. 
+
+**491. To return goods in original condition:** (1) If any person obtains or borrows for any specific purpose any goods owned or possessed by another person whether for rent or not or for borrowing or not or on any other terms and conditions, the person shall, after the completion of the purpose, return the goods that are the same in kind, quantity and quality as have been so acquired or borrowed, to the owner or possessor. 
+
+**267** 
+
+(2) If the goods obtained pursuant to sub-section (1) are lost, broken, destroyed, out of order or otherwise damaged, except as otherwise provided for in the deed, the person obtaining such goods shall return similar other goods to the owner or possessor or pay to the owner or possessor an amount equivalent to the prevailing market price of such goods if similar other goods are not available. 
+
+(3) Except as otherwise provided for in the deed in relation to the return of, or payment of rent or amount for, the goods pursuant to sub-section (1) or (2), such goods or rent shall be returned or paid to the owner or possessor within fifteen days after the completion of the purpose for which the goods were obtained. 
+
+(4) If the person obtaining the goods fails to return or pay the goods or amount to the owner or possessor within the time-limit under sub-section (3), the aggrieved person may recover the amount of such goods and a reasonable compensation, as well, for the loss caused to him or her. 
+
+**492. Statute of limitation:** (1) There shall be no statute of limitation for making a lawsuit in the matter of transaction carried on with intent to take rights to, misappropriate, cause loss to, or disorder, the property of an incompetent and quasi-competent person or in the matter of collection of compound interest or collection of interest in excess of ten percent. 
+
+(2) Except as provided for in sub-section (1), a person who is aggrieved from any act done or action taken pursuant to this Chapter may make a lawsuit as follows from the date of such act or action: 
+
+**268** 
+
+- (a) Where this Chapter provides for a separate statute of limitation for making a lawsuit, within such limitation, 
+
+- (b) Within a period of one year from the date of expiration of the period, if any, specified in any deed, and failing such a deed, or in the other cases, from the date of accrual of the cause of action. 
+
+**269** 
+
+### **Part-5** 
+
+### **<u>Provisions Relating to Contract and Other Obligations</u>** 
+
+### **Chapter-1** 
+
+### **<u>General Provisions Relating to Obligations</u>** 
+
+**493. Obligation to be created:** (1) If there is a legal compulsion for one to do or to abstain from doing any act, an obligation is created if one omits to do or does such an act. 
+
+(2) The obligation to be created pursuant to sub-section (1) shall be maintained and determined pursuant to this Chapter. 
+
+**494. Circumstances in which obligation is created:** (1) The obligation under Section 493 shall be created and maintained as follows: 
+
+      - (a) By a law, 
+
+      - (b) By a contract, 
+
+      - (c) By an indirect or quasi-contract, 
+
+      - (d) By an unjust enrichment, 
+
+      - (e) By an unilateral commitment of any person to assume obligation, 
+
+      - (f) By an act to be treated as tort under law, 
+
+      - (g) By an act to be treated as a quasi-tort under law. 
+
+   - (2) In regard to sub-section (1), 
+
+      - (a) The obligation referred to in clause (a) shall be created under this Act or other law. 
+
+      - (b) The obligation referred to in clause (b) shall be created under a contact entered into between the parties. 
+
+**270** 
+
+   - (c) The obligation referred to in clause (c) shall be created under an indirect or quasi-contact as defined in Chapter-15 of this Part. 
+
+   - (d) The obligation referred to in clause (d) shall be created under an unjust enrichment as defined in Chapter-16 of this Part. 
+
+   - (e) The obligation referred to in clause (e) shall be determined under provision for creating obligation under law through an unilateral commitment. 
+
+   - (f) The obligation referred to in clause (f) shall be created under torts as defined in Chapter-17 of this Part. 
+
+   - (g) The obligation referred to in clause (g) shall be created from the defective product as defined in Chapter-18 of this Part or from other act to be deemed as a quasi-tort under law. 
+
+**495. Obligation to be fulfilled:** (1) A person shall himself or herself fulfill the obligation of any matter which has been so maintained or created as to be fulfilled by him or her or which he or she has undertaken to fulfill. 
+
+(2) If such a person dies or becomes of unsound mind prior to the fulfillment of the obligation pursuant to sub-section (1), the heir succeeding to his or her property or his or her guardian or curator or the guarantor in the case of a contract relating to guarantee shall fulfill such obligation. 
+
+**271** 
+
+**496. Obligation to be fulfilled within the prescribed time:** (1) If a certain period has been specified for fulfilling any obligation, the concerned person shall fulfill such an obligation within that period. 
+
+(2) If a certain day or time has been specified for fulfilling any obligation, the concerned person shall fulfill such obligation on that day or at that time. 
+
+Provided that if there is a stipulation that the obligation shall be fulfilled within certain day or time, the obligation may be fulfilled even prior to such day or time. 
+
+(3) If no period, day or time has been specified under subsection (1) or (2), the period, day or time for fulfilling the obligation shall be determined having regard to the nature of obligation and the obligation shall be fulfilled within a reasonable period. 
+
+(4) If any obligation is not fulfilled pursuant to sub-section (1), (2) or (3), the person who is bound to fulfill the obligation shall be deemed to have not been fulfilled, or to have been unable to fulfill, the obligation. 
+
+**497. Each person to fulfill obligation:** (1) If more than one person have undertaken to fulfill an obligation or such an obligation has been created in relation to them, every person shall, except as otherwise provided for in the contract, fulfill such an obligation equally. 
+
+(2) If any person is bound to fulfill any obligation vis-à-vis more than one person, he or she shall, except as otherwise provided for in the contract, fulfill the obligation vis-à-vis every person equally. 
+
+**272** 
+
+**498. Obligation may be divisible** : (1) If any obligation has to be fulfilled vis-à-vis or by more than one person and the obligation vis-à-vis or by such persons is capable of being divided or fragmented, having regard to its nature, such obligation may be divided and shall be fulfilled by or vis-à-vis every person accordingly. 
+
+   - (2) In the circumstance referred to in sub-section (1), every 
+
+   - person or all persons may demand for the fulfillment of the obligation by every person or all persons bound to fulfill such obligation. 
+
+**499. Obligation to be fulfilled in good faith:** The person who is bound to fulfill the obligation created pursuant to Section 494 shall fulfill it in good faith. 
+
+**500. To bear compensation for failure to fulfill obligation:** (1) If a person bound to fulfill any obligation fails to fulfill it or delays its fulfillment, and thereby a loss or damage is caused to any other person in any manner, such a person shall bear compensation for the actual loss or damage so caused. 
+
+   - (2) If a person bound to fulfill any obligation does not 
+
+   - fulfill it by fraud or does any act knowingly or recklessly, thereby any loss or damage is caused in any manner, such a person shall bear compensation for the loss or damage so caused. 
+
+**501. Obligation contrary to law not to be fulfilled:** Notwithstanding anything contained elsewhere in this Chapter, if the fulfillment of any obligation would be contrary to law, public order or public morality, it shall not be required to fulfill such an obligation. 
+
+**273** 
+
+**502. Impossible obligation not to be fulfilled:** (1) Notwithstanding anything contained elsewhere in this Chapter, if, at the time of its creation, any obligation of such nature as is impossible for fulfillment has been created, such an obligation shall not be required to be fulfilled. 
+
+   - (2) If any obligation which was possible for fulfillment at 
+
+   - the time of its creation subsequently becomes impossible for fulfillment, the consequence of such obligation shall be determined according to the law. 
+
+   - (3) Notwithstanding anything contained in sub-section (1) 
+
+   - or (2), if a portion of any obligation can be fulfilled and the rest portion cannot be fulfilled, the obligation shall be fulfilled to the extent that it can be fulfilled. 
+
+**503. Statute of limitation:** A person who is aggrieved from any act done or action taken under this Chapter may make a lawsuit within two years from the date of the accrual of the cause of action. 
+
+**274** 
+
+### **Chapter-2** 
+
+### **<u>Provisions Relating to Formation of Contracts</u>** 
+
+**504. Contract deemed to be made:** (1) If an agreement enforceable by law is concluded between two or more persons to do or abstain from doing any act, a contract shall be deemed to be concluded. 
+
+(2) For the purposes of sub-section (1), a contract shall be deemed to have been concluded once the person to whom an offer has been made by another person communicates his or her acceptance thereto. 
+
+(3) Once a contract is concluded, a binding legal relationship shall be created between the parties to it. 
+
+### **Explanation:** For the purposes of this Chapter, 
+
+   - (1) “Offer” means an offer made by one person to another person with the intent of obtaining his or her acceptance to do or abstain from doing any act. 
+
+   - (2) “Acceptance” means the acceptance given by the person to whom the offer has been made in the same meaning in which the offer is made. 
+
+**505. Contract enforceable by law:** (1) A contract concluded in fulfillment of the following conditions shall be deemed to be a contract enforceable by law: 
+
+   - (a) The consent expressed by a person to a contract to bind himself or herself, 
+
+   - (b) Capacity or qualification of a person to a contract to conclude the contract, 
+
+**275** 
+
+      - (c) Certain matter for the creation of an obligation, 
+
+      - (d) Lawful obligation. 
+
+   - (2) A contract may be made in written or verbal form or 
+
+   - even by conduct of the parties to it. 
+
+   - (3) Notwithstanding anything contained in sub-section (2), if 
+
+   - there is a requirement that a particular contract be concluded in fulfillment of any particular procedure or formality, such a contract may not be enforceable unless such procedure or formality is completed. 
+
+**506. Persons competent to concluded contract:** (1) Every person other than the following persons shall be competent to conclude a contract: 
+
+      - (a) One who is a minor, 
+
+      - (b) One who is of unsound mind. 
+
+### **Explanation:** 
+
+- (1) A person who is usually of unsound mind, but occasionally of sound mind, may conclude a contract when he or she is of sound mind. 
+
+- (2) A person who is usually of sound mind, but occasionally of unsound mind, may not conclude a contract when he or she is of unsound mind. 
+
+(2) Notwithstanding anything contained in sub-section (1), any person who is deemed incompetent to conclude a particular contract under the law shall not be deemed to be a competent to conclude such a contract. 
+
+**276** 
+
+(3) In concluding a contract on behalf of a person who is incompetent or quasi-competent, his or her guardian or curator may conclude such a contract. 
+
+(4) In concluding a contract on behalf of a legal person, it shall be conclude by a decision of the director or directors authorized for the management and operation of such a person or by a person authorized by such a director or directors. 
+
+(5) Notwithstanding anything contained elsewhere in this Section, if a person deemed to be incompetent to conclude a contract under this Chapter on any particular matter is competent by other law to conclude a contract on such a matter, such a person shall be deemed to be competent to conclude a contract on that matter. 
+
+**507. Parties to be autonomous:** The parties to a contract shall, subject to this Act, be autonomous to choose the form and contents of the contract, to determine terms and conditions of the contact and the nature of the remedy for its breach as well as to determine the measures for resolving disputes arising out of it. 
+
+**508. Offer and acceptance deemed to be completed:** (1) Once the offeree comes to the knowledge of an offer, the act of making the offer shall be deemed to have been completed. 
+
+(2) The act of giving acceptance shall be deemed to be completed, in case of the offerer, if the offerer receives the acceptance forwarded by the offeree to the offerer having indicated his or her acceptance to the offer, and in case of the offeree, if the offerer comes to know that the offeree has accepted the offer. 
+
+**277** 
+
+(3) Even though there is no expression of acceptance to the offer directly, if the offeree abides by any terms mentioned in the offer by way of his or her conduct or accepts the advantage or service mentioned in the offer or indicates acceptance in any other manner, the offeree shall be deemed to have accepted the offer. 
+
+(4) If the offerer makes an offer having stipulated certain time and specifies that the offer is regarded as accepted if a notice of its rejection is not sent within such time, and if the offeree does not send a notice of acceptance of the offer within such time, the offer shall not be deemed to have been accepted. 
+
+**509. Offer or acceptance may be revoked** : (1) The offerer may revoke his or her offer through a notice. 
+
+Provided that, if the offerer has received from the offeree a notice to the effect that he or she has accepted the offer before receiving a notice of revocation of the offer, such an offer shall not be revoked. 
+
+(2) The offeree may revoke his or her acceptance by a notice. 
+
+Provided that if the offerer has already received the notice of acceptance before receiving the notice of its revocation, such an acceptance shall not be revoked 
+
+(3) The person who has sent a notice expressing his or her refusal of the offer may again send a notice expressing his or her acceptance to the offer. 
+
+Provided that, if the notice of refusal out of the notices of refusal or acceptance reaches first, the contract shall not be deemed to have been concluded, and if the notice of acceptance reaches first, 
+
+**278** 
+
+the contract shall be deemed to be concluded. 
+
+(4) If the notice under sub-section (1) has been sent after sending the offer, the notice under sub-section (2) has been sent after sending acceptance or the notice under sub-section (3) has been sent after sending a notice of refusal and the concerned person receives such notices at the same time, the contract shall not be deemed to have been concluded. 
+
+(5) If the offeree sends an acceptance with condition or with alteration to the offer sent by the offerer, the offeree shall be deemed to after a counter offer. 
+
+**510. Offer deemed to be revoked:** An offer shall be deemed to been revoked in any of the following circumstances: 
+
+   - (a) If the offerer makes an offer with a condition that a notice of acceptance to the offer be given within any certain time, and the offerer does not receive a notice of acceptance by the offeree within that time, 
+
+   - (b) If the time for sending a notice of acceptance is not specified pursuant to clause (a) and the offeree does not give a notice of acceptance to the offerer within a reasonable time, 
+
+   - (c) If the offerer, after making the offer, dies or becomes insane before receiving the acceptance, 
+
+   - (d) If the offer is revoked pursuant to Section 509, 
+
+   - (e) Even if the acceptance was given by the offeree, the offeree dies or becomes insane before the offerer receives the acceptance, 
+
+**279** 
+
+   - (f) If the offeree sends a counter offer pursuant to subsection (5) of Section 509, 
+
+   - (g) If the offerer makes an offer on a condition that the offeree has to do any act or fulfill any condition before accepting the offer, and acceptance is made without doing such an act or fulfilling such a condition. 
+
+**511. Contract according to offer made before the public** : (1) If a person makes an offer publicly by means of an advertisement that he or she will pay certain remuneration to any person for doing any act specified in the advertisement, and if any person does such an act, the advertiser shall pay remuneration specified in the advertisement to such a person. 
+
+Provided that if a person does the act specified in the advertisement without knowing such advertisement, such a person shall not be entitled to the remuneration. 
+
+(2) If more than one person do the act specified in the offer under sub-section (1), only the person who does the act first shall be entitled to the remuneration. 
+
+Provided that if two or more persons do the act specified in the offer at the same time, all of such persons shall be entitled to the equal share of the remuneration, and if the remuneration is incapable of being shared, the proceeds of the sale of the remuneration shall be equally divided among them. 
+
+(3) If a specific period is prescribed for doing the act according to the advertisement published pursuant to sub-section (1), the offer made according to the advertisement shall be deemed 
+
+**280** 
+
+to have been revoked immediately after the expiry of that period. 
+
+(4) An offer made pursuant to sub-section (1) may be revoked through the same medium through which it was published. 
+
+(5) Notwithstanding anything contained in sub-section (4), if anyone has already done the act specified in the advertisement under sub-section (1) before the publication of the notice of revocation of the offer, the remuneration specified in the advertisement shall be provided. 
+
+Provided that the person who does the act specified in the advertisement shall notify the advertiser of the completion of the act as soon as possible. 
+
+(6) If any person begins to do the act specified in the advertisement under sub-section (1) by giving its notice to the advertiser, appropriate remuneration shall be paid to such a person for the act done until the revocation of the advertisement. 
+
+**512. Place of formation of contract:** (1) The place where the offerer sends an offer expecting to receive its acceptance shall be deemed to be the place of formation of the contract. 
+
+(2) If the place is not specified pursuant to sub-section (1), the place where the offerer receives acceptance shall be deemed to be the place of formation of the contract. 
+
+(3) Notwithstanding anything contained in sub-sections (1) and (2), if the parties specify the place of its formation in the contract, such a place shall be deemed to be the place of formation of the contract. 
+
+**281** 
+
+**513. Contingent contract:** (1) If a contract is concluded to do or not to do any act if some event happens in the future, such a contract shall create no obligation until such an event happens. 
+
+(2) If a contract is so concluded as to be deemed to be concluded if any person does a particular act in the future, such a contract shall create no obligation if such a person does anything by which he or she becomes unable or it becomes impossible for him or her to do such an act. 
+
+(3) If a contract is concluded to do or not to do any act if any uncertain event does not happen in the future, the obligation under such a contract shall arise only after such an event becomes impossible to happen. 
+
+(4) If a contract is concluded to do or not to do any act if any event happens within any fixed time in the future, the contract shall be deemed to be void after such an event becomes impossible to happen within, or after the expiry of, the fixed time. 
+
+(5) If a contract is concluded to do or not to do any act if any event does not happen within any fixed time in the future, the obligation under such a contract shall arise if such an event does not happen or it becomes certain that such an event will not happen within the fixed time. 
+
+**514. Application of general provisions of contract:** The provisions contained in this Chapter and Chapters 3, 4 and 5 of this Part shall, generally, be applicable, to the other contracts to be concluded according to this Act or law. 
+
+**282** 
+
+**515. Interpretation of contract:** (1) A contract shall be interpreted according to the common intention of its parties. 
+
+(2) If the intention cannot be established pursuant to subsection (1), a contract shall be interpreted according to the meaning of general understanding that a reasonable person of the same prudence as a party to the contract would give to it in normal circumstances. 
+
+(3) If one party to a contract knows or is deemed to know a statement and conduct of the other party, the contract shall be interpreted according to the intention of such a party. 
+
+(4) The terms and expressions used in a contract shall be interpreted in the light of the entire contract or the context in which such terms and expressions are used. 
+
+(5) A contract shall be interpreted in a manner so that all the terms used in the contract are given effect without separating some terms from others. 
+
+**516. Statute of limitation:** A person who is aggrieved from any act done or action taken under this Chapter may file a lawsuit within two years after the date of the accrual of the cause of action. 
+
+**283** 
+
+### **Chapter-3** 
+
+### **<u>Validity of Contracts</u>** 
+
+**517. Void contracts:** (1) A contract which is not valid according to law shall be deemed to be a void contract. 
+
+   - (2) The following contracts shall be void: 
+
+      - (a) A contract that restraints anyone from exercising any profession, trade or business which is not prohibited by law, 
+
+Provided that a contract shall not be deemed to be made in restraint of any profession, trade or business in any of the following circumstances: 
+
+- (1) Where a contract is concluded between a buyer and a seller on the sale and purchase of the goodwill of any trade or business, the contract restraining the seller from carrying on similar trade or business under such goodwill for the time and at the place specified in such contract, 
+
+- (2) A contract concluded between the partners to restrain them from doing the same profession, trade or business as that of the partnership firm or any other profession, trade or business together with other persons who are competitors of the 
+
+**284** 
+
+profession, trade or business of the same nature other than the profession, trade or business of the partnership firm until the partnership exists, 
+
+   - (3) A contract concluded between the partners restraining them from exercising a profession, trade or business of the partnership firm for a certain reasonable period or at a certain place after being separated from the partnership, 
+
+   - (4) A contract so concluded between a person and any person, firm, company or body that the person is restrained from accepting the service of another person, firm, company or body who is the competitor of such other person, firm, company or body until the person is in the service of, or for a specified period after retirement from the service of, such other person, firm, company or body. 
+
+- (b) A contract in restraint of a marriage other than one prohibited by the law, 
+
+(c) A contract restraining any one from enjoying the facilities being enjoyed by the public, 
+
+**285** 
+
+- (d) A contract restraining legal right of any person from being enforced by a court, 
+
+- (e) A contract concluded contrary to law or on a matter prohibited by the law in force, 
+
+- (f) A contract made for an immoral purpose or against public order or public interest, 
+
+- (g) A contract which cannot be performed because the parties thereto do not exactly ascertain or know about the matter in relation to which it has been concluded, 
+
+- (h) A contract the performance of which is impossible at the time of its conclusion or a fictitious contract, 
+
+- (i) A contract which is vague because of its subject matter being incapable of giving a reasonable meaning, 
+
+- (j) A contract concluded by a person not competent to make contract, 
+
+- (k) A contract with an illegal purpose, 
+
+- (l) A contract concluded by mistake of both parties as to the essential fact of the contract at the time of its conclusion. 
+
+**286** 
+
+(3) A void contract is invalid _ab initio_ and it shall create neither any legal consequence nor any right and obligation of its parties. 
+
+(4) Even if any part of a contract becomes void, its remaining parts shall be enforceable according to law. 
+
+**518. Voidable contracts** : (1) A contract which, at the initiation of its party, may be declared void by the court shall be deemed to be a voidable contract. 
+
+   - (2) The person aggrieved from any of the following 
+
+   - contracts may get the contract voided by the court: 
+
+      - (a) A contract concluded by coercion, 
+
+         - **Explanation:** If a person detains or threatens to detain any property of another person or threatens to put that other person's body, life or prestige in peril or commits or threatens to commit any other act forbidden by law, with the intention of causing that other person to enter into a contract against his or her will, the person is said to commit coercion. 
+
+      - (b) A contract concluded by undue influence, 
+
+### **Explanation:** 
+
+- (1) Undue influence means an influence exercised by a person over another person who is under his or her influence or who may be employed according to his or her will with the intention of 
+
+**287** 
+
+taking any unfair advantage for his or her interest or concern. 
+
+   - (2) Without prejudice to the generality of clause (1), the following person is deemed to be under influence or who may be employed according to his or will: 
+
+      - (a) A person who is under his or her guardianship, curatorship or custody, 
+
+      - (b) A person who is incapable of representing his or her interest for the time being or forever by reason of age, illness or physical or mental distress, 
+
+      - (c) A person who may be subjected to financial or positional influence of that other person. 
+
+- (c) A contract concluded by fraud, 
+
+**Explanation:** A party to a contract or his or her agent is said to commit fraud when he or she, with intent to deceive another party thereto or his or her agent, makes the suggestion, as to a fact, of that which is not true which he or she does not believe it to be true or does any act that is likely to make the other party or his or her agent believe it, or knowingly conceals a fact which is in his or her knowledge or does any such act as the law declares to be fraudulent. 
+
+**288** 
+
+- (d) A contract caused by misrepresentation. 
+
+**Explanation:** Misrepresentation means any of the following acts: 
+
+- (1) Presenting a false description of any matter or fact on without reasonable basis, 
+
+- (2) Misleading any party to his or her detriment, 
+
+- (3) Causing a mistake as to any matter of the contract, 
+
+- (4) Making assurance to have concluded a contract in one subject and but causing to enter into it in another subject. 
+
+(3) In the case of a voidable contract under this Section, the following matters shall be governed as follows: 
+
+- (a) The party caused to enter into a contract may, instead of having the contract voided, demand that his or her position be restored into the position that would have been had the contract not been concluded. 
+
+- (b) If a contract is made with the person who is under his or her influence and whose will can be dominated by him or her, the party who claims that he or she has not exercised such undue influence shall have the onus to prove that the contract has not been caused by undue influence. 
+
+**289** 
+
+(4) A voidable contract shall, before it is voided, be enforceable as if it were a lawful contract. 
+
+(5) If a voidable contract under this Section is voided by the court, it shall not affect the act done under such contract before the voidance. 
+
+(6) If any contract is voided pursuant to this Section, the legal right or interest of a bona fide third party shall not be prejudiced merely by the reason of such voidance. 
+
+**519. Unenforceable contracts:** (1) A contract that is not enforceable by the court shall be regarded as an unenforceable contract. 
+
+(2) Any of the following contracts is not enforceable by the court in spite of its being concluded in fulfillment of the procedures under Chapter-2 of this Part: 
+
+- (a) A contract required to be made in written form according to law is not concluded in written form, 
+
+- (b) A contract required to be made in fulfillment of any particular formality or procedure or to be registered with any body according to law is not so made in fulfillment of such formality or procedure or is not so registered, 
+
+- (c) Where a contract is concluded on behalf of another person, the contract is concluded on a matter not authorized by, or concluded beyond the authority given by, that other person. 
+
+**290** 
+
+**520. Statute of limitation:** A person who is aggrieved from any act done or action taken under this Chapter may make a lawsuit at any time, in the case of a void contract, within one year after the date of accrual of the cause of action for voidance, in the case of a voidable contract, and within two years after the date of accrual of the cause of action, in the case of other contracts. 
+
+**291** 
+
+### **Chapter-4** 
+
+### **<u>Provisions Relating to Performance of Contracts</u>** 
+
+**521. Obligation under contract to be fulfilled** : Each party to a contract shall fulfill his or her obligation under the contract. 
+
+**522** . **Reciprocal performance of contract** : (1) If a contract is so concluded that the parties to the contract shall fulfill their respective obligations simultaneously and one party demonstrates such conduct or intention that he or she is not willing to fulfill his or her obligation materially, the other party need not perform his or her promise. 
+
+(2) If the contract fixes the order of priority for the fulfillment of any promise, the promise shall be fulfilled in that order, and failing the fixation of such an order, the party who is liable to perform the promise first according to the nature of the contract shall perform it first. 
+
+(3) If, in the case of a contract containing reciprocal promises, and performance of one promise depends on the performance of the other promise, one party cannot perform the contract because of the failure of the other party to perform his or her promise may recover the loss or damage caused by the failure of the other party to perform the contract. 
+
+(4) If a contract concluded for reciprocal promises to be simultaneously performed pursuant to sub-section (1) and one party prevents the other party from performing such a contract, the other party so prevented is entitled to rescind the contract and also to 
+
+**292** 
+
+recover the loss or damage, if any, caused to him or her in consequence of such termination of the contract. 
+
+**523. Time and manner for performance of contract** : (1) If a contract specifies the time and manner for its performance, the contract shall be performed within the specified time and in the specified manner. 
+
+(2) If a contract does not specify the time or manner for the performance of an act under the contract but the act can be performed only at any specific time or only in a specific manner, the contract shall be deemed to have been so concluded that the act has to be performed at that time and in that manner. 
+
+(3) If, except in the circumstance under sub-section (2), a contract does not specify the time and manner for its performance, the contract shall be performed within a reasonable time and in a reasonable manner. 
+
+**524. Place for performance of contract:** (1) If a contract specifies any particular place for the performance of any act, that act shall be performed at such a place. 
+
+(2) If, any party is required by a contract to hand over or deliver any goods to the other party and the contract does not specify the place for such hand-over or delivery of the goods, the contract shall be deemed to have been so concluded that the goods have to be delivered or handed over at the place where such goods are located. 
+
+(3) If a contract does not specify a particular place for the performance of an act but the act can be performed only at a particular place or has to be performed in any particular place 
+
+**293** 
+
+having regard to practice or usage or nature of the act, the contract shall be deemed to have been so concluded that the act has to be performed at that place. 
+
+(4) In any case other than those referred to in sub-sections (2) and (3), if a contract does not specify the place for the performance of an act, the party performing the act according to the contract shall notify the other party to specify a reasonable place for the performance of the act, and the other party shall specify a reasonable place for the performance of the act. 
+
+**525. Performance of contract deemed to be delayed:** (1) If a contract so made as to be performed at a particular time is not performed at or within such time, the performance of contract shall be deemed to have been be delayed. 
+
+(2) If the contract under sub-section (1) can be performed even after such time, one party of the contract may notify the other party to perform the contract, having given a reasonable time. 
+
+(3) If a notice is given pursuant to sub-section (2), the other party shall perform the contract accordingly, and may claim for compensation for any loss or damage caused in consequence of the delayed performance of the contract. 
+
+- (4) If a contract is not performed pursuant to sub-section 
+
+- (3), the party giving such a notice may rescind the contract. 
+
+- **526. Time to be considered as essence of contract:** (1) If the the purpose or objective of a contract cannot be achieved, in case of non-performance of the contract within a particular day, time or period, having regard to the nature of the contract or intention 
+
+**294** 
+
+shown by the parties at time of its conclusion **,** the time for the performance of such a contract shall be considered to be the essence of the contract. 
+
+(2) If either party of a contract does not perform the contract under sub-section (1) within such a day, time or period, such a contract shall be deemed to have been breached and the other party may **rescind** the contract immediately. 
+
+**527. Circumstances where a contract needs not be performed:** In any of the following circumstances, it is not necessary to perform any act under, or perform, a contract: 
+
+   - (a) If either party to a contract waives the other party from fulfilling the obligation under the contract, 
+
+   - (b) If a voidable contract is voided by the party entitled to do so, 
+
+   - (c) If the contract cannot be performed for the reason of its breach by the other party, 
+
+   - (d) If it is not necessary to perform the act under the contract by operation of any provision of this Part, 
+
+   - (e) If a contract which is unenforceable according to Section 531. 
+
+**528. Assignment of rights and liabilities under a contract:** If any party to a contract dies or becomes insane, the rights accruing from the contract shall devolve on to the heir succeeding the property of such a party to the contract, and the heir himself or herself shall also bear the obligations to the extent of the property succeeded by him or her. 
+
+**295** 
+
+Provided that the rights and obligations accruing on the basis of personal skill and qualification shall not devolve on to such an heir. 
+
+**529. Party who must perform contract:** (1) Except in cases where a contract specifies that it must be performed by its party only, the contract may be performed by his or her agent or by a person appointed by him or her or by any other person on his or her behalf or the rights and obligations under the contract may be transferred. 
+
+Provided that no party to a contract may transfer his or her obligations under the contract to another person without consent of the other party. 
+
+(2) The following terms and conditions shall be fulfilled in order to transfer rights and obligations under a contract pursuant to sub-section (1): 
+
+- (a) Unless the contract otherwise provides for, the transfer shall be in written form, 
+
+- (b) The transfer shall be unconditional, 
+
+- (c) The transfer of rights or obligations is not prohibited by law or the contract, 
+
+- (d) In the case of the transfer of rights and obligations, a notice along with its time limit shall be given to the other party. 
+
+(3) Once any party to a contract accepts any act done by a third person, that party shall not be entitled to claim subsequently that the act must be done by the party to the contract himself or herself, except as otherwise provided for in the contract. 
+
+**296** 
+
+(4) If two or more persons jointly enter into a contract with another party, any or all of such joint promisors shall fulfill, or cause to be fulfilled, the obligations under the contract, except as otherwise provided for in the contract. 
+
+(5) The joint promisor who fulfills the obligation shall be entitled to recover damages or loss on a _pro rata_ basis from the other joint promisors, in consideration for the default of any other joint promisor in the fulfillment of the obligation under sub-section (4). 
+
+(6) Even if one party releases one joint promisor of the other party to the contract concluded pursuant to in sub-section (4) from the obligation on his or her part, such release shall not discharge the other joint promisors from the obligation under that contract. 
+
+**530. Only the parties to contract can demand its performance** : (1) Only the person who is a party to a contract can demand the performance of the contract by the other party. 
+
+Provided that if a contract is concluded for the benefit of any person, such a person can demand the performance of that contract even if he or she is not a party to such a contract. 
+
+(2) If two or more persons jointly enter into contract to do or not to do any act, all such a persons can jointly demand the performance of that contract, except as otherwise provided for in the contract. 
+
+**531. Discharge of contracts in the event of fundamental changes in circumstances:** (1) If it becomes impossible to perform a contract 
+
+**297** 
+
+as a result of fundamental change in the circumstance existed at the time of conclusion of the contract, the act according to the contract need not be performed. 
+
+(2) Without prejudice to the generality of sub-section (1), emergence of any of the following circumstances shall be deemed to constitute a fundamental change in the circumstance existed at the time of conclusion of a contract: 
+
+- (a) If the contract becomes illegal and thereby it cannot be performed, 
+
+- (b) If it becomes impossible to perform the contract due to emergence of situations beyond human control such as war, flood, landslide, fire, earthquake and volcanic eruption, 
+
+- (c) If the subject matter essential for the performance of the contract is destroyed or damaged, or exists no longer, or such a subject matter could not be obtained, 
+
+- (d) If the contract is so concluded that its performance depends on the personal ability, skill or talent of a person, and the performance of the contract becomes impossible by the reason that such a person dies or becomes insane or is incapable of performing the contract because of physical or mental disability. 
+
+(3) Notwithstanding anything contained in sub-section (2), none of the following circumstances shall be deemed to constitute a fundamental change in the circumstance existed at the time of conclusion of a contract: 
+
+**298** 
+
+- (a) If the performance of the contract has become difficult, 
+
+- (b) If the performance of the contract results in less profit or in loss, 
+
+- (c) If any party to the contract is dependent upon any third party who is not a party to the contract for its performance, and the third party makes a default or becomes incompetent, 
+
+- (d) In the event of a strike or lockout, 
+
+- (e) If additional tax, fee or other revenue is required to be paid, 
+
+- (f) If a contract is concluded with more than one object and some of the objects cannot be fulfilled. 
+
+(4) In the case of emergence of any of the circumstances referred to in sub-section (3), the parties may, except as otherwise provided for in the contract, negotiate to review or alter the terms and conditions of the contract. 
+
+(5) If the performance of a contract becomes impossible by the reason of a fundamental change in the circumstance as referred to in sub-section (2), the following matters shall be governed as follows: 
+
+- (a) A party who has received any amount paid by the other party in consideration of the contract, prior to the occurrence of such a change in the circumstance, shall refund it to the other party, 
+
+**299** 
+
+      - (b) Payment to be made or due from one party to the other party in consideration of the contract shall not be payable after such a change in the circumstance. 
+
+      - (c) The amount payable to each other shall be determined in consideration the act or amount already performed or paid, if any, by one party to the other party before such a change in the circumstance, and one party shall be entitled to recover reasonable expenses incurred by that party in consideration of the contract from the other party. 
+
+   - (6) Notwithstanding anything contained elsewhere in this 
+
+   - Section, the contracting parties may agree to fulfill their respective obligations by continuing the performance of the contract after the end of the circumstance under clause (b) of sub-section (2). 
+
+**532. Facilities to be provided:** (1) The parties to a contract shall provide to each other such facilities as may be needed to perform the contract from their respective sides. 
+
+   - (2) If the contract cannot be performed due to the failure to 
+
+   - provide such facilities, the party in default of the performance shall not be held liable responsible. 
+
+**533. Contract may be suspended or altered:** (1) The parties to a contract may, if they so agree, change or alter all or any of the portions of the act to be performed under the contract, extend the time for the performance of any act under the contract, suspend the contract by not making it obligatory to perform any act to be performed under the contract for some time, substitute any act for 
+
+**300** 
+
+the act specified in the contract or make a new contract in substitution for the original contract. 
+
+(2) If any change or alteration is made to a contract pursuant to sub-section (1), a new contract shall be deemed to be made, and the new contract shall become effective accordingly. 
+
+(3) If a new contract is made pursuant to sub-section (2), the obligation under the original contract need not be borne except as otherwise provided for in the new contract. 
+
+**534. Statute of limitation:** A person who is aggrieved from any act done or action taken under this Chapter may make a lawsuit within two years after the date of the accrual of the cause of action. 
+
+**301** 
+
+### **Chapter-5** 
+
+### **<u>Provisions Relating to Breach of Contract and Remedies</u>** 
+
+**535. Breach of contract deemed to occur** : (1) If any party to a contract fails to fulfill the obligation under the contract or gives a notice to the other party that he or she will not perform the act to be performed by him or her under the contract or his or her action and conduct demonstrate that he or she is incapable of performing the act under the contract, the party shall be deemed to have breached the contract. 
+
+(2) If one party commits a breach of the contract pursuant to sub-section (1) or action or conduct of that party demonstrates non-performance of the contract in a material respect or demonstrates a material breach of the contract by the conduct or action of a party, the other party may rescind the contract by giving a notice to such a party. 
+
+(3) In the case of the rescission of the contract pursuant to sub-section (2), the party rescinding the contract shall not be bound to perform the contract. 
+
+**536. Indivisible nature of the authority to rescind contract:** If either party of a contract consists of two or more persons, the contract may be rescinded only if all of such persons rescind it or if the rescission is applicable to all of them. 
+
+**537. Compensation for breach of contract:** (1) In the case of breach of a contract under Section 535, the party aggrieved by it shall be entitled to recover from the party in breach of the contract damages for the actual loss or damage caused by the breach or such loss or 
+
+**302** 
+
+damage which the contracting parties knew when they made the contract to be likely result from the breach. 
+
+(2) If the parties to a contract, in anticipation, at the time of its formation specify a sum in the contract, which becomes payable for breach of the contract, the aggrieved party shall be entitled to recover a reasonable amount not in excess of that sum from the other party, pursuant to sub-section (1). 
+
+(3) If the contract does not provide for compensation referred to in sub-section (2), the party claiming such compensation shall be entitled to recover a reasonable amount for the direct and actual loss or damage resulted from the breach of contract or for the breach of contract or for compensation. 
+
+Provided that no compensation may be recovered for any indirect or remote loss or damage. 
+
+(4) If a contract, which is concluded for the completion of any act within a fixed period, contains a provision that compensation as referred to in sub-section (2) is payable if such an act cannot be completed within that period, the party paying such compensation may request for the extension of the period for the completion of the contract in proportion to the amount of compensation paid by him or her. 
+
+(5) The right of a party to a contract to seek other legal remedies for the breach of a contract shall not be deemed adversely affected merely by the reason that the amount of compensation has been paid pursuant to this Section. 
+
+**303** 
+
+**538. Consequences of rescission or voidance of contract:** (1) If, after a party to a contract has already received some cash or kind or any other benefit from the other party or after the fulfillment of the obligations under the contract partially, the contract is rescinded by mutual consent of the parties and the performance of the contract is not required under this Part or other law, the contract is voided or declared to be void according to law or the contract becomes invalid or is rescinded under this Part, such cash, kind or service so received shall be returned upon having settled the accounts of the cash or kind given until the date of the contract being in force. 
+
+(2) If any service or advantage other than cash or kind has been given pursuant to sub-section (1), the party receiving such service or advantage shall pay a reasonable amount to the other party in consideration for such service or benefit. 
+
+(3) If it becomes necessary to institute legal action by the reason of failure to return the cash or kind or to pay the amount as referred to in sub-section (1), a reasonable expense incurred for that purpose may also be recovered. 
+
+**539. Amount to be recovered in proportion to performed contract (quantum meruit):** If a contract is rescinded by the reason of its breach by any party or for any other reason, the aggrieved party may claim for the payment by the other party of amount under the contract in proportion to the work done or the performance of contract made by that party. 
+
+**540. Specific performance of contract:** (1) If monetary compensation is not reasonable and adequate for the actual loss or damage suffered by the aggrieved party because of the breach of contract, 
+
+**304** 
+
+the aggrieved party may claim for the specific performance of the contract instead of compensation. 
+
+(2) Notwithstanding anything contained in sub-section (1), specific performance may not be claimed in any of the following circumstances: 
+
+   - (a) If monetary compensation is an adequate remedy for the breach of contract, 
+
+   - (b) If the court cannot supervise the performance of the act under the contract, 
+
+   - (c) If the contract is for providing services of personal ability, skill or knowledge, 
+
+   - (d) If the contract cannot specifically be performed, 
+
+   - (e) If the party in breach of the contract claims for its specific performance. 
+
+**541. Power of court to make order:** (1) If the performance of a contract is not possible because any party to the contract is about to perform any act or conduct which is contrary to the nature of the contract, the party aggrieved by such an action or a conduct may file a complaint in the court to prevent such an act or conduct. 
+
+(2) If a complaint is filed pursuant to sub-section (1), the court may issue an appropriate order to any party to immediately stop his or her particular action or conduct, subject to the settlement of the dispute arising out of that contract in accordance with such a contract or law. 
+
+**305** 
+
+(3) If an order is issued pursuant to sub-section (1), the aggrieved party shall be entitled to also recover additional loss or damage caused from the failure of the other party to comply with the order so issued. 
+
+**542. Compensation to be ascertained in monetary value:** Except as otherwise provided for in the contract, assessment of compensation for any loss or damage as referred to in this Chapter shall be ascertained in monetary value. 
+
+Provided that Section 540 shall apply to the remedy under that Section. 
+
+**543. Power of court to consider matters:** While determining compensation arising from the breach of a contract, the court shall consider matters including whether the party has breached the contract intentionally or whether the non-performance has occurred due to recklessness and how much money or benefit might have been received by the innocent party to the contract had the contract not been breached. 
+
+**544. Statute of limitation:** A person who is aggrieved from an act done or action taken under this Chapter may make a lawsuit within two years after the date of the accrual of the cause of action. 
+
+**306** 
+
+### **Chapter-6** 
+
+### **<u>Provisions Relating to Contract of Sale of Goods</u>** 
+
+**545. Contract of sale of goods** : (1) A contract of sale of goods shall be deemed to have been made if any seller agrees to transfer the property in goods immediately or in the future to the buyer for a price. 
+
+**Explanation:** For the purposes of this Chapter, the term “goods” means any kind of movable property capable of being purchased or sold other than currency in circulation for the time being, security or actionable claim. 
+
+(2) A contract of sale of goods may be conditional or unconditional. 
+
+(3) A contract may be concluded to sell the goods owned or possessed by the seller for the time being or those to be produced or acquired by the seller in the future. 
+
+**546. Contract of sale of goods to be void:** If a contract is concluded to sell any specific type of goods, which have already become damaged at the time of or before making of the contract, and the seller is not aware about that at the time of making of the contract, the contract shall be void. 
+
+**Explanation:** For the purposes of this Section, the term “specific type of goods” means the specific goods mentioned in the contract at the time of making of the contract. 
+
+**547. Determining price of goods** : (1) Except as otherwise provided for in the contract, the price of goods shall be determined in the manner 
+
+**307** 
+
+agreed upon in the contract under the terms and conditions of the contract, or by the course of dealing between the parties. 
+
+(2) If the price of goods is determined according to their weight and measurement, the price of goods shall be determined on the basis of the net weight and measurement of such goods, except as otherwise provided for in the contract. 
+
+(3) If the price of goods cannot be determined under subsection (1) or (2), the buyer shall pay the seller a reasonable price, taking into account the relevant circumstances. 
+
+**548. Payment of price of goods:** (1) Except as otherwise provided for in the contract, the price of goods shall be paid as follows in any of the following circumstances: 
+
+   - (a) The price of goods to be paid by the buyer to the seller, at the time of the purchase of goods by the buyer, 
+
+   - (b) At the time of the transfer of the goods. 
+
+(2) While making payment of the price of goods pursuant to sub-section (1), it shall be paid in cash. 
+
+**Explanation:** For the purposes of this Section, the term “cash” includes a cheque, traveler's cheque, promissory note, bill of exchange, letter of credit, bank draft, credit card and telegraphic transfer, payable through bank. 
+
+**549. Description of goods:** (1) If a contract specifies the name, brand, trademark or specification of any goods to be sold, the contract shall be deemed to have been concluded for the sale of the goods corresponding to that name, brand, trademark or specification. 
+
+**308** 
+
+(2) If a contract specifies the name, brand, trademark or specification and the sample of goods to be sold, the bulk of such goods shall correspond not only to the sample but also to the name, brand, trademark or specification specified in the contract. 
+
+**550. Condition as to title to goods to be sold** : (1) Except as otherwise provided for in the contract, it shall be deemed that, in the case of a sale of goods, the seller has the title to the goods sold or, in the case of an agreement to sell the goods in the future, the seller has or will have the title to the goods to be sold, and that such goods are free from custody, control or possession by any other person. 
+
+(2) Except as otherwise provided for in the contract, the seller shall be deemed to have the right to sell the goods sold or to be sold. 
+
+**551. Condition as to quality of goods:** (1) Except as otherwise provided for in the contract, the goods sold or to be sold shall be deemed to be of satisfactory quality. 
+
+(2) If any goods sold or to be sold for any particular purpose are fit for that purpose, the goods sold or to be sold shall be considered to be of satisfactory quality. 
+
+(3) Notwithstanding anything contained in sub-section (2), if the contract itself specifies any defects of such goods or if the buyer has already knew such defects before the conclusion of the contract or while inspecting the goods, such goods shall not be deemed to be of unsatisfactory quality. 
+
+(4) If the quality of any particular goods is specified in the contract, the goods shall correspond to that quality, and if no 
+
+**309** 
+
+quality is so specified, the goods shall be of the quality according to the prevalent standards. 
+
+(5) Except as otherwise provided for in the contract, the seller shall not be deemed to have warranted that the goods sold or to be sold are of a particular quality. 
+
+**552. Right to accept or reject goods of different quantity:** (1) If the seller tenders to deliver to the buyer the goods of different quality than that specified in the contract, the buyer has the right to accept and take delivery of the goods in whole, to reject the whole or to accept any part and reject the rest of the goods. 
+
+(2) If any goods are rejected in whole or in part pursuant to sub-section (1), the buyer may give a notice to the seller to either deliver other goods instead of such goods or where the quality of such goods could be improved, to improve the quality of such goods. 
+
+(3) If a notice is given pursuant to sub-section (2), the seller shall deliver the other goods instead of such goods or improve the quality thereof, according to the notice given by the buyer or mutual understanding reached between them. 
+
+**553. Deemed to be contract for sale by sample:** (1) If a provision has been made in a contract to sell goods upon inspection of their samples directly or indirectly a contract of sale of goods is deemed to be a contract for the sale of goods upon inspecting sample. 
+
+(2) If a contract is concluded for the sale of goods by sample, the contract shall be deemed to contain the following conditions, except as otherwise provided for in the contract: 
+
+**310** 
+
+- (a) The bulk of the goods shall correspond to the sample in quality, 
+
+- (b) The buyer shall have a reasonable opportunity of comparing the quality of the bulk of the goods with the sample, 
+
+- (c) The goods sold or to be sold shall be free from any defect, and such goods appear to be of satisfactory quality, apparent on comparing them with the sample. 
+
+**554. Provisions relating to transfer of ownership of goods** : (1) If there is a contract for the sale of any specific or certain goods, the transfer of such goods shall be made as provided for in the contract, and failing such provision in the contract, the transfer shall be made according to the terms and conditions of the contract, intention of the parties, ascertained by having regard the conduct of the parties, and the relevant circumstances. 
+
+(2) Except as otherwise provided for in the contract, if a contract is concluded for the sale of any specific goods in a deliverable state, the parties shall be deemed to have the intention of transferring them when the contract is concluded or upon payment of the price of the goods. 
+
+(3) If a contract is concluded for the sale of any specific goods in a deliverable state and the buyer has to take measurement, weight, make examination of the goods or to perform some acts to determine the price of such goods, such goods shall not be 
+
+**311** 
+
+transferred until the buyer performs such acts and gives information thereof to the buyer within a reasonable time. 
+
+(4) Except as otherwise provided for in the contract, a contract shall be deemed to have been concluded so that the goods sold or to be sold shall be transferred in the place where such goods are situated. 
+
+(5) Except as otherwise provided for in the contract, the buyer shall be deemed to have the title or ownership of the goods at the time of the transfer of the goods to the buyer. 
+
+**555. To bear risks** : (1) Except as otherwise provided for in the contract, the seller shall bear the risk of any loss or damage to the goods until such goods are transferred to the buyer. 
+
+(2) If the transfer of goods has been delayed due to the fault of either the buyer or the seller, the party who has caused such delay shall bear the risk of loss or damage under sub-section (1). 
+
+(3) If the seller agrees to deliver the goods from the place of purchase to the place specified by the buyer, the seller shall bear the risk of any loss or damage to the goods, except as otherwise provided for in the contract. 
+
+**556. Right of buyer to ascertain goods:** If the delivery of the goods sold is tendered to the buyer, the buyer shall have a reasonable opportunity to examine and ascertain whether or not the goods conform to the contract and the buyer shall not be deemed to have been accepted the delivery of the goods until the buyer so ascertains. 
+
+**557. Goods deemed to be accepted:** The buyer shall be deemed to have accepted the goods in any of the following circumstances: 
+
+**312** 
+
+   - (a) If the buyer or his or her agent receives the goods, 
+
+   - (b) If a receipt or slip is issued having acknowledged the delivery of the goods, 
+
+   - (c) If the buyer stores the goods having ascertained, pursuant to Section 556, that the goods conform to the contract, 
+
+   - (d) If the goods reach the buyer and the buyer does not inform the seller within reasonable time that he or she has rejected the goods and retains the goods with him or her. 
+
+   - (e) If the buyer does any act proving that he or she has ownership in and control over such goods. 
+
+**558. Time for delivery of goods** : (1) If the contract provides that goods have to be delivered at any specific time or within any specified period, the seller shall deliver the goods to the buyer at that time or within that period. 
+
+(2) Notwithstanding anything contained in sub-section (1), if the buyer accepts the goods delivered by the seller before or after the time or period specified in the contract, the seller shall be deemed to have delivered the goods. 
+
+**559. Documents concerning sold goods to be handed over** : Except as otherwise provided for in the contract, the goods are delivered but such basic documents as are related to the ownership of the goods or required for their use are not handed over, the ownership of the goods shall not be deemed to have been transferred. 
+
+**313** 
+
+**560** . **Not to deliver of goods in quantity different from quantity specified in contract:** (1) If the seller delivers to the buyer a quantity of goods less than the quantity specified in the contract, the buyer may reject the goods. 
+
+Provided that if the buyer accepts the goods even in such quantity, the buyer shall pay the price of that quantity at the rate specified in the contract. 
+
+(2) If the seller delivers to the buyer a quantity of goods larger than the quantity specified in the contract, the buyer may accept the goods only in the quantity specified in the contract, and reject the rest or the whole quantity of goods. 
+
+Provided that if the buyer accepts the whole quantity of goods so delivered, the buyer shall pay for the whole at the rate specified in the contract. 
+
+(3) If the seller delivers to the buyer the goods mixed with goods of a description different than specified in the contract, the buyer may accept the goods specified in the contract and reject the rest or the goods in whole. 
+
+(4) Except as otherwise provided for in the contract, the buyer shall not be bound to accept the delivery of goods in installments. 
+
+(5) Except as otherwise provided for in the contract, if the buyer rejects the goods tendered by the seller for delivery, the buyer shall not be bound to return them to the seller. 
+
+**314** 
+
+Provided that the buyer shall give a notice of rejection, along with the reason for the same, to the seller through fastest means of communication. 
+
+**561. Special provisions relating to compensation** : Notwithstanding anything contained elsewhere in this Part, the following provisions shall apply to compensation for a contract under this Chapter: 
+
+   - (a) If the buyer does not accept or rejects the goods or refuses to pay the price of the goods after the making of a contract of the sale of goods, the seller may, subject to the contract, claim compensation from the buyer in consideration of the buyer's failure to accept or refusal to accept the goods, 
+
+   - (b) While determining compensation under clause (a), if the goods which the buyer has not accepted or has refused to accept are available in the market, compensation shall be determined on the basis of the difference between the price of the goods specified in the contract and the market or prevalent price of the goods, 
+
+   - (c) If the seller does not deliver or refuses to deliver the goods according to the contract for the sale of goods, the buyer may claim compensation from the seller for his or her failure to deliver the goods, 
+
+   - (d) While determining compensation under clause (c), if the goods which the seller has refused or failed to deliver to the buyer are available in the market, 
+
+**315** 
+
+compensation shall be determined on the basis of difference between the price of the goods specified in the contract and the market or prevalent price of the goods. 
+
+**562. Statute of limitation:** A person who is aggrieved from any act done or action taken under this Chapter may make a lawsuit within two years after the date of the accrual of the cause of action. 
+
+**316** 
+
+### **Chapter-7** 
+
+### **<u>Provisions Relating to Contracts of Guarantee</u>** 
+
+**563. Contract of guarantee deemed to be made** : (1) If a contract is concluded under which a third party undertakes to repay the loan borrowed by or discharge the liability promised by a person in case of that person's default, a contract of guarantee shall be deemed to be concluded. 
+
+(2) If a third party gives the guarantee pursuant to subsection (1) and the person bound to repay the loan or discharge the liability fails to repay or discharge such loan or liability, the person giving the guarantee (the surety) to such loan or liability shall repay the loan or discharge the liability according to the terms and conditions of the contract. 
+
+(3) The terms and conditions of guarantee shall be as determined in the contract. 
+
+   - (4) A contract of guarantee shall be made in written form. 
+
+**564. Surety's obligation** : (1) Except as otherwise provided for in the contract, the surety's obligation shall be as follows: 
+
+   - (a) Obligation of the surety shall arise at the time when the debtor fails to discharge the obligation to be discharged by him or her. 
+
+   - (b) Obligation of the surety shall be the same as the obligation of the debtor who has to repay the loan or discharge the obligation, and the surety shall remain 
+
+**317** 
+
+liable until the debtor becomes free from the obligation to repay or discharge. 
+
+- (c) Obligation of the surety shall not be discharged merely because the principal debtor becomes free from the obligation by operation of law. 
+
+(2) Notwithstanding anything contained in sub-section (1), if both security and guarantee have been given for any loan or obligation, the surety shall not be liable to the extent covered by the security so provided. 
+
+(3) A contract of guarantee shall be effective immediately when the principal debtor breaches the obligation of repayment or discharging liability to the creditor, and the creditor may cause the surety to discharge such liability. 
+
+**Explanation:** For the purposes of this Part, the term “creditor” means a person who has lent a loan, and also includes a person who is entitled to obtain any benefit from, or have any act done, by the person who is bound to repay the loan or discharge the liability. 
+
+(4) Notwithstanding anything contained in sub-section (3), the creditor shall give a notice to the principal debtor to perform the contract according to its terms and conditions before claiming the surety under the contract of guarantee for the repayment of the amount not paid or discharge of the liability not discharged according to the contract. 
+
+**318** 
+
+**565. When surety is in discharge from obligation:** (1) Except as otherwise provided for in the contract, the surety shall be in discharge of his or her obligation to the following extent, in any of the following circumstances: 
+
+   - (a) If the principal debtor so alters the terms and conditions of the contract without the surety's consent as to have substantial impact on the contract, in respect of the transactions subsequent to the alteration, 
+
+   - (b) If a contract is concluded to discharge the principal debtor from the obligation for which the guarantee was given, 
+
+   - (c) If the principal debtor is discharged from the obligation by an act or action of the creditor or the loan is written off, 
+
+   - (d) If the creditor agrees to discharge the debtor from the liability by recovering a sum less than that is due or to give additional time for repaying the loan or not to institute a lawsuit, 
+
+   - (e) If any act or action by the creditor causes an adverse impact to the surety's right to legal remedy against the principal debtor, 
+
+   - (f) If the creditor loses, damages any security obtained by him or her from the principal debtor or returns it to the principal debtor, to the extent of the value of such security, 
+
+**319** 
+
+- (g) To the extent to which the principal debtor has repaid the loan or discharged the obligation to the creditor according to the contract. 
+
+(2) Notwithstanding anything contained in sub-section (1), the surety shall not be deemed to be in discharge of obligation, except as otherwise provided in the contract, merely because the creditor fails to institute legal action against the surety or attempt to recover the amount to be recovered by him or her in time. 
+
+(3) If there are two or more sureties and the creditor discharges one co-surety from obligation, the other co-sureties shall not be discharged from their respective part of obligation. 
+
+(4) Notwithstanding anything contained in sub-section (3), if the part of the co-sureties' obligation cannot be separated, no cosurety shall be deemed to be in discharge of his or her obligation even though the creditor has discharged him or her from the obligation. 
+
+(5) Except as otherwise provided for in the contract, the surety shall not be in discharge of obligation under the contract of guarantee merely because there arises a dispute between the parties in relation to the contract creating the obligation for the discharge of which the contract of guarantee is made. 
+
+**566. Relation between the surety and the principal debtor** : (1) The surety shall cause the principal debtor to repay the loan or discharge the obligation according to the contract. 
+
+**320** 
+
+(2) If the principal debtor has given any property or security to the surety for the guarantee given by him or her while borrowing a loan or promising the obligation, the surety shall not pledge, mortgage, sell or otherwise transfer the title to such property or security without the consent of the principal debtor. 
+
+(3) If a guarantee is given for any loan or obligation borrowed or promised for any specific purpose, the object, nature or terms and conditions of that loan or obligation shall not be altered without the consent of the surety. 
+
+(4) Notwithstanding anything contained elsewhere in this Section, if the contract otherwise provides in relation to the surety and the principal debtor, such provision shall be applicable. 
+
+**567. Surety to substitute creditor** : (1) After the surety has, on behalf of the principal debtor, repaid the loan to be repaid or discharged the obligation to be discharged to the creditor under the contract, the surety shall substitute the creditor in relation to such loan or obligation, and, as the creditor, be entitled to recover the loan from, or institute legal action against, the principal debtor. 
+
+(2) Notwithstanding anything contained elsewhere in this Chapter, the principal debtor shall pay to the surety the sum of loan repaid by the surety or all amounts in consideration for the obligation performed by the surety on behalf of the principal debtor, as well as interest or any other fee or amount chargeable thereon. 
+
+(3) If it becomes necessary to institute legal action because of the default of the principal debtor to pay the amount payable by 
+
+**321** 
+
+him or her under sub-section (2) or if any other expenses need to be incurred in this regard, the surety shall be entitled to recover also such expenses from the principal debtor. 
+
+**568. When contract of guarantee can be voided:** In any of the following circumstances, the surety may have the contract of guarantee voided: 
+
+      - (a) If the guarantee is obtained by the creditor or by any other person with his or her consent by supplying misleading or false notice or information to the surety about the matter of the transaction for which the guarantee is given, 
+
+      - (b) If the matter of guarantee, property or fact is concealed or not disclosed, 
+
+      - (c) If the contract is concluded on the condition that a third person will also become the surety but the third person does not consent to give the guarantee. 
+
+**569. Obligation of sureties to be equal:** (1) If two or more persons give the guarantee jointly or severally for any loan or obligation and the principal debtor fails to repay the loan or discharge the obligation, the co-sureties shall repay the loan or discharge the obligation or perform the contract on an equal basis, except as otherwise provided for in the contract. 
+
+   - (2) If, while giving the guarantee jointly pursuant to sub- 
+
+   - section (1), the co-sureties guarantee different parts, every surety 
+
+**322** 
+
+shall be liable to pay or bear the obligation only to the extent of the respective part guaranteed by him or her. 
+
+**570. Continuous guarantee:** (1) A guarantee which is so given as to extend to a series of transactions shall be deemed to be a continuous guarantee. 
+
+(2) If the provision of a guarantee referred to in subsection (1) is made, the surety shall be liable to the extent of the amount of guarantee that could not be recovered in the entire period of the contract of guarantee irrespective of the number of transactions made thereunder. 
+
+(3) The surety may, by giving a notice to the creditor at least three months in advance, revoke the continuous guarantee as to the future transactions. 
+
+(4) Except as otherwise provided for in the contract, if the surety dies, the continuous guarantee shall be deemed to be _ipso facto_ revoked. 
+
+**571. Contract of indemnity deemed to be concluded** : (1) If a contract is concluded by which one party to the contract promises to save the other from loss or damage caused to him or her by the conduct of the promisor himself or herself or by the conduct of any other person working under the direction of such a party or loss or damage caused to such a party or third party by his or her conduct, the contract shall deemed to be a contract of indemnity. 
+
+**323** 
+
+(2) If a contract referred to in sub-section (1) is concluded, the indemnity holder shall be entitled to recover as compensation all or any of the following amounts, subject to that contract: 
+
+- (a) The amount of indemnity specified in the contract, 
+
+- (b)  If any loss or damage is caused to a third person, the amount to be paid to or borne therefor, 
+
+- (c)  All costs paid in any suit, if any, filed or defended by him or her in connection with the contract of indemnity, 
+
+- (d)  The costs involved in any suit compelled to be made due to failure to pay the amounts referred to in clause (a), (b) or (c). 
+
+(3) Notwithstanding anything contained in sub-section (2), if the other party or third party suffers any loss or damage due to any act done by any person under the direction of such a party when such an act is done knowingly or recklessly by that person, with the intention of causing such loss or damage, such a person shall personally be liable for such loss or damage. 
+
+**572. Provisions relating to subrogation** : (1) If any person concludes a contract with another person against any possible loss or damage that could be caused by a third person to his or her property, facility or right enjoyed by him or her or benefit that could result from his or her business, the person concluding such a contract shall be liable for such loss or damage irrespective of the person causing such loss or damage. 
+
+**324** 
+
+Provided that if a contract is concluded to recover such loss or damage from any other person, it shall be recovered from such other person. 
+
+(2) The amount or compensation, if any, specified in the contract for any loss or damage suffered pursuant to sub-section (1) and a reasonable amount or compensation, failing such specification, shall be paid, or caused to be paid, immediately to the person affected by the loss or damage or to his or her successor if he or she is dead. 
+
+(3) If any loss or damage is suffered pursuant to subsection (1), the person paying the amount or compensation referred to in sub-section (2) shall be deemed to have subrogated the person who has sustained such loss or damage, and accordingly, the subrogator shall be entitled to the recovery of the amount or compensation for such loss or damage from the person causing such loss or damage. 
+
+**573. Rights of subrogator** : The rights and obligation of the subrogator shall be as specified in the contract, and, failing such specification, shall be as follows: 
+
+   - (a) All the rights, under the contract, of the person who has sustained the loss or damage shall devolve on the subrogator, 
+
+   - (b) The subrogator under clause (a) may recover from the person who has caused the loss or damage, or from the party to a contract concluded in that respect, if any, the 
+
+**325** 
+
+amount or reasonable compensation paid by him or her to the person who has suffered the loss or damage, as well as the costs incurred in having recourse to legal remedies, if any. 
+
+**574. Statute of limitation:** A person who is aggrieved from any act done or action taken under this Chapter may file a lawsuit within two years after the date of the accrual of the cause of action. 
+
+**326** 
+
+### **Chapter-8** 
+
+### **<u>Provisions Relating to Contracts of Bailment</u>** 
+
+**575. Contract of bailment:** (1) If a person so delivers any goods to another person that the goods shall be returned to him or her or handed over or sold to any other person according his or her direction, a contract of bailment shall be deemed to have been concluded. 
+
+**Explanation:** For the purposes of this Chapter, the term “goods” means any movable property and right in such property, other than currency in circulation. 
+
+(2) In concluding a contract pursuant to sub-section (1), a deed shall be executed while bailing any property the price of which exceeds twenty-five thousand rupees. 
+
+**576. Bailment deemed to be completed** : (1) The process of bailment shall be deemed to be completed once the bailee takes the delivery of the goods under bailment. 
+
+(2) If any person or any one authorized by him or her has already taken any goods in custody or possession, such goods shall be deemed to have been held as bailment. 
+
+**577. To disclose faults in goods bailed:** (1) The bailor shall disclose to the bailee any fault in the goods bailed of which the bailor is aware and which interferes with the use of them or can cause any loss or damage to the bailee or warrants separate provision or arrangement for their protection. 
+
+(2) If the bailor does not make such disclosure knowingly as required to be made pursuant to sub-section (1), to the bailee the 
+
+**327** 
+
+bailor shall be liable for any loss or damage arising from such goods or such non-disclosure. 
+
+(3) Notwithstanding anything contained in sub-section (2), if the goods are bailed for hire **,** the bailor shall be responsible for any loss or damage resulted from any faults in such goods even if the bailor was not aware of the existence of such faults in such goods. 
+
+**578. Obligations of bailee:** (1) The bailee shall, take care of **(herbichar)** and protect the goods bailed to him or her in accordance with the terms and conditions specified in the contract and, reasonable care of goods, as his or her own in the absence of such terms and conditions. 
+
+(2) Except as otherwise provided for in the contract, if any goods bailed are lost, stolen, damaged, depreciated, deteriorated or destroyed because of a disaster in spite of the reasonable care and protection pursuant to sub-section (1), the bailee shall not be liable to return such goods. 
+
+Provided that if the goods are lost, stolen, damaged, depreciated, deteriorated or destroyed because of recklessness or _mala fide_ intention of the bailee or of his or her failure to take care of or protect the goods according to the terms and conditions of the contract, the bailee shall be liable to return the goods or pay an amount equivalent to the price thereof to the bailor. 
+
+(3) If the bailee uses the bailed goods without authorization to do so under, or in a manner contrary to the terms and conditions of, the contract, the bailee shall pay compensation to 
+
+**328** 
+
+the bailor for any damage, loss, destruction or deterioration arising to the goods from such use. 
+
+(4) Except as otherwise provided for in the contract, the bailee shall not mix the bailor's goods with his or her own goods. 
+
+Provided that if the bailee, with the consent of the bailor, mixes the goods of the bailor with his or her own goods, both parties shall have an interest, in proportion to their respective share, in the mixture thus produced and income accrued therefrom. 
+
+(5) If the bailee, without consent of the bailor, mixes the goods of the bailor with his or her own goods, and the goods so mixed can be separated, the title of the property in goods shall remain in the parties respectively, but the bailee shall be bound to bear the expenses for separation and the damage, if any, arising to the bailor from the mixture. 
+
+(6) If the bailee, without consent of the bailor, mixes the goods of the bailor with his or her own goods, and the goods so mixed cannot be separated pursuant to sub-section (5), the bailor shall have right in such goods. 
+
+**579. To return bailed goods** : (1) The bailee shall return the bailed goods to the bailor after the expiry of the period specified at the time of bailment of the goods or after the accomplishment of the purpose for which the goods were bailed. 
+
+(2) If the bailee does not return the goods within the period specified for retuning them pursuant to sub-section (1) or within a reasonable period according to the nature of the goods failing such specified period or if the bailor refuses to take the goods back 
+
+**329** 
+
+within such a period and if the goods are lost, stolen, damaged, destroyed or deteriorated or any loss or damage is caused to the bailor due to such goods from that date, the respective party shall be liable for the loss or damage arising from his or her own default. 
+
+(3) Except as otherwise provided for in the contract, in the case of bailment of the goods owned by more than one person, the bailee may return the goods to any one of the joint owners, or to the person assigned by them, and if the goods are so returned, the goods shall be deemed to have been duly returned. 
+
+(4) If the bailee does not hold the goods bailed to him or her in accordance with the terms and conditions of the contract, the bailor may take back the goods at any time. 
+
+(5) Except as otherwise provided for in the contract, the goods increased or earned from the bailed goods, shall also belong to the bailor. 
+
+**580. Bailor to be liable for other's goods bailed** : If the bailor bails any goods in which he or she has no title, right or ownership to the bailee and the bailee is compelled to bear any claim or loss or damage to a third party from such bailment or bear any costs in relation to the bailment, the bailor shall also be liable to pay such costs. 
+
+**581. Goods given for repair and maintenance to be returned** : (1) If any goods are delivered to a person for their repair, improvement or renovation in any manner, the person shall repair, improve and renovate those goods and return them to the concerned owner, upon charging the costs or service charge for such repair, improvement or 
+
+**330** 
+
+renovation within the period specified in the contract. If the goods are not so returned within the specified period or any additional loss or damage is caused to the goods or the goods are so damaged as to be unusable in the course of their repair, improvement or renovation, that person shall be liable to pay the compensation specified in the contract and, failing such provision, a reasonable compensation to the concerned owner. 
+
+(2) Notwithstanding anything contained in sub-section (1), the person who repairs, improves or renovates the goods shall have the right to retain them until the payment of the costs incurred in the repair, improvement or renovation of such goods or the service charge if paid, and if such costs or service fee are not paid within a reasonable period, that person may recover the costs or service fee by selling the goods. 
+
+**582. Costs incurred in taking care of (herbichar)  bailed goods:** Except as otherwise provided for in the contract, the bailor shall bear the expenses incurred in the bailment of goods and in the care or security of the bailed goods. 
+
+**583. Contract of bailment to be void:** If it is proved that any goods are bailed with the intention of disentitling partition share, abstaining from paying any payable government fee or amount payable to any one or for any other illegal purpose, such a contract of bailment shall be void. 
+
+**584. Statute of limitation:** A person who is aggrieved from an act done or action taken under this Chapter may make a lawsuit within two years after the date of the accrual of the cause of action. 
+
+**331** 
+
+### **Chapter-9** 
+
+### **<u>Provisions Relating to Collateral or Deposit</u>** 
+
+**585. Contract of pledge or deposit deemed to be made:** (1) If a person takes delivery of goods as security for payment of a debt lent to another person, a contract of collateral is deemed to have been concluded and if a person takes delivery of goods as a security for the performance of a promise by another person, a contract of deposit shall be deemed to have been concluded. 
+
+**Explanation:** For the purposes of this Chapter, the term “goods” means any property and includes title to or an instrument establishing title to that property. 
+
+(2) A contract of collateral or deposit may be made pursuant to sub-section (1) in relation to the debt for the payment of which security is taken and interest of the debt, and if a deposit is taken as a security for the performance of a promise, other expenses related to that promise and expenses incurred in the care of (herchaha)collateraled or deposited goods. **586. To return goods collateraled or deposited:** (1) Except as otherwise provided for in the contract, after the payment of the debt for which the collater has been taken or after the performance of the promise for which person deposit has been taken shall be returned to the concerned. 
+
+(2) If the collateral or deposit taken under sub-section (1) is or may be divided into different parts, the collateral or deposit may be returned to the extent covered by the respective portion of the debt repaid or the promise performed. 
+
+**332** 
+
+**587. Rights of the person who obtains collateral or deposit:** (1) If a debt has been taken having pledged any goods as a collateral for its payment and makes a default in payment of the debt or interest of the debt, if any, within the specified period, the person who has taken the collateral may initiate the right to take legal action to recover the debt in accordance with law, by selling or auctioning the collateral so given at the prevailing market price or transfer the ownership of such security in his or her name subject to law, if such sale or auction cannot be made. 
+
+(2) If the goods pledged as collateral are sold at a price lesser than the amount recoverable by the person who has taken the collateral from the borrower under sub-section (1), such a person shall be entitled to recover the shortfall amount from the other assets of the borrower, and the collateral is sold at a price higher than the amount to be recovered, the excess amount shall be returned to the borrower. 
+
+(3) Notwithstanding anything containing in sub-sections (1) and (2), the person who has given the goods as collateral may take back his or her goods at any time by paying the debt and interest thereon and other amounts, if any, due and payable prior to the sale of the pledged goods or the transfer of ownership thereof. Provided that the person who has given the collateral shall also be liable to bear additional liability arising to the goods pledged from his or her failure to pay the amount within the specified period. 
+
+(4) If a deposit is taken as a security for the performance of a promise and the promise is not performed or completed within 
+
+**333** 
+
+the specified time, the goods pledged as deposit may be used for the performance of the promise or the expenses incurred in such performance may be recovered from such goods. 
+
+(5) If the promise cannot be performed from the goods pledged as deposit, such shortfall amount may be recovered from the other assets of the borrower. 
+
+**588. Consequences of pledge or deposit of goods by non-owner:** (1) If anyone borrows a debt or enters into a promise by pledging to the creditor any goods in which the he or she has no right or ownership or which has been obtained under a contract which is void under this Part and the pledgee does not know that fact, the pledgee shall have the right to demand the borrower giving such a collateral or deposit to give collateral or deposit of the goods owned by him or her equal to that amount, and if the he or she fails to give the collateral or deposit so demanded, the pledgee shall have the right to get the contract voided. 
+
+(2) If any goods obtained under a void contract are pledged as a collateral or deposit and the contract has already become void before giving such collateral or deposit or the pledgee had the knowledge that the goods pledged as the collateral or deposit did not belong to the pledger, the pledgee shall have no right in such goods and may recover the amount to be recovered by him or her or have the promise performed from other goods belonging to the pledger. 
+
+(3) If the pledger has a partial or limited title to, or ownership of, the goods pledged as the collateral or deposit, the 
+
+**334** 
+
+pledgee also shall have right and title to such goods to that extent only. 
+
+**589. Creditors to be on equal footing (** **_pari pasu)_** : (1)  If a person has borrowed debt from two or more creditors at a time or several times by pledging any of his or her goods as a collateral and the goods so pledged as the collateral are not sufficient to pay the debt of all the creditors, except as otherwise provided for in the contract, all the creditors who have taken the goods as collateral shall be deemed to be in _pari pasu_ in respect of the debt outstanding and shall have the right to make a proportionate claim on the goods accordingly. 
+
+(2) A contract entered into giving priority right in the future to a creditor on the goods already pledged as collateral pursuant to sub-section (1) shall be void. If a creditor has already recovered his or her debt from such a collateral before the contract becomes void in spite of knowing that there are also other creditors in respect of the security, such a creditor shall return the amount to other creditors and recover his or her debt from other assets of the pledger. 
+
+**590. Statute of limitation:** A person who is aggrieved from any act done or action taken under this Chapter may make a lawsuit within two years after the date of the accrual of the cause of action. 
+
+**335** 
+
+### **Chapter-10** 
+
+### **<u>Provisions Relating to Contracts of Agency</u>** 
+
+**591. Contract of agency deemed to be made** : Any person may appoint any other person as his or her agent to do any act on his or her behalf, except on the matter of his or her personal ability, to conduct business as his or her agent or carry on any transaction with a third person on his or her behalf or to represent him or her to such a person or to establish any type of legal relation with the person appointing an agent (the principal) and a third person, and if an agent is so appointed, a contract of agency shall be deemed to have been concluded. 
+
+**592. Recognition of transaction carried out by agent** : (1) Whatever a person can do on his or her own, the person may get the same done, or cause to be done, through an agent, subject to the law. 
+
+Provided that no act may be done through an agent for which one has to be present in person. 
+
+(2) A contract concluded through an agent appointed pursuant to Section 591 or act done by the agent shall be deemed to have been carried out by the concerned person and the obligation arising out of such an act shall be performed as if the contract were concluded or act done by the principal. 
+
+Provided that if the agent has done any act beyond his or her authority, the principal shall not be liable for such an act other than that accepted by him or her. 
+
+**336** 
+
+(3) Notwithstanding anything contained in sub-section (1), if, out of the acts done beyond authority, some acts are within his or her authority and some are beyond it and the part done within his or her authority can be separated, the principal shall be liable to the extent of the acts done within authority. 
+
+**593. Power to appoint sub-agent:** (1) If it is necessary to appoint a subagent according to the nature of any trade, business or transaction or a sub-agent may be appointed having regard to the provision of the contract or usage of the contract of agency, the agent may, except as otherwise provided for in the contract, appoint a subagent with the consent of the principal. 
+
+Provided that an agent who has been appointed on the condition that he or she shall represent or do any act personally may not appoint a sub-agent. 
+
+(2) If a sub-agent is appointed pursuant to sub-section (1), the agent shall give information thereof to the principal, and the rights and obligations of the sub-agent so appointed shall be the same as that of the agent appointed by the principal. 
+
+(3) If an agent appoints a sub-agent without the consent of the principal, the principal shall not be liable for any act done or action taken by the sub-agent. 
+
+(4) The agent appointing the sub-agent shall be personally liable for the acts referred to in sub-section (3). 
+
+**337** 
+
+**594. matters to be complied with by agent:** (1) Except as otherwise provided for in the contract, an agent shall comply with the following matters: 
+
+   - (a) To act subject to the terms and conditions of the contract of agency and the directions given by the principal, 
+
+   - (b) In the absence of any terms and conditions in the contract or any direction given by the principal, to do the business of agency in good faith, with full diligence and necessary care and skill, accordance to the nature of the act and business assigned to him or her and the laws and usages of the place of transaction, 
+
+      - Provided that if, at the time of the conclusion of 
+
+      - the contract, the principal was aware that the agent has no efficiency or capacity in relation to any matter, the agent shall not be liable for any loss or damage resulting from such inefficiency or incapacity of him or her. 
+
+   - (c) On the removal from an agent, not to do any act as usual in the capacity of an agent on the same business. 
+
+   - (d) To render or show the details of accounts and records of the agency business to the principal at the time of demand, 
+
+   - (e) In the case of any obstruction, obstacle or difficulty arising in the course of business of the agency, to 
+
+**338** 
+
+notify the principal as soon as possible and obtain necessary directions, and the principal shall be liable for any act done according to the direction so given. 
+
+(2) If the principal suffers any loss or damage because of the failure of the agent to perform his or her duties under clauses (a), (b) and (c) of sub-section (1), the agent shall personally bear such loss or damage. 
+
+**595. Agent to be responsible:** (1) Except as otherwise provided for in the contract, the agent shall, in any of the following circumstances, be personally liable for the transaction done by him or her on behalf of the principal: 
+
+   - (a) If the agent concludes a contract with a third party in relation to any transaction with provision for personal responsibility, 
+
+   - (b) If any act is done for or on behalf of an undisclosed principal and such a principal is not disclosed, 
+
+   - (c) If the principal cannot be sued for any reason, 
+
+   - (d)  If the contract is concluded in his or her own name, 
+
+   - (e)  If any act is done beyond the scope of the contract of agency or authority, 
+
+   - (f)  If any misrepresentation or fraud is committed in the course of the transaction, 
+
+   - (g)  If the agent is required to be liable personally according to the nature of the trade, 
+
+**339** 
+
+- (h)  If the interest of the agent is also involved in the transaction. 
+
+(2) Except as otherwise provided for in the contract between the agent and a third person, nothing shall be deemed to bar the making of any claim by the third person against the principal merely by the reason that the agent is personally liable pursuant to sub-section (1), and legal action may also be taken against the principal for a sum not recovered from the agent. 
+
+(3) For the purposes of taking a legal action against the principal pursuant to sub-section (2), the statute of limitation shall be deemed to commence from the date of the last payment made by the agent. 
+
+**596. Principal to be liable when leading to believe that act is done with authority:** (1) If the principal gives information to a third party that he or she has given authority to another person to act on his or her behalf or leads the third party to so believe, the principal shall be liable for any act done by the agent on his or her behalf unless the third party has come to know or has reasonable ground to know that the authority has not been so given. 
+
+(2) In the cases referred to in sub-section (1), the principal may be liable even for the act done by the agent beyond the authority if there is a reasonable ground for the third party to believe that the agent has authority. 
+
+**340** 
+
+**597. Termination of agency:** (1) Except as otherwise provided for in the contract, the agency shall be deemed to be terminated _ipso facto,_ in any of the following circumstances: 
+
+   - (a) If the agent voluntarily renounces the agency and gives a notice thereof to the principal, 
+
+   - (b) If the principal revokes the authority given to the agency or the contract of agency or gives a notice to the agent on the impossibility of performance of the contract, 
+
+   - (c) If the agent is appointed for any specific business and that business is completed, 
+
+   - (d) If the agent is appointed for a specific period and that period expires, 
+
+   - (e) If the principal or the agent dies or becomes of unsound mind, 
+
+   - (f) If the principal is declared to be insolvent, 
+
+   - (g) If the matter for which the agent is appointed no longer exists, 
+
+   - (h) If an agent is appointed by a body corporate and such a body is liquidated or dissolved. 
+
+(2) The principal may revoke any or whole of the authority given to the agent at any time before the agent exercises the authority, and if the authority is so revoked, the principal shall immediately give a notice thereof to the agent. 
+
+**341** 
+
+Provided that if the agent has already exercised some of such authority, the authority shall not be deemed to have been revoked in relation to the act already done in exercise of the authority 
+
+(3) Notwithstanding anything contained elsewhere in this Section, if the agent also has a share in the property connected with the main business of the agency, the agent may not be removed in such manner as to be prejudicial to such share. 
+
+**598. Agent may not be removed:** (1) Except as otherwise provided in the contract, if an agent is appointed for any specific period or act, the principal shall not remove the agent before the expiry of that period or before the completion of that act, except for a reasonable and sufficient reason. 
+
+(2) An agent who is appointed without specifying any certain period or act shall not be removed without giving a prior notice along with an appropriate reason. 
+
+(3) If the principal removes the agent in contravention of sub-section (1) or (2), the principal shall pay a reasonable compensation to the agent. 
+
+**599. Renunciation of agency by agent not allowed:** (1) Notwithstanding anything contained elsewhere in this Chapter, except as otherwise provided for in the contract, an agent appointed for a specific period or act shall not renounce the agency before the expiry of, or completion of, such period or act, except for a reasonable and sufficient reason. 
+
+**342** 
+
+(2) Any agent appointed without specifying any period or act under sub-section (1) shall not renounce the agency without giving a prior notice along with the reason for such renunciation to the principal. 
+
+(3) If any agent renounces the agency in contravention of sub-section (1) or (2), the principal may claim a reasonable compensation. 
+
+**600. Removal of sub-agent together with agent:** If an agent ceases to exist under this Part, the sub-agent appointed by him or her shall also be deemed to have, _ipso facto,_ been removed. 
+
+**601. Statute of limitation:** A person who is aggrieved form any act done or action taken under this Chapter may make a lawsuit within two years after the date of accrual of the cause of action. 
+
+**343** 
+
+### **Chapter-11** 
+
+### **<u>Provisions Relating to Contracts for Carriage of Goods</u>** 
+
+**602. Contract for carriage of goods deemed to be made:** (1) If a contract is concluded for the carriage of any goods from one place to another, a contract for the carriage of goods shall be deemed to have been concluded. 
+
+(2) Except as otherwise provided for in the contract, a receipt or bill to be issued by the carrier to the owner of goods at the time of handing over the goods for carriage shall be recognized as an evidence of the contract concluded between the carrier and the owner of the goods. 
+
+**Explanation:** For the purposes of this Chapter, the term “carrier” means a person operating a transport service other than air or marine transport, or a person engaged in the business of such transport, and also includes a person operating the business of carriage through internal navigation transport, rope-way or animal or any other means. 
+
+Provided that if any person employed by the owner of goods on wage basis or his or her agent or a person working under his or her supervision carries goods, such a person shall not be deemed to be a carrier for the purposes of this Chapter. 
+
+**603. Carrier’s obligations** : (1) It shall be the obligation of the carrier to carry the goods received from the owner of the goods for carriage to the specified destination in proper condition. 
+
+(2) If the goods received from the owner of the goods for carriage are lost, destroyed, broken, defaced or damaged or the 
+
+**344** 
+
+goods do not reach to the specified destination in proper condition in any other manner, the carrier shall be liable for that. 
+
+(3) The carrier shall carry the goods within the time specified in the contract, and within a reasonable time, if no period for transporting the goods is specified in the contract, and deliver the goods to the owner of the goods or his or her agent or a person designated by him or her. 
+
+**604. Carrier to be liable:** (1) If more than one carrier or mode of transport is involved in the carriage of any goods, except as otherwise provided for in the contract, the carrier to whom the owner of the goods has been handed over the goods shall be liable. 
+
+(2) If any goods are stolen, lost, damaged or destroyed prior to the carriage and delivery of such goods by the carrier to the concerned person, the carrier shall be liable for that. 
+
+Provided that if the goods are stolen, lost, damaged or destroyed due to a disaster or accident, the carrier shall not be liable for that. 
+
+**605. Right to sell goods without consent of owner:** (1) If the carrier fails to carry any goods to the destination within the specified time due to a disaster or accident in the course of carriage of the goods and such goods are perishable or their price or quality is susceptible to decrease significantly, the carrier may sell such goods even without the consent of the owner. 
+
+(2) The carrier shall pay the amount so obtained from the sale made pursuant to sub-section (1) to the owner. 
+
+**345** 
+
+**606. Carrier’s liability to be limited** : (1) Except where the owner of goods or his or her agent has clearly declared at the time of conclusion of the contract that the value of the goods to be carried is more or except as otherwise provided for in the contract, the compensation for any loss or damage to the goods carried by the carrier shall not exceed one hundred thousand rupees. 
+
+(2) Notwithstanding anything contained in sub-section (1), the carrier shall not be liable for any loss or damage to any gold, silver, diamond, jewelry or articles made thereof, precious stone, bill of exchange, security, document registered at office, certificate issued by an academic and other institute, coin, bank note, postal stamp, fish, meat, fresh fruits and vegetable, insecticide and toxic material, inflammable material, petroleum product, precious fine art work, idol, curio goods or glass or goods made of glass or highly breakable or fragile goods, wildlife and domestic animal, handicraft product, arms and ammunition, explosive, electronic equipment (radio, television, computer, mobile or similar other good) and their spare parts, machinery and such goods as specified by the law to be declared by the owner before the carriage, except where the owner or his or her agent has made explicit declaration at the time of the conclusion of contract or at the time of handing over of the goods to the carrier for carriage. 
+
+(3) For the purpose of bearing the risks involved in the carriage of goods under sub-section (2), the carrier may insure the goods through the owner of the goods or his or her agent or insure the goods by himself or herself having charged separate fee to the 
+
+**346** 
+
+owner or the carrier may make other necessary provisions for preventing the risks. 
+
+**607. To bear compensation:** The carrier shall, for such loss, damage or harm as caused to the goods declared at the time of the conclusion of contract or at the time of handing over the goods to the carrier for carriage under this Chapter or the goods not requiring declaration, in the course of their carriage, be liable to pay to the owner the compensation, if any, specified in the contract, to reimburse for the goods carried with the consent of the owner if no such compensation is specified in the contract or failing such consent, the prevailing price of such goods, and failing the determination of the price, a reasonable price and also a reasonable compensation for the loss and damage caused to the owner of the goods, subject to Chapter-5 of this Part. 
+
+**608. Termination of carrier's liability:** Except as otherwise provided for in the contract, the carrier's liability shall be deemed to have been terminated in any of the following circumstances: 
+
+   - (a) If the carrier or his or her agent carries and hands over the goods to the owner of the goods or his or her agent or the person designated by him or her, 
+
+   - (b) If the goods handed over to the carrier are taken back by the owner of the goods or his or her agent prior to the carriage thereof, 
+
+   - (c) If the carrier or his or her agent returns the goods to the owner of the goods or his or her agent specifying the reason that the goods cannot be carried within the 
+
+**347** 
+
+specified time because of the circumstance referred to in clause (b) of sub-section (2) of Section 531. 
+
+**609. Statute of limitation:** A person who is aggrieved from any act done or action taken under this Chapter may make a lawsuit within two years after the date of accrual of the cause of action. 
+
+**348** 
+
+### **Chapter-12** 
+
+### **<u>Provisions Relating to Contracts of Lease</u>** 
+
+**610. A contract of lease deemed to be made:** (1) If a contract is concluded under which a person gives any goods in which he or she has right and possession to another person for use and possession and enjoy the benefits accrued therefrom in consideration for a rent payable regularly for a certain period, a contract of lease shall be deemed to be concluded. 
+
+**Explanation:** For the purposes of this Chapter, the term “goods" means any property from which benefit may be acquired through consumption, possession or use without diminishing them. 
+
+(2) If a contract of lease is concluded pursuant to subsection (1), except as otherwise provided for in the contract, the lessor shall ensure the lessee of the following matters: 
+
+   - (a) To transfer certain goods for use and possession according to the contract, 
+
+   - (b) To maintain the goods transferred pursuant to clause (a) in a running condition so that they may be possessed or used at the time of the transfer, 
+
+   - (c) To make arrangements so that the goods transferred pursuant to clause (a) or (b) can be possessed or used peacefully and without any hindrance. 
+
+- (3) Notwithstanding anything contained elsewhere in this 
+
+- Section, any goods destroyable in use or consumable goods may not be leased. 
+
+**349** 
+
+**611. Form of the leased goods not to be changed:** The lessee shall not change the original form of the leased goods without the consent of the owner during the period of the contract of lease. 
+
+Provided that nothing contained in this Section shall prevent the repairing, maintaining, improving or renovating of the leased goods. 
+
+**612. To use the leased goods in good faith:** (1) The lessee shall have the right to possess and use the leased goods in good faith and in a prudential manner as if the goods were owned by himself or herself. 
+
+   - (2) While possessing and using the leased goods pursuant 
+
+   - to sub-section (1), the lessee shall possess and use them in consonance with the object of the contract of lease. 
+
+(3) If the lessee is proved to have possessed and used the leased goods contrary to sub-section (1) or (2), the lessor may terminate such a contract at any time. 
+
+**613. To repair and maintain leased goods:** (1) Except as otherwise provided for in the contract of lease, the lessor shall repair and maintain the leased goods. 
+
+(2) Notwithstanding anything contained in sub-section (1), if the possession or use of the leased goods cannot be made without their immediate repair, maintenance or renovation, the lessee himself or herself may repair, maintain or renovate such goods by giving information thereof to the lessor. 
+
+(3) The lessor shall reimburse or adjust in lease rent the expenses incurred in the repair, maintenance or renovation made pursuant to sub-section (2). 
+
+**350** 
+
+**614. Lessor to be informed if goods are not usable:** (1) If the leased goods or any part thereof are lost, damaged or destroyed in any manner, are not capable of being possessed or used for any reason, any person makes a claim or dispute of any kind in relation to such goods or any part thereof or any person creates hindrance or disturbance in any manner while possessing or using the goods, the lessee shall give information thereof to the lessor immediately. 
+
+   - (2) Upon receipt of information pursuant to sub-section (1), 
+
+   - the lessor shall carry out such repair, maintenance or renovation or obtain such legal remedies as may be necessary to restore the goods into their original condition according to the nature of the goods within fifteen days. 
+
+(3) In the case of failure to restore the leased goods into their original condition within the period referred to in sub-section (2), the lease rent shall be subject to reduction in proportion to the extent to which such goods have been lost, damaged or destroyed or become incapable of being used or possessed or such claim, hindrance or dispute has been made. 
+
+**615. Lessee to be liable:** (1) The lessee shall possess or use the leased goods by taking adequate safety measures having regard to the nature of the goods in order to save the leased goods from loss or damage. 
+
+(2) If the leased goods are lost or destroyed for any reason or the price of the goods decreases due to loss or destruction thereof in any manner or due to loss because of negligence on the part of the lessee, any member of his or her family, his or her agent or the third party, during the validity of the contract of lease, the lessee 
+
+**351** 
+
+shall be liable therefor, and the lessee shall restore such goods into their original condition, and if the lessee fails to do so, he or she shall be liable to pay compensation therefor. 
+
+(3) Notwithstanding anything contained in sub-section (1) or (2), the lessee shall not be liable for the loss or damage, if any, caused to the leased goods due to any _force majeure_ event. 
+
+(4) If partial loss or damage is caused to the leased goods due to a _force majeure_ event pursuant to sub-section (3) and the lessor does not restore such goods into their original condition or such restoration is not possible, the lessor shall reduce the lease rent in proportion to the loss or damage. 
+
+**Explanation:** For the purposes of this Section, the term "force majeure event" means any of the following events: 
+
+   - (a) A storm, earthquake, eruption of volcano, 
+
+   - (b) Excessive rain, flood, landslide, soil erosion, thunder-storm, 
+
+   - (c) Fire caused in any manner other than that caused by dishonesty, negligence or recklessness on the part of the lessee or his or her family member, employee, worker or third party, 
+
+   - (d) Act of terrorism, civil riot, civil war, 
+
+   - (e) Other natural calamity of similar nature beyond human control. 
+
+**616. To pay lease rent:** (1) The lessee shall pay to the lessor the lease rent according to the terms and conditions of the contract of lease. 
+
+**352** 
+
+(2) If the terms and conditions of payment of the lease rent are not specified in the contract pursuant to sub-section (1), the lessee shall pay the lease rent on the next day of the end of each month, in the case of a movable property, within fifteen days of the end of every fiscal year, in the case of farmland, servitude, land leased for industrial or infrastructure building or housing, and within a week of the end of every month, in the case of other goods. 
+
+(3) Notwithstanding anything contained elsewhere in this Section, if any person does not let the lessee fully possess and use such goods or any part thereof by showing any defect in the ownership and possession of the leased goods or any part thereof, creating any type of hindrance or obstruction or making a claim in relation thereto, the lessee may reduce the lease rent in proportion thereto. 
+
+**617. Validity period of contract of lease:** (1) No contract of lease concluded in relation to the following goods shall remain valid for more than the following period: 
+
+   - (a) Thirty-five years in the case of housing land leased for the construction of a building or housing land in use after construction of a building therein, 
+
+   - (b) Thirty-five years in the case of the land leased for the purpose of servitude, 
+
+   - (c) Forty years in the case of the land leased for the purpose of construction, development and 
+
+**353** 
+
+operation of the infrastructures such as industrial structure, roads, canals, electricity generation, 
+
+- (d) Twenty years in the case of land for farming; 
+
+- (e) Nineteen years in the case of house and land leased for the purposes other than that referred to in clause (a), (b), (c) or (d), 
+
+- (f) Fifteen years in the case of a motor vehicle, 
+
+- (g) Fifteen years in the case of machinery equipment other than a motor vehicle, 
+
+- (h) Fifteen years in the case of machinery equipment other than that referred to in clause (f) or (g), 
+
+- (i) Ten years in the case of a domestic animal, 
+
+- (j) Ten years in the case of goods other than that set forth in this Section having regard to their life and nature. 
+
+(2) Notwithstanding anything contained in sub-section (1), the parties may extend the validity period of the contract of lease, subject to the validity period of the contract, before expiry of the period referred to in such a sub-section. 
+
+(3) Notwithstanding anything contained in sub-section (2), the parties to a contract of lease may decide whether to extend the period of the contract of lease having regard to the place where the leased house and land are situated and the nature of the goods. 
+
+**618. Leased goods may be sub-leased** : (1) The lessee may, with the prior consent of the lessor, sub-lease to any person the goods or any 
+
+**354** 
+
+part thereof leased under the contract of lease, by concluding another contract of lease to that effect. 
+
+(2) The lessee shall not be free from his or her obligation towards the lessor for the reason that he or she has made a sub-lease pursuant to sub-section (1). 
+
+(3) The terms and conditions of such a sub-lease contract concluded pursuant to sub-section (1) in relation to the goods on sub-lease shall not be different than the terms and conditions of the first contract of lease. 
+
+(4) While determining the terms and conditions of the contract of lease pursuant to sub-section (3), provision may be so made that the sub-lessee shall be directly liable to the lessor in respect of the leased goods, and if such provision is made, the sublessee shall be liable to the lessor to the extent of the sub-lease contract. 
+
+(5) The validity period of the contract of lease made pursuant to sub-section (1) shall not exceed the validity period of the contract of lease concluded between the lessor and the lessee. 
+
+(6) If the lessor makes recourse to any legal remedy or a claim against the lessee under this Chapter, the sub-lessee shall not be liable therefor except in the case referred to in sub-section (4). 
+
+(7) Nothing shall be deemed to have been prejudiced in any manner the right which the lessor may exercise under the contract of lease based on anything contained in this Section,. 
+
+**619. To return leased goods:** (1) Except as otherwise provided for in the contract of lease, if the contract of lease is terminated for any 
+
+**355** 
+
+reason, the lessee shall return the goods leased under this Chapter to the lessor within thirty-five days of the termination of the contract of lease. 
+
+Provided that, in the case of an immovable property, the lessor shall be deemed to be entitled, _ipso facto,_ to possess that goods after thirty-five days of the termination of the contract of lease. 
+
+(2) The lessee shall return the goods leased pursuant to sub-section (1) to the lessor on the same condition as they were received at the time of lease. 
+
+Provided that the lessee shall not be liable for any natural decay or depreciation caused from the possession and use of the goods. 
+
+(3) If a record of the goods or accessories and spare parts thereof has been maintained at the time of leasing the goods, the goods and accessories and spare parts thereof according to such record shall also be returned, while returning the leased goods pursuant to sub-section (1) or (2). 
+
+Provided that the accessories or spare parts that get lost or destroyed in the course of possession and use according to the nature of the goods need not be returned. 
+
+**620. Special provision relating to the contract of lease of immovable property:** (1) Notwithstanding anything contained elsewhere in this Chapter, a contract of lease of any immovable property shall be concluded in writing. 
+
+**356** 
+
+(2) While leasing any immovable property for a period of more than ten years, the contract of lease, setting out such matter, shall be registered in a body legally authorized for that purpose. 
+
+(3) Notwithstanding anything contained elsewhere in this Chapter, no immovable property can, without consent of the Government of Nepal, be leased to a person who cannot acquire ownership in any immovable property in Nepal according to law, for the purpose of farming, constructing a building or housing and land development. 
+
+(4) In returning any building, shed or other structure built by the lessee, or the garden, forest or trees located, in the land leased under the contract of lease to the lessor upon the expiry of the validity period of the contract of lease, except as otherwise provided for in the contract, the lessee shall be deemed to have right and ownership in such building, shed or other structure or garden, forest or trees located therein, and the lessee shall accordingly remove such building, shed, structure, garden, forest or trees from such land. 
+
+(5) Notwithstanding anything contained in sub-section (4), if the lessor desires to take such building, shed or other structure or garden, forest or trees located in such land on the as is where is basis, the lessor shall pay the mutually agreed price for the same. **621. Contract of lease may be terminated:** (1) The lessor may terminate the contract of lease in any of the following circumstances: 
+
+**357** 
+
+      - (a) Except as otherwise permitted by the lessor, if the lessee fails to pay the lease amount until ninety days after the due date for the payment of the lease rent has expired, 
+
+      - (b) If the lessee possesses or uses the leased goods taken contrary to Section 612, 
+
+      - (c) If the lessee fails to give information to the lessor or keep him or her informed about the matters referred to in sub-section (1) of Section 614, 
+
+      - (d) If the lessee fails to restore the leased goods into their original condition having regard to the nature of the goods pursuant to sub-section (2) of Section 615, 
+
+      - (e) If the goods leased are sub-leased without the prior consent of the lessor. 
+
+- (2) The lessee may terminate the contract of lease in any 
+
+- of following circumstances: 
+
+   - (a) If the leased goods cannot be possessed or used for the purpose or object for which the goods have been leased, 
+
+   - (b) If the lessor fails to reimburse the repair and maintenance costs or make its adjustment to the lease rent pursuant to sub-section (3) of Section 613, 
+
+   - (c) If the lessor does not reduce or agree to reduce the lease rent amount pursuant to sub-section (3) of Section 614 or sub-section (4) of Section 615. 
+
+**358** 
+
+**622. Provisions relating to house rent to apply:** Notwithstanding anything contained elsewhere in this Chapter, in matters concerning house rent the provisions of Chapter-9 of Part 4 shall apply. 
+
+**623. Statute of limitation:** A person who is aggrieved from any act done or action taken under this Chapter may make a lawsuit within two years after the date of the accrual of the cause of action. 
+
+**359** 
+
+### **Chapter-13** 
+
+### **<u>Provisions Relating to Hire-Purchase Contracts</u>** 
+
+**624. Hire-purchase contract deemed to be made:** (1) If a person lets any goods to another person for hire on the following terms and conditions, a hire-purchase contract shall be deemed to be concluded: 
+
+   - (a) The hirer has the right of possession and use of the goods let by the owner of the goods, on the condition of payment of the rent amount by installments in periodic basis for that goods, 
+
+   - (b) The hirer has the right to purchase the goods on hire according to the terms and conditions of the contract, 
+
+   - (c) The ownership of such goods would be transferred to the hirer upon payment of the last installment, 
+
+   - (d) The hirer may terminate the contract at any time prior to the transfer of ownership pursuant to clause (c). 
+
+(2) The contract referred to in sub-section (1) shall be concluded in writing. 
+
+(3) The owner of the goods shall provide one copy of the contract concluded pursuant to this Section to the hirer free of cost as soon as the contract is so concluded. 
+
+**Explanation:** For the purposes of this Chapter,- 
+
+**360** 
+
+   - (1) "Goods" means any movable property that may be let for hire for the purpose of its possession and use. 
+
+   - (2) "Hirer” means a person who takes any goods on hire for possession and use according to the hire-purchase contract and also includes his or her successor in the event of his or her death or other third person to receive such goods under the contract. 
+
+**625. Matters to be specified in hire-purchase contract:** (1) The following matters shall be specified in the hire-purchase contract referred to in Section 624: 
+
+      - (a) The goods and short description thereof, 
+
+      - (b) Hire-purchase price of the goods, 
+
+      - (c) Cash price of the goods, 
+
+      - (d) The date of commencement of the contract, 
+
+      - (e) The amount of installment payable by the hirer to the owner of goods and the number of installments, 
+
+      - (f) The due date for payment of each installment and the mode of payment, 
+
+      - (g) The person and place for the payment of amount pursuant to clause (f). 
+
+(2) If an installment can be paid by any mode other than cash pursuant to clause (f) of sub-section (1), a brief description thereof shall be specified in the hire-purchase contract. 
+
+(3) If a hire-purchase contract has been made without specifying any of the terms and conditions referred to in this 
+
+**361** 
+
+Section, the hirer may sue for the rescission of such contract, and if the court thinks that non-specification of any of such terms and conditions in the contract is detrimental to the hirer, the court may rescind such contract or issue any such other order as it thinks fit. 
+
+   - **Explanation:** For the purposes of this Chapter,- 
+
+   - (1) "Hire purchase price" means the total amount to be paid by the hirer to purchase or acquire the goods upon payment of the full price of the goods, and also includes an amount to be paid as deposit or down payment. 
+
+   - (2) "Cash price" means the price to be paid in cash by which the hirer may purchase any goods. 
+
+**626. Conclusion of more than one contract to be deemed as conclusion of single contract:** (1) If several contracts are concluded in connection with the making of a hire-purchase contract, namely a contract between the hirer and the owner of any goods, a contract between a surety guaranteeing the payment of installments of the hire-purchase price of such goods or investor and the owner of such goods on the condition of entering into a hire-purchase contract, or in the case of any bailed or pledged goods, a contract between the bailor and the bailee of such goods, the contracts shall be deemed to be a single contract for the purposes of this Chapter. 
+
+(2) If the contracts referred to in sub-section (1) are concluded at different dates, the latest date shall be regarded as the date of the formation of the contract. 
+
+**627. Consequences of formation of hire-purchase contract:** (1) Notwithstanding anything contained in the contract, the following 
+
+**362** 
+
+terms and conditions shall be deemed to be inherent in the hirepurchase contract concluded between the parties: 
+
+- (a) The hirer has the right of uninterrupted possession and use of the hired goods, 
+
+- (b) The goods are free from any type of charge or claim of any one at the time of transfer of the goods by the owner to the hirer, 
+
+- (c) The owner of the goods has assured that the hirer will have a reasonable opportunity to compare such goods with the sample, 
+
+- (d) The owner of the goods has the right to sell the hired goods at the time of the transfer of such goods by him to the hirer, 
+
+- (e) The goods referred to in clause (a) are of satisfactory quality at the time of the transfer of goods, 
+
+- (f) If the hirer has informed the owner of the goods that he or she is hiring the goods for any particular purpose, the owner of the goods guarantees that such goods or quality thereof will be appropriate for that purpose. 
+
+(2) Notwithstanding anything contained in clause (e) of sub-section (1), the owner of the goods shall not be liable for the quality of the goods in any of the following circumstances: 
+
+- (a) The owner of the goods was not aware of the defect in the goods, for which the hire-purchase 
+
+**363** 
+
+contract has been made at the time of conclusion of such contract, 
+
+- (b) The hire-purchase contract itself has a stipulation about the defect in the quality of the goods, 
+
+- (c) If the hirer has collected and examined a sample of the goods and the quality of the goods matches with such a sample, 
+
+- (d) The hire-purchase contract is concluded with regard to any second-hand goods and that matter is specified in the contract. 
+
+(3) If the hirer takes any goods on hire on the basis of a sample, the owner of the goods shall be deemed to have assured of the fact that all of such goods match with the sample. 
+
+(4) If the description of any goods or quality thereof is specified in a contract concluded under this Chapter, the owner of the goods shall be deemed to have assured of the fact that such goods or quality thereof shall be as specified in the contract. 
+
+Provided that if the sample is also specified in the contract, the matching of the quality of such goods with that of the sample shall not suffice, and it shall be matched with the description of the contract at the time of transferring the whole of the goods. 
+
+**628. Transfer of ownership of goods:** The ownership of the goods related to a hire-purchase contract shall be transferred to the hirer upon completion of the purchase according to the hire-purchase price determined in accordance with the contract concluded under this Chapter. 
+
+**364** 
+
+Provided that the right to possession and use shall be deemed to be created at the time of receiving such goods by him or her. 
+
+**Explanation:** For the purposes of this Section, the term "completion of the purchase" means the payment of the last installment of the hire-purchase price. 
+
+**629. Goods on hire to be cared (herchaha)  and maintained:** (1) The status of the goods hired under a hire-purchase contract shall be as of the bailment until the transfer of their ownership pursuant to Section 628. 
+
+(2) Except as otherwise provided for in the hire-purchase contract, the hirer shall take reasonable care of **(herbichar)** and maintain the goods related to such a contract as if the goods were those owned by himself or herself. 
+
+(3) If such goods are lost or damaged because of the failure to take care of **(herbichar)** and maintain them pursuant to sub-section (2), the hirer shall be liable therefor. 
+
+**630. Installment to be paid:** The hirer shall pay the amount of installment as determined in the hire-purchase contract in consideration for the hired goods, within such period and according to such mode as specified in the contract. 
+
+**631. Termination of contract by paying installment:** (1) Except as otherwise provided for in the hire-purchase contract, the hirer may, during the currency of the contract, terminate the contract by making payment of the hire-purchase price of the goods or outstanding installment, and giving an advance written notice of at least fifteen days to the owner of the goods. 
+
+**365** 
+
+(2) While terminating the contract pursuant to sub-section (1), the hirer shall also be entitled to the discount of any kind, if any. 
+
+**632. Termination of contract by returning goods:** (1) Except as otherwise provided for in the contract, the hirer may, at any time prior to the payment of the last installment as determined according to the hire-purchase contract for the goods, terminate the contract by giving a written notice to the owner of goods at least fifteen days in advance. 
+
+(2) Prior to terminating the contract pursuant to subsection (1), the hirer shall deliver or return the hired goods to the owner according to the hire-purchase contract and also pay the amount, if any, due and payable by the hirer to the owner under the contract on or before the termination of the contract. 
+
+(3) Notwithstanding anything contained in sub-section (2), if the hirer has already paid more than half of the hire purchase price on or before the termination of the hire-purchase contract, the hirer shall not be required to pay any more amount, and if the hirer has paid less than half the amount, the hirer shall pay up to the half of the amount. 
+
+(4) Nothing contained in sub-section (3) shall be deemed to release the hirer from payment of such other amount, charge or due as may be payable according to the hire-purchase contract. 
+
+**633. Right of hirer to transfer his or her right and interest:** (1) The hirer may, with the consent of the owner of the hired goods, transfer to another person the right, interest or liability in the goods hired by him or her according to the hire-purchase contract and such other 
+
+**366** 
+
+right, interest or liability as may be accrued to him or her under such a contract. 
+
+(2 **)** The owner of goods shall, for the purposes of sub-section (1), give or refuse to give consent within fifteen days of the date of the written request made by the hirer with the intention of getting consent from the owner to transfer his or her right, interest or liability to another person, and if consent cannot be obtained within such a period, the owner shall be deemed to have refused the consent. 
+
+(3) If the owner of goods makes a refusal pursuant to subsection (2), the hirer shall, within thirty-five days, make a lawsuit in the court to have the refusal voided, and if the court issues an order to the effect that the refusal is not reasonable, the consent shall be deemed to have been obtained from the owner of goods. 
+
+(4) If the right, interest or liability of the hirer is transferred to another person by operation of law, nothing contained in this Section shall be deemed to bar the exercise or performance of such right, interest or liability. 
+
+**634. To be liable for use of goods contrary to terms and conditions:** If the hirer uses the goods under the hire-purchase contract contrary to the terms and conditions of such a contract, the hirer shall be liable therefor. 
+
+**635. Information of actual condition of goods to be given:** If the owner of goods demands the hirer using the goods under the hirepurchase contract to give information as to the place where the concerned goods are situated and the state of benefits accrued from 
+
+**367** 
+
+such goods, the hirer shall give information thereof to the owner within fifteen days. 
+
+**636. The owner of goods may terminate contract:** (1) If the hirer defaults to pay more than one installment of the hire-purchase price to be paid to the owner of goods according to the hire-purchase contract, the owner of goods shall be entitled to terminate the hirepurchase contract at any time, by giving an advance notice as follows to the hirer: 
+
+   - (a) If the installment is to be paid within or less than an interval of one week, a period of one week. 
+
+   - (b) In the cases other than that referred to in clause (a), a period of fifteen days. 
+
+(2) Notwithstanding anything contained in sub-section (1), if the hirer makes payment of the installment and the interest, if any, to be accrued thereon according to the hire-purchase contract before the expiry of the period for giving an advance notice pursuant to the said sub-section, the hire-purchase contract cannot be terminated. 
+
+(3) If the hirer fails to perform the hire-purchase contract or the terms and conditions referred to in Section 629 or 635, the concerned owner of goods may terminate the hire-purchase contract, by giving a notice of at least fifteen days. 
+
+(4) In the event of termination of the contract pursuant to sub-section (1) or (3), the owner of goods may exercise the following rights in relation to the hired goods: 
+
+**368** 
+
+- (a) To take back the goods wherever and in whatever situation they may be, and if the goods cannot be so taken back, to forfeit them, 
+
+- (b) To determine the amount of rent that he or she can recover out of the amount paid in lieu of such goods, and inform the hirer to take back of the exceeding amount, 
+
+- (c) To forfeit the amount, if any, taken as a deposit from the hirer at the time of hiring the goods, 
+
+- (d) To enter the house where the goods are located with the assistance of police in the course of seizing the hired goods, 
+
+- (e) To recover compensation from the amount paid or make a claim for the loss or damage caused from the failure to return the hired goods in time or failure to perform the contract or the terms and conditions referred to in Section 629 or 635. 
+
+(5) Notwithstanding anything contained elsewhere in this Section, if the hirer, surety or investor has already paid at least the basic price of the hired goods, the owner of the goods shall not entitled to terminate the hire-purchase contract under this Section. 
+
+**Explanation:** For the purposes of this Section, the term "basic price" means three-fourths of the amount if the hire-price amounts to up to fifty thousand rupees and at least half the price if the hire-purchase price is more than that amount. 
+
+**369** 
+
+(6) If the owner of goods terminates the hire-purchase contract in contravention of sub-section (5), the hirer or surety shall be in discharge of all liabilities to be fulfilled according to the hirepurchase contract and shall be entitled to refund the entire amount paid for the goods hired by him or her. 
+
+Provided that the hirer shall return the hired goods to the concerned owner of goods. 
+
+(7) Notwithstanding anything contained in sub-section (5), a restriction to terminate the hire-purchase contract shall not be deemed to bar in any manner the right to make a claim for the hirepurchase price to be received from the hirer according to the contract. 
+
+(8) Notwithstanding anything contained elsewhere in this Section, the owner of goods may terminate the hire-purchase contract entered into with the person who does not give information referred to in Section 635 and, if any loss or damage is caused to such goods, make claim for the same as well. 
+
+**637. Rights of hirer in case of forfeiture of goods:** (1) If the owner of the goods hired pursuant to clause (a) of sub-section (4) of Section 636 forfeits the goods, the hirer shall be entitled to refund the amount paid in relation to the hire-purchase price up to the day of forfeiture and the amount equal to the price of the goods on the day of forfeiture from the owner. 
+
+**Explanation:** For the purposes of this Section, the term "price of the goods on the day of forfeiture" means a sum that 
+
+**370** 
+
+remains after making deduction of the following amount or expense from the proceeds of sale of the forfeited goods: 
+
+- (1) Reasonable expenses incurred in course of the forfeiture of the goods, 
+
+- (2) Reasonable expenses incurred in the storage and repair and maintenance of the goods until the sale of the goods, 
+
+- (3) Reasonable expenses incurred in the sale or otherwise transfer of the goods, 
+
+- (4) The amount paid for the taxes, charges, fees or dues, if any, outstanding and payable by the hirer for the goods according to the laws in force, 
+
+(2) The amount referred to in sub-section (1) shall be paid to the hirer within thirty days after the date of forfeiture of the goods, and while making payment thereafter, an interest at the rate of ten percent per year shall also be paid. 
+
+**638. Status of hired goods in case of hirer becoming bankrupt** : (1) If the court holds, during the currency of a hire-purchase contract, that the hirer has become a bankrupt or is likely to be a bankrupt according to the laws in force, and as a consequence thereof, the liquidator or any other equally competent person taking control of the property of such a person shall exercise and fulfill the same rights and obligations as the successor has with regard to the goods under the hire-purchase contract. 
+
+(2) If the hirer becomes bankrupt and the bankruptcy proceedings are under consideration in any court, the liquidator or 
+
+**371** 
+
+the person exercising the right equal to that of the liquidator pursuant to sub-section (1) may, having obtained permission of such a court, transfer the goods under the hire-purchase contract to another person in any manner, and if such goods are transferred in such a manner, the transferee of the goods shall exercise and fulfill the rights and obligations under the hire-purchase contract as if the transferee were the hirer. 
+
+**639. Statute of limitation:** A person who is aggrieved from any act done or action taken under this Chapter may make a lawsuit within two years after the date of accrual of the cause of action. 
+
+**372** 
+
+### **Chapter-14** 
+
+### **<u>Provisions Relating to Wages</u>** 
+
+**640. Employment in work:** (1) Any person who has attained at least fourteen years of age may be employed in a work with his or her consent. 
+
+Provided that a person who has not attained sixteen years of age shall not be employed in a hazardous business or work. 
+
+(2) While employing any one pursuant to sub-section (1), the provisions of this Chapter shall be complied with, or caused to be complied with. 
+
+**641. Wages to be paid:** (1) While employing any one in any work pursuant to Section 640, the employer shall have to pay the wages in proportion to the work except in cases where the employee voluntarily agrees to work without wages. 
+
+(2) While paying the wages pursuant to sub-section (1), if any particular rate of wages is specified with the consent of the employer and the employee, the wages shall be paid accordingly and if no such rate is specified, the wages for the work shall be paid according to the rate prevailing in the place of work. 
+
+(3) Except as otherwise agreed upon between the employer and the employee pursuant to sub-section (1) or (2), the wages shall be paid upon completion of the work. 
+
+(4) While determining the wages according to this Section, the wages shall be determined on the basis of each day of work except as otherwise agreed upon between the employer and the employee. 
+
+**373** 
+
+**642. Provisions of safety measures to be made:** A person shall employ another person in a work only after making provisions of adequate safety measures to prevent possible risks or danger in view of the nature of work. 
+
+**643. Prohibition of employing for more than eight hours:** (1) A person may not employ another person in a work under this Chapter normally for more than eight hours a day. 
+
+(2) If a person need to employ another in a work for a period more than that set forth in sub-section (1), the consent of the employee shall be obtained, and while so employing him or her in the work, that person shall pay additional wages for each hour in proportion to a day by calculating eight hours as one day. 
+
+(3) Notwithstanding anything contained in sub-section (2), the provisions of that sub-section shall not apply to the employment of a domestic helper. 
+
+**Explanation:** For the purposes of this Chapter, the term “domestic helper” means a person so employed in work that he or she may be employed in a household work at any time as per necessity. 
+
+**644. Special provisions relating to domestic helpers:** (1) If a person employs another person as a domestic helper, the employer shall also comply with the following terms and conditions, in relation to the domestic helper: 
+
+   - (a) To determine the wages monthly or annually basis and pay the wages, 
+
+**374** 
+
+- (b) To provide meals three times viz. in the morning, afternoon and evening, and clothes suitable to the weather, according to the capacity of the employer, 
+
+- (c) To provide facilities for using appropriate housing, toilet and bathroom facilities according to the capacity of the employer, 
+
+- (d) In the case of a domestic helper below eighteen years of age, to make provision for his or her study at an appropriate time having regard to household work if he or she so wishes, 
+
+- (e) To arrange for his or her treatment if the domestic helper falls sick, 
+
+Provided that the expenses incurred in his or her treatment may not be deducted from his or her monthly or yearly wages. 
+
+- (f) Not to employ him or her in work while he or she is sick, and, in other situations, not to employ him or her in such a work that he or she may not be able to do due to the age, ability or condition of him or her, 
+
+- (g) If he or she dies, to bear the expenses incurred in the performance of his or her funeral and obsequies rites in a normal way, 
+
+- (h) Not to commit any inhumane or degrading treatment or domestic violence, 
+
+**375** 
+
+- (i) To comply with the other terms and conditions agreed upon between the employer and the domestic helper. 
+
+(2) The expenses incurred under clauses (b), (c) and (d) of sub-section (1) may not be deducted from the monthly or yearly wages of the domestic helper. 
+
+(3) If a person employs another person as a domestic helper, that person shall give written information thereof to the concerned ward committee of the concerned Local Level within one month after the date of such an employment. 
+
+**645. Undertaken work not to be left incomplete:** (1) If a person assumes responsibility to do or undertakes to do any work, the person shall not leave the work incomplete except for a reasonable ground. 
+
+(2)  If a person leaves a work incomplete as mentioned in sub-section (1), the person leaving the work shall bear the obligation therefor. 
+
+**646. Wages to be paid to employee:** (1) The employer shall pay such wages as required to be paid for employment to the employee or any other person whom he or she has consented to. 
+
+(2) If the employee dies prior to the payment of wages pursuant to sub-section (1), the wages he or she is entitled to shall be paid to his or her nearest successor. 
+
+**647. Statute of limitation:** A person who is aggrieved in relation to any of the matters under this Chapter may make a lawsuit within three months after the date of accrual of the cause of action in the case of 
+
+**376** 
+
+Section 644, and within thirty-five days in the case of the other matters. 
+
+**377** 
+
+### **Chapter-15** 
+
+### **<u>Provisions Relating to Indirect or Quasi-Contracts</u>** 
+
+**648. Indirect or quasi-contract deemed to be made:** (1) Notwithstanding anything contained in Chapter-2 of this Part, if any person does any certain, lawful, voluntary or unilateral act that may give rise to a juridical relationship, an indirect or quasi-contract shall be deemed to be made. 
+
+(2) If an indirect or quasi-contract is made pursuant to subsection (1), an obligation under this Chapter shall be created from the same fact. 
+
+**649. If other’s property managed voluntarily, not to be abandoned (** **_negotiorum gestio_ ):** If a person manages or operates a business or property of another person on his or her own without information to, or authority from, that other person, the person shall, so long as such business or property continues to exist, not abandon such business or property without handing it over to that other person, his or her successor or agent or until that other person removes him or her. 
+
+**650. To care (herbichar) or manage property taken in custody:** (1) If a person takes the custody of a property belonging to another person for its care or management, the person shall take care of and manage the property in good faith as if that were his or her own property. 
+
+(2) If a person who takes the custody of a property pursuant to sub-section (1) causes loss or damage to the property 
+
+**378** 
+
+with malafide intention or recklessly, the person shall pay compensation therefor. 
+
+**651. Not absolved from obligation by delegation of authority:** If a person, who is entrusted by another person with a responsibility to do any act, delegates any or all of his or her powers to another person to do that act in a manner not to be prejudicial to the obligation vis-à-vis that other person, the person shall not be free from his or her own obligation by the reason of such delegation. 
+
+**652. Reasonable costs to be paid for saving property in times of disaster:** If any person saves or protects any property in times of disaster such as fire, flood, landslide, storm and earthquake without giving information to its owner, the owner of property shall reimburse the reasonable expenses incurred in saving or protecting such property to such a person. 
+
+**653. Right to claim reimbursement:** (1) If a person, in spite of being compelled by law to fulfill any obligation, fulfills such obligation at his or her own expense and another person gets anything or benefit due to the fulfillment of such an obligation or for any other reason, the person fulfilling such an obligation may claim reimbursement of the amount incurred therein from the person who so gets such thing or benefit. 
+
+   - (2) Notwithstanding anything contained in sub-section (1), 
+
+   - if a person fulfills any obligation for any illegal purpose, the person shall not be entitled to claim reimbursement from the same. 
+
+**654. Right to claim for maintenance:** If a person rears and maintains another person without giving information to the person obliged to 
+
+**379** 
+
+rear and maintain that other person, the person who so rears and maintains shall be entitled to claim an amount for such rearing and maintenance from the person under such obligation. 
+
+Provided that if he or she maintains such a person by way of compassion or gratification or with intention to do so gratuitously, he or she shall not be entitled to claim such an amount. 
+
+**655. Successor to reimburse expenses incurred in obsequies of deceased:** If any person performs the funeral and obsequies acts of a deceased in accordance with his or her rites, tradition and culture, without giving information to the successor to or close relative of the deceased and claims the expenses incurred in the performance of such funeral and obsequies acts, the closest heir to, and, in the absence of the heir, the relative of, the deceased shall reimburse that person for the expenses. 
+
+**656. To bear expenses in maintenance (palan poshan)of incompetent person:** If a person obliged to maintain **(palan poshan)** or take care of **(herbichar)** a person of unsound mind, a person with physical infirmity or a helpless minor having no income of his or her own refuses to maintain such a person and any other person maintains (palan poshan)or takes care of **(herbichar)** him or her, that other person shall be entitled to claim reimbursement for the expenses incurred therein from the person under such an obligation. 
+
+**657. Treatment expenses to be reimbursed:** If a person becomes seriously ill owing to an accident or other reason and any other person, except his or her heir living in the joint family, relative or close person, conducts, or causes to be conducted medical treatment of him or her voluntarily, the heir, relative or close person to him 
+
+**380** 
+
+shall reimburse that other person who has conducted, or caused to be conducted, the treatment for the expenses incurred in such treatment. 
+
+Provided that if the treatment has been conducted, or caused to be conducted, with the intention of doing so gratuitously, the expenses need not be reimbursed. 
+
+**658. To bear expenses made by public bodies:** If a person voluntarily omits to follow the necessary health or safety measures required to be followed according to law for the protection of body, life or property of him or her or of the public, and if any government or public body follows, or causes to be followed, such measures, the person shall pay reasonable expenses incurred for that purpose even if he or she does not agree to follow, or cause to be followed, such measures. 
+
+**659. To reimburse amount paid by person interested in:** If a contract is so concluded that a person promises to pay any amount which another person is bound by law to pay and if that person fails to pay it, and other person who has to pay, pays it, the person concluding a contract shall reimburse such an amount to that person. 
+
+**660. To pay price or remuneration:** If a person delivers any goods to or does any work for another person, that other person shall pay the price of such goods or service or remuneration of the work to the person. 
+
+**661. Right to recover price of goods or services:** If a person has supplies any goods or service to another person who is incapable of conclusion of a contract under law or any one whom such incapable 
+
+**381** 
+
+person is legally responsible to support, the person may recover the price of such goods or service from the person receiving such goods or service. 
+
+**662. Property in custody to be kept as bailed property:** If a person keeps in any manner in his or her custody property owned by another as may be retained according to law, such a person shall keep such property as a property under bailment. 
+
+**663. Statute of limitation:** A person who is aggrieved from any act done or action taken under this Chapter may make a lawsuit within two years after the date of accrual of the cause of action. 
+
+**382** 
+
+### **Chapter-16** 
+
+### **<u>Provisions Relating to Unjust Enrichment</u>** 
+
+**664. Unjust enrichment to be deemed:** (1) If any person gets any benefit or advantage from another person, without for the reason of doing any lawful act or fulfilling any obligation, the person who so gets the benefit or advantage shall be deemed to have got an unjust enrichment. 
+
+(2) A person shall be deemed to have got an unjust enrichment under sub-section (1) in any of the following circumstances: 
+
+- (a) If there is an increment in his or her property or decrease in his or her liability, 
+
+- (b) If he or she receives a service from another or causes another to do a work, 
+
+- (c) If other’s property is used for him or her. 
+
+(3) Notwithstanding anything contained in sub-section (1) or (2), even if any person gets any goods, service, benefit or advantage in any manner, except in any of the following circumstances, he or she shall be deemed to have got an unjust enrichment: 
+
+- (a) If any goods, service, benefit or advantage can be obtained from any person under a law or contract, 
+
+- (b) If the person, from whom any goods, service, benefit or advantage have been obtained, has agreed with free consent not to take back or reimburse the same. 
+
+**383** 
+
+(4) In determining whether or not and to what extent any person has got an unjust enrichment under this Chapter, no consideration shall be granted to any disadvantage or loss or damage caused thereby to him or her after he or she has got the unjust enrichment. 
+
+(5) If a person gets an unjust enrichment pursuant to this Section, the person shall bear the obligation under this Chapter. 
+
+**665. Thing taken by mistake to be returned (** **_solutio indebiti_ ):** If any person takes or receives by mistake any goods which he or she is not entitled to take or receive, he or she shall return the goods to the person from whom he or she has taken or received them. 
+
+**666. To pay back debt paid by mistake:** If a person pays a debt to another person by mistake because the person thinks that he or she is bound to do so and proves that he or she is not bound to pay such debt, that other person who receives such amount shall return it to him or her. 
+
+**667. To return goods or amount taken with malafide intention and benefits accrued therefrom:** (1) If any person receives from another person with malafide intention any amount or goods in which he or she has no claim, he or she shall return to that other person such amount or goods and the interest to be chargeable on such amount under the law or the advantage or return accrued from such goods, from the date of receipt of such amount or goods to the date of their return. 
+
+**384** 
+
+(2) If the amount or goods received pursuant to sub-section (1) are lost or damaged for any reason, he or she shall also pay the compensation therefor. 
+
+**668. To pay debt paid by third person:** If a debt payable by a person is paid by a third person without the debtor's knowledge, the debtor shall pay the debt to the person who has so paid it. 
+
+**669. Right to claim reimbursement if payable tax paid by another person:** If a tax payable by a person is paid by another person, that other person who has so paid the tax may claim reimbursement therefor from the person who is obliged to pay it. 
+
+**Explanation:** For the purposes of this Chapter, the term “tax” means any type of government fee, charge, tariff, duty and fine, and also includes a local tax. 
+
+**670. Goods found may be kept upon giving information to police:** (1) If any person finds any goods in any manner, he or she may, having given a notice thereof, along with actual description thereof, to the police, safely retain such goods with him or her until the concerned owner is found. 
+
+(2) The concerned owner shall bear the expenses incurred in finding the owner of goods referred to in sub-section (1) and retaining such goods, and the finder of goods may retain the goods until the payment of such expenses. 
+
+(3) If no person appears to claim the goods retained pursuant to sub-section (1) until three years, the goods shall belong to the finder. 
+
+**385** 
+
+**671. Statute of limitation:** A person who is aggrieved from any act done or action taken under this Chapter may make a lawsuit within two years after the date of accrual of the cause of action. 
+
+**386** 
+
+### **Chapter-17** 
+
+### **<u>Provisions Relating to Torts</u>** 
+
+**672. Tort deemed to be committed:** (1) No person shall cause loss or damage, in any manner, to another person's body, life or property or legally protected right or interest by the reason of commission or omission done, whether by any default, negligence or recklessness on the part of himself or herself or of any one else to whom he or she must bear obligation according to this Chapter. 
+
+(2) If the parties do not have any prior contractual relationship in relation to any commission or omission referred to in sub-section (1), the loss or damage resulted from such a commission or recklessness shall be deemed to be a tort. 
+
+**Explanation:** For the purposes of this Chapter, the term "omission" means the state of failure of a person to do any act which the person is bound to do. 
+
+(3) A person who commits a tort pursuant to sub-section (1) shall bear liability under this Chapter. 
+
+**673. Parents to bear liability:** The father and mother jointly living with a minor below fourteen years of age, or if there is no father or mother, the person who exercises paternal authority over him or her shall be liable for a tort committed by such a minor. 
+
+**674. Guardian or curator to bear liability:** The guardian or curator of a person of unsound mind shall be responsible for and accordingly bear liability for any loss or damage caused by such a person. 
+
+**675. Employer to bear liability:** (1) Any person, firm, company or organization who employs a domestic helper, other worker or 
+
+**387** 
+
+employee in a work shall be liable for the loss or damage to another person, if any, resulted from any act done in good faith by such a helper, worker or employee in the course of doing such a work. 
+
+(2) Notwithstanding anything contained in sub-section (1), the worker or employee shall be personally liable for any act which he or she has done negligently or dishonestly. 
+
+**676. Owner of animal to bear liability for loss or damage caused by animal:** The owner of an animal which is kept by or under the control of him or her shall be liable for any loss or damage caused by the animal to any one. 
+
+Provided that the owner of animal shall not be liable for any loss or damage caused by the animal while being appropriately controlled by the owner by taking adequate safety measures according to its behavior or caused as a result of any act, default or negligence of the loss or damage sustaining person himself or herself. 
+
+**Explanation:** For the purposes of this Section, the term "animal" means a domestic animal or wildlife or avian of any type under one's control, and also includes a domestic, reptile or wild avian as well. 
+
+**677. House-owner to bear liability for loss or damage caused by its collapse:** The concerned house-owner shall be liable for any kind of loss or damage, if any, caused to any one as a result of the collapse of the house, in whole or in part, or by any part of the house, whether during, or after the completion of, its construction. 
+
+**388** 
+
+**678. Owner of property to bear liability:** The concerned property owner shall be liable for the loss or damage, if any, caused to any one as a result of the following: 
+
+   - (a) An explosion owing to a failure to adopt safety measures properly according to the nature of a machine, equipment or engine, 
+
+   - (b) A fire or explosion owing to a failure to adopt safety measures properly according to the nature of any inflammable or explosive substance, 
+
+   - (c) Emission of excessive smoke, noise by any industrial enterprise in contravention of the specified standards, 
+
+   - (d) A tree lying down or laid down on any highway, road, street or way except due to a disaster or an act by any third person, 
+
+   - (e) Discharge of any infected or toxic substance or communicable disease carrying substance openly through a canal, ditch, pipe or sewerage, without adopting precautionary measures properly, in contravention of the specified standards. 
+
+**679. House-head to bear liability:** The concerned house-head shall be liable for the loss or damage, if any, caused to any one as a result of any kind of solid waste or goods thrown from the house. 
+
+**Explanation:** For the purposes of this Section,- 
+
+- (1) "House" means a house or shed, and also includes the structure of a house. 
+
+**389** 
+
+   - (2) "House-head" means a person who acts as the chief of family, and also includes, in the case of a tenant renting other’s house, the person who acts as the chief of the tenant’s family. 
+
+**680. To bear liability for trespass:** A person who commits trespass to other's property shall be liable for any loss or damage resulted from the trespass. 
+
+**Explanation:** For the purposes of this Section, the term "trespass" means an unlawful entry into, taking possession of products of, unauthorized damage to, interference in, or unlawful encroachment on, a property that is under entitlement, possession or ownership of another person, in the case of an immovable property, and forcibly taking into custody, taking away, taking the advantage arising out of, or causing obstruction or hindrance in the use of, the property under entitlement, possession or ownership of another person, in the case of a movable property, and also includes an act of taking control of any type of property in an unauthorized manner. 
+
+**681. To bear liability jointly:** (1) If more than one person commit any act to be deemed a tort under this Chapter, each of such persons shall, except as otherwise proved, be jointly and severally liable for any damage caused by that act, in proportion to the culpability of the tort committed by each person. 
+
+(2) If separate liability can be determined in proportion to the culpability of tort pursuant to sub-section (1), liability shall be borne accordingly, and if such determination cannot be made, all persons responsible for the tort shall bear liability on an equal basis. 
+
+**390** 
+
+**682. Compensation to be paid for liability:** (1) While bearing liability for a tort committed under this Chapter, the person who commits the tort shall pay compensation. 
+
+(2) Notwithstanding anything contained in sub-section (1), if any tort is committed under this Chapter as a result of any omission, fault, recklessness or negligence of the injured person also, the quantum of such compensation shall be lesser. 
+
+(3) The compensation referred to in sub-section (1) shall be limited to the actual loss or damage, and remote or unactual compensation shall not be recoverable. 
+
+(4) The compensation may be of any type, in the form of either cash or kind or service. 
+
+(5) If any loss or damage is caused under this Chapter, a person who suffers shall be entitled to claim for compensation, subject to this Chapter. 
+
+(6) If a claim is made for compensation pursuant to subsection (5), the court may order reasonable compensation to be paid. **683. Not to bear liability if separate provision is made:** (1) Notwithstanding anything contained elsewhere in this Chapter, if a tort for which liability is to be borne under this Chapter is treated as a criminal offence under a law, or this Act or other law contains a separate provision or provides for a separate legal remedy in relation to such a tort, no liability under this Chapter may be borne. 
+
+(2) Subject to sub-section (1), if the alleged tortfeasor proves that the tort for which liability is to be borne under this Chapter was resulted not from his or her negligence, recklessness, 
+
+**391** 
+
+fault or omission but from any other reason, he or she shall be released from the liability for such a tort. 
+
+**684. Statute of limitation:** A person who is aggrieved from any act done or action taken under this Chapter may make a lawsuit within six months after the date on which such an act was done or action was taken. 
+
+**392** 
+
+### **Chapter-18** 
+
+### **<u>Provisions Relating to Liability for Defective Products</u>** 
+
+**685. To be liable for defective product:** (1) No person shall produce any defective product and sell or distribute, or cause to be sold or distributed, any defective goods or service. 
+
+(2) The producer of a defective product referred to in subsection (1) shall bear liability under this Chapter for the loss or damage, if any, caused to the body, life or property of any person as a result of the consumption of such product sold or distributed by any one. 
+
+**Explanation** : For the purposes of this Chapter,- 
+
+- (1) "Defective product" means any goods or service which, for any of the following reasons, lack the minimum safety measures that a person of general prudence reasonably expects while consuming any product: 
+
+   - (a) Defective design, manufacturing, processing or installation, 
+
+   - (b) Defective packing, safety or storage, 
+
+   - (c) Defective presentation, 
+
+   - (d) Lacking adequate measures or precautions to control the potential risk or danger according to the nature of the produced good or service. 
+
+- (2) "Producer" means a producer who ultimately produces, sells and distributes any defective goods or service, and also includes the following person: 
+
+**393** 
+
+      - (a) The distributor or seller if the producer cannot be traced out, 
+
+      - (b) In the case of any imported product, the importer of the defective product or the distributor or seller of such product. 
+
+   - (3) "Good" means any industrial product for consumption by the public. 
+
+**686. Claimant to prove that product is defective:** If any person makes a claim that any good or service is a defective product and he or she has suffered injury to his or her body, life or property from the consumption thereof, he or she shall prove that there is the relationship between such defective product and the injury, and that such injury has resulted solely from the consumption of such product. 
+
+**687. To be in discharge of liability:** Notwithstanding anything contained in Section 685, the producer shall not be liable if he or she proves any of the following facts: 
+
+      - (a) He or she has not produced, sold or distributed the defective product, 
+
+      - (b) The goods or service that he or she produced, imported, sold or distributed was not defective at the time of production, import, sale or distribution or it became defective after the sale or distribution, 
+
+      - (c) The goods or service that he or she produced has not been marketed, sold or distributed, 
+
+**394** 
+
+   - (d) The injury has been caused due to the consumer's failure to comply with the directions to be complied with while consuming the produced goods or service, 
+
+   - (e) The injury has been caused because the consumer has not properly consumed the product or has consumed it otherwise, 
+
+   - (f) One had no scientific or technical knowledge at the time of production or distribution of the goods or service that such goods or service was defective, 
+
+   - (g) Information was given at the time of sale of the product, from which the injury has been caused, that it might cause injury if not consumed properly, 
+
+   - (h) The goods or service has been consumed despite knowing or having a reasonable reason to know that it might cause loss or damage. 
+
+**688. Quantum of liability may be reduced:** Notwithstanding anything contained elsewhere in this Chapter, if it is proved that the injury has been caused due to both the producer and the consumer of a defective product, the producer's liability may be reduced proportionately. 
+
+Provided that if such injury has resulted in a loss or damage to a third party, the quantum of liability may not be reduced in the case of such a party. 
+
+**689. Product not deemed to be defective:** Goods or service consumed by a person shall not be considered to be a defective product merely 
+
+**395** 
+
+by the reason that any goods or service of quality higher than that of such goods or service is available in the market. 
+
+**690. Not to prejudice other right:** Nothing contained in this Chapter shall prejudice the right, interest or claim available under a law or contract to any person whose body, life or property has been affected from a defective product. 
+
+**691. Statute of limitation:** A person who is aggrieved from any act done or action taken under this Chapter may make a lawsuit within one year from the date on which such an act was done or action taken. 
+
+**396** 
+
+### **Part-6** 
+
+### **<u>Provisions Relating to Private International Law</u>** 
+
+**692. Provisions of this Part to apply:** (1) The provisions of this Part shall apply to any matter relating to private legal relationship involving a foreigner, foreign object or any act done in a foreign country. 
+
+   - (2) Without prejudice to the generality of sub-section (1), 
+
+   - the provisions of this sub-section shall apply, in particular, to the following matters: 
+
+      - (a) Legal status of a foreigner and his or her capacity, 
+
+      - (b) Matters relating to matrimonial relationship, paternal and maternal and other family relationship or partition or succession, with at least one of the related parties whereof being a foreigner, or the place of execution of any act or action related thereto being situated outside Nepal, 
+
+      - (c) Matter relating to a property situated in a foreign country, with at least one of the concerned parties being a foreigner, 
+
+      - (d) Matter relating to a contractual or non-contractual right or obligation, with at least one party being a foreigner, 
+
+      - (e) Matter relating to a contract made in a foreign country. 
+
+**397** 
+
+**Explanation:** For the purposes of this Part, the term “foreigner” means a foreign natural person or body corporate, and also includes a foreign state. 
+
+**693. Legal capacity of foreigner to be determined:** (1) The legal capacity of any foreign natural person shall be determined according to the law of the country of his or her nationality. 
+
+(2) If the nationality of a foreign natural person cannot be ascertained pursuant to sub-section (1), his or her capacity shall be determined according to the law of the country of his or her habitual residence, and even if such residence cannot be ascertained, according to the law of the country where he or she is residing for the time being. 
+
+(3) The legal capacity or status of a body corporate shall be determined according to the law of the country where it is registered, if the country of registration cannot be so ascertained, according to the law of the country where the headquarters of such body is located, and if even such a country cannot be ascertained, according to the law of the country where the place of transaction of such a body is located. 
+
+**694. Presumption of disappearance or death of foreigner:** (1) If a presumption of the disappearance or death of a foreigner has to be made, the matter shall be determined according to the law of the country of his or her nationality. 
+
+(2) If the nationality of a foreigner cannot be ascertained pursuant to sub-section (1), it shall be determined according to the 
+
+**398** 
+
+law of the country of his or her habitual residence, and even if such residence cannot be ascertained, according to the law of the country of his or her residence immediately before making presumption of his or her disappearance or death. 
+
+**695. Successor to be determined according to foreign law:** While determining the successor to a foreigner residing in Nepal when his or her property is open for succession, the successor shall be determined according to the law of the country of his or her nationality, if such country cannot be determined, according to the law of the country of his or her habitual residence, and if even such residence cannot be ascertained, according to the law of the country where he or she is residing for the time being. 
+
+**696. Determination of succession of deceased:** (1) If succession is open because of the death of any foreigner in Nepal and it is therefore necessary to determine his or her successor to the property situated in Nepal and the order of preference thereof, it shall be determined according to the law of the country of his or her nationality at the time of his or her death. 
+
+(2) If the law referred to in sub-section (1) cannot be ascertained, it shall be determined according to the law of the country of his or her habitual residence at the time of his or her death, and if even such country cannot be ascertained, according to the law of Nepal. 
+
+**697. Determination of the nature of corporate body:** Question as regards whether a company, foundation or other corporate body is 
+
+**399** 
+
+public or private shall be determined according to the law of the country of incorporation of such a company, foundation or body, and if such law cannot be ascertained, according to the law of the country where the registered office or headquarters of such a company, foundation or corporate body is situated. 
+
+**698. Regulation of property:** (1) Succession to a movable property shall be governed by the law of the country of habitual residence of the deceased at the time of his or her death. 
+
+   - (2) Succession to an immovable property shall be 
+
+   - governed by the law of the country where such property is situated. 
+
+**699. Citizen of Nepal to follow law of Nepal while concluding marriage abroad:** (1) A citizen of Nepal shall, while concluding a marriage in a foreign country, comply with such competency, qualification and conditions for marriage as specified by the law of Nepal. 
+
+(2) The formalities to be fulfilled by a citizen of Nepal while concluding a marriage in a foreign country shall be governed by the law of the country where the marriage is concluded. 
+
+Provided that while concluding a marriage at an embassy or consulate general of Nepal situated in a foreign country, the formalities referred to in the law of Nepal shall be followed. 
+
+(3) A marriage concluded in contravention of sub-sections (1) and (2) shall not be recognized in Nepal. 
+
+**700. Foreigner to follow law of his or her country while concluding marriage in Nepal:** (1) While concluding a marriage between 
+
+**400** 
+
+foreigners or between a foreigner and a citizen of Nepal in Nepal, each person entering into marriage shall comply with the capacity, qualification and condition as specified by the law of the respective country of his or her nationality. 
+
+(2) The formalities to be fulfilled by the foreigners while concluding marriage in Nepal shall be governed by the law of Nepal. 
+
+Provided that while concluding a marriage at a foreign embassy or consulate general situated in Nepal, the formalities referred to in the law of the concerned country shall be fulfilled. 
+
+(3) A marriage concluded in contravention of sub-sections (1) and (2) shall not be recognized in Nepal. 
+
+**701. Consequence of marriage to be according to law of one’s country:** (1) The matrimonial relationship between the couple after the marriage and the consequence of marriage shall be determined according to the law of the country of their nationality if both spouses have the same nationality, and if the country of their nationality is not the same, according to the law of the country of their habitual residence and if even such a country is not the same, according to the law of the country of their residence for the time being. 
+
+(2) If the consequence of marriage cannot be determined pursuant to sub-section (1), it shall be determined according to the law of the country of their marriage. 
+
+**702. Paternal authority to be governed by law of the country of nationality:** (1) The relationship between father, mother and son, 
+
+**401** 
+
+daughter including paternal authority shall be governed by the law of the country of nationality of the son or daughter, as the case may be. 
+
+(2) If the law referred to in sub-section (1) is not ascertained, it shall be governed by the law of the country of habitual residence of the father, mother and, if even such country cannot be ascertained, by the law of the country of their residence for the time being. 
+
+**703. To be governed by the law of the country of nationality of adoptive person:** Subsequent to the adoption of a son or daughter, the relationship between the adoptive person and the adopted son or daughter shall be governed by the law of the country of nationality of the adoptive person, and if such law cannot be ascertained, by the law of the country of habitual residence of the adoptive person, and if even such law cannot be ascertained, by the law of the country where the adoptive parents are habitually spending marital life. 
+
+**704. Determination of guardianship or curatorship:** (1) The guardianship or curatorship of an incompetent or quasi-competent person shall be determined according to the law of the country of nationality of that person. 
+
+(2) If the country referred to in sub-section (1) cannot be ascertained, it shall be determined according to the law of the country of his or her habitual residence, and if even such country 
+
+**402** 
+
+cannot be ascertained, according to the law of the country of his or her habitual residence for the time being. 
+
+(3) The relationship between the guardian or curator and the person under his or her guardianship or curatorship shall be determined according to the law of the country of the guardian or curator or the law of the country where the guardian or curator is appointed as such. 
+
+Provided that if the habitual residence of the person who is under guardianship or curatorship is in Nepal, it shall be determined according to the law of Nepal. 
+
+**705. To be determined according to the law of residence:** (1) The matter of separation of bread and board shall be governed by the law of the country of habitual residence of the married couple. 
+
+(2) If, in governing the matter pursuant to sub-section (1), the country of habitual residence of the couple is not the same, it shall be governed by the law of the last country of their habitual residence, and if even such a country cannot be ascertained, by the law of the court where the case of alimony is _sub judice._ 
+
+**706. Divorce effected abroad to be recognized:** If a divorce is effected between the citizens of Nepal or between a citizen of Nepal and a foreigner in a foreign country, such a divorce shall, if effected in accordance with the law of that country, be recognized and enforced in Nepal in accordance with the law of Nepal. 
+
+**707. Content of ownership to be determined according to law of country where property is situated:** (1) The content of ownership 
+
+**403** 
+
+or possession of any property shall be determined according to the law of the country where such property is situated. 
+
+(2) A question as regards the maintenance or termination of ownership in an immovable property shall be determined according to the law of the country where such property is situated. 
+
+**708. Goods to be governed by law of destination:** Any goods in transit in the course of carriage shall be governed by the law of their destination. 
+
+**709. Governing law of contract to be as determined by parties:** (1) The governing law of any contract shall be as determined in the contract by its parties. 
+
+(2) If no law is determined pursuant to sub-section (1), such a contract shall be governed by the law of the country of its performance, and if even such a country cannot be ascertained, by the law of the country where it was concluded. 
+
+Provided that a contract concluded in Nepal shall be governed by the law of Nepal. 
+
+**710. Deed executed abroad to be recognized:** The validity of any contract or deed executed outside Nepal shall be determined according to the law of the country where it has been executed, and such a contract or deed shall be deemed lawful and recognized in Nepal if it has been duly executed in accordance with the law of that country. 
+
+**711. To be governed by law of nationality of donor:** (1) The matter concerning validity of a donation or gift shall be governed by the 
+
+**404** 
+
+law of the country of donor's nationality existing when the donation or gift was made. 
+
+(2) If the formalities are completed according to the law of the country where a donation or gift is given, the donation or gift shall be  deemed to be duly given. 
+
+**712. Determination of liability for tort:** (1) While determining the liability for an act which, according to law constitutes a tort, involving a foreigner, foreign object or act done in a foreign country, it shall be determined according to the law of the country where such an act has been taken place. 
+
+(2) If any act referred to in sub-section (1) originates in one country and results in consequence in another country, the liability shall be determined according to the law of the country where the consequence so results. 
+
+(3) If the liability cannot be determined pursuant to subsection (2), it shall be determined according to the law of the country where the tortious act has been committed. 
+
+**713. Liability for quasi-contract or unjust enrichment:** The liability for a quasi-contract or unjust enrichment shall be determined according to the law of the country where such an act has been done. 
+
+**714. Other matters to be determined according to recognized principles of private international law:** (1) While determining any matter that is not dealt with in this Part involving a foreigner, foreign object or act done in a foreign country, such a matter shall be determined according to the law of Nepal, if Law of Nepal 
+
+**405** 
+
+provides separate provision in relation to that matter, and failing such separate provision, according to the recognized principles of private international law. 
+
+(2) Notwithstanding anything contained in sub-section (1), if all parties of the relevant matter so agree, the matter referred to in sub-section (1) shall be determined according to the law of Nepal. 
+
+**715. In case of double nationality, law of country of habitual residence to be applied:** (1) If this Part contains a provision to the effect that any matter is determined according to the law of the country of nationality and a person is having nationality of two or more countries at the same time, his or her nationality shall be determined according to the law of the county of his or her nationality, where he or she habitually resides. 
+
+(2) If such a matter cannot be determined according to the law of the country referred to in sub-section (1), it shall be determined according to the law of the country of his or her nationality, to which he or she has most closest connection. 
+
+Provided that in the case of a person who holds also the citizenship of Nepal or who has habitual residence in Nepal or is a non-resident Nepali citizen, it shall be determined according to the law of Nepal. 
+
+(3) If the matter referred to in sub-section (1) concerns a refugee or stateless person, it shall be determined according to the law of the country of his or her habitual residence, and if even such 
+
+**406** 
+
+a law cannot be determined, according to the law of the country of his or her residence for the time being. 
+
+**716. Power to give permission for trial of case by foreign court:** (1) If both parties to a case which involves a foreign party and is _sub judice_ in a court of Nepal make a joint petition to the court, specifying the reason that it is appropriate and practicable for that case to be resolved by a court of the country of residence of such party and the matter is found reasonable upon examination of the petition, the court may give permission for the proceedings of the case by the foreign court as demanded by the parties to such a case. 
+
+   - (2) Once the court has given permission for the proceeding 
+
+   - of a case by a foreign court pursuant to sub-section (1), no proceeding shall be made again by a court of Nepal in the same matter. 
+
+**717. Power to adjourn case** **_sub judice_ in court of Nepal:** If any case between the parties is _sub judice_ in a court of Nepal and a case is running also in a foreign court between such parties in the same matter, and the parties, having considered that the case pending in the court of Nepal is likely to be directly affected by a judgment to be made in the case between them running in the foreign court, apply for the adjournment of the case running in Nepal, the court may adjourn such a case until their case pending in the foreign court is adjudged. 
+
+**407** 
+
+**718. Court of Nepal to have jurisdiction:** A court of Nepal shall have jurisdiction to adjudicate the proceedings and settle any disputes arising in connection with the following matters: 
+
+   - (a) A matter between the foreigners who reside in Nepal or between a foreigner and a citizen of Nepal, that is governed by this Act or other law, 
+
+   - (b) A matter of a case of which a foreigner residing in Nepal is a defendant, 
+
+   - (c) A matter as regards the succession of a foreigner who resided in Nepal and had property in Nepal at the time of his or her death, 
+
+   - (d) A matter concerning payment to be made in Nepal on a financial transaction or dealing made abroad between a citizen of Nepal and a foreigner, 
+
+   - (e) A matter between foreigners or between a foreigner and a citizen of Nepal, concerning a property situated in Nepal, 
+
+   - (f) A matter concerning a contract concluded in or to be performed in Nepal between foreigners or to which at least one party is a citizen or body corporate of Nepal, 
+
+   - (g) A matter concerning a tort, quasi-contract or unjust enrichment committed outside Nepal, where both parties are citizens of Nepal or foreigners who have habitual residence in Nepal, 
+
+**408** 
+
+- (h) A matter to be adjudicated by a court of Nepal under subsection (2) of Section 699. 
+
+### **719. Other matters concerning a case may also be settled by court of** 
+
+   - **Nepal:** If it appears that any other matter related to any case involving a foreigner instituted in a court of Nepal under its jurisdiction to settle the main dispute should also be settled, the court may assume its jurisdiction over that matter also and settle it accordingly. 
+
+**720. Treaty, if any, to apply:** If any treaty to which Nepal is a party contains a separate provision on any matter set forth in this Part, nothing contained in this Part shall affect such provision. 
+
+**721. Provisions of this Part not to apply:** (1) Notwithstanding anything contained elsewhere in this Part, if the application of any legal provision under this Part in Nepal would be contrary to public order, the provision contained in this Part shall not be applicable in such circumstance. 
+
+(2) If there arises a circumstance referred to in sub-section (1), the matters contained in this Part shall be governed by other linking criteria, and if such criteria cannot be determined, by the law of Nepal. 
+
+**409** 
+
+# **CRIMINAL CODE**
+
+## **Part -1** 
+
+## **<u>General Provisions</u>** 
+
+## **Chapter-1** 
+
+## **<u>Preliminary</u>** 
+
+**1. Short title and commencement:** (1) This Act may be cited as the "National Penal (Code) Act, 2017". 
+
+1 
+
+(2) It shall commence on 17 August 2018 (first day of the month of Bhadra of the year 2075). 
+
+**2. Extra-territorial application of the Act:** Any person who commits any of the following offences outside Nepal shall be punished under this Act as if he or she committed such offence in Nepal: 
+
+- (a) Any offence under Chapter 1 of Part 2 except Section 54, 
+
+- (b) Any offence under Chapter 17 of Part 2 committed by kidnapping any person from Nepal, 
+
+- (c) Any offence under Sections 167, 276 and 279, 
+
+- (d) Any offence under Chapters 22 and 23 of Part 2 committed with intent to bring into use in or import into Nepal, 
+
+- (e) Any offence under this Act committed in the course of discharging duties of any position in the Government of Nepal, State Government or Local Level or a body corporate under full or majority ownership or control of the Government of Nepal, State Government or Local Level. 
+
+(2) Any person who commits an offence under this Act on board an aircraft or ship registered in Nepal while it is outside Nepal shall be punished under this Act as if he or she committed the offence in Nepal. 
+
+(3) Any Nepali citizen who commits any of the following offences against a Nepali citizen outside Nepal shall be punished under this Act as if he or she committed the offence in Nepal: 
+
+2 
+
+- (a) Murder, or attempt to, abetment of, or conspiracy to, murder, 
+
+- (b) Abandonment of the helpless person, 
+
+- (c) Grievous hurt, 
+
+- (d) Kidnapping, hostage-taking or illegal detention, 
+
+
+
+- (e) Rape or incest, 
+
+- (f) Criminal mischief against the Government of Nepal, State Government or Local Level or a body corporate under full or majority ownership or control of the Government of Nepal, State Government or Local Level, extortion, criminal breach of trust, forgery, theft, deception, robbery or criminal misappropriation of property, 
+
+- (g) Offence under Section 158, 
+
+- (h) Offences relating to marriage under Chapter-11 of Part 2, 
+
+- (i) Food and drug adulteration with the intention of importing into Nepal, 
+
+
+
+   - (j) Offences relating to medical treatment under Sections 231, 232 and 233, 
+
+   - (k) Offence under Chapter-2 of Part 3. 
+
+**3. Definitions:** Unless the subject or the context otherwise requires, in this Act,- 
+
+   - (a) “court” means the Supreme Court, High Court or District Court, and this term also includes a court, other 
+
+3 
+
+judicial body or authority authorized by law to proceed and adjudicate any specific types of criminal offences, 
+
+- (b) “harbor” means supplying any person with food, drink, shelter, money, in-kind, clothes, arms, ammunition or means of transport, or helping or otherwise assisting any person to evade apprehension, 
+
+- (c) “offence” means an act punishable by this Act or law, 
+
+- (d) “law” means law for the time being in force, 
+
+- (e) “act” means a series of acts, and this term also includes omission to do an act required by law to be done or commission of an act prohibited by law, 
+
+- (f) "grave offence" means an offence punishable by a sentence of imprisonment for a term of more than three but less than ten years, 
+
+- (e) "heinous offence" means an offence punishable by imprisonment for life or for a term of more than ten years, 
+
+- (f) "body" means the body of a human being, 
+
+
+
+- (g) “judge” means the authority of a court who proceeds, hears and adjudicates a case, and this term also includes any authority authorized to proceed, hear and adjudicate any specific type of criminal cases, 
+
+- (h) “public servant” means any of the following persons: 
+
+4 
+
+   - (1) a person elected, nominated or appointed to any office with public accountability pursuant to the Constitution or other law, 
+
+   - (2) a person appointed to the service of the Government of Nepal or State Government or any other government service pursuant to law or a contract, 
+
+   - (3) a person elected, nominated or appointed to any office of a Local Level or District Assembly or a person appointed in any manner to the service of such Level or District Assembly, 
+
+   - (4) an office-bearer of a body corporate under full or majority ownership or control of the Government of Nepal, State Government or Local Level or a person appointed to the service of such body, or 
+
+   - (5) a person otherwise appointed to, or holding, any office with public accountability. 
+
+- (i) “Local Level” means a Village Body ( _Gownpalika_ ) or Municipality, 
+
+
+
+- (j) “body corporate” means a body established by any law or registered in accordance with law, 
+
+- (k) “Constitution” means the Constitution of Nepal, 
+
+- (l) “public document” means any of the following documents: 
+
+   - (1) a document passed by the Legislature, 
+
+5 
+
+   - (2) a document recording official acts performed by the President pursuant to the Constitution, 
+
+   - (3) a book, record or other document issued by the Government of Nepal, State Government or Local Level or offices under the Government of Nepal, State Government or Local Level or Constitutional Body or office-bearer, court or body established by an Act or Order, office of a body corporate under full or majority ownership or control of the Government of Nepal or maintained in the archive of such offices, 
+
+   - (4) a judgment, decision or order made by a court. 
+
+**4. Generally applicable principles and provisions:** The principles and provisions referred to in Chapters-2, 3, 4 and 5 of Part 1 of this Act shall generally apply to the offences under this Act and other Acts. 
+
+**5. Application of special Act:** Where a special Act defines a specific act as a separate offence and provides punishment for it, that Act shall apply to such offence. 
+
+
+
+6 
+
+## **Chapter- 2** 
+
+## **<u>General Principles of Criminal Justice</u>** 
+
+**6. Lawful act not to be offence:** No act required by law to be done or excused by law shall be considered to be an offence. 
+
+**7. Not punishment except in accordance with law:** No person shall be liable to punishment for doing an act not punished by law nor shall a person be subjected to punishment which is heavier than the one prescribed by law in force when the offence was committed. 
+
+**8. Act done by mistake of fact not to be offence:** No act done by a person who is, or who by reason of a mistake of fact, in good faith believes that he or she is bound by law to do that act or that such act is excused by law shall be considered to be an offence. 
+
+Provided that no act done in ignorance of law shall be excused. 
+
+**9. No punishment again for the same offense:** No person shall be prosecuted in a court and punished again for the same offence. 
+
+**10. No deprivation of fair trial:** No person shall be deprived of fair trial in proceedings by a competent court or judicial authority. 
+
+**11. No compulsion to testify against oneself:** No person accused of an offence shall be compelled to testify against himself or herself. 
+
+**12. Presumption of innocence until proven guilty:** A person accused of an offence shall be presumed innocent until proved guilty of that offence. 
+
+**13. Act of a child not to be offence:** No act done by a child below ten years of age shall be considered to be an offence. 
+
+7 
+
+**14. Act of a person of unsound mind not to be offence:** No act done by a person who, at the time of doing it, by reason of unsoundness of mind, is incapable of knowing the nature, characteristic, fault or consequence of such act, shall be considered to be an offence. 
+
+**15. Act done by consent not to be offence:** Except where done with the intention of causing death or grievous hurt or with the knowledge that it is likely to cause death or grievous hurt, no act done by a person by obtaining consent of a person above eighteen years of age which causes any harm to the person who has given such consent shall be considered to be an offence. 
+
+**16. Act done for benefit by consent not to be offence:** No act done by a person in good faith and with due care for the benefit of another person by consent of that other person which causes harm to that person who has given such consent shall be considered to be an offence. 
+
+**17. Act done for benefit by consent of guardian not to be offence:** No act done in good faith and with due care for the benefit of a person below eighteen years of age, or of unsoundness of mind due to mental illness, by his or her guardian or another person by consent of the guardian, which causes harm to that person shall be considered to be an offence. 
+
+Provided that except where done for the purpose of preventing death or grievous hurt, no person who does an act with the knowledge that it is likely to cause death or grievous hurt shall be dispensed with criminal liability. 
+
+8 
+
+**18. Act done for benefit without consent not to be offence:** Where any act must be done immediately for the benefit of a person, and such person is, for any reason, not in a position to give consent immediately or has no guardian from whom it is possible to obtain consent on such person's behalf immediately, such act done in good faith and with due care for the benefit of that person without his or her consent, which causes harm or injury to that person, shall not be considered to be an offence. 
+
+**Explanation:** For the purposes of Sections 16 and 17, and this Section, the term “benefit” does not mean: 
+
+- (a) a pecuniary benefit, 
+
+
+
+   - (b) an act done with intent to cause death, or without any reasonable cause, a grievous hurt. 
+
+**19. To be considered an offence even committed by consent:** Notwithstanding anything contained in Section 15,16 or 17, where any act referred to in any of those Sections is considered to be another offence under law, such act shall be considered to be an offence even if it is done by consent. 
+
+**20. Consent:** Consent may be expressed orally or in writing or by gesture or conduct. 
+
+Provided that consent given in any of the following circumstances shall not be considered to be consent: 
+
+- (a) Where the consent is given by a person under a mistake of fact or fear or threat of any kind of injury or harm and the doer of the act in 
+
+9 
+
+pursuance of such consent knows, or has reason to believe, that the consent was so given, 
+
+      - (b) Where the consent is given by a person who, being of unsound mind due to mental illness, is unable to understand characteristic, fault and consequence of the consent given by him or her when he or she was in a state of unsoundness of mind, 
+
+      - (c) Where the consent is given by a child below eighteen years of age, 
+
+      - (d) Where the consent is given under undue influence. 
+
+**21. Harm caused by communication made in good faith not to be offence:** No information or communication of any matter made in good faith shall be considered to be an offence by reason of any harm to the person to whom it is made, if it is made for the benefit of that person. 
+
+**22. Act compelled by fear, threat not to be offence:** No act done by a person who is compelled to do it by fear or threat exerted or made by another person carrying a deadly weapon or toxic or explosive substance that the other person would kill or cause grievous hurt to that person or his or her close relative if that person does not do that act immediately and there is a reasonable cause to apprehend that it would cause death or grievous injury to that person or close relative if such act is not done immediately shall be considered to be an offence. 
+
+   - Provided that such act shall be considered to be an offence if: 
+
+10 
+
+- (a) Death or grievous hurt is caused, 
+
+- (b) Rape is committed, 
+
+- (c) An offence against the State is committed, or 
+
+- (d) The doer of such act placed himself or herself in such situation of fear or threat, of his or her own accord or as a result of any thing done by himself or herself. 
+
+(2) A person who causes the offence to be committed by exerting fear or threat under sub-section (1) shall be punished by law as if he or she committed the offence by himself or herself. 
+
+**23. Act done in good faith to prevent other harm, injury not to be offence:** Any act done by a person shall not be considered to be an offence merely by reason of its being done with the knowledge that it is likely to cause harm, injury, if it be done without any criminal intent to cause harm, injury, and in good faith for the purpose of preventing or avoiding possible great harm, injury to life, person or property and it was so imminent that greater harm, injury than such act was likely to result in would be caused to the life, person or property of him or her or any one else if such act was not done immediately. 
+
+**24. Act done for private defence not considered to be offence:** (1) Any act done in the exercise of the right of private defence subject to this Chapter shall not be considered to be an offence. 
+
+(2) Every person has a right to defend the body, life or property of his or her own or of any other person against any illegal harm. 
+
+11 
+
+(3) The right of private defence under this Section shall be exercised only when there is a reasonable apprehension or reasonable cause to believe that the body, life or property of his or her own or of any other person cannot be defended against any illegal harm unless any act is done immediately. 
+
+**25. Restriction on the exercise of right of private defense:** (1) Notwithstanding anything contained in Section 24, the right of private defense is not available in the following circumstances or against the following acts: 
+
+   - (a) Where there is time to have or likely to have recourse to the protection of public authority immediately to defend the body or property of any one against illegal harm at the time of causing such harm, 
+
+   - (b) Where harm caused to the body or property of a person was so caused by reason that the harm doer was provoked by such person himself or herself, 
+
+   - (c) Where a public servant does an act in good faith in pursuance of a judgment or order of a court, 
+
+
+
+- (d) Where a public servant does an act in good faith in the exercise of his or her official power, 
+
+- (e) Where any act is done by a person in pursuance of a direction given in good faith by a public servant in the exercise of his or her official power. 
+
+(2) Notwithstanding anything contained in sub-section (1), a person shall not be deprived of the right of private defense in the following circumstances: 
+
+12 
+
+- (a) Where that person does not know or have a reasonable reason to believe that the doer of the act referred to in clause (c) of sub-section (1) is a public servant and he or she is doing the act in pursuance of the judgment or order of a court or the doer does not disclose his or her identity or produce the authority under which he or she acts even if so demanded, 
+
+- (b) Where there is no reasonable reason to know or believe that the doer of the act referred to in clause (d) of sub-section (1) is a public servant, 
+
+- (e) Where there is no reasonable reason to know or believe that the doer of the act referred to in clause 
+
+   - (e) of sub-section (1) is doing such act by the direction of a public servant or the doer does not state that authority under which he or she acts or does not produce the authority under which he or she acts even if so demanded. 
+
+(3) While exercising the right of private defence under Section 24 or this Section, more force than reasonably necessary for such defence cannot be used. 
+
+**26. No right to cause death:** (1) In exercising the right of private defence pursuant to this Chapter, no one shall have the right to cause a person’s death. 
+
+(2) Notwithstanding anything contained in sub-section (1), if any act done in the exercise of the right of private defence subject to sub-section (3) of Section 25, in any of the following 
+
+13 
+
+circumstances, causes the death of a person, such act shall not be considered to be an offence: 
+
+- (a) Where there is reasonable cause to believe that an assault on oneself or another person would cause the death of or serious injury or grievous hurt to oneself or another person unless instant defence is exercised against such assault, 
+
+- (b) Where any act is instantly done by the victim having reasonable cause to believe that the assault is made with the intention of committing rape or at the time of or after the commission of rape, 
+
+- (c) Where hostage-taking or kidnapping is committed with the intention of causing death, taking ransom for hostage-taking or kidnapping, committing rape, causing grievous hurt, 
+
+- (d) Where attempt is made to cause mischief by seizing, using a deadly weapon, setting fire to or using explosive substance on, any building, tent which is used for human dwelling or as the place for worship or pray or the custody of property or a means of transport, 
+
+- (e) Where it is necessary to defend against robbery, 
+
+- (f) Where the circumstance requires an instant retaliation by a security personnel deputed by order of the competent authority for the personal security of a person or security of a property of the Government of Nepal, State Government or Local Level or a body corporate under full or majority ownership or control of the Government of Nepal, State 
+
+14 
+
+Government or Local Level or public property in order to prevent an assault made on such person or property. 
+
+**27. Act causing slight harm not to be offence:** A slight harm not to be complained of by a person of ordinary sense shall not be considered to be an offence. 
+
+**28. Major liable to punishment for offence caused to be committed by child:** Where an offence is committed by a child upon being lured, taught or influenced by a person to do so, such person shall be liable to punishment as if the offence were committed by himself or herself. 
+
+**29. Criminal intention not to be examined in strict liability offence:** In an offence which is a strict liability offence under this Act or the law, there shall not be examined whether or not the offence was committed intentionally. 
+
+**30. Criminal liability for offence committed by body corporate to be vested on one who commits or causes the commission of the act:** Where any firm, company or body corporate commits, or causes the commission of, an act considered to be an offence under this Act or law, the person who committed, or caused the commission of, such offence shall be responsible for such act; and where such person cannot be identified, the concerned owners and partners who did such act, in the case of a firm, the director, managing director, general manager who did or caused the doing of such act, in the case of a company or body corporate, and where even such person cannot be identified, the chief executive of such body shall bear the criminal liability. 
+
+15 
+
+**31. All members to be punished for offence committed by a group:** Where an offence is committed by a group of two or more persons, all members of the group shall be liable to punishment for such offence. 
+
+**32. Victim of crime to be entitled to obtain information of proceedings of case and compensation:** (1) The victim of crime shall have the right to obtain information about the investigation and proceedings of the case in which he or she is the victim. 
+
+(2) The victim of crime shall have the right to justice with social rehabilitation and compensation. 
+
+
+
+16 
+
+## **Chapter -3** 
+
+## **<u>Criminal Conspiracy, Attempt, Abetment and Accomplice</u>** 
+
+**33. Prohibition of criminal conspiracy** : (1) No person shall make a criminal conspiracy. 
+
+(2) Where two or more persons agree to commit, or cause the commission of, an offence, and any act is done by only one or two of them, they shall be considered to have committed a criminal conspiracy. 
+
+(3) A person who commits, or causes the commission of, a criminal conspiracy to commit an offence of heinous or grave nature shall, where no provision is made elsewhere in this Act for a separate punishment for such conspiracy, be punished as follows: 
+
+(a) Where the offence in pursuance of the criminal conspiracy is committed, punishment imposable if the offence had been committed, 
+
+
+
+(b) Where another offence instead of the offence in pursuance of the criminal conspiracy is committed and such other offence is committed in the course of implementation of such conspiracy or as probable consequence thereof, punishment specified for that offence, 
+
+(c) Where any offence in addition to the offence in pursuance of the criminal conspiracy is also committed and such offence is also committed in the course of implementation of such conspiracy 
+
+17 
+
+or as a probable consequence thereof, additional punishment also for such offence, 
+
+   - (d) Where the offence of criminal conspiracy is yet to be completed, one half of the punishment specified for that offence. 
+
+**34. Prohibition of attempt to commit offence:** (1) No person shall make attempt to commit an offence. 
+
+(2) Even if it is impossible for an offence to be committed for which attempt is made, attempt shall be considered to have been committed. 
+
+(3) Except as otherwise provided elsewhere in this Act, a person who attempts, or causes attempt, to commit an offence shall be punished with one half of the punishment specified for such offence. 
+
+- **35** . **Prohibition of abetment** : (1) No person shall abet another person to commit an offence. 
+
+(2) For the purposes of sub-section (1), where a person instigates another person to commit an offence, the person is considered to have abetted. 
+
+- (3) The abettor shall be liable to the separate punishment, if 
+
+- any, provided for in this Act, and to the following punishment if such separate punishment is not so provided for: 
+
+   - (a) Where the offence is committed in pursuance of the abetment, the punishment imposable as if he or she had committed the offence, 
+
+18 
+
+- (b) Where the offence is yet to be committed in pursuance of the abetment, one half of the punishment specified for such offence. 
+
+(4) Where an offence is abetted but a different offence is committed by the abetted person, and that offence was committed under the influence of the instigation or was a probable consequence of the abetment, the abettor shall be liable to punishment as if he or she had committed such offence as well. 
+
+**36. Not to be accomplice:** (1) No person shall become an accomplice to any offence. 
+
+(2) A person who, with the intention of committing an offence, aids in the commission of such offence or other offence or who hides the offender or helps the offender to escape after the commission of the offence or who provides means to commit, or causes the commission of, the offense or otherwise assists in the commission of the offence shall be deemed to be an accomplice. 
+
+- (3) An accomplice shall be punished as follows: 
+
+
+
+(a) A person who, with participation in a criminal conspiracy, commits an offence, provides means or place to commit the offence, or deprives the person against whom the offence is committed of the right of private defence or who orders or advises to commit the offence, shall be punished as if he or she had committed such offence, 
+
+- (b) For an accomplice other than one referred to in clause (a), punishment not exceeding one half of 
+
+19 
+
+the punishment imposable for the commission of such offence according to the degree of his or her involvement in that act. 
+
+**37.  Statute of limitation to be applicable** : The statute of limitation provided for in this Act for making a compliant in relation to an offence shall also be applicable to the conspiracy, abetment, accomplice of, or attempt to, such offence. 
+
+
+
+20 
+
+## **Chapter-4** 
+
+## **<u>Gravity of Offence Aggravating and Mitigating Factors</u>** 
+
+**38. Factors aggravating the gravity of offence** : For the purposes of this Act, the following factors, if exist, shall be considered as aggravating the gravity of an offence: 
+
+   - (a) The offence was committed against the President or Head of Government or head of a foreign State, 
+
+   - (b) The offence was committed in presence of the President or Head of Government or head of a foreign State, 
+
+   - (c) The offence was committed by the breach of trust, 
+
+   - (d) The offence was committed by taking benefit of or abusing a public office, 
+
+   - (e) The offence was committed with the intention of obstructing a person holding a public office in discharging his or her official duty or to cause such person to commit an illegal act, 
+
+   - (f) The offence was committed in any government office, public office or religious place, 
+
+
+
+- (g) The offence was committed by five or more persons affiliated in a group, 
+
+- (h) The offence was committed by taking advantage of the disturbance of public peace or landslide, flood, earthquake or natural calamity of similar nature or outbreak of epidemic, starvation or occurrence of any other crisis of similar nature, 
+
+21 
+
+- (i) The offence was committed by carrying or using an arm or toxic or explosive substance or supplying electricity or using an electronic device or with the aid of a person carrying an arm, toxic or explosive substance, 
+
+- (j) The offence was committed again by an offender already sentenced to imprisonment, 
+
+- (k) The offence was committed by being allured of any remuneration or assurance or benefit, 
+
+- (l) The offence was committed against a person under one’s own protection or control or against the property under one’s own custody, 
+
+- (m) The offence was committed by subjecting any one to torture, cruel, inhumane or degrading treatment, 
+
+- (n) More than one offence were committed on a single occasion, 
+
+- (o) The offence was committed against more than one person on a single occasion, 
+
+
+
+- (p) The offence was committed by kidnapping any one or taking any one hostage, 
+
+- (q)  The offence was committed against a person under detention, custody, imprisonment or control, 
+
+- (r) The offence was committed by one who has a duty to provide security to any person against that person, 
+
+22 
+
+   - (s) The offence was committed with the intention of destroying the identity of any caste, race or group (genocide), 
+
+   - (t) The offence was committed with the intention of causing hatred against any caste, race, religious or cultural community, 
+
+   - (u) The offence committed was a crime against humanity, 
+
+   - (v) The offence was committed in a planned or organized manner, 
+
+   - (w) The offence was committed against an elderly person above seventy-five years of age or a person being of unsound mind by reason of physical or mental illness or a person incapable of defending himself or herself because of disability, or a child, 
+
+   - (x) The offence was committed by a person deputed in rescue work in cases of motor vehicle, aircraft accident or natural calamity while being engaged in such rescue work, 
+
+   - (y) The offence was another offence committed by the same offender against the person who had already become a victim of an offence. 
+
+**39.    Factors mitigating the gravity of offence:** For the purposes of this Act, the following factors, if exist, shall be considered as mitigating the gravity of an offence: 
+
+   - (a) The offender is below eighteen years or above seventyfive years of age, 
+
+23 
+
+- (b) The offender had no intention to commit the offence, 
+
+- (c) The person against whom the offence was committed had, immediately before the commission of the offence, provoked or given threat to the offender, 
+
+- (d) The offence was committed instantly as a retaliation against any grave offence committed against the offender or any of his or her close relatives, 
+
+- (e) The offender voluntarily confessed the offence or expressed a remorse therefor, 
+
+- (f) The offender surrendered himself or herself to the concerned authority, 
+
+- (g) The offender, having confessed the offence committed by him or her, has already provided or agreed to pay compensation to the victim, 
+
+- (h) The offender has diminished capacity because of physical, mental ability or disability, 
+
+- (i) The extent of loss or harm caused to the victim and the society being insignificant, 
+
+
+
+- (j) The offender rendered assistance in judicial process by telling the truth to the court, 
+
+- (k) The offender has confessed the guilt and committed not to commit any criminal offence in the future, 
+
+- (l) The offence was committed under other's instigation or pressure. 
+
+24 
+
+## **Chapter-5** 
+
+## **<u>Provisions Relating to Punishment and Interim Relief</u>** 
+
+**40. Types of punishment:** (1) The punishments for the offences set forth in this Act shall be as follows: 
+
+- (a) Imprisonment for life, 
+
+
+
+- (b) Imprisonment, 
+
+- (c) Fine, 
+
+- (d) Imprisonment and fine, 
+
+- (e) Compensation, 
+
+- (f) Imprisonment for the failure to pay a fine or compensation, 
+
+- (g) Community service in lieu of imprisonment. 
+
+(2) Where any law provides for the sentence of confiscation of property for any offence, such sentence of confiscation shall not be imposed for that offence, after the commencement of this Act. 
+
+(3) Notwithstanding anything contained in this Section, no sentence of fine of less than one rupee and of imprisonment for a term of less than one day shall be imposed. 
+
+**41. Imprisonment for life:** Notwithstanding anything contained elsewhere in this Act, in imposing a sentence of imprisonment on an offender for the following offence, the offender shall be subjected to imprisonment for the whole of his or her natural life: 
+
+- (a) Murder with cruelty, torture or inhumane conduct, 
+
+- (b) Murder by hijacking or exploding an aircraft, 
+
+25 
+
+- (c) Murder by kidnapping or taking hostage, 
+
+- (d) Murder by poisoning publicly consumable beverages or food, 
+
+- (e)  Genocide (destroying the identity of any caste, race or group) or offence committed with the objective of committing genocide, 
+
+- (f)   Murder with rape. 
+
+
+
+**42. Computation of imprisonment for life:** Except in the circumstance referred to in Section 41, the sentence of imprisonment for life shall be so computed that its term is twenty-five years. 
+
+**43. One and half punishment for consolidated/integrated offence** : (1) Where a person, at the time of judgment by a court, is convicted of more than one offence on a single occasion or different offences on different occasions, such person shall be deemed to have committed a consolidated offence. 
+
+(2) The offender who commits a consolidated offence referred to in sub-section (1) shall be sentenced for the offence punishable by the maximum punishment and to additional punishment of one half of that punishment specified for such offence. 
+
+**44. Additional punishment for offender of heinous crime and recidivist** : (1) If a person who was sentenced for any offence commits another heinous or grave offence before the expiry of a period of five years after the date on which he or she completed the service of that sentence or was granted pardon, he or she shall be considered to be a recidivist. 
+
+26 
+
+(2) A recidivist shall be liable to a punishment that is up to double the punishment imposable for the last offence committed by him or her. 
+
+Provided that this Section shall not apply to an offender who has been sentenced to imprisonment for life pursuant to Section 41. 
+
+**45. Punishment imposable on children:** (1) A person who commits an act constituting an offence under the law shall not be liable to any punishment if that person has not attained ten years of age at the time of the commission of such act. 
+
+(2) In imposing the punishment of imprisonment on a person who is ten years of age or above ten but below fourteen years of age, such person may be sentenced to imprisonment for a maximum of six months or sent to a reform home for a maximum of one year in lieu of such imprisonment. 
+
+(3) Where a person who is fourteen years of age or above fourteen but below sixteen years of age commits any offence punishable by imprisonment, such person shall be liable to half the punishment imposable by law on a person who has attained majority. 
+
+(4) Where a person who is sixteen years of age or above sixteen but below eighteen years of age commits any offence punishable by imprisonment, such person shall be liable to twothirds of the punishment imposable by law on a person who has attained majority. 
+
+
+
+**46. Imprisonment for fine:** (1) Any offender who is unable to pay a fine imposed on him or her may be subjected to imprisonment. 
+
+27 
+
+(2) The term of imprisonment under sub-section (1) shall be determined as follows: 
+
+- (a) In determining the sentence of imprisonment in default of payment of a fine for an offence punishable by both imprisonment and fine, the term of imprisonment shall be so determined as not to exceed ten years. 
+
+- (b) Where an offence is punishable by either imprisonment or fine or with both, in which the offender is sentenced to a fine only, in determining the sentence of imprisonment in default of payment of such fine, the term of imprisonment shall be so determined as not to exceed one half of the maximum term of imprisonment that can be imposed for such offence, 
+
+
+
+- (c) Where an offence is punishable by fine only, in which the offender is sentenced to a fine, in determining the sentence of imprisonment in default of payment of such fine, the term of imprisonment shall be so determined as not to exceed two years. 
+
+(3) Notwithstanding anything contained in sub-section (2), the following provisions shall apply to the imposition of a sentence of imprisonment for non-payment of a fine on a child below eighteen years of age: 
+
+28 
+
+   - (a) In the event of non-payment of a fine for an offence punishable by fine only or by either fine or imprisonment, the child shall not be subjected to imprisonment and the fine shall be remitted. 
+
+   - (b) Where an offence is punishable by imprisonment or fine or both, in which the offender is sentenced to a fine only, in determining the sentence of imprisonment in default of payment of such fine, the term of imprisonment shall be so determined as not to exceed three months. 
+
+   - (c) In determining the sentence of imprisonment pursuant to sub-section (2) to be imposed on a person who is above fourteen but below eighteen years of age, the term of imprisonment shall be so determined as not to exceed half the sentence of imprisonment imposable on a person above eighteen years of age. 
+
+**47. Remission of sentence:** (1) Where any offender, upon having confessed the offence committed by him or her, has assisted in the collection of evidence, apprehension of other accused person or gang or accomplice thereof, in relation to such offence or assisted the investigating or prosecuting authority or the court, a maximum of fifty percent of the sentence imposable under law for such offence may be remitted. 
+
+(2) Notwithstanding anything contained in sub-section (1), the following offender shall not be entitled to the remission of sentence: 
+
+29 
+
+- (a) One who has once obtained remission under subsection (1), 
+
+- (b) One who has been convicted of any offence punishable by imprisonment, and a period of three years has not lapsed since the completion of service of the sentence of imprisonment, 
+
+- (c) One who has once been sentenced for any offence of the same nature as in which the remission of sentence is sought. 
+
+(3) In granting a remission of punishment pursuant to subsection (1), regard shall be had to, _inter alia_ , at which stage of investigation or trial the accused has confessed the offence and in what circumstances he or she has made such confession. 
+
+**48** . **Power of court to order interim compensation** : (1) Notwithstanding anything contained elsewhere in this Act, where it is necessary to immediately provide medical treatment or compensation or any type of relief amount to a person who has become victim of an offence in consequence of its commission or a person who is dependent on him or her, the court may order the person accused of such offence to provide medical treatment or pay an interim compensation or relief amount to such person. 
+
+(2) Where an order is made pursuant to sub-section (1), the person so accused shall immediately provide such compensation or amount to the victim or person dependent on him or her. 
+
+(3) Where the accused is unable to provide the compensation or amount pursuant to sub-section (2) in accordance 
+
+30 
+
+with the order referred to in sub-section (1), the court shall order that the compensation or amount be provided to the victim or person dependent on him or her from the victim relief fund established pursuant to the laws in force related to the determination and execution of sentences for criminal offences, and the amount so provided shall be recovered from such accused person and reimbursed into such fund. 
+
+(4) Where a person who has paid compensation or relief amount pursuant to this Section is acquitted of the charge by the judgment of the court, the person who has received such compensation or relief amount shall, within thirty-five days of such acquittal, return such amount to such person or to the victim relief fund referred to in sub-section (3). 
+
+(5) Where such person does not return such amount within the period referred to in sub-section (4), the court shall cause such amount to be recovered from any assets of such person within thirtyfive days of such acquittal. 
+
+
+
+31 
+
+## **Part-2** 
+
+## **<u>Criminal Offences</u>** 
+
+## **Chapter-1** 
+
+## **<u>Offences against the State</u>** 
+
+**49. Prohibition of undermining sovereignty, integrity or national unity:** (1) No person shall, with the intention of undermining the independence, sovereignty, geographical or territorial integrity or national unity of Nepal, collect persons, arms and ammunitions, build any armed military or paramilitary organization or attempt to commit such act. 
+
+(2) No person shall make, or cause to be made, any kind of conspiracy, in association with any foreign state, government or organized force, to undermine the independence, sovereignty, geographical or territorial integrity or national unity of Nepal. 
+
+(3) No person shall abet the commission of the offence under sub-section (1) or (2). 
+
+(4) No person shall commit, or cause to be committed, any act that gives rise to hatred, enmity or contempt on grounds of class, race, religion, region, community or similar other ground, which is likely to jeopardize the sovereignty, geographical or territorial integrity, nationality, national unity, independence, dignity, or harmonious relations between federal units, of Nepal or attempt to commit, or abet the commission of, or make conspiracy to commit, such act, or undermine or cause to be undermined the cordial relations subsisting between different castes, races or communities. 
+
+
+
+32 
+
+(5) A person who commits, or causes to be committed, the offence referred to in this Section shall be sentenced to the following punishment: 
+
+      - (a) Imprisonment for life in the case of the offence referred to in sub-section (1) or (2), 
+
+      - (b) Imprisonment for a term not exceeding ten years and a fine not exceeding one hundred thousand rupees in the case of the offence referred to in sub-section (3), 
+
+      - (c) Imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees in the case of the offence referred to in sub-section (4). 
+
+**50. Sedition:** (1) No person shall, with the intention of overthrowing the Government of Nepal or the constitutional structure, create any kind of disorder by demonstrating or using military, paramilitary or criminal force or form an armed military or paramilitary organization or make conspiracy, attempt or incitement to commit such act. 
+
+   - (2) A person who commits the offence referred to in sub- 
+
+   - section (1) shall be liable to punishment with imprisonment for a term not exceeding twenty-five years. 
+
+   - (3) No person shall, by words, either spoken or written or 
+
+   - by figure or signs or otherwise, showing any baseless or unsubstantiated matter in relation to the Government of Nepal or any action of the Government of Nepal, bring or attempt to bring into hatred, enmity or contempt towards the Government of Nepal or cause the commission of such act. 
+
+33 
+
+Provided that nothing contained in this sub-section shall be considered to render any healthy or decent criticism of the Government of Nepal to be the offence. 
+
+(4) A person who commits the offence referred to in subsection (3) shall be liable to the sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees. 
+
+**51. Prohibition of act against national interest:** (1) No one shall do, or cause to be done, any act against national interest. 
+
+(2) For the purposes of sub-section (1), where any person does, or causes to be done, any of the following acts, he or she shall be considered to have done an act against national interest: 
+
+- (a) To dishonor or degrade or spread hatred or enmity against the freedom, sovereignty, geographical or territorial integrity, nationality, independence, self-esteem of, or international image of, Nepal, 
+
+
+
+(b) To encroach the international boundary of Nepal, or remove or dislocate any boundary pillar, except in accordance with agreement with a neighbouring country, or to so change any boundary pillar as to be prejudicial to the geographical or territorial integrity of Nepal. 
+
+(3) Any Nepali player or a group of Nepali players, who representing Nepal, plays any match in competition with any player or players in Nepal or a foreign country shall not play, or cause to be 
+
+34 
+
+played, such match in connivance with or under the influence of any one in a manner to manipulate a natural result of such match or to **make a bet win or lose** , and where any match has been so played, the offence against national interest shall be considered to have been committed. 
+
+(4) Any person who commits the offence referred to in subsection (2) or (3) shall be liable to the following punishment: 
+
+- (a) A sentence of imprisonment for a term not exceeding five years and fine not exceeding fifty thousand rupees, in the case of the offence referred to in sub-section (2), 
+
+- (b)  A sentence of imprisonment for a term not exceeding three years and fine not exceeding thirty thousand rupees, in the case of the offence referred to in sub-section (3). 
+
+(5) Where any person has transacted money in the course of the commission of the offence referred to in sub-section (2) or (3), the amount of money so transacted shall be forfeited, in addition to the punishment pursuant to sub-section (4). 
+
+(6) Any person who orders, directs, abets, incites or facilitates the commission of the offence referred to in sub-section (3) shall be liable to punishment as if that person were the principal offender. 
+
+
+
+(7) Where the offence referred to in sub-section (2) or (3) is committed by a public office holder or a person representing Nepal, 
+
+35 
+
+while in a foreign country, he or she shall be liable to additional sentence of imprisonment for a term not exceeding three years. 
+
+**52. Prohibition of genocide:** (1) No person shall commit, or cause to be committed, genocide. 
+
+(2) For the purpose of sub-section (1), any of the following acts committed with intent to destroy, in whole or in part, an ethnical, racial, **national** or religious **group** , or any attempt or conspiracy to commit such act, shall be considered to be the offence of genocide: 
+
+- (a) Mass killing of members of such group, in a planned way, at one or several times, 
+
+- (b) Causing grievous hurt to the body of, or causing serious bodily or mental harm to, members of such group, in a planned way, at one or several times, 
+
+
+
+(c) Deliberately inflicting on the group conditions of life, _inter alia_ , the depriving its members of access to essential goods such as water, food, fuel and medicine, by hindering the supply or movement of such goods, thereby deliberately making painful the life of members of such group, calculated to bring about its physical destruction in whole or in part, 
+
+(d) 
+
+Forcibly imposing measures on members of such group intended to prevent births within the group, 
+
+36 
+
+except in cases of voluntary use by such members of family planning means, 
+
+- (e) Forcibly transferring children of such group to another group. 
+
+(3) Any person who commits the offence referred to in subsection (1) shall be liable to the following punishment: 
+
+- (a) Imprisonment for life, in the case of the offence referred to in clause (a), 
+
+- (b) Imprisonment for a term not exceeding five years and fine not exceeding fifty thousand rupees, in addition to the sentence imposable under this Act for grievous hurt or hurt to human body, in the case of the offence referred to in clause (b), 
+
+- (c) Imprisonment for a term not exceeding ten years, in the case of the offence referred to in clause (c), (d) or (e). 
+
+(4) Where the offence referred to in this Section is committed in pursuance of order or direction given by a person or group, whether organized or unorganized, the person, or the responsible person or persons of such group giving such order or direction shall be liable as the principal offender. 
+
+
+
+(5) Where the offence referred to in this Section has been committed by a group or with the involvement of several persons, every person involved in such offence shall be equally liable as the offender. 
+
+37 
+
+(6) Where any person who commits the offence referred to in this Section is a public office holder, he or she shall not be allowed to make a plea that such offence has been committed in the course of executing a superior order or maintaining law and order or enforcing law, and that person shall not enjoy any remission or waiver from sentence on the ground that he or she has made such plea. 
+
+**53. Prohibition of waging war against Nepal or assist the army of a State at war with Nepal:** (1) No person shall wage or declare to wage war against Nepal, by raising arms, or attempt or threat to wage such war, or collect arms, ammunition or form a military or paramilitary organization with intent to wage war against Nepal. 
+
+(2) No person shall, in any situation whether a state of war is declared or not, supply any kind of strategic or military information or otherwise render assistance to any foreign army engaged in war with Nepal or attempt to do so. 
+
+
+
+(3) Where a declaration is made by the Government of Nepal prohibiting the making of relation or transaction with a State engaged in war with Nepal, any citizen or corporate body of such State or the importing or obtaining of any goods or services of such State, no person shall make such relation or transaction with such State, citizen or body or import or obtain such goods or services. 
+
+(4) A person who commits, or causes to be committed, the offence referred to in sub-section (1) or (2) shall be liable to a sentence of imprisonment for life, and a person who commits the offence referred to in sub-section (3) shall be liable to a sentence of 
+
+38 
+
+imprisonment for a term not exceeding twenty-five years and a fine not exceeding one hundred thousand rupees. 
+
+**54. Prohibition of waging war or insurrection against friendly State** : (1) No person shall, using the territory of Nepal, wage or threaten to wage war, by raising arms, or attempt to wage such war or insurrect or attempt to insurrect against a State having diplomatic relations with Nepal. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding seven years and a fine not exceeding seventy thousand rupees. 
+
+**55. Prohibition of giving provocation to army or police:** (1) No person shall abet or give provocation to the desertion of a soldier, police or armed police personnel or officer in the Nepal Army, Nepal Police or Armed Police Force, Nepal from the Nepal Army, Nepal Police or Armed Police Force, Nepal or abet the breach of discipline by such soldier, police or armed police personnel or attempt to seduce such soldier, police or armed police personnel from his or her duty, or, knowing or having reason to believe that a soldier, police or armed police personnel has so deserted the Army or Police or Force, harbor such deserter. 
+
+(2) A person who commits, or causes to be committed the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding ten years and a fine not exceeding one hundred thousand rupees. 
+
+39 
+
+**56. Prohibition of espionage** : (1) No person shall, with intent to undermine the sovereignty, security or geographical or territorial integrity of Nepal or to prejudice the interests of Nepal or with the knowledge that such consequence is likely, or being induced by any foreign country or international organization, supply to any one any information relating to the military situation, strategic arrangement or internal security of Nepal or relating to any matter that must be kept confidential by the Government of Nepal from the political, economic or diplomatic viewpoint or confidential document, or any matter that is confidential or must be kept confidential under law or conspire or attempt to commit, or abet the commission of, such act or do any other act with intent to supply such information, and a person who commits such act shall be considered to have committed espionage. 
+
+(2) A person who commits, or causes to be committed, espionage referred to in sub-section (1) shall be liable to punishment as follows: 
+
+
+
+- (a) In the case of a person who commits, or causes to be committed, espionage in relation to any matter of military situation, strategic arrangement or internal security of Nepal, a sentence of imprisonment for a term not exceeding twenty-five years, 
+
+- (a) In the case of a person who commits, or causes to be committed, espionage in relation to any matter that must be kept confidential by the Government of Nepal from the political, economic or diplomatic viewpoint or any other confidential document, that must be kept 
+
+40 
+
+confidential by the Government of Nepal from the political, economic or diplomatic viewpoint or any other confidential document, a sentence of imprisonment for a term ranging from five to ten years, 
+
+   - (c) In the case of a person who commits, or causes to be committed, espionage in relation to any matter other than that set forth in clauses (a) and (b), a sentence of imprisonment for a term not exceeding five years and a fine of fifty thousand rupees, 
+
+   - (d) In the case of a person who, despite the knowledge that any one is going to commit espionage, does not give information thereof to the Government of Nepal, a sentence of imprisonment for a term not exceeding one year and a fine of one hundred thousand rupees. 
+
+**57. Prohibition of assault on President:** (1) No person shall assassinate or attempt to assassinate the President of Nepal. 
+
+(2) No person shall, in any manner, abduct, or cause to be abducted, the President of Nepal or take, or cause to be taken, him or her hostage. 
+
+(3) No person shall, in any manner, assault, or cause to be assaulted, the President of Nepal. 
+
+
+
+(4) A person who commits any offence referred to in this Section shall be liable to punishment as follows: 
+
+- (a) In the case of the offence referred to in subsection (1), a sentence of imprisonment for life, 
+
+41 
+
+- (b) In the case of the offence referred to in subsection (2), a sentence of imprisonment for a term ranging from ten to fifteen years, 
+
+- (c) In the case of the offence referred to in subsection (3), a sentence of imprisonment for a term ranging from five to ten years. 
+
+**58. Prohibition of intimidation of President or Parliament:** (1) No person shall intimidate, whether by using any kind of force or not, show fear or terror to, or otherwise overawe the President or Parliament of Nepal with intent to prevent or restrain the President or Parliament of Nepal from performing any of the functions required to be performed pursuant to the Constitution or law or compel the President or Parliament of Nepal to perform the functions in any specific manner. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding seven years or a fine not exceeding seventy thousand rupees or with both. 
+
+**Explanation:** For the purposes of this Section, the term "Parliament" means the Federal Parliament and the State Assembly under the Constitution of Nepal, and this term also includes the Legislature-Parliament. 
+
+
+
+**59. Statute of limitation:** (1) No statute of limitation shall apply to a complaint with regard to any of the offences under Sections 49, 50, 51 52, 53 and 57. 
+
+42 
+
+(2) In the case of the offences under the Sections of this Chapter, except those Sections set forth in sub-section (1), no complaint shall be entertained after the expiry of two years of the date of knowledge of the commission of the offence. 
+
+
+
+43 
+
+## **Chapter-2** 
+
+## **<u>Offences against Public Tranquility</u>** 
+
+## **60. Prohibition of unlawful assembly:** (1) No person shall be engaged in an unlawful assembly. 
+
+(2) An assembly of five or more persons with the objective of doing any of the following acts shall be considered to be an unlawful assembly: 
+
+- (a) By means of force or show of force or show of a deadly weapon: 
+
+   - (1) to prevent any public servant from exercising the lawful functions or duties, 
+
+   - (2) to take or obtain possession of anyone’s property, 
+
+   - (3) to deprive any person of the enjoyment of the right of way, use of water, public transport or communication or similar other utilities, 
+
+
+
+   - (4) to compel any person to do what he or she is not legally bound to do or to omit to do what he or she is legally entitled to do. 
+
+- (b) To hinder, resist the execution of any law, or of any legal process, 
+
+- (c) To commit any offence punishable by a sentence of imprisonment. 
+
+44 
+
+(3) Any person who, with the knowledge that it is an unlawful assembly, joins the assembly shall be liable to a sentence of imprisonment for a term not exceeding six months and a fine not exceeding five thousand rupees where he or she has joined it without arms, and imprisonment for a term not exceeding one year and a fine not exceeding ten thousand rupees where he or she has joined it with arms. 
+
+(4) Any person who himself or herself does not join an unlawful assembly but hires or otherwise induces or overawes another to join such assembly shall be liable to the sentence referred to in sub-section (3) as if he or she himself or herself had joined such unlawful assembly. 
+
+**61. Prohibition of breach of order issued to prevent or disperse unlawful assembly:** (1) Where a competent authority makes an order to prevent or disperse an unlawful assembly, no person shall participate or continue in such assembly. 
+
+(2) A person who continues in, participates in, or joins an unlawful assembly under sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or with both. 
+
+**62. Every member to be considered to have committed offence:** Where any member of an unlawful assembly commits any offence in the achievement of the object of such assembly, every member of such assembly who aids and assists knowingly at the time of the commission of offence shall be considered to have committed the offence. 
+
+45 
+
+**63. Prohibition of rioting:** (1) No person shall commit, or cause to be committed, the offence of rioting. 
+
+(2) Where an unlawful assembly or a member thereof uses force or destroys, damages or causes loss to any public or private property in the course of achievement of the object of such assembly, every member of such assembly shall be considered to have committed the offence of rioting. 
+
+(3) Every person who commits the offense referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding two years and a fine not exceeding twenty thousand rupees if he or she is armed with a deadly weapon, and to a sentence of imprisonment for a term not exceeding one year and a fine not exceeding ten thousand rupees if he or she is not armed with a deadly weapon. 
+
+**64. Prohibition of abetting rioting:** (1) No person shall, with intent to cause the commission of rioting or with the knowledge that rioting is likely to be committed, abet the commission of rioting by another person. 
+
+(2) A person who abets under sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year, if the offence of rioting is committed, and to a sentence of imprisonment for a term not exceeding six months, if the offence of rioting is not committed, or to a fine not exceeding five thousand rupees or the both sentences. 
+
+
+
+**65. Prohibition of acts prejudicial to public tranquility:** (1) No person, by words, either spoken or written or by signs or otherwise 
+
+46 
+
+shall do any act which, on the ground of religion, color, caste, race, community or language, is prejudicial to harmonious relationship between peoples of different classes, regions or communities of Nepal. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year and a fine not exceeding ten thousand rupees. 
+
+(3) A person who commits the offence referred to in subsection (1) in any shrine, deity place, place of worship or pray or in any assembly engaged in the performance of a religious or cultural festival or ceremony shall be liable to an additional sentence of imprisonment for a term not exceeding one year, in addition to the sentence referred to in sub-section (2). 
+
+**66. Prohibition of obstructing public servant** : (1) No person shall obstruct or attempt to obstruct any public official in the discharge of his or her duty in endeavoring to prevent or disperse an unlawful assembly or to suppress a riot. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both sentences. 
+
+
+
+**67. Prohibition of obstructing movement in public place:** (1) No person, by show of any kind of fear or terror, shall close the operation of a public road, way, rope-way, cable-car, airport, railway, water transportation route, postal and other public service, 
+
+47 
+
+or obstruct, in any way, the movement of pedestrians, motor vehicles or animals by obstructing, in any way, a public road, way, rope-way, cable-car way, airport, railway or water transportation route or impede or obstruct, in any way, any person in entering into any public place except in accordance with the order of a competent authority under a law. 
+
+(2) A person who commits, or causes to be committed, the offence under sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences. 
+
+**68. Prohibition of obstructing public services:** (1) No person shall, by show of any kind of fear or threat, close, or obstruct, in any way, the operation of public electricity, telecommunication or other public services of similar nature or public service specified in law. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees. 
+
+**69. Prohibition of violating curfew:** (1) No person shall knowingly violate a curfew order imposed by a competent authority under law to prevent an unlawful assembly, riot or any other act that breaches tranquility. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+48 
+
+**70. Not to spread rumor:** (1) No person shall, with intent to breach public tranquility, commit rioting or undermine or jeopardize the sovereignty, geographical or territorial integrity of Nepal or harmonious relation between different races, castes or communities, spread or propagate rumors or hold a procession with slogans, in a manner to provoke any one. 
+
+(2) Any person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. **71. Prohibition of providing house, land or vehicle for breaching peace:** No person, knowingly or having a reasonable reason to know that another person is going to breach public peace or commit rioting, shall provide his or her house, land, vehicle or arm to that other person. 
+
+(2) Any person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding six months or a fine not exceeding five thousand rupees or both the sentences. 
+
+## **72. Prohibition of holding tourch procession in sensitive public area** : 
+
+(1) No person shall, with intent to breach public peace, hold any tourch procession or assembly or procession carrying a fire or inflammable substance in any place specified as the sensitive public area by order of the competent authority in view of the sovereignty, geographical or territorial integrity, security of Nepal or pubic tranquility or decency. 
+
+
+
+49 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding six months or a fine not exceeding five thousand rupees or both the sentences. 
+
+## **73. Prohibition of destroying or damaging essential commodities:** (1) 
+
+No person shall, having committed any offence under this Chapter, destroy, damage or set on fire, or cause to be done so, any commodity which is regarded as an essential commodity under the law or public or private property or disorder such commodity or property by himself or herself or cause it to be disordered by another person, steal such commodity or property or knowingly buy or sell, or cause to be bought or sold, any commodity obtained by theft. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to an additional sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences, in addition to the sentence imposable for any offence referred to in this Chapter. 
+
+(3) Where such commodity or property has already been destroyed or damaged from the offence referred to in sub-section (1), a compensation equal to the claimed amount shall also be recovered from such person. 
+
+
+
+(4) Where the person who has committed the offence referred to in sub-section (1) is identified, such person, and where such person is not so identified, the person who induces or orders the commission of such act shall be considered to have committed the offence. 
+
+50 
+
+**74. Statute of limitation** : No complaint on an offence under this Chapter shall lie after the lapse of three months from the date of commission of such offence. 
+
+
+
+51 
+
+## **Chapter-3** 
+
+## **<u>Offences Relating to Contempt of Authority of Public Servants</u>** 
+
+## **75. Prohibition of obstructing the service of summons, process etc.** : 
+
+(1) No person shall obstruct in or object to, or cause to be done so, the service of a summons, process, arrest warrant, notice or order issued under a law or the making of search, seizure, survey, measurement or public inquiry or arresting any person in pursuance of a warrant. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding six months or a fine not exceeding five thousand rupees or both the sentences. 
+
+(3) Where a public servant commits the offence referred to in sub-section (1), he or she shall be liable to an additional sentence of imprisonment for a term not exceeding three months. 
+
+**76. Prohibition of refusing to receive and returning summons, process, notice or order:** (1) Where a person in whose name a summons, process, notice, arrest warrant or order has been issued under law is tendered for the service thereof on him or her, such person shall, with mala fide intention, not refuse to receive, and return, such summons, process, notice or arrest warrant. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding three months or a fine not exceeding five thousand rupees or both the sentences. 
+
+52 
+
+**77. Prohibition of absconding to avoid service of summons, process, notice or order:** (1) No person, being legally bound to receive a summons, process, notice, arrest warrant or order issued by the competent authority, shall abscond, with mala fide intention to avoid being served with such summons, process, notice, arrest warrant or order. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding three months or a fine not exceeding five thousand rupees or both the sentences. 
+
+**78. Prohibition of tearing out or removing summons, process etc.:** (1) No person shall, with mala fide intention, tear out or remove a summons, process, arrest warrant, notice or order affixed to a place in accordance with law, until its purpose is served. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding six months or a fine not exceeding five thousand rupees or both the sentences. 
+
+**79. Prohibition of serving process in a false manner:** (1) No person who is legally bound to serve, or cause to be served, a process shall serve the process in a false manner. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+53 
+
+**80. Prohibition of omission to produce document:** (1) No person who is legally bound to produce or deliver up any document to any office, court or public servant under law shall omit so to produce or deliver up such document. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding six months or a fine not exceeding five thousand rupees or both the sentences. 
+
+**81. Prohibition of making false statement by person under oath:** (1) A person who is bound by law or by an oath to state the truth on any subject to any competent authority or is a public office holder upon taking oath under law shall not, in that capacity, state any false statement. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding two years or a fine not exceeding twenty thousand rupees or both the sentences. **82. Prohibition of refusing oath:** (1) No person who is present before the competent authority to state the truth on any subject shall refuse to take an oath to state the truth on such subject when so required to take such oath. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding three months or a fine not exceeding five thousand rupees or both the sentences. 
+
+54 
+
+**83. Prohibition of refusing to answer:** (1) No person who is under a legal duty to state the truth on any subject to a competent authority shall refuse to answer any question demanded of him or her on such subject by such authority. 
+
+Provided that no person shall be compelled to testify against himself or herself. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding six months or a fine not exceeding five thousand rupees or both the sentences. 
+
+**84. Prohibition of giving false information:** (1) No person shall give any false information to any one, with intent to prevent any public servant from doing any act which he or she is bound by law to do or to cause such public servant to do anything which he or she need not or ought not to do. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+**85. Prohibition of obstructing:** (1) No person shall, by way of intimidation or force or in any other way, obstruct or hinder any public servant, who is discharging his or her public duties, in the discharge of such duties. 
+
+(2) No person shall knowingly obstruct or hinder the process of forfeiture, collection of records, withholding, auction or sale of any property being carried out in accordance with law. 
+
+55 
+
+(3) A person who commits the offence referred to in subsection (1) or (2) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+**86. Prohibition of refusing to render assistance to public servant:** (1) No person under a legal duty to render assistance to a public servant in the execution of his or her public duty shall refuse to so render such assistance. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding six months or a fine not exceeding five thousand rupees or both the sentences. 
+
+**87** . **Prohibition of disobedience to order:** (1) No person shall disobey an order made by a competent authority in accordance with law, by omitting to do anything ought to be done under law or doing anything prohibited by law. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding six months or a fine not exceeding five thousand rupees or both the sentences. 
+
+**88** . **Statute of limitation:** No complaint shall lie after the lapse of three months from the date of knowledge of the commission of any offence under Section 78, 80 or 83 and from the date of the commission of any offence under the other Sections of this Chapter. 
+
+56 
+
+## **Chpater-4** 
+
+## **<u>Offences against Public Justice</u>** 
+
+**89. Prohibition of fabricating evidence:** (1) Except as otherwise provided in this Act, no person shall fabricate evidence, cause any circumstance to exist, forge any document or electronic record or make any false entry in any document or electronic record, with intent to use it in a judicial or other legal proceeding. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees. 
+
+Provided that where a sentence of imprisonment for life has been imposed on any person on the basis of such false evidence, the offender shall be liable to a sentence of imprisonment for a term not exceeding seven years and a fine not exceeding seventy thousand rupees. 
+
+(3) Notwithstanding anything contained elsewhere in this Section, no sentence shall be so imposed under this Section that the sentence is in excess of the maximum sentence that can be imposed on the offence in relation to which the evidence has been fabricated. 
+
+**90. Prohibition of making or issuing false certificate** : (1) No person with authority or duty under law to submit, certify, authenticate or issue a certificate or submit an affidavit in relation to any matter shall submit, certify, authenticate or issue such certificate or submit such affidavit, knowingly setting down a false statement in such certificate or affidavit. 
+
+57 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding two years and a fine not exceeding twenty thousand rupees. 
+
+**91. Prohibition of using false evidence or certificate** : (1) No person shall, knowing that any evidence or certificate is false, use, or cause to be used, as true such false evidence or certificate. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+**92. Prohibition of destroying document:** (1) No person who is under a legal duty to produce any document or electronic record as evidence in a judicial or other legal proceeding shall knowingly destroy, obliterate, render illegible such document or record, or otherwise make it incapable of being used as evidence. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding two years and a fine not exceeding twenty thousand rupees. 
+
+
+
+(3) No person shall, in contravention of law, knowingly destroy, obliterate, render illegible any document or electronic record produced in any judicial or other legal proceeding or otherwise making such document or record incapable of being used as evidence or cause it to disappear illegally or give it to another person in an unauthorized manner. 
+
+58 
+
+(4) A person who commits, or causes to be committed, the offence referred to in sub-section (3) shall be liable to a sentence of imprisonment for a term not exceeding four years and a fine not exceeding forty thousand rupees. 
+
+(5) If a public servant commits the offence referred to in sub-section (1) or (3), he or she shall be liable to double the sentence referred to in that sub-section. 
+
+**93. Prohibition of concealing evidence of offence:** (1) No person shall, with intent to protect any offender, conceal or destroy any evidence relating to the offense committed by the offender or render it ineligible to be used as evidence. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+**94. Prohibition of obstructing the giving of information:** (1) No person shall restraint or otherwise obstruct or hinder a person who, upon knowing that an offence has been committed or is about to be committed, intends to give information or notice about such offence to the police or competent authority. 
+
+
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding two years or a fine not exceeding twenty thousand rupees or both the sentences. 
+
+59 
+
+**95. Prohibition of harboring offender** : (1) No person shall knowingly harbor an offender with intent to prevent him or her from being apprehended or save him or her from a lawful sentence. 
+
+**Explanation:** For the purposes of this Section, the term “offender” means a person who is suspected or accused of an offence or convicted by a court of such offence. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to the sentence as follows: 
+
+- (a) Sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees where that person has harbored the offender of an offence punishable by imprisonment for life or imprisonment for a term not exceeding twenty years, 
+
+- (b) Sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees where that person has harbored the offender of an offence punishable by imprisonment for a term not exceeding ten years, 
+
+
+
+   - (c) Sentence of imprisonment or fine not exceeding one fourth of the maximum term of imprisonment or amount of fine or both the sentences imposable for the offence where that person has harbored the offender of the offence other than that mentioned in clause (a) or (b). 
+
+- (3) Notwithstanding anything contained in sub-section (1), 
+
+- no offence referred to in this Section shall be considered to have 
+
+60 
+
+been committed where the offender's husband or wife or father, mother, son, daughter, elder brother, younger brother, elder sister, younger sister, grand-father, grand-mother, grand-son, granddaughter, mother-in-law, father-in-law, daughter-in-law or son-inlaw has harbored the offender. 
+
+**96. Obligation to give information of commission of offence:** (1) No person under a legal duty to give information regarding any offence shall, knowing that such offence has been or is going to be committed, omit to give information of such offence or no person who knows the commission of any offence shall intentionally give false information about that offence. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding two years or a fine not exceeding twenty thousand rupees or both the sentences. 
+
+**97. Prohibition of concealment of property or fraudulent claim to property:** (1) No person shall fraudulently conceal, transfer or deliver to any person, or caused to be concealed, transferred or delivered, any property, or right in such property, which is liable to be forfeited, withheld, auctioned, sold or enforced or inventory of which is to be taken pursuant to a decision of a court or competent authority, intending thereby to prevent that property or right from being so forfeited, withheld, auctioned, sold or enforced or make a claim to such property or right therein. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of 
+
+61 
+
+imprisonment for a term not exceeding two years or a fine not exceeding twenty thousand rupees or both the sentences. 
+
+**98. Prohibition of making false complaint** : (1) No person shall, with intent to injure or annoy any person, make a false claim or accusation or give false information against such person before or to an authority making judicial proceeding. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable half the maximum sentence imposable for the offence in respect of which such false accusation has been made. 
+
+Provided that the provision of this Section shall not apply to any case in which the Government of Nepal is plaintiff. 
+
+(3) Where the offence referred to in sub-section (1) has resulted in any kind of harm or loss to a person who is a victim of such offence, compensation for such harm or loss shall be recovered from the offender to the victim. **99. Prohibition of making investigation or prosecution maliciously:** (1) No authority responsible by law for making investigation or prosecution shall make investigation or prosecution maliciously, with intent to have an innocent person bear liability or to save the real offender. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding six months or a fine not exceeding five thousand rupees or both the sentences. 
+
+62 
+
+(3) Where any person suffers any kind of harm or loss from the offence referred to in sub-section (1), he or she shall be entitled to get compensation from such offender. 
+
+**100. Prohibition of failure to appear in violation of terms and conditions of guarantee** : (1) No person who has been charged with an offence and released on guarantee shall fail, without a reasonable cause, to appear in the office or court to which guarantee is given in accordance with the terms and conditions of such guarantee. 
+
+**Explanation** : For the purpose of this Section, “guarantee” means cash, bank guarantee or personal guarantee. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+(3) Where a person who fails to so appear under this Section is convicted of the offence with which he or she has been charged shall be liable to the additional sentence under this Section, in addition to the sentence imposable on him or her for such offence. 
+
+(4) Where a person who is released on personal guarantee in accordance with law fails to appear in the office or court in accordance with such guarantee, the person giving such guarantee shall be liable to a sentence of fine not exceeding fifty thousand rupees. 
+
+
+
+(5) A person who has been sentenced under this Section shall not be eligible to become a **surety without security** until three years. 
+
+63 
+
+**101. Prohibition of obstructing apprehension or escaping from custody:** (1) No person for whose apprehension an arrest warrant has been issued shall knowingly make any obstruction, by using force, in the course of apprehension or to the apprehension of himself or herself or to escape from apprehension if already apprehended or no person who is lawfully detained in custody shall escape or attempt to escape from such custody. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences. 
+
+**102. Prohibition of obstructing apprehension or rescuing from custody:** (1) No person shall intentionally make obstruction in the course of apprehension of or to the apprehension of any other person for whose apprehension an arrest warrant has been issued in accordance with law or rescue such other person from apprehension if already apprehended or intentionally escape or aid in the escape of a person who is lawfully detained in custody from such custody. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences. 
+
+
+
+(3) If any public servant commits or causes to be committed the offence referred to in sub-section (1), he or she shall be liable to double the sentence specified in sub-section (2). 
+
+64 
+
+**103. Statute of limitation:** (1) There shall be no statute of limitation for making a complaint in relation to any of the offences referred to in Section 101 or 102. 
+
+(2) No complaint shall lie after the lapse of three months from the date of commission of the offence under Section 100 and from the date of knowledge of the commission of any of the other offences under this Chapter. 
+
+
+
+65 
+
+## **Chapter-5** 
+
+## **<u>Offences against Public Interest, Health, Safety,</u>** 
+
+## **<u>Convenience and Morals</u>** 
+
+**104. Prohibition of spreading infectious disease:** (1) No person shall do any act that spreads or is likely to spread any kind of infectious disease which is dangerous to life of any one. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding ten years and a fine not exceeding one hundred thousand rupees, if the offence has been committed intentionally or knowingly, to a sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees, if the offence has been committed recklessly, and to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees, if the offence has been committed negligently. 
+
+**105. Prohibition of transmitting human immuno-deficiency virus (HIV positive):** (1) No person, knowing that his or her own body or any other's body contains human immuno-deficiency virus (HIV positive) or the virus of Hepatitis B, shall with intent to transmit such disease to another person, donate his or her blood to such person or cause the donation of such other person's blood or have sexual intercourse with any one without taking any kind of precaution or transfuse in any way his or her or such person's blood, semen, saliva, sputum or human organ into other's body. 
+
+66 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding ten years and a fine not exceeding one hundred thousand rupees. 
+
+Provided that where such disease has got transmitted with negligence or recklessness, failing any intent to transmit it, the offender shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+(3) Where the victim himself or herself has solicited and established sexual intercourse with a person having the human immuno-deficiency virus or the virus of Hepatitis B, the person having the infection of such virus shall not be considered to have committed the offence referred to in this Section. 
+
+## **106. Prohibition of violating law relating to communicable disease** : (1) 
+
+No person shall violate any rule, directive or order relating to communicable diseases issued by the Government of Nepal, State Government or Local Level or the competent authority under law. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding six months or a fine not exceeding five thousand rupees or both the sentences. 
+
+
+
+Provided that where any violation of such rule, directive or order is likely to cause the death of a person, the offender shall be liable to the sentence under Section 104. 
+
+67 
+
+**107. Prohibition of adulteration of food:** (1) No person shall produce any food or drink to be consumed by the public by mixing into it any injurious substance that is inedible, undrinkable or inconsumable or any substance that is edible, drinkable or consumable but substandard or any injurious chemical substance, or sell or distribute it or sell or distribute any food of which expiry date has expired or which is adulterated or sell, distribute, import or offer for sale or distribution any food of standard falling short of the prescribed standard or inedible substance. 
+
+(2) Any person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees. 
+
+**108. Prohibition of selling, distributing food by misrepresentation:** (1) No person shall sell or distribute any food, lying or misrepresenting that it is a different food or that a food which is of low quality or inedible is a food of high quality, or mixing any food substance of low standard or inedible food substance into any food substance of high quality 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding five years or a fine not exceeding fifty thousand rupees or both the sentences. 
+
+
+
+## **109. Prohibition of selling or distributing goods by misrepresentation:** 
+
+- (1) No person shall sell any low quality good, except food, by misrepresenting that such good is original one or any good by causing to believe that it is a different good or any good so 
+
+68 
+
+adulterated as to degrade its quality or change a label on any good or sell any good of which the date of expiry has expired. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences. 
+
+**110. Prohibition of hoarding consumable goods intended for sale:** (1) No person shall increase the price of any consumable goods by creating an artificial shortage of such goods in the market or sell, or cause to be sold, such goods at higher price or dump, store or hoard such goods by refraining from selling such goods with the motive of making undue profit from the sale of such goods. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees. 
+
+**111. Prohibition of fouling water:** (1) No person shall foul the water to be consumed by the public or the water of any public spring so as to render it unfit for drinking or foul the water to be used for any purpose other than drinking so as to render it unfit for that purpose. 
+
+
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to the sentence as follows: 
+
+- (a) Imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the 
+
+69 
+
+sentences, in the case of a person who fouls, or causes to be fouled, drinking water or its spring, 
+
+(b) Imprisonment for a term not exceeding six months or a fine not exceeding five thousand rupees or both the sentences, in the case of a person who fouls, or causes to be fouled, water to be used for other purpose. 
+
+**112. Prohibition of polluting environment:** (1) No person shall generate, transmit, release or stockpile wastages in such a manner as to cause significant adverse impact on the environment. 
+
+(2) No person shall cause pollution in such a manner as to cause injury to public health or danger to body or life of the public, or generate, transmit, emit or stockpile, sound, heat or radioactive wave or hazardous waste, as the case may be, from a mechanical device. 
+
+(3) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+(4) A person who commits, or causes to be committed, the offence referred to in sub-section (2) shall be liable to a sentence of imprisonment for a term not exceeding five years or a fine not exceeding fifty thousand rupees or both the sentences. 
+
+
+
+**113. Prohibition of causing danger or obstruction in public way, river or place** : (1) No person shall, by doing any act or by omitting to take order with or maintain any property of him or her or under his or her 
+
+70 
+
+control or charge, cause danger, obstruction or hindrance to any one in any public way, river or other public place. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of a fine not exceeding twenty-five thousand rupees. 
+
+**114. Prohibition of reckless conduct in using toxic or explosive substance** : (1) No person shall do, in the operation or with the use of any explosive substance or fire or inflammable substance, explosive substance or deadly weapon or machine, any act so recklessly as to endanger or to be likely to cause injury to human body or life or knowingly or recklessly omit to make such arrangement with such substance of him or her or under his or her possession or charge as is necessary to prevent any probable danger to human life. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+**115. Prohibition of recklessness conduct with respect to constructing, demolishing or repairing buildings:** (1) No person shall, in constructing, demolishing or repairing a building, knowingly or recklessly omits to take such arrangement with that building as is necessary to guard against or prevent any probable danger to cause death of or grievous hurt to any one from such act or from the fall or collapse of that building or any part thereof. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of 
+
+71 
+
+imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+**116. Prohibition of reckless conduct with respect to animals and birds** : (1) No person shall, in keeping or caring and cultivating any violent or other animal or bird of him or her or under his or her control or custody, knowingly or recklessly omits to take such precautionary measure with that animal or bird as is necessary to guard against or prevent any probable danger to cause death of or grievous hurt to any one from such act or from such animal or bird. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+**117. Prohibition of setting animal free:** (1) No person shall set any animal or bird of him or her or under his or her custody or control free to other's house or land, public road or way or public place. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+**118. Prohibition of indecent conduct:** (1) No person shall enter into a public place or any place where he or she has no legal right to enter into and behave any one indecently or manhandle or annoy any woman, child or person with physical disability in any public place or attempt to do such act. 
+
+72 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+**119. Prohibition of soliciting prostitution:** (1) No person shall solicit prostitution. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+**120. Prohibition of providing house, land to be used for prostitution or sexual intercourse with prostitute:** (1) No person shall knowingly provide his or her house, land or means of transport for the purpose of prostitution or having sexual intercourse with a prostitute. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding six months or a fine not exceeding five thousand rupees or both the sentences. 
+
+## **121. Prohibition of producing or selling obscene books, pamphlets** 
+
+
+
+- **etc:** (1) No person shall commit any of the following acts, including producing any obscene book, pamphlet publicly: 
+
+   - (a) Producing, printing or publishing or circulating through electronic media any obscene book, pamphlet, drawing, film, picture, record or any other item which is 
+
+73 
+
+lascivious (increases physical libido) or appeals to the prurient interest or makes characterless, 
+
+- (b) Purchasing, selling, distributing or letting to hire or publicly exhibiting such obscene item or holding such item with intent to do so, 
+
+- (c) Advertising that such obscene item is available from any person in this way, 
+
+- (d) Exporting or importing or holding such obscene item with intent to sell, distribute it. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+(3) Notwithstanding anything contained elsewhere in this Section, the provision of this Section shall not apply to any work which is in the interest of, or which is of importance from the perspective of, science, education, art, literature, research or learning or which is kept or made for a religious purpose. 
+
+**122. Prohibition of showing sexual organ in public place** : (1) No person above ten years of age shall, except for the purpose of medical sciences or treatment, do any obscene act or conduct or show his or her sexual organ or utter or make any obscene words or gesture to any one in a public place. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term 
+
+74 
+
+not exceeding six months or a fine not exceeding five thousand rupees or both the sentences. 
+
+**123. Prohibition of having sexual intercourse in public place:** (1) No person shall have sexual intercourse with any one or any kind of unnatural sexual intercourse in a public place, or in any other place in a manner that such intercourse is visible to others. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+**124. Prohibition of committing public nuisance:** (1) Except as otherwise provided in a law, no person shall do any act or omit to do any act legally required to be done, which causes any kind of harm, injury, danger or annoyance to the public or to the people who dwell in the vicinity. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of fine not exceeding twentyfive thousand rupees. 
+
+**125. Prohibition of gambling or betting:** (1) No person shall gamble or cause gambling. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to the sentence as follows: 
+
+- (a) Imprisonment for a term not exceeding three months or a fine not exceeding thirty thousand rupees, in the case of one who gambles or causes any one to gamble for the first time, 
+
+75 
+
+- (b) Imprisonment for a term not exceeding one year and a fine not exceeding fifty thousand rupees, in the case of one who gambles or causes any one to gamble for the second time, and additional sentence of imprisonment for a term not exceeding three months and a fine not exceeding ten thousand rupees for every subsequent offence. 
+
+**Explanation:** For the purposes of this Act,- 
+
+- (1) "gambling" means a game or process of any type to be so played by betting as to gain, lose or win any kind of movable or immovable property or return, on the basis of contingency, and this term also includes any betting or waging so made by one who does not gamble himself or herself as to gain or lose any movable, immovable property or return depending on the win or loss of others. 
+
+
+
+- Provided that any of the following games 
+
+- or programs shall not be considered to be gambling: 
+
+- (a) A game so played, with the approval of the Government of Nepal, for entertainment in a public ceremony, fair, feast, festival, exhibition or event that a small amount of movable property is won or lost, 
+
+- (b) A lottery operated with the approval of the authorized authority. 
+
+76 
+
+- (2) "one who causes any one to gamble" means a person who causes gambling by knowingly providing a house, room, space or vehicle under his or her ownership, possession, use or custody or by providing any kind of instrument  for gambling. 
+
+(3) All instruments used for gambling and movable and immovable properties earned from gambling shall be forfeited. 
+
+Provided that a house, room, place or means of transport where gambling has taken place shall not be forfeited. 
+
+- (4) No person shall bet or cause betting. 
+
+(5) For the purposes of sub-section (4), a person who so bets that he or she will receive or lose any movable, immovable property or consideration if any particular party wins or loses any game or process that can be played, or caused to be played, under law shall be considered to have committed the offence of betting. 
+
+(6) In the event of commission of the offence referred to in sub-section (4), the offender shall be liable to a sentence of imprisonment for a term not exceeding one year and a fine not exceeding ten thousand rupees, along with the forfeiture of the claimed amount used in the offence. 
+
+
+
+(7) Convictions pronounced by a court shall be taken into account for the purpose of establishing recidivism in relation to the offence referred to in this Section. 
+
+**126. Prohibition of soliciting alms (begging) or causing begging** : (1) No person shall solicit alms (begging) in a public place or use a child 
+
+77 
+
+for the purposes of begging under the pretense of singing, dancing, playing or doing any act or use other person for purposes of begging, in return for any kind of money or wages paid by him or her to that other person, or abet begging. 
+
+- (2) A person who commits the offence referred to in sub- 
+
+- section (1) shall be liable to the sentence as follows and the claimed amount of begging shall also be forfeited: 
+
+   - (a)    Imprisonment for a term not exceeding one month or a fine not exceeding one thousand rupees, in the case of begging for the first time, and imprisonment for a term not exceeding two months or a fine not exceeding two thousand rupees for every instance, from the second instance onwards, 
+
+
+
+- (b) Imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences, in the case of causing begging for the first time, and imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences for every instance, from the second instance onwards. 
+
+**Explanation:** For the purposes of this Section,- 
+
+- (1) begging by a sage, saint, hermit or monk visiting home to home as per the tradition practiced from time immemorial or begging in any religious or cultural work shall not be considered to be an offence under this Section, 
+
+78 
+
+   - (2) "public place" means any road, street, park, motor vehicle stop, government office or office premises, and this term also includes a means of transport in public use. 
+
+**127. Compensation to be paid:** Where any harm or loss is caused to any one or any property of any one from any of the offences referred to in Sections 104, 105, 106, 107, 108, 109, 110, 111, 113, 114, 115, 116, 117, 118 and 124 of this Chapter, compensation shall be ordered to be paid by the offender to the person who so suffers such harm or loss. 
+
+**128. Statute of limitation** : (1) In the case of any offence under this Chapter which has caused the death of any one, there shall be no statute of limitation for making a complaint in relation to such offence. 
+
+(2) No complaint shall lie after the expiry of three months after the date of commission of any of the offences under Sections 113,114, 115, 116, 117, 118, 119, 120, 121 and 122 and after the expiry of six months from the date of knowledge of commission of any of the other offences under this Chapter. 
+
+
+
+79 
+
+## **Chapter-6** 
+
+## **<u>Offences Relating to Arms and Ammunitions</u>** 
+
+**129. Prohibition of manufacturing arms without obtaining license:** (1) No person shall manufacture or repair arms and ammunition without obtaining a license or in a manner to be contrary to the terms and restrictions specified in the license, even if, obtained. 
+
+**Explanation** : For the purposes of this Act,- 
+
+
+
+   - (a) "arms" means a canon, mortar, tank, machine gun, rifle, gun, pistol, revolver or other device of similar nature to be operated by using or not using ammunition, and this term also includes spare parts of and machinery and equipment for manufacturing any arms, 
+
+   - (b) "machine gun" means a **brain gun, luis gun** , stain gun, machine, carbine, toms machine carbine, GMG, short machine gun or automated arms of similar nature, and this term also includes a machine, equipment for manufacturing a machine gun, and spare parts thereof. 
+
+   - (c) "ammunition" means gun powder, cape, bullet, shell, detonator, cartoos, fuse or other substance of similar nature to be placed in arms. 
+
+- (2) A person who commits, or causes to be committed, the 
+
+- offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding ten years and a fine not exceeding one hundred thousand rupees, according to the gravity of the risks of arms or ammunition in question. 
+
+80 
+
+**130. Prohibition of transaction of arms without obtaining license** : (1) No person shall transact arms and ammunition without obtaining a license or in a manner to be contrary to the terms and restrictions specified in the license, even if, obtained. 
+
+**Explanation** : For the purposes of this Chapter, "transaction" means procurement, sale, transport, obtaining ownership, transfer, accumulating, stockpiling or collection, storage, export or import. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding seven years and a fine not exceeding seventy thousand rupees. 
+
+**131. Prohibition of acquisition of specific type of arms:** (1) No person shall acquire the following arms, by way of procurement, sale, donation, gift, reward, partition, succession or otherwise, retain, stockpile or store such arms, or use, transport, export or import such arms except with the order of the competent authority: 
+
+- (a) A tank and ammunition thereof, 
+
+- (b) A cannon or mortar and ammunition thereof, 
+
+
+
+<!-- Start of picture text -->
+(c)<br>(d)<br><!-- End of picture text -->
+
+- (c) A machine gun and ammunition thereof, 
+
+- (d) Any kind of rifle and ammunition thereof, 
+
+- (e) Such other arms and ammunition thereof as specified by the competent authority that such arms and ammunition are prohibited from being acquired or held by the public. 
+
+81 
+
+(2) A person who acquires any arms set forth in sub-section (1) shall, within thirty-five days from the date of acquisition thereof, surrender such arms to the concerned District Administration Office. 
+
+(3) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding seven years and a fine not exceeding seventy thousand rupees. 
+
+(4) Notwithstanding anything contained elsewhere in this Section, nothing shall be deemed to bar any officer and personnel of the Nepal Army, Nepal Police, Armed Police Force, Nepal concerned with security work or other security personnel who are entitled to use arms lawfully from holding or using such arms in the course of discharging their respective duties. 
+
+**132. Prohibition of retaining or carrying arms without license:** (1) No person shall acquire, retain, stockpile, use or carry such arms as may be allowed by law to be acquired, held, stockpiled, used or carried, without obtaining a license or in a manner to be contrary to the terms and restrictions specified in the license, even if, obtained. 
+
+Provided that nothing shall bar any officer and personnel of the Nepal Army, Nepal Police, Armed Police Force, Nepal concerned with security work or other security personnel who are entitled to use arms lawfully from holding, using or carrying such arms in the course of discharging their respective duties. 
+
+
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of 
+
+82 
+
+imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees. 
+
+**133. Obligation to maintain records of transaction of arms, ammunition:** (1) A person who carries out transaction of arms or ammunition by obtaining a license shall maintain separate records of the arms and ammunition transacted by him or her. 
+
+   - (2) The records maintained pursuant to sub-section (1) shall 
+
+   - set out, _inter alia_ , the following matters: 
+
+      - (a) Type, description and quantity of the arms procured or sold, transported, stockpiled, exported or imported by him or her, 
+
+      - (b) In the case of a sale of arms to any one, the purchaser’s name, surname, address, citizenship or passport number, date and place of issue of citizenship certificate or passport, 
+
+(3) A person who carries out the transaction of arms or ammunition shall, when so asked, show the records referred to in sub-section (2) to the authority controlling or administering arms and ammunition, the investigating authority or a court. 
+
+(4) Where any person other than one who carries out the commercial transaction of arms or ammunition by obtaining a license intends to carry out the transaction of arms and ammunition, he or she shall obtain approval of the concerned District Administration Office to that effect. 
+
+(5) A person who does, or causes to be done, any act contrary to sub-section (1), (3) or (4) shall be liable to a sentence of 
+
+83 
+
+imprisonment for a term not exceeding two years and a fine not exceeding twenty thousand rupees. 
+
+**134. Prohibition of production or transaction of nuclear, chemical, biological (bacteriological) or toxin weapons:** (1) No person shall manufacture, produce, procure, sell, acquire, own, transfer, stockpile, store, transport, export or import, invest in or manage any type of nuclear, chemical, biological (bacteriological) or toxic weapons or cause any one to do so. 
+
+
+
+**Explanation:** For the purposes of this Section,- 
+
+- (a) "chemical weapon" means any chemical weapon as defined by the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and their Destruction, done at Paris on  13 January 1993. 
+
+- (b) "biological or toxin weapon" means any biological (bacteriological) or toxin weapon as defined by the Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and  their Destruction, done at London, Moscow and Washington  on 10 April, 1972. 
+
+
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding twenty years and a fine not exceeding two hundred thousand rupees. 
+
+84 
+
+**135. Forfeiture of movable, immovable property related to offence:** In the event of the commission of any offence under this Chapter, the arms and ammunition related to such offence, and machinery, equipment, instrument or vehicle producing, manufacturing, retaining or transporting such arms and proceeds of the sale and purchase of such arms or ammunition and amount accrued or accumulated therefrom shall be forfeited. 
+
+Provided that where the owner of the means of transport or motor vehicle proves that he or she did not know the transportation of such arms and ammunition, such means of transport or vehicle shall not be forfeited. 
+
+**136. Compensation caused to be paid:** Where any harm or loss is caused to any one's body or property from the commission by any person of any offence under this Chapter, a reasonable compensation for such harm or loss shall be caused to be paid by the offender to the victim. 
+
+**137. Statute of limitation:** No complaint shall lie, in relation to an offence under Section 132, after the expiry of three months of the commission of such offence, and in relation to any of the other offences under this Chapter, after the expiry of six months from the date of knowledge of the commission of such offence. 
+
+85 
+
+## **Chapter-7** 
+
+## **<u>Offences Relating to Explosives</u>** 
+
+**138. Prohibition of production of explosives:** (1) No person shall make, prepare or produce any kind of explosives without obtaining a license or in a manner to be contrary to the terms and restrictions specified in the license, even if, obtained. 
+
+**Explanation** : For the purposes of this Act:,- 
+
+
+
+- (a) "explosives” means I.E.D., T.N.C. Amatol, Barotol, Pentolite, rapid detonative explosive (RDX),  tore fex, blastic explosives, dynamite, gun powder, nitroglycerin, gelignite, stemite, selsite, detonator, blastic cap, electronic blastic cap, fuse, fireworks, cracker, gun cotton, gun powder, ballistic powder, mercury or fullunet made of any other metal, any other explosive substance of similar nature, which is capable of exploding and causing loss, or any substance so specified by the Government of Nepal by a notification in the Nepal Gazette, and this term also includes a bomb. 
+
+
+
+- (b) "bomb" means a grenade so made of any explosive or any means, formula, process or measure as to selfdetonate or detonate with the help of other substance, or other object containing explosive or substance of similar nature. 
+
+86 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to the following sentence: 
+
+- (a) Imprisonment for a term not exceeding ten years and a fine not exceeding one hundred thousand rupees, in the case of high explosives, 
+
+- (b) Imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees, in the case of low explosives, 
+
+- (c) Imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees, in the case of ordinary explosives, 
+
+
+
+- (d) Imprisonment for a term not exceeding two years and a fine not exceeding twenty thousand rupees, in the case of a person who produces, uses, retains or otherwise transacts any equipment, machinery or instrument for producing or manufacturing explosives. 
+
+## **Explanation** : For the purposes of this Chapter,- 
+
+- (1) "high explosives" means dynamite, nitroglycerin, TNC, gelignite mornqtarlab, mercury fullunet, R.D.X. amatol, barotol, pentolite, stemite, selsightal, blastic explosive bomb and other explosive of similar nature. 
+
+- (2) "low explosives" means blastic powder, gunpowder, gun cotton, mercury or fullunet made 
+
+87 
+
+of any other metal and other explosive of similar nature. 
+
+   - (3) "ordinary explosives" means detonator, blastic cap, electronics blastic cap, fuse, firework, cracker and other explosives of similar nature. 
+
+**139. Prohibition of transaction of explosives** : (1) No person shall transact explosives without obtaining a license or in a manner to be contrary to the terms and restrictions specified in the license, even if, obtained. 
+
+**Explanation** : For the purposes of this Chapter, the term "transaction" means procurement, sale, retention, use, stockpiling, storage, transport, alteration, mixing, export or import. 
+
+- (2) A person who commits the offence referred to in sub- 
+
+- section (1) shall be liable to the following sentence: 
+
+   - (a) Imprisonment for a term not exceeding ten years and  a fine not exceeding one hundred thousand rupees, in the case of high explosives, 
+
+
+
+   - (b) Imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees, in the case of low explosives, 
+
+   - (c) Imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees, in the case of ordinary explosives. 
+
+**140. Prohibition of making or using artificial explosives:** (1) No person shall alter or modify any ordinary consumable goods to be used or consumed by the public or physical or chemical characters of 
+
+88 
+
+such goods, through any physical or chemical process, formula, measure or method or change the form, structure or shape thereof, and use or caused to be used, the same as a bomb of any type or any other explosives. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences. 
+
+**141. Prohibition of making land mines or laying explosives:** (1) No person shall lay or place any explosive, any inflammable substance or making an electronic ambush in a public road or way, place, building, bridge, tunnel or any other place for the public movement or cause obstruction to the movement or use of any other public utilities by placing such substance or making an ambush. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding ten years and a fine not exceeding one hundred thousand rupees. 
+
+(3) Where any injury or loss is caused to the body, life or property of any one from the commission of the offence referred to in sub-section (1), the sentence referred to in -sub-section (2) shall be added to the sentence which is imposable by this Act on the offender for such injury or loss. 
+
+
+
+**142. Obligation to maintain records of production or transaction:** (1) A person who has obtained a licence for the production or transaction of explosives shall, in producing, manufacturing, 
+
+89 
+
+preparing or transacting such explosives, maintain separate records of every production or transaction of every explosive. 
+
+(2) The records referred to in sub-section (1) shall set out, _inter alia_ , the following matters: 
+
+   - (a) Type, description and quantity of the explosives produced, prepared or manufactured, 
+
+   - (b) In the case of the transaction of explosives, the purpose for which such transaction has been made, 
+
+   - (c) In the case of the sale and distribution of explosives, the purchaser’s name, the purpose, and quantity of, such sale and distribution. 
+
+- (3) A person who carries out the transaction of explosives 
+
+- shall, when so asked, show the records referred to in sub-section (1) to the competent authority controlling or administering explosives, the investigating or prosecuting authority or the court. 
+
+(4) A person who does, or causes to be done, any act contrary to this Section shall be liable to imprisonment for a term not exceeding three months or a fine not exceeding five thousand rupees or both the sentences. 
+
+**143. Obligation to take care while importing, transporting or stockpiling explosives:** (1) A person who licensed to carry out the transaction of explosives shall, in using, carrying, transporting or stockpiling such explosives, so use such explosives as to ensure adequate safety according to the nature of such explosives or carry, transport or stockpile such explosives, having kept them in appropriate magazines. 
+
+90 
+
+(2) A person who does, or causes to be done, any act contrary to sub-section (1) shall be liable to a fine not exceeding fifty thousand rupees. 
+
+## **144. Forfeiture of movable or immovable property related to offence:** 
+
+In the event of the commission of any offence referred to in this Chapter, any explosives related to such offence, goods, equipment, instrument or raw materials used for producing, preparing or manufacturing such explosives, motor vehicle or means of transport used in the transportation or carriage of such explosives and proceeds of the production, preparation, manufacturing or transaction of such explosives and amount accrued or accumulated therefrom shall be forfeited. 
+
+Provided that where the owner of the motor vehicle or means of transport proves that he or she did not know the transportation of the explosives, such vehicle or means of transport shall not be forfeited. 
+
+**145. Order for compensation to be paid:** Where any harm or loss is caused to the life, or any property, of any one from the commission by a person of any of the offences under this Chapter, reasonable compensation for such harm or loss shall be ordered to be paid by the offender to the victim. 
+
+**146. Statute of limitation** : No complaint shall lie after the expiry of three months from the date of commission of any of the offences under Section 143 and after the expiry of six months from the date of knowledge of commission of any of the other offences under this Chapter. 
+
+91 
+
+## **Chapter-8** 
+
+## **<u>Offences against National and Public Heritages</u>** 
+
+**147. Prohibition of owning public building, land by individual:** (1) No person shall, without prior approval of the Government of Nepal or State Government or Local Level, obtain ownership of the following building or land, whether making its registration or not, or otherwise occupy, cultivate or encroach, or hinder or obstruct, in any way, the possession or use of, such building or land: 
+
+      - (a) Any government building or land held in the name of the Government of Nepal, State Government or Local Level or a public body under the full or majority ownership or control of the Government of Nepal, State Government or Local Level, 
+
+      - (b) Any community or public house or land which has been under community or public possession and use from time immemorial. 
+
+   - (2) A person who commits, or causes to be committed, an 
+
+   - offence referred to in sub-section (1) shall be liable to imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences. 
+
+(3) Where any building, land mentioned in sub-section (1) has already been registered in, or transmitted to, the name of any individual, such registration or transmission also shall, _ipso facto_ , be void. 
+
+**148. Prohibition of owning public heritage by individual:** (1) No person shall obtain the ownership of any public heritage, whether 
+
+92 
+
+making its registration or not, or hinder or obstruct, in any way, the public possession or use of, or otherwise occupy, cultivate or encroach such heritage, or cause harm, loss or damage to such heritage in any way. 
+
+**Explanation:** For the purposes of this Section, the term “public heritage” means any of the following heritages: 
+
+- (a) A right of way that has been in public use from time immemorial, 
+
+- (b) A road, pasture land, water body, graveyard, crematory, water tap, spout, well, pond, edge of pond, spring of drinking water, canal, water channel, meadow for animal grazing or exit for animals, that has been in the public use, 
+
+- (c) A place where market is held, 
+
+- (d) A divine place, shrine, temple, _<u>Stupa</u>_ <u>, monastery,</u> mosque or church, 
+
+- (e) A public rest house, _Pauwa, Sattal, Chautaro_ , 
+
+
+
+- (f) A historical statue, monument, cultural monument or memorial, 
+
+- (g) A place for organizing religious or cultural functions or ceremonies, 
+
+- (h) A national forest designated by the Government of Nepal or forest, or any part thereof, under ownership of the Government of Nepal, State Government or Local Level. 
+
+93 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding five years or a fine not exceeding fifty thousand rupees or both the sentences. 
+
+(3) Where any public heritage referred to in sub-section (1) has already been registered in, or transmitted to, the name of any individual, such registration or transmission also shall, _ipso facto_ , be void. 
+
+**149. Prohibition of encroachment of natural heritages:** (1) No person shall, except in accordance with law, encroach or possess, in any way, any natural heritage, or sell or distribute such heritage, or cause any harm, loss or damage to its natural structure or beauty, in any way. 
+
+**Explanation:** For the purposes of this Section, the term “natural heritage” means any of the following heritages: 
+
+(a) A national park, wildlife or hunting reserve designated by the Government of Nepal for the protection of the natural environment, vegetation and wildlife, 
+
+(b) A conservation area designated by the Government of Nepal, river, rivulet, stream, lake, wetland or natural water-fall, snow-peak or any part thereof, higher mountain peak, 
+
+(c) A wildlife, vegetation or landscape protected by the law in force or the Government of Nepal, State Government or Local Level, 
+
+94 
+
+- (d) A habitat of wildlife protected by the Government of Nepal, State Government or Local Level, eco-system, or any medicinal herb which is prohibited for sale, distribution, export or import. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding ten years and a fine equal to the claimed amount if such amount is specified and a fine not exceeding one million rupees if such amount is not specified or both the sentences. 
+
+**150. Prohibition of possession or destruction of public physical infrastructure in unauthorized manner** : (1) No person shall, except in accordance with law, possess, in an unauthorized manner, any public physical infrastructure or prevent any one from using such infrastructure, or, cause any harm or loss to such infrastructure, in any way. 
+
+**Explanation:** For the purposes of this Section, the term “public physical infrastructure” means the following infrastructure to be publicly used: 
+
+
+
+- (a) A road, way, bridge, tunnel, airport, 
+
+- (b) A water reservoir, canal, spring of drinking water, and pond, power house, electricity transmission center or line thereof, 
+
+- (c) A ropeway, cable car, telecommunication equipment, radio station, television broadcasting center and tower thereof, 
+
+95 
+
+- (d) A rail and railway; 
+
+- (e) A public bus station, public park, or 
+
+- (f) Similar other structure. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding ten years and a fine not exceeding one hundred thousand rupees. 
+
+**151. Prohibition of dishonoring or destroying national anthem, flag or coat-of-arms** : (1) No person shall, with intention to spread hatred against Nepal or the Government of Nepal, dishonor the national anthem of Nepal, burn, or knowingly dishonor, the flag of Nepal, or use such anthem, flag or coat-of-arms of Nepal at such place, on such object or condition as it is not appropriate for its use in view of public morality, decency or courtesy. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences. 
+
+(3) No person shall, with intent to spread hatred against, or dishonor a country with which Nepal has friendly relation, burn or knowingly misuse such country's national flag or misuse such flag or the coat-of-arms of such country or use such flag or coat-of-arms at such place, on such object or condition as it is not appropriate for its use in view of public morality, decency or courtesy. 
+
+
+
+(4) No person shall, with intent to make hatred against or dishonor the United Nations Organization or any organization associated with, or 
+
+96 
+
+specialized agency of, the United Nations Organization or any international or regional organization of which Nepal is a member, misuse in any way the flag or emblem of such Organization, or use such flag or logo, motor vehicle or other object of such Organization without approval of such Organization. 
+
+(5) A person who commits, or causes to be committed, the offence referred to in sub-section (3) or (4) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+**152. Not to insult national figures/heroes:** (1) No person shall knowingly make hatred against, dishonor or defame, any national figure/ **hero** specified by the Government of Nepal or demolish, cause loss or damage to the statue, monument or memorial of such **figure/hero** . 
+
+Provided that any comment made in good faith in the context of a study, research or evaluation of the life of such **figure/hero** shall not be considered to be an offence referred to in this Section. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding six months or a fine not exceeding five thousand rupees or both the sentences. 
+
+
+
+**153. Order for compensation to be paid:** Where any harm or loss is caused from the commission of any offence referred to in Section 150, reasonable compensation for such harm or loss shall be ordered to be paid by the offender. 
+
+97 
+
+**154. Statute of limitation** : There shall be no statute of limitation for filing a complaint in relation to any of the offences under Sections 147, 148 and 149, and no complaint shall lie after the expiry of six months from the date of commission of any of the offences under the other Sections of this Chapter. 
+
+
+
+98 
+
+## **Chapter-9** 
+
+## **<u>Offences Relating to Religion</u>** 
+
+**155. Prohibition of injuring shrines or places held sacred:** (1) No person shall damage or injure or, in any way, defile, destroy or pollute any place of religious worship, pray or function or place, object held sacred or burial place or place of sepulture or do similar other act with intent to outrage or insult the religion or religious feelings of any caste, race, community or class or with the knowledge that such outrage or insult is likely to occur. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+(3) Where a foreigner has committed, or caused to be committed, the offence referred to in sub-section (1), he or she shall be deported from Nepal within seven days after the date of completion of the service of imprisonment under sub-section (2). 
+
+**156. Prohibition of outraging religious feelings** : (1) No person shall outrage the religious feelings of any caste, race, community or class by words, either spoken or written, by visible representation or signs or otherwise. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding two years and a fine not exceeding twenty thousand rupees. 
+
+99 
+
+**157. Prohibition of causing obstruction to religious rites and rituals** : (1) No person shall knowingly cause obstruction to other's religious rites and rituals that are handed down or being followed from the time immemorial. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+**158. Prohibition of proselytizing:** (1) No person shall convert any one from one religion to another or make attempt to or abet such conversion. 
+
+(2) No person shall do any act or conduct which undermines the religion, opinion or faith of any caste **,** race, community or convert any one into another religion, whether by inducement or not, in a manner to so undermine or propagate such religion or opinion with the intention of making such conversion. 
+
+(3) A person who commits, or causes to be committed, the offence referred to in sub-section (1) or (2) shall be liable to a sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees. 
+
+(4) If a foreigner commits, or causes to be committed, the offence referred to in sub-section (1) or (2), he or she shall be deported from Nepal within seven days after the date of completion of the service of imprisonment imposed under this Section. 
+
+
+
+**159. Statute of limitation:** No complaint shall lie after the expiry of six months from the date of knowledge of commission of the offence under Section 158 and from the date of commission of any of the other offences under this Chapter. 
+
+100 
+
+## **Chpater-10** 
+
+## **<u>Offences Relating to Discrimination and Other Degrading Treatment</u>** 
+
+**160. Prohibition of making discriminatory treatment** : (1) Except as otherwise provided by laws, no authority who exercises power under law shall, in the exercise of such power or a general law, intentionally make a discriminatory treatment against any citizen on grounds of origin, religion, color, caste, race, sex, physical condition, disability, condition of health, marital status, pregnancy, economic condition, language or region, ideology or on similar other grounds. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences. 
+
+**161. Prohibition of purchasing, selling or distributing goods or service with discrimination** : (1) No person, in purchasing, selling or distributing any goods or services, shall purchase, sell or distribute such goods or services from or to only any person belonging to any particular caste, race or community or omit to provide, sell or distribute such goods or services to any person belonging to any particular caste, race or community. 
+
+
+
+Provided that where a person, with the approval of the competent authority under law, provides, sells or distributes any particular goods or services to **only** any person belonging to any particular caste, race or community, for the protection of interest and development of a class which is economically, socially or 
+
+101 
+
+educationally backward, such person shall not be considered to have committed the offence under this Section. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+**162. Prohibition of forced labour:** (1) No person shall force any one to work against his or her will. 
+
+Provided that this Section shall not be deemed to bar the engaging of any one in labor for a public work in accordance with law. 
+
+(2) A person who commits, or causes to be committed, the offence under sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three months or a fine not exceeding five thousand rupees or both the sentences. 
+
+**163. Prohibition of slavery:** (1) No person shall subject any one to slavery or servitude or hold or employ him or her in such status or subject, or cause to be subjected, him or her to any other kind of treatment similar thereto. 
+
+   - (2) A person who commits, or causes to be committed, the 
+
+   - offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term of five to ten years and a fine of fifty thousand to one hundred thousand rupees. 
+
+**164. Prohibition of serfdom or debt bonded labour** : (1) No person shall subject any one to, or hold any one in, serfdom or debt bonded labour for any kind of consideration or employ any one in the status 
+
+102 
+
+of serfdom or bonded labour, or subject, or cause to be subjected, him or her to any other kind of treatment similar thereto. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term from three to seven years and a fine from thirty thousand to one hundred thousand rupees. 
+
+**165. Prohibition of undermining social rites and rituals** : (1) No person shall, by way of misrepresentation or use of force, do, or cause to be done, any act which undermines or results in the undermining of the social rites and rituals of any one. 
+
+**Explanation:** For the purposes of this Section, any rites and rituals constituting racial discrimination shall not be considered to be social rites and rituals. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+**166. Prohibition of untouchability or discriminatory treatment on ground of caste:** (1) No person shall subject any one to untouchability or any other kind of discrimination, or prevent any one from appearing in any public place or entering into any religious place of public nature, or deprive any one of using water or water pond in public use or of the use of things of any other private or public utility or convenience, on the grounds of custom, tradition, religion, culture, rites or rituals, caste, race, community, profession, occupation, physical condition or origin of social community. 
+
+103 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences, and if a public servant commits the offence referred to in this Section, he or she shall be liable to an additional sentence of imprisonment for a term not exceeding three months. 
+
+**167. Prohibition of torture:** (1) No authority who is competent under the law in force to investigate or prosecute any offence, implement law, take any one into control, or hold any one in custody or detention in accordance with law shall subject, or cause to be subjected, any one to physical or mental torture or to cruel, brutal, inhuman or degrading treatment. 
+
+**Explanation:** For the purposes of this Section, intentional inflicting of physical or mental pain or suffering on any person who is arrested, taken into control, held in custody, detention or imprisonment or under preventive detention or security or any other person interested in such person or subjecting such person to cruel, brutal, inhuman or degrading treatment or punishment for the following purpose shall be considered to constitute torture or cruel, brutal, inhuman or degrading treatment or punishment against or to such person: 
+
+
+
+- (a) To get information on any matter, 
+
+- (b) To extort confession of any offence, 
+
+- (c) To punish for any act, 
+
+- (d) To show fear, intimidation or coercion, or 
+
+104 
+
+(e) To do any other act contrary to law. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding five years or a fine not exceeding fifty thousand rupees or both the sentences, according to the gravity of the offence. 
+
+(3) A person who orders the commission of the offence referred to in sub-section (1) or an accomplice who aids in the commission of the offence referred to in this Section shall be liable to the same sentence as is imposable on the principal offender. 
+
+(4) No person who commits the offence referred to in subsection (1) shall be allowed to plea that he or she has committed the offence in pursuance of an order by the authority superior to him or her; and, on such ground, he or she shall not be exempted from the sentence imposable on him or her for the commission of such offence. 
+
+**168. Prohibition of degrading or inhuman treatment:** (1) No person shall subject, or cause to be subjected, any one to degrading or inhuman treatment. 
+
+**Explanation:** For the purposes of this Section, the following act shall be deemed to constitute a degrading or inhumane treatment: 
+
+
+
+- (a) To accuse one of being a witch, 
+
+- (b) To expel one from his or her place of residence in accusation of being a witch, 
+
+- (c) To ex-communicate one from the society, or 
+
+105 
+
+- (d) To make cruel, inhuman or degrading treatment by doing any other act whatsoever. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees. 
+
+(3) Banishing a woman to a shed ( _Chhaupadi_ ) during menstruation or delivery, or subjecting, causing to be subjected, her to similar other discrimination, untouchability or inhuman treatment of any kind is prohibited. 
+
+(4) A person who commits the offence referred to in subsection (3) shall be liable to a sentence of imprisonment for a term not exceeding three months or a fine not exceeding three thousand rupees or both the sentences. 
+
+(5) Where a public servant commits the offence referred to in this Section, he or she shall be liable to an additional sentence of imprisonment for a term not exceeding three months. 
+
+**169. Order for compensation to be paid:** A reasonable compensation for the injury or pain caused to the victim shall be ordered to be paid by the person who has committed the offence referred to in this Chapter. 
+
+**170. Statute of limitation** : (1) There shall be no statute of limitation for making a complaint in relation to any of the offences referred to in Sections 163 and 164. 
+
+(2) No complaint shall lie after the expiry of six months from the date of commission of the offence referred to in Section 167 
+
+106 
+
+or from the date of release of the concerned person from arrest, control, custody, detention, imprisonment or preventive detention and from the date of knowledge of commission of any of the other offences referred to in this Chapter. 
+
+
+
+107 
+
+## **Chapter-11** 
+
+## **<u>Offences Relating to Marriage</u>** 
+
+**171. Prohibition of concluding marriage without consent** : (1) No marriage shall be concluded, or caused to be concluded, without the consent of the persons getting married. 
+
+(2) A marriage concluded without the consent referred to in sub-section (1) shall be void. 
+
+(3) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding two years and a fine not exceeding twenty thousand rupees. 
+
+**Explanation:** For the purposes of this Section, a consent given by a person who has not attained the marriageable age under Section 173 shall not be deemed to be consent. 
+
+**172. Prohibition of concluding marriage in prohibited degree of relationship:** (1) Except as otherwise customarily practiced, no person shall conclude, or cause to be concluded, marriage with one who is within the prohibited degree of relationship by consanguinity or affinity. 
+
+(2) Where a marriage referred to in sub-section (1) has been concluded in ignorance, such marriage shall be void. 
+
+(3) Where a marriage referred to in sub-section (1) has been concluded knowingly, the person concluding such marriage shall be liable to the sentence imposable for the offence of incest and a person causing the conclusion of such marriage shall be liable to a sentence of imprisonment for a term not exceeding three months or a 
+
+108 
+
+fine not exceeding three thousand rupees or both the sentences, and such marriage shall, _ipso facto_ , be void. 
+
+**173. Prohibition of concluding child marriage** : (1) No marriage shall be concluded or cause to be concluded unless parties to the marriage have attained twenty years of age. 
+
+(2) A marriage concluded in contravention of sub-section (1) shall, _ipso facto_ , be void. 
+
+(3) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+**174. Prohibition of transacting property in marriage** : (1) No marriage shall be concluded, or caused to be concluded, upon having asked for, or on the condition of receiving or giving of, any type of movable or immovable property, dowry or any property from the bridegroom or the bride side, except such ordinary gift, donation, money or one set of jewelry worn on the body as has been practiced in his or her custom. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences. 
+
+
+
+(3) No person shall, after the conclusion of marriage, ask the bride or her relative for any movable, immovable property or dowry referred to in sub-section (1), or make, in any way, any annoyance, harassment or inhuman or degrading treatment to the 
+
+109 
+
+bride or her relative for the reason that such movable, immovable property or dowry has not been given. 
+
+(4) A person who commits the offence referred to in subsection (3) shall be liable to a sentence of imprisonment for a term not exceeding five years or a fine not exceeding fifty thousand rupees or both the sentences. 
+
+(5) Where any property has been taken as mentioned in sub-section (1) or (3), such property shall be returned to the concerned person. 
+
+**175. Prohibition of bigamy:** (1) No married man shall, during the continuation of the marital relationship, conclude another marriage. 
+
+(2) No woman shall conclude marriage with a man knowingly that he is already married. 
+
+(3) Notwithstanding anything contained in sub-section (1) or (2), a man or woman may marry again if the husband and wife have got separated upon making partition in accordance with law. 
+
+(4) A person who commits, or causes to be committed, the offence referred to in sub-section (1) or (2) shall be liable to a sentence of imprisonment for a term of one year to five years and a fine of ten thousand to fifty thousand rupees. 
+
+
+
+(5) The marriage referred to in sub-section (1) shall, _ipso facto_ , be void. 
+
+(6) Notwithstanding anything contained elsewhere in this Section, nothing contained in this Section shall be deemed to have effect on any marriage concluded in accordance with the law in force for the time being prior to the commencement of this Act. 
+
+110 
+
+**176. Statute of limitation:** No complaint on any offence under this Chapter shall lie after the expiry of three months from the date of knowledge of the commission of the offence. 
+
+
+
+111 
+
+## **Chapter-12** 
+
+## **<u>Offences Relating to Human Body</u>** 
+
+**177. Prohibition of doing act with the intention of causing death (homicide):** (1) No person shall intentionally kill, or do, or cause to be done, any act causing the death of, another person. 
+
+**Explanation:** For the purposes of this Section, even if a person intentionally causes such serious bodily injury or hurt to another person as is likely to cause the death of that other person but that person does not die immediately but die subsequently in consequence of that injury or hurt, the person shall be considered to have killed that other person. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to the sentence of imprisonment for life. 
+
+**178. Prohibition of doing act likely to cause death:** (1) No person shall do any act, with the knowledge that, or having reason to believe that, such act is, in an ordinary course, likely to cause the death of another person. 
+
+(2) If a person dies in consequence of any act referred to in sub-section (1), the offender shall be liable to the sentence of imprisonment for life. 
+
+
+
+**179. Prohibition of causing death by grave provocation or in heat of passion** : (1) Notwithstanding anything contained in Section **177** or 178, a person who causes the death of another person in any of the following circumstances shall be liable to a sentence of 
+
+112 
+
+imprisonment for a term of ten to fifteen years and a fine of one hundred thousand to one hundred fifty thousand rupees: 
+
+- (a) Where the offender, while being deprived of the power of self-control by grave and sudden provocation, causes the death of the person who gave such provocation, 
+
+   - Provided that this clause shall not apply to the 
+
+   - following circumstance: 
+
+      - (1) Where the offender is provoked by anything done in obedience to the law or in the exercise of the right of private defense or anything done or intended to be done by a public servant in the exercise of his or her official duties, 
+
+      - (2) Where the offender himself or herself gives provocation to another with intent to do harm to any one and anything done by that other person upon being so provoked causes the death of any person. 
+
+- (b) Where the offender in the exercise in good faith of the right of private defence exceeds the limit of such power and causes the death of the person against whom he or she is exercising such right of private defence, 
+
+- (c) Where death is caused instantly in the heat of passion upon a sudden quarrel, 
+
+113 
+
+Provided that while doing any act referred to in this clause, the offender must not have taken an undue advantage or acted in a cruel or unusual manner. 
+
+(2) Notwithstanding anything contained in clauses (b) and (c) of sub-section (1), the provisions contained in these clauses shall not be applicable to any case of murder committed with premeditation or deliberate afterthought. 
+
+**180. Punishment for homicide by causing death of person other than person whose death was intended:** Notwithstanding anything contained in Sections 177, 178 and 179, where a person, by doing anything which he or she intends to cause or knows to be likely to cause or has reason to believe to be likely to cause death of any one other than the one whose death was so intended, he or she shall be liable to the sentence set forth in Sections 177, 178 and179, as the case may be. 
+
+**181. Prohibition of causing death by recklessness:** (1) No person shall cause the death of any one by doing a reckless act. 
+
+(2) A person who commits the offence referred to in subsection (1) shall, except in the cases referred to in Sections 177, 178 and 179, be liable to a sentence of imprisonment for a term of three to ten years and a fine of thirty thousand to one hundred thousand rupees. 
+
+
+
+**182. Prohibition of causing death by negligence:** (1) Except in the case referred to in Section 179, no person shall cause the death of any one by doing a negligent act. 
+
+114 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+(3) Except in the case referred to in sub-section (1), if any act done by a person under such circumstances that such act is less likely to cause death causes the death of any one accidently, that person shall be liable to a sentence of imprisonment for a term of six months to two years or a fine not exceeding twenty thousand rupees or both the sentences. 
+
+**183. Prohibition of committing attempt to murder:** (1) No person shall, with the intention of committing murder of anyone, commit an attempt to murder. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding ten years and a fine not exceeding one hundred thousand rupees. 
+
+**184. Prohibition of throwing or abandoning person under one's own guardianship:** (1) A person, being bound to care or maintain an infant, child, disabled patient or elderly person, shall not so throw, abandon or desert as to cause danger to the body or life of such infant, child, patient or elderly person. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+115 
+
+(3) If the offence referred to in sub-section (1) causes the death of such child, disabled patient or elderly person, the offender shall be liable to a sentence of imprisonment for a term not exceeding seven years and a fine not exceeding seventy thousand rupees. 
+
+Provided that if the throwing, abandonment or neglect causes the death of an infant, the offender shall be liable to the sentence referred to in Section 177. 
+
+**185. Prohibition of abetment of suicide** : (1) No person shall abet the commission of suicide by another, or create, or cause to be created, such circumstances as likely to lead towards the commission of such act. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees. 
+
+**186. Order for compensation to be paid:** If any harm, injury or loss is caused to the body, life or property of any person from the commission of any offence referred to in this Chapter, a reasonable compensation for such harm, injury or loss shall be ordered to be paid by the offender to the victim and to his or her successor if the victim is unavailable. 
+
+**187. Statute of limitation** : (1) There shall be no statute of limitation for making a complaint in relation to any of the offences under Sections 177, 178, 179, 180, 181, 182, and proviso to sub-section (3) of Section 184. 
+
+116 
+
+(2) No complaint shall lie after the expiry of six months from the date of knowledge of the commission of any of the offences under this Chapter other than those set forth in sub-section (1). 
+
+
+
+117 
+
+## **Chapter-13** 
+
+## **<u>Offences against Protection of Pregnancy</u>** 
+
+**188. Prohibition of abortion:** (1) No person shall, except in the case referred to in Section 189, commit abortion, or do any act with intent to cause, or with the knowledge that, or having reason to believe that, such act is likely to cause, abortion. 
+
+   - (2) No person shall cause a pregnant woman to abort, by 
+
+   - coercing, threatening, alluring or inducing her to so abort **.** 
+
+   - (3) A person who commits the offence referred to in sub- 
+
+   - section (1) or (2) shall be liable to: 
+
+      - (a) A sentence of imprisonment for a term not exceeding one year and a fine not exceeding ten thousand rupees in the case of pregnancy of up to twelve weeks, 
+
+      - (b) A sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees in the case of pregnancy of more than twelve weeks and up to twenty-five weeks, 
+
+
+
+- (c) A sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees in the case of pregnancy of more than twenty-five weeks. 
+
+(4) If the pregnancy is not terminated at once by an act of abortion and the child born alive but the child dies immediately after birth as the consequence of such act, such act shall, for the purposes of this Section, be deemed to constitute the offence of abortion. 
+
+118 
+
+(5) If an act done by a person in making attempt to cause the death of a pregnant woman does not cause the death of the woman but causes the termination of her pregnancy of twenty-five weeks or more, the offender shall be liable to a sentence of imprisonment for a term not exceeding five years, in addition to the sentence to be imposed under this Act or other law. 
+
+(6) Notwithstanding anything contained elsewhere in this Section, if any act done by a person with premeditation against a pregnant woman causes abortion, that person shall be liable to the following sentence despite the fact that he or she has not done such act with the intention of causing abortion: 
+
+   - (a) A sentence of imprisonment for a term not exceeding one year in the case of pregnancy of up to twelve weeks, 
+
+   - (b) A sentence of imprisonment for a term not exceeding three years in the case of pregnancy of more than twelve weeks and up to twenty-five weeks, 
+
+   - (c) A sentence of imprisonment for a term not exceeding five years in the case of pregnancy of more than twentyfive weeks. 
+
+- (7) No person shall, with the intention of causing abortion, 
+
+- do, or cause to be done, any act by which the sex of the foetus is identified, and abort or cause abortion following such sex identification. 
+
+
+
+(8) A person who commits the offence referred to in subsection (7) shall be liable to: 
+
+119 
+
+   - (a) A sentence of imprisonment for a term of three months to six months, in the case of the offence of identifying, or causing identification of, the sex of the foetus with the intention of causing abortion, and 
+
+   - (b) A sentence of imprisonment for a term not exceeding one year, in addition to the sentence specified in subsection (3), in the case of the offence of aborting or causing abortion after identifying the sex. 
+
+**189. When abortion can be made:** (1) Notwithstanding anything contained in Section 188, where a health worker causes abortion in any of the following circumstances, no offence of abortion under this Act shall be deemed to have been committed: 
+
+   - (a) The pregnancy of up to twelve weeks is terminated with the consent of the pregnant woman, 
+
+   - (b) The pregnancy is terminated with the consent of the pregnant woman, upon the opinion of a licensed doctor that her life may be in danger or her physical or mental health may deteriorate or a handicapped child will born if pregnancy is not terminated, 
+
+
+
+- (c) The pregnancy of up to eighteen weeks conceived from rape or incest is terminated with the consent of the pregnant woman, 
+
+- (d) The pregnancy of a woman with human immunedeficiency virus (HIV) or other incurable disease of similar nature is terminated with her consent. 
+
+120 
+
+**Explanation** : For the purposes of this Section, the term "health worker" means a doctor or health worker who, upon having the specified qualification, has obtained a license for causing abortion. 
+
+**190.    Statute of limitation:** No complaint shall lie after the expiry of six months from the date of knowledge of commission of the offence under this Chapter. 
+
+
+
+121 
+
+## **Chapter-14** 
+
+## **<u>Offences Relating to Hurt or Grievous Hurt</u>** 
+
+**191. Prohibition of causing hurt:** (1) No person shall cause hurt to another person. 
+
+(2) A person who does any of the following acts to another person shall be deemed to cause hurt: 
+
+- (a) Any act by which any kind of bodily pain is caused, 
+
+- (b) Any act by which a disease is transferred, 
+
+- (c) Any other act by which infirmity is caused. 
+
+**Explanation:** For the purposes of this Section, the term "infirmity" means the state of any part of the body being incapable of functioning normally, and this term also includes mental infirmity. 
+
+(3) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences. 
+
+**192. Prohibition of causing grievous hurt:** (1) No person shall cause grievous hurt to any other person. 
+
+(2) Where any person does any act with the intention of causing hurt to another person, which results in any of the following consequences, that person is deemed to have committed the offence of causing grievous hurt to that other person: 
+
+- (a) Making blind by making privation of the sight of, or by breaking, either eye, 
+
+- (b) Privation of smelling power of the nose, 
+
+122 
+
+   - (c) Privation of hearing power of either ear, 
+
+   - (d) Privation of speaking power of the tongue, 
+
+   - (e) Cutting of woman's breast, 
+
+   - (f) Emasculation of man and woman (making woman infertile or man impotent), 
+
+   - **(g) Privation of the backbone, …, hand, leg or joint of such organ by breaking, fracturing, dislocating it,** 
+
+   - (h) Any hurt which causes the sufferer to be unable to perform his or her professional work. 
+
+- (3) Where any act of hurt, though not causing grievous hurt 
+
+- immediately, results subsequently in the consequence referred to in sub-section (2), it shall be deemed to have caused grievous hurt. 
+
+(4) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding ten years and a fine not exceeding one hundred thousand rupees. 
+
+(5) Notwithstanding anything contained in sub-section (4), in the case of so causing grievous hurt to either of the organs performing the same function that it becomes dysfunctional, the offender shall be liable to half the sentence specified in that subsection, and where the wound caused by grievous hurt gets so healed as to restore the organ, the offender shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+
+
+123 
+
+**193. Prohibition of causing disfigurement by use of acid or other chemical, biological or toxin substance:** (1) No person shall cause bodily pain to another person by administering acid or similar kind of other chemical, biological or toxin substance to, or throwing such substance on, that other person, or by burning, maiming, strolling the body with or applying to the body such substance or disfigure the face or any part of the body of that other person. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable, according to the nature of the offence, to a sentence of imprisonment for a term of five to eight years and a fine of one hundred thousand to five hundred thousand rupees in the case of disfigurement of the face, and to a sentence of imprisonment for a term of three to five years and a fine of fifty thousand to three hundred thousand rupees in the case of disfigurement of any other organ of the body or bodily pain. 
+
+(3) The amount of fine collected in accordance with subsection (2) shall be paid in whole to the victim as compensation. 
+
+**194. Sentence for causing hurt or grievous hurt by grave provocation or in heat of passion** : (1) Notwithstanding anything contained in Section 191 or 192, a person who causes hurt in any of the following circumstances shall be liable to a sentence of imprisonment for a term not exceeding two years or a fine not exceeding twenty thousand rupees or both the sentences in the case of a grievous hurt, and to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences in the case of any other kind of hurt: 
+
+124 
+
+- (a) Where the offender, while being deprived of the power of self-control by grave and sudden provocation, causes hurt to the person who gave such provocation or to any other person by a mistake of fact or happens to cause injury to another person by accident. 
+
+Provided that this clause shall not apply to the following circumstance: 
+
+- (1) Where the offender causes hurt upon being provoked by anything done in obedience to the law or in the exercise of the right of private defence or any anything done or intended to be done by a public servant in the exercise of his or her official duties, 
+
+
+
+- (2) Where the offender himself or herself gives provocation to another with intent to cause any harm to any one and anything done by that other person upon being so provoked causes hurt to any person. 
+
+
+
+- (b) Where the offender in the exercise in good faith of the right of private defence exceeds the limit of such power and causes injury to any person, 
+
+- (c) Where hurt is caused to any person instantly in the heat of passion upon a sudden quarrel, 
+
+Provided that while doing any act referred to in this clause, the offender must not have taken an undue advantage or acted in a cruel or unusual manner. 
+
+125 
+
+(2) Notwithstanding anything contained in clauses (b) and (c) of sub-section (1), the provisions contained in these clauses shall not be applicable to any case of hurt or grievous hurt caused with premeditation or deliberate afterthought. 
+
+**195. Prohibition of causing hurt or grievous hurt by recklessness or negligence:** (1) No person shall cause hurt or grievous hurt or other injury to any one by doing a reckless or negligent act. 
+
+   - (2) A person who commits the offence referred to in sub- 
+
+   - section (1) shall be liable to the following sentence: 
+
+      - (a) A sentence of imprisonment for a term not exceeding two years or a fine not exceeding twenty thousand rupees or both the sentences, in the case of a grievous hurt caused by a reckless act, and a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences, in the case of any other kind of injury caused by a reckless act, 
+
+      - (b) A sentence of imprisonment for a term not exceeding six months or a fine not exceeding five thousand rupees or both the sentences in the case of the commission of such offence by a negligent act. 
+
+
+
+**196. Prohibition of using criminal force:** (1) No person shall use criminal force to another person. 
+
+   - (2) A person shall be considered to use criminal force to 
+
+   - another person if he or she does any of the following acts: 
+
+126 
+
+- (a) To use any kind of force to that other person with the intention of committing an offence, 
+
+- (b) To use force to that other person with the intention of causing, or knowing it to be likely that the use of such force will cause, injury, fear or annoyance to that other person or his or her family or property, 
+
+- (c) To terrify that other person to apprehend that force will be used to him or her or to threat or intimidate to use force, or attempt to use force, in any other manner, to him or her. 
+
+(3) Notwithstanding anything contained elsewhere in this Section, the use of any force, with one's consent, in the course of imparting teaching, instruction or training on the concerned subject, conducting acting or treatment of any kind or in a manner to render benefit or the use of force of usual nature in the course of having any kind of game shall not be considered to be the use of criminal force. 
+
+Provided that the provision of this sub-section shall not apply to any malicious use of force to cause injury to any one. 
+
+(4) A person who uses, or causes to be used, criminal force shall be liable to a sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences, in the case of using criminal force by carrying a weapon, and to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences, in the case of using criminal force without carrying a weapon. 
+
+
+
+127 
+
+**197. Prohibition of making unconscious with intent to commit offence:** (1) No person shall, with intent to facilitate the commission of any offence, feed or administer, in any other manner, to another person any substance causing unconsciousness, dizziness or unhealthiness or make that other person unconscious in any manner whatsoever. 
+
+(2) A person who commits, or causes to be committed, the offense referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year and a fine not exceeding ten thousand rupees. 
+
+(3) Where any act referred to in sub-section (1) has resulted in the commission of such offence, the sentence referred to in this Section shall be added to the sentence imposable for such offence. 
+
+**198. Compensation:** Where any harm, damage or loss is caused to any person's body, life or property from the commission of the offence referred to in this Chapter, compensation shall be caused to be paid by the offender to the victim. 
+
+**199. Statute of limitation** : No complaint shall lie, in the case of the offence referred to in Section 196, after the expiry of three months from the date of its commission, in the case of the offence referred to in Section 197, after the expiry of six months from the date on which such person becomes conscious, and, in the case of any of the other offences referred to in this Chapter, after the expiry of one year from the date of its commission. 
+
+128 
+
+## **Chapter-15** 
+
+## **<u>Offences Relating to Unlawful Detention</u>** 
+
+**200. Prohibition of unlawful confinement:** (1) No person shall maliciously subject, or cause to be subjected, another person to detention in any other manner except in accordance with law. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+(3) No one other than the competent authority shall obstruct, or cause to be obstructed, the movement of any person. 
+
+(4) A person who commits the offence referred to in subsection (3) shall be liable to a sentence of imprisonment for a term not exceeding six months or a fine not exceeding five thousand rupees or both the sentences. 
+
+## **201. Prohibition of holding in detention without providing minimum** 
+
+**humane facilities:** (1) No authority who is competent by law to make detention shall detain, or cause to be detained, any person by depriving him or her of such facilities as required to be provided in accordance with law or of such minimum humane facilities as are available in the place of his or her detention. 
+
+
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding one and half years and a fine not exceeding fifteen thousand rupees. 
+
+129 
+
+**202. Prohibition of detaining person for whose release order has been issued:** (1) No person shall keep on detaining any person held in detention in accordance with law after receiving an order issued by a competent authority under law for the release of such person from detention. 
+
+   - (2) A person who commits, or causes to be committed, the 
+
+   - offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year and a fine not exceeding ten thousand rupees. 
+
+**203. Prohibition of detention in secret:** (1) No competent authority shall hold any person in detention secretly in such a manner that the detention of such person or the place of such detention may not be known or discovered. 
+
+   - (2) A person who commits, or causes to be committed, the 
+
+   - offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding four years and a fine not exceeding forty thousand rupees. 
+
+**204. Order for compensation to be paid:** A reasonable compensation shall be ordered to be paid by the offender who commits, or causes to be committed, the offence referred to in this Chapter to the victim. 
+
+**205. Statute of limitation:** No complaint shall lie, in the case of an offence under sub-section (3) of Section 200, after the expiry of three months from the date of commission of such offence, and in the case of any of the other offences under this Chapter, after the expiry of three months from the date of release of the detained person from such detention. 
+
+130 
+
+## **Chapter-16** 
+
+## **<u>Offences Relating to Enforced Disappearance</u>** 
+
+**206. Prohibition of enforced appearance:** (1) No person shall subject, or cause to be subjected, any one to enforced disappearance. 
+
+   - (2) For the purposes of sub-section (1), the term "enforced 
+
+   - disappearance” means any of the following acts: 
+
+      - (a) The arrest, detention or any other form of control of a person by a person or security personnel having authority by law to make arrest, investigation or enforcement of law, followed by a failure to produce such person before the case trying authority within twenty-four hours of the date of such arrest or deprivation of liberty, excluding the time required for journey, or a refusal to allow the concerned person to meet such person, and/or by concealment of information as to where, how and in what condition such person has been so held, 
+
+
+
+- (b) The abduction, custody, control or any other form of deprivation of liberty of a person by any person, organization or group, whether organized or not, followed by concealment of information to the concerned person as to the reason for such deprivation and where, how and in what condition such person has been so held, 
+
+(3) A person who orders the commission of enforced disappearance of a person upon arrest, detention or control of such 
+
+131 
+
+person and a person who implements such order shall be considered to be the principal offender of enforced disappearance. 
+
+(4) Where an act of enforced disappearance is committed in pursuance of order or direction given by a person holding public office or by the responsible person of an organization or group, whether organized or unorganized, the person giving such order or direction shall be liable as the principal offender of enforced disappearance. 
+
+(5) A superior who, despite knowing that his or her subordinate official, body or group was committing or about to commit an act of enforced disappearance, disregards such information or fails to take necessary measures to prevent the commission of such act shall also be considered to have committed the offence under this Section. 
+
+(6) Where a person has been subjected to enforced disappearance by two or more persons jointly, every person involved in such act shall be equally liable as the offender. 
+
+(6) A person who commits the offence referred to in subsection (1) shall be liable to the following sentence: 
+
+
+
+(a) In the case of the principal offender of enforced disappearance, a sentence of imprisonment for a term not exceeding fifteen years and a fine not exceeding five hundred thousand rupees, having regard to the duration and circumstances of such enforced disappearance, 
+
+132 
+
+- (b) In the case of a person who is accomplice or conspires to the commission of enforced disappearance, the same sentence as is imposable on the principal offender, and in the case of a person who attempts to or facilitates the commission of enforced disappearance, half the sentence imposable on the principal offender. 
+
+(8) A person who does an act constituting the offence referred to in sub-section (1) against a woman or child shall be liable to an additional sentence of imprisonment for a term of two years, in addition to the sentence to be imposed pursuant to sub-section (7). 
+
+(9) Where a person has committed any other offence punishable by law against any one who has been subjected to enforced disappearance, during such disappearance, he or she shall be liable to the additional sentence under this Section, in addition to the sentence imposable by law for such offence. 
+
+(10) A person who subjects any one to enforced disappearance by using any government vehicle, building, arms and ammunition or goods shall be liable to an additional sentence of imprisonment for a term of one year, in addition to the sentence imposable under this Section. 
+
+**207. Forfeiture of goods related to offence:** Any building, land, vehicle, arms and other goods knowingly allowed by the owner thereof to be used in, or used with the consent of the concerned owner in, the commission of the offence punishable under this Chapter shall be forfeited. 
+
+133 
+
+Provided that no governmental building, vehicle, arms and goods shall be forfeited. 
+
+**208. Entitlement to compensation:** Where a person who is subjected to enforced disappearance appears or is made public subsequently, he or she shall be entitled to get a reasonable compensation from the person who has so subjected him or her to enforced disappearance. 
+
+(2) Where the person subjected to enforced disappearance is already dead, the immediate successor to him or her shall be entitled to get the compensation referred to in sub-section (1). 
+
+**209. Property to be returned:** Where any person, in subjecting another person to enforced disappearance under this Chapter, has also taken any property belonging to that other person, the person who has so subjected to enforced disappearance shall return such property, if available, and pay a reasonable compensation for such property, if not available, to the disappeared person or his or her immediate relative. 
+
+**210. Statute of limitation:** No complaint shall be entertained after expiry of six months from the date of having knowledge of commission of the offence under this Chapter or from the date of the disappeared person getting or being made public **.** 
+
+
+
+Provided that if a complaint is filed, accompanied by the evidence, with the leave of the court, setting out the reason for not being in a position to file the complaint, such complaint may lie at any time. 
+
+134 
+
+## **Chapter-17** 
+
+## **<u>Offences Relating to Kidnapping or Taking of Hostages</u>** 
+
+**211. Prohibition of kidnapping:** (1) No person shall kidnap, or cause to be kidnapped, another person. 
+
+(2) For the purposes of sub-section (1), a person shall be considered to have committed kidnapping if he or she does any of the following acts: 
+
+- (a) To take any person to or compel him or her to go to any place by using force or threats to use force or by practicing fraud, deception or intimidation or by showing or not showing arms or by misrepresenting or by administering narcotics or alcoholic substance to him or her or by seizing or controlling in any way a vehicle by which he or she is travelling or exercising control in any way over such vehicle, or 
+
+
+
+   - (b) To take by force any person to any place without his or her consent or any child or any person who is under shelter of any one due to his or her physical incapacity or any person of unsound mind due to mental illness without the consent of his or her father, mother or guardian or by way of misrepresentation. 
+
+**212.  Prohibition of hostage-taking:** (1) No person shall take another person hostage. 
+
+(2) For the purposes of sub-section (1), a person shall be considered to have committed hostage-taking if that person seizes or detains another person without his or her consent or a child or a 
+
+135 
+
+person of unsound mind without the consent of his or her father, mother or guardian, by using force or threats to use force, or by practicing fraud, deception, coercion or intimidation or by showing or not showing arms or by misrepresenting or by administering narcotics or alcoholic substance to him or her or by seizing or controlling a vehicle or place where he or she is staying. 
+
+(3) Notwithstanding anything contained in sub-section (2), placing, in good faith, an unsound person under the surveillance or control of any one in the course of treatment or for any other purpose, for the benefit of the concerned person, with the consent of his or her father, mother or guardian shall not be deemed to constitute hostage-taking. 
+
+**213. Punishment for kidnapping or hostage-taking** : A person who does, or causes to be done, any act referred to in Section 211 or 212 shall be liable to a sentence of imprisonment for a term of seven to ten years and a fine of seventy-five thousand to one hundred thousand rupees if the person does, or causes to be done, such act with the intention of causing death, causing injury by subjecting to hurt, committing rape or unnatural sex, trafficking or enslaving, or subjecting to forced labor, engaging into prostitution, subjecting to torture, compelling to do or cause to be done any act, taking ransom or compelling to do any other act which constitutes any offence under the law in force, and to a sentence of imprisonment for a term of three to five years and a fine of thirty thousand to fifty thousand rupees if the person does, or causes to be done, such act for any other purpose. 
+
+136 
+
+**214. Additional sentence to be imposed:** (1) A person who takes another person hostage under Section 212 after kidnapping him or her under Section 211 shall be liable to a sentence of imprisonment for a term of ten to fifteen years and a fine of one hundred thousand to one hundred fifty thousand rupees. 
+
+(2) A person who does any other act considered to be an offence under this Act or under the law in force by committing kidnapping or hostage-taking shall be liable to the sentence referred to in sub-section (1), in addition to the sentence imposable for such offence. 
+
+(3) Where the offence referred to in Sections 211 and 212 is committed, or cause to be committed, in an organized manner, the persons committing such offence shall be liable to an additional sentence of imprisonment for a term of two years. 
+
+- **215** . **Person who abets or orders or attempts or conspires or is accomplice to be liable to sentence:** (1) A person who abets or orders the commission of any offence referred to in this Chapter shall be liable to the same sentence as is imposable on the principal offender. 
+
+   - (2) Notwithstanding anything contained in sub-section (1), 
+
+   - the person who attempts or conspires to commit or is accomplice to the commission of such act shall be liable to half the sentence imposable for that offence. 
+
+
+
+**216. Reduction of sentence if surrendered** : Where a person committing an offence under this Chapter surrenders before the security personnel at the time of committing the offence or renders assistance 
+
+137 
+
+in arresting the other offenders or members of the gang committing that offence, the court may, having regard to the circumstances, reduce the sentence for that person. 
+
+**217. Compensation ordered to be paid** : (1) A reasonable compensation shall be ordered to be paid to the victim by the person who is held to have committed or caused the commission of any offence under this Chapter. 
+
+(2) The compensation referred to in sub-section (1) shall be paid to the immediate successor to the victim if the victim is already dead. 
+
+**218. Statute of limitation:** (1) There shall be no statute of limitation for making a complaint in the case of any offence under this Chapter which has caused the death of any one. 
+
+(2) No complaint shall lie after the expiry of two years after the date of commission of any offence under this Chapter other than that set forth in sub-section (1), and after the expiry of six months after the date of release of the concerned person from such offence in the case of any of the offences under Sections 211 and 212. 
+
+
+
+138 
+
+## **Chapter-18** 
+
+## **<u>Sexual Offences</u>** 
+
+## **219. Prohibition of committing rape** : (1) No one shall commit rape. 
+
+(2) Where a man has sexual intercourse with a woman without her consent or with a girl child below eighteen years of age even with her consent, the man shall be considered to commit rape on such woman or girl child. 
+
+## **Explanation:** For the purposes of this Chapter,- 
+
+   - (a) Consent obtained by way of coercion, undue influence, intimidation, threat, misrepresentation, or kidnapping or taking of hostage shall not be considered to be consent, 
+
+   - (b) Consent obtained at the time of being of unsoundness of mind shall not be considered to be consent, 
+
+   - (c) The penetration of penis into anus or mouth, penetration of penis, to any extent, into anus, mouth or vagina, insertion of any object other than penis into vagina shall also be considered to be rape. 
+
+- (3) A person who commits rape shall be liable to the 
+
+- sentence of imprisonment as follows, having regard to the circumstances of such sexual intercourse and the age of woman: 
+
+
+
+- (a) Imprisonment for a term of sixteen to twenty years, if she is a girl child below ten years of age, 
+
+- (b) Imprisonment for a term of fourteen to sixteen years, if she is a girl child who is ten years or above ten years of age but below fourteen years of age, 
+
+139 
+
+   - (c) Imprisonment for a term of twelve to fourteen years, if she is a girl child who is fourteen or above fourteen years of age but below sixteen years of age, 
+
+   - (d) Imprisonment for a term of ten to twelve years, if the woman is sixteen or above sixteen years of age but below eighteen years of age, 
+
+   - (e) Imprisonment for a term of seven to ten years, if the woman is eighteen or above eighteen years of age. 
+
+- (4) Notwithstanding anything contained in sub-section (3), 
+
+- if the husband commits rape on his wife during the existence of marital relationship between them, he shall be liable to a sentence of imprisonment for a term not exceeding five years. 
+
+Provided that the following situation shall not be considered as the existence of marital relationship: 
+
+- (a) A case of partition has been instituted upon making separation of board and bread, 
+
+- (b) The wife has lived separate upon taking her partition share from the husband, 
+
+
+
+   - (c) A case of divorce from the husband has been instituted. 
+
+- (5) In the case of the situation referred to in sub-section (4), 
+
+the court may, if it is necessary to do so upon a petition by the victim, order the husband to do the following: 
+
+- (a)     To allow the wife to reside in the same house where she has resided, to provide her with food 
+
+140 
+
+and clothes, not to hurt her and to behave her politely and decently, 
+
+- (b) To get the wife to have required medical treatment or provide reasonable amount for her treatment, 
+
+- (c) To arrange a separate residence for the husband if it is not appropriate for them to reside in the same place together and make necessary arrangement for the maintenance of the wife while so residing separately, 
+
+- (d) To refraining from doing act causing suffering or annoyance, in any manner, to the wife and do, or cause to be done, necessary and appropriate act for the interest and security of the wife. 
+
+(6) Notwithstanding anything contained in sub-section (1), a man who commits rape in spite of knowing that he has human immune deficiency virus (HIV positive) or a sexually transmitted disease shall be liable to the following additional sentence, in addition to the sentence set forth in sub-section (3): 
+
+
+
+- (a) The sentence referred to in Section 105 in the event of the commission of rape in spite of knowing that he has human immune deficiency virus (HIV positive), 
+
+- (b) A sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees in the event of the 
+
+141 
+
+commission of rape in spite of knowing that he has any other sexually transmitted disease. 
+
+(7) A man who commits rape on a woman in a gang or on a woman having pregnancy of more than six months or on a woman who is infirm or disabled or suffering from physical or mental illness, or commits rape showing arms shall be liable to an additional sentence of imprisonment for a term not exceeding five years, in addition to the sentence set forth in sub-section (3). 
+
+(8) A person who commits rape on a woman within the prohibited degree of relationship by consanguinity or affinity shall be liable to the sentence referred to in this Chapter, in addition to the sentence imposable for incest if he is liable to such sentence for incest. 
+
+**220. Prohibition of incest:** (1) No person shall have sexual intercourse with another person knowingly that such person is one falling within the prohibited degree of relationship by consanguinity or affinity for marriage according to the usage, custom or tradition being practiced in his or her caste or lineage. 
+
+(2) A person who commits the offence referred to in subsection (1) in the following relationship shall be liable to the following sentence: 
+
+
+
+- (a) A sentence of imprisonment for life in the case of sexual intercourse between the natural mother and her natural son or between the natural father and his natural daughter, 
+
+142 
+
+(b) A sentence of imprisonment for a term of four years to ten years and a fine of forty thousand rupees to one hundred thousand rupees in the case of sexual intercourse between the step-mother and her step-son, between the step father and his step daughter, between the full blood elder sister and brother, between full blood elder brother and sister, between father-in-law and daughter-in-law within the same branch, between grand-father and grand-daughter or great-grand-daughter within the same branch, between elder brother-in-law and sister-in-law within the same branch or between younger brother-in-law and sister-in-law within the same branch, 
+
+
+
+(c) A sentence of imprisonment for a term of three to six years and a fine of thirty thousand to sixty thousand rupees in the case of sexual intercourse between grand-mother and her grand-son or great-grand-son within the three generations of the same branch, between father's elder brother or uncle and niece within the same branch, between nephew and great mother (wife of own father's brother) or aunty within the same branch, between father-in-law and brother's daughter-inlaw within the same branch, between uterine maternal uncle and niece or nephew and maternal aunty, between mother's elder sister or younger 
+
+143 
+
+sister and nephew or between mother-in-law (one's wife side) and son-in-law, 
+
+(d) A sentence of imprisonment for a term of one year to three years and a fine of ten thousand to thirty thousand rupees, having regard to, _inter alia_ , the branch, relationship and generation, in the case of sexual intercourse between persons in other relationship within seven generations of one’s own clan except that referred to in clause (a), (b) or (c). 
+
+**221. Prohibition of sexual intercourse with detainee** : (1) No government employee shall have sexual intercourse with a person held in prison or detention or facilitate or create circumstances for the commission by another person of sexual intercourse with such person. 
+
+(2) A person who commits, or causes to be committed, sexual intercourse referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years, and if such sexual intercourse is an offence under this Act or other law also, the sentence referred to in this Section shall be added to the sentence under such law. 
+
+**222. Prohibition of sexual intercourse with person in one's own protection or security** : (1) No person shall have, or aid another person to have, sexual intercourse with any person in his or her protection, security or custody, and no office-bearer or employee of any organization providing treatment or rehabilitation services to persons of unsound mind or suffering from physical or mental illness 
+
+144 
+
+shall have sexual intercourse with any person held in such organization. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding three years, and if such sexual intercourse is an offence under this Act or other law also, the sentence referred to in this Section shall be added to the sentence under such law. 
+
+**223. Prohibition of sexual intercourse with person in office or receiving professional service:** (1) No employee serving in a government office or private office or person providing any professional service or commercial work shall have, or aid another person to have, sexual intercourse with a person serving in such office or a person making contact or being in contact for such service or work, while performing functions of such office or providing such service or at the place where such service is provided. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding four years and a fine not exceeding forty thousand rupees, and if such sexual intercourse is an offence under this Act or other law also, the sentence referred to in this Section shall be added to the sentence under such law. 
+
+**224. Prohibition of sexual harassment** : (1) No person shall commit, or caused to be committed, sexual harassment to another person. 
+
+(2) A person shall be considered to commit sexual harassment if the person holds or touches or attempts to touch any sensitive organ of, or opens or attempts to open undergarments of, or 
+
+145 
+
+obstructs or hinders in any way the wearing or removing of undergarments of, or takes to any lonely place in an unusual manner, or gets his or her sexual organ to be touched or held by, or uses vulgar or similar other words, spoken or written or by gesture or by way of electronic medium, or shows any pornography to, or teases or annoys with sexual motive, or behaves in an unusual, undesirable or indecent manner with, a person who is not his wife or her husband, without her or his consent, with the motive of having sexual intercourse with her or him. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+**225. Prohibition of child sexual abuse:** (1) No person shall commit, or cause to be committed, child sexual abuse. 
+
+(2) A person shall be considered to commit child sexual abuse if the person takes to any lonely place in an unusual manner, or holds or touches any sexual organ of, gets his or her sexual organ to be touched or held by, or makes any form of unusual sexual behavior with, a child, with the motive of having sexual intercourse with the child. 
+
+
+
+(3) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+146 
+
+**226. Prohibition of unnatural sexual intercourse** : (1) No person shall have, or cause to be had, unnatural sexual intercourse with another person without his or her consent. 
+
+**Explanation:** For the purposes of this sub-section, consent given by a child shall not be considered to be consent. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+(3) A person who commits the offence referred to in subsection (1) against a child shall be liable to the sentence under Section 219. 
+
+**227. Prohibition of bestiality:** (1) No person shall have, or cause to be had, sexual intercourse with an animal. 
+
+(2) A person who commits the offence referred to in subsection (4) shall be liable to a sentence of imprisonment for a term not exceeding two years and a fine not exceeding twenty thousand rupees, if the person has committed, or caused to be committed, sexual intercourse with a cow, and to a sentence of imprisonment for a term not exceeding one year and a fine not exceeding ten thousand rupees, in the case of sexual intercourse with any other animal. 
+
+
+
+**228. Compensation ordered to be paid** : A reasonable compensation shall be ordered to be paid to the victim of any offence referred to in this Chapter other than the offences under Sections 220 and 226. 
+
+147 
+
+**229. Statute of limitation:** (1) There shall be no statute of limitation for making a complaint in relation to the case of any offence under Section 220. 
+
+(2) No complaint shall lie after the expiry of one year from the date of commission of any of the offences under Sections 219, 221, 222, 223, 224 and 225 and sub-section (3) of Section 226, and after the expiry of three months from the date of knowledge of commission of any of the other offences under this Chapter. 
+
+Provided that where the offence is committed against a person held in detention, taken into control, kidnapped or taken hostage, no complaint shall lie after the expiry of three months from the date of release from such detention, control, kidnapping or hostage-taking. 
+
+
+
+148 
+
+## **Chapter-19** 
+
+## **<u>Offence Relating to Medical Treatment</u>** 
+
+## **230. Prohibition of conducting medical treatment by person who has** 
+
+**not obtained licence:** (1) No person, other than a person who has, upon having acquired the specified educational qualification in medicines, obtained from the lawful competent authority a licence for medical treatment, shall provide medical services to, carry out surgery on any organ of human body of, administer or prescribe any kind of drug to, or otherwise conduct medical treatment of, any person. 
+
+(2) Notwithstanding anything contained in sub-section (1), nothing shall bar a person who has gained knowledge on medical treatment from a long experience from administering, with due care, such drug of general nature to a patient suffering from a minor disease as not causing any specific adverse impact on any human organ of such patient, or conducting medical treatment by conducting operation of a minor wound, **ecthyma** . 
+
+(3) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+
+
+(4) The offender shall be liable to the sentence of imprisonment for life where any act of providing medical service, conducting surgery or administering drug in contravention of subsection (1) causes the death of any person, and to a sentence of 
+
+149 
+
+imprisonment for a term not exceeding fifteen years where such act causes grievous hurt. 
+
+**231. Prohibition of conducting medical treatment maliciously:** (1) No person shall, with the intention of causing death of, or grievous hurt to, another person, carry out his or her treatment, conduct one type of medical treatment of him or her instead of another type of treatment as required, or administer, or prescribe for administration of, any drug to him or her knowingly or having reason to believe that the administration or prescription of such drug may cause death of, or grievous hurt, to him or her or conduct surgery on one organ of human body of him or her instead of another organ as required or make such organ dysfunctional or separate such organ from the human body, or cause the commission of any of such acts. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to the following sentence: 
+
+- (a) The same sentence as imposable for murder, in the case of causing the death of any person, 
+
+
+
+   - (a) The same sentence as imposable for grievous hurt, in the case of causing grievous heart to any person. 
+
+**232. Prohibition of conducting medical treatment by recklessness or negligence:** (1) No person authorized under law to conduct medical treatment shall, in conducting medical treatment of any one, conduct such treatment, administer any drug or prescribe for the administration of drug to him or her in a reckless or negligent manner, without taking adequate care or precaution. 
+
+150 
+
+(2) Where any act referred to in sub-section (1) causes death of or grievous hurt to any one, the offender shall be liable to a sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees if the death or grievous hurt has been caused from a reckless act and to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees if the death or grievous hurt has been caused from a negligent act. 
+
+**233. Prohibition of carrying out experiment on human body without consent** : (1) No person authorized under law to conduct medical treatment shall, in carrying out an experiment of any method relating to medical treatment, surgery or drug on the human body, carry out such experiment, without obtaining consent of the concerned person, and, in the case of a child or person of unsound mind, without obtaining consent of his or her father, mother or guardian, and without giving information thereof to such person, father, mother or guardian. 
+
+(2) Any experiment referred to in sub-section (1) shall be carried out carefully, having regard to, _inter alia_ , the possible effects of such method, surgery or drug on human body. 
+
+(3) No person shall carry out physical examination of or alter any organ of any one, or cause the commission of such act, with intention to get any undue economic benefit or to breach the privacy of a woman or with any other intention. 
+
+(4) A person who carries out, or causes to be carried out, any experiment in contravention of sub-section (1), (2) or (3) shall be 
+
+151 
+
+liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+(5) The offender shall be liable to the same sentence as imposable for murder if the offence referred to in sub-section (1), (2) or (3) causes the death of any one and to the same sentence as imposable for grievous hurt if such offence causes grievous hurt to any one. 
+
+**234. Prohibition of selling dangerous drug:** (1) No person authorized to sell medicines as per law shall, without prescription of the person authorized under law to carry out treatment as per law, sell or distribute any narcotic, toxic or dangerous drug that may cause serious impact on human body. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding two years or a fine not exceeding twenty thousand rupees or both the sentences. 
+
+## **235. Prohibition of adulteration of drugs or sale of adulterated drugs:** 
+
+(1) No person shall knowingly adulterate any drug in such a manner as to void or lessen or change the efficacy of such drug or make it noxious or sell such adulterated drug or any other thing saying that it is a drug or issue such drug or thing to any one for treatment or administer, or cause to be administered, such drug to any one. 
+
+
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to the following sentence: 
+
+152 
+
+- (a) The same sentence as imposable for murder, in the case of death caused from the consumption of such drug, 
+
+- (b) The same sentence as imposable for attempted murder, in the case of danger or likelihood of danger to cause death caused from the consumption of such drug, 
+
+- (c) A sentence of imprisonment for a term not exceeding ten years and a fine not exceeding one hundred thousand rupees, in the case of any grievous hurt or deterioration or deprivation of power of any organ of the body caused from the consumption of such drug, 
+
+- (d) A sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees in cases other than that referred to in clause (a), (b), or (c). 
+
+## **236. Prohibition of selling, distributing date-expired drugs or without** 
+
+**taking precaution** : (1) No person shall sell any drug required to be used within a certain time period after the expiry of such date or sell, distribute any drug without taking any specific precaution if such precaution must be taken in the sale or distribution of such drug. 
+
+
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year and a fine not exceeding ten thousand rupees. 
+
+153 
+
+**237. Prohibition of selling, distributing of drug as a different drug:** (1) No person authorized to sell or distribute any drug under law shall, while so selling or distributing the drug, sell or distribute a drug of one type as a drug of another type knowingly or having reasonable reason to know that such drug is materially a different type of drug. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding two years or a fine not exceeding twenty thousand rupees or both the sentences. 
+
+**238. Prohibition of giving false report:** (1) No person licensed under law to conduct a pathological test of human blood, urine, sputum etc. shall give a fake or false report while conducting such test or give a report stating the facts different than that found from the test. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+(3) Where the consumption of any drug prescribed to, conduction of a surgery on, or treatment of, a person on the basis of the report referred to in sub-section (1) causes the death of or any grievous hurt to such person, the person giving such report shall be deemed to be the offender. 
+
+
+
+(4) A person who commits, or causes to be committed, the offence referred to in sub-section (3) shall be liable to the same sentence as imposable for murder, in the case of causing death of, 
+
+154 
+
+and to the same sentence as imposable for grievous hurt, in the case of causing grievous heart to, any person. 
+
+**239. Compensation to be paid** : (1) Where the death of, or grievous hurt to, or other harm, injury or damage to, any person is caused from the commission of any offence referred to in this Chapter, reasonable compensation shall be ordered to be paid by the offender to the concerned victim and to his or her successor if the victim is dead. 
+
+**240. Statute of limitation:** (1) There shall be no statute of limitation for filing a complaint if death is caused from any of the acts referred to in sub-section (4) of Section 230, Section 231, Section 232, subsection (4) of Section 233, Section 235, and sub-section (4) of Section 238. 
+
+(2) No complaint shall lie after one year from the date of knowledge of commission of the offence under sub-section (1) of Section 230, and after six months from the date of commission of any of the other offences under this Chapter. 
+
+
+
+155 
+
+## **Chapter-20** 
+
+## **<u>Offences Relating to Theft and Robbery</u>** 
+
+**241. Prohibition of theft:** (1) No person shall commit, or cause to be committed, theft. 
+
+(2) For the purposes of sub-section (1), a person who dishonestly takes any property under the ownership, possession, control or custody of another person out of such ownership, possession, control or custody or moves such property without that other person's consent, with the intention of owning, using or enjoying it, shall be considered to commit theft. 
+
+**Explanation** : For the purposes of this Section,- 
+
+   - (a) The term "consent" means the consent given in writing or orally or expressed by conduct. 
+
+   - (b) Consent by a child who has not attained eighteen years of age or a person of unsound mind shall not be considered to be consent. 
+
+**242. Punishment for theft** : (1) A person who commits, or causes to be committed, theft in any of the following circumstances shall be liable to a sentence of imprisonment from a term of two to seven years and a fine of twenty thousand to seventy thousand rupees: 
+
+   - (a) In the case of theft of any government or public property or property of any religious place or temple, 
+
+   - (b) In the case of theft of any property, upon administering liquor or narcotics to, or otherwise making unconscious, any person, 
+
+156 
+
+- (c) In the case of theft of any property, upon taking advantage of earthquake, fire, flood, riot or similar other situation of crisis or any accident, 
+
+- (d) In the case of theft of any property of the office or person whose service one is engaged in, 
+
+- (e) In the case of theft on a vehicle used for the conveyance of human persons or goods. 
+
+(2) A person who commits, or causes to be committed, theft in any circumstance other than that referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+**243. Prohibition of burglary (** **_Nakabajani_ ):** (1) No person shall commit, or cause to be committed, burglary. 
+
+(2) For the purposes of sub-section (1), a person shall be considered to commit burglary if he or she commits theft in a house by entering into the house by breaking its main gate or by using any passage, place, method or means other than the main gate, or after committing theft, he or she quits, or attempts to quit, by breaking its main gate or by using any passage, place, method or means other than the main gate. 
+
+
+
+(3) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term of three to five years and a fine of thirty thousand to fifty thousand rupees. 
+
+157 
+
+**244. Prohibition of robbery:** (1) No person shall commit, or cause to be committed, robbery. 
+
+   - (2) A person shall be deemed to commit robbery if he or 
+
+she: 
+
+   - (a) causes or attempts to cause to any person death or hurt or restraint or obstruction or fear or intimidation of instant death or of instant hurt, in order to the committing of theft or in committing the theft or in carrying away property obtained by the theft or to the escaping of arrest after the commission of the theft or commits theft carrying a deadly weapon, 
+
+   - (b) obtains any money or economic benefit through criminal extortion by putting any person in fear of instant death or of instant or of instant restraint, 
+
+   - (c) commits theft by waiting near or on way, road, lonely place or forest or show of fear or intimidation , using or threatening to use a deadly weapon, 
+
+   - (d) commits theft in a group of three or more persons. 
+
+- (3) A person who commits the offence referred to in sub- 
+
+- section (1) shall be liable to the following sentence: 
+
+
+
+- (a) A sentence of imprisonment for a term of seven to fourteen years and a fine of seventy thousand to one hundred forty thousand rupees, in the case of the offence referred to in clause (a) or (b) of sub-section (2), 
+
+- (b) A sentence of imprisonment for a term of five to ten years and a fine of fifty thousand to one hundred 
+
+158 
+
+thousand rupees, in the case of the offence referred to in clause (c) or (d) of sub-section (2). 
+
+## **245. Prohibition of movement carrying tools to be used in commission** 
+
+**of theft** : (1) No person shall, with the intention of committing theft or robbery, move around or enter into or attempt to enter into the house of any person carrying instruments such as any tool, object, arms, duplicate key, gloves and ladder that may be used in the commission of theft or robbery. 
+
+(2) A person who so moves, enters into or attempts to enter into as referred to in sub-section (1) shall, unless otherwise proved, be considered to have moved, entered into or attempted to enter into, with the intention of committing theft. 
+
+(3) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+**246. Prohibition of pickpocketing: (** 1) No person shall commit, or cause to be committed, pickpocketing. 
+
+(2) For the purposes of sub-section (1), a person who steals cash or property from the pocket of another person who is walking on foot, traveling on a vehicle or staying in a public place or from his or her accompanying purse, bag or means of any other kind, with or without notice of such other person, shall be considered to commit pickpocketing. 
+
+
+
+Provided that where a person pick-pockets a cash amount of more than ten thousand rupees or property valued at more than ten 
+
+159 
+
+thousand rupees, the person shall be considered to commit the offence referred to in Section 241. 
+
+   - (3) A person who commits the offence referred to in sub- 
+
+   - section (1) shall be liable to the following sentence: 
+
+      - (a) A sentence of imprisonment for a term not exceeding one month or a fine equal to the claimed amount or both the sentences, in the case of the commission of pickpocketing for the first time, 
+
+      - (b) A sentence of imprisonment for a term not exceeding two months or a fine equal to the claimed amount or both the sentences, for each instance from the second time onwards. 
+
+**247. Claimed amount to be recovered:** The claimed amount, if any, involved in the offence referred to in this Chapter shall be forfeited from the offender of such offence and paid to the owner of that property. If the offender has already spent the property formed of the claimed amount, property equal to the value of claimed amount shall be ordered to be paid to the owner. 
+
+**248. Statute of limitation** : No complaint shall lie after the expiry of three months from the date of commission of the offence in the case of any of the offences under Sections 245 and 246 and after six months from the date of knowledge of commission of the offence in the case of any of the other offences under this Chapter. 
+
+160 
+
+## **Chapter-21** 
+
+## **<u>Offences Relating to Cheating, Criminal Breach of Trust and Extortion</u>** 
+
+**249. Prohibition of cheating** : (1) No person shall commit, or cause to be committed, cheating. 
+
+(2) For the purposes of sub-section (1), a person who dishonestly causes any kind of loss, damage or injury to another person whom he or she makes believe in some matter or to any other person or obtains any benefit for him or her or any one else by omitting to do as per such belief or by inducement, fraudulent, dishonest or otherwise deceptive act or preventing such other person from doing any act shall be considered to commit cheating. 
+
+**Explanation** : Where the victim of cheating has got a deed executed by the cheater, the deed shall apply to that matter. 
+
+(3) A person who commits the offence referred to in subsection (1) shall be liable to the following sentence: 
+
+
+
+- (a) A sentence of imprisonment for a term not exceeding ten years and a fine not exceeding one hundred thousand rupees, in the case of cheating the Government of Nepal or any body under full or majority ownership or control of the Government of Nepal, except in cases of corruption, 
+
+- (b) A sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees, in the case of cheating by lying one's name, designation, title, qualification, 
+
+161 
+
+- (c) A sentence of imprisonment for a term not exceeding seven years and a fine not exceeding seventy thousand rupees in the cases of any kind of cheating other than that referred to in clause (a) or (b). 
+
+(4) A sentence of imprisonment for a term not exceeding one year, in addition to the sentence set forth in sub-section (3), shall be imposed in the case of cheating a child, person of unsound mind, helpless, illiterate or person above seventy-five years of age. 
+
+**250. Prohibition of causing difference in bid or contract:** (1) No person who has undertaken the responsibility of carrying out any construction related work or other work or other person who acts on his or her behalf shall, with dishonest intent, carry out, or cause to be carried out, the construction or other work, by not using the materials of the specified standards or quality or by altering the quantity of the materials to be used or otherwise using materials not conforming to the specified quality. 
+
+(2) A person who commits the offence referred to in subsection (3) shall be liable to a sentence of imprisonment for a term not exceeding ten years and a fine not exceeding one hundred thousand rupees. 
+
+(3) No person who has undertaken the responsibility of supplying any materials, goods or services or other person who acts on his or her behalf shall, with dishonest intent, supply materials, goods or services falling short of the quality or quantity or otherwise provide materials, goods or services not conforming to the specified quality. 
+
+162 
+
+(4) A person who commits, or causes to be committed, the offence referred to in sub-section (3) shall be liable to a sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees. 
+
+**251. Prohibition of criminal misappropriation of property** : (1) No person shall make, or cause to be made, criminal misappropriation of property. 
+
+(2) For the purposes of sub-section (1), a person who does any of the following acts shall be considered to commit criminal misappropriation of property: 
+
+- (a) To dishonestly possess and use, cause loss and damage to or misappropriate a property belonging to another person or rent, sell or dispose it without consent of that other person. 
+
+Provided that if the real owner of an adjoining land uses the property belonging to another person, by mistakenly making normal encroachment of the boundary, he or she shall not be considered to commit the offence referred to in this clause. 
+
+(b) To dishonestly appropriate or otherwise convert any property not in the possession of any other person to his or her own use, knowing or having the means of discovering the owner of such property, or without returning such property to such owner within a reasonable time, or without giving notice to the owner to 
+
+163 
+
+claim the property or without waiting the owner of such property until a reasonable time. 
+
+Provided that where the finder in good faith appropriates a property to his or her own use when the owner of the property is not discovered despite reasonable efforts or the owner does not claim the property within a reasonable time after the giving of notice, he or she shall not be considered to commit the offence referred to in this Section. 
+
+(3) A person who commits, or causes to be committed, the offence referred to in sub section (1) shall be liable to the following sentence: 
+
+
+
+(a) A sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences, in the case of criminal misappropriation of property which was in the possession of a deceased person at the time of that person's demise and has not since been in the possession of his or her legal successor, or criminal misappropriation of property belonging to a child, a person of unsound mind due to mental or physical illness, or a person above seventy-five years of age, (b) A sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences, in the case of criminal misappropriation of property in cases other than that set forth in clause (a). 
+
+164 
+
+(4) If any property subjected to criminal misappropriation under this Section is in a returnable condition, the person who so misappropriates shall return the property to the concerned owner or to his or her immediate successor if the owner is dead. 
+
+**252. Prohibition of criminal breach of trust** : (1) No person shall commit, or cause to be committed, criminal breach of trust. 
+
+(2) For the purposes of sub-section (1), a person who does any of the following acts shall be considered to commit, or cause the commission of, criminal breach of trust: 
+
+- (a) To dishonestly appropriate or otherwise convert to his or her own use other's property which is under his or her custody or protection or to dishonestly appropriate such property in his or her own use, or allow such property to be used by, or dispose, or cause the disposal, of such property to, another person, in violation of any contract, deed of conditions or law concerning the use of such property, 
+
+
+
+- (b) To cause any loss, damage or injury by a person, who is entrusted with responsibility or has lawful duty of doing any work or transaction of another person or who acts as an agent of another in relation to any work or transaction, to that other person by doing any act in violation of his or her duty with the intention of causing benefit to himself or herself or any one else. 
+
+165 
+
+(3) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to the following sentence: 
+
+      - (a) A sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees, in the case of the commission of criminal breach of trust by a person in the capacity of manager, director, employee or agent of any organization or by a person entrusted with the responsibility of carrying a property from one place to another or keeping it safely in a warehouse or any other place or with a legal duty to do so, 
+
+      - (b) A sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences, in the case of the commission of criminal breach of trust by any person other than that set forth in clause (a). 
+
+**253. Prohibition of extortion:** (1) No person shall commit, or cause to be committed, extortion. 
+
+   - (2) For the purposes of sub-section (1), a person who puts 
+
+   - any person in fear or terror of any injury to that person or to any other person and dishonestly takes any benefit from that person for himself or herself or any other person or induces that person to do, or prevents that person from doing, any act with the intention of taking such benefit shall be considered to commit extortion. 
+
+
+
+166 
+
+(3) A person who commits the offence referred to in subsection (1) shall be liable to the following sentence: 
+
+   - (a) A sentence of imprisonment for a term not exceeding seven years and a fine not exceeding seventy thousand rupees, in the case of putting a person in fear or terror of death, grievous hurt or serious injury, with the intention of committing extortion, 
+
+   - (b) A sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees, in the case of commission of extortion by showing fear or terror with the intention of causing any damage to any other person's business or making a false accusation in respect of such person's character, 
+
+   - (c) A sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences, in the case of the commission of extortion in cases other than that set forth in clause (a) or (b). 
+
+**254. Compensation:** Where any injury or damage is caused to any person from the commission of the offence referred to in this Chapter, the claimed amount, if set out, and a reasonable compensation, if the claimed amount is not set out, shall be ordered to be paid by the offender to the victim. 
+
+**255. Statute of limitation** : No complaint shall lie after the expiry of one year from the date of knowledge of commission of any offence under this Chapter. 
+
+167 
+
+## **Chapter-22** 
+
+## **<u>Offences Relating to Currency</u>** 
+
+**256. Prohibition of counterfeiting currency** : (1) No person shall counterfeit, or attempt to counterfeit, any currency. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term of five to ten years and a fine of fifty thousand to one hundred thousand rupees, having regard to the quantity and value of the currency counterfeited. 
+
+## **Explanation:** For the purpose of this Chapter,- 
+
+- (a)    “currency” means any kind of currency note, postal order, postal note, money order, cheque, draft, traveler's cheque, letter of credit, letter of exchange, bond and credit card, and this term also includes such other similar kind of monetary instrument as specified by the Bank, as required, by publishing and circulating a public notice. 
+
+
+
+   - (b)  "counterfeit currency" means a currency which is so forged in an unauthorized manner or counterfeit as resembling or having reason to believe it to be a currency issued by the Government of Nepal or Nepal Rastra Bank or foreign government or competent foreign body. 
+
+**257. Prohibition of using counterfeit currency** : (1) No person shall, with the intention of using as genuine, purchase, sell, export, import, 
+
+168 
+
+transact, or use as genuine, any counterfeit currency or attempt to do such act or possess such currency. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding seven years and a fine not exceeding seventy thousand rupees. 
+
+**258. Prohibition of making, possessing or repairing instruments for counterfeiting currency:** (1) No person shall make, repair, purchase, sell, give, take, export, import or possess any instrument or other material knowing that or having a reasonable reason to believe that it is intended to be used in or for forging or counterfeiting currency. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding seven years and a fine not exceeding seventy thousand rupees. 
+
+**259. Prohibition of making currency contrary to standards:** (1) No authority or person entrusted by the law in force to make currency shall knowingly make currency in contravention of the standards specified by law, make currency in violation of the terms and restrictions applicable to the making of currency, make currency in excess of the quantity specified or do any act with the intention of making currency with such deviation or cause benefit to himself or herself or any other person from such act or facilitate such act. 
+
+169 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding seven years and a fine not exceeding seventy thousand rupees. 
+
+**260. Prohibition of taking outside currency making instruments:** (1) No person shall, except with the order of the competent authority under law, take any currency making machinery, equipment or other instrument out of the place where currency is made. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees. 
+
+## **261. Prohibition of diminishing weight or altering form of currency:** 
+
+(1) No person shall diminish the weight of metallic currency or alter the composition of metallic element or export, import or possess currency, by causing the currency of one type to appear like the currency of another type, with the intention of using it as genuine or knowing that it may be used as genuine. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees. 
+
+
+
+**262. Prohibition of bringing prohibited currency into use:** (1) No person shall bring into use, exchange or possess a currency in use but circulation of which has been banned by order of the competent authority under law, in violation of such order. 
+
+170 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences, and the currency so brought into use, exchanged or possessed shall also be forfeited. 
+
+**263. Prohibition of burning, tearing, melting bank notes or coins or writing on bank notes** : (1) No person shall, except with the order of the competent authority, burn a coin or bank note tendered as currency or so melt or tear it that it is incapable of being used. 
+
+(2) No person shall write on or cross off bank notes. 
+
+(3) A person who commits, or causes to be committed, the offence referred to in sub-section (1) or (2) shall be liable to a sentence of imprisonment for a term not exceeding three months and a fine not exceeding five thousand rupees. 
+
+**264. Prohibition of misusing torn bank notes:** (1) No person who is entrusted by order of the competent authority under law with a duty of burning or disposing off the torn notes held to be burnt or disposed of because such bank notes tendered as currency are worn and torn or letters, signs or sizes are unrecognizable or such notes cannot be brought into use for any other reason shall bring into use such bank notes or refrain from burning or disposing of such notes or give them to another person dishonestly intending to obtain any kind of benefit therefrom. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of 
+
+171 
+
+imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+- **265** . **Forfeiture:** The currency, machine, equipment or tools used in, and materials related to, the commission of any offence under this Chapter shall be forfeited 
+
+**266. Statute of limitation** : No complaint shall lie after the expiry of one year from the date of knowledge of commission of any offence under this Chapter. 
+
+
+
+172 
+
+## **Chapter-23** 
+
+## **<u>Offences Relating to Stamps</u>** 
+
+## **267. Prohibition of counterfeiting stamps or using counterfeit stamps** : 
+
+- (1) No person shall, with the intention of using as genuine, counterfeit, attempt to counterfeit a stamp, purchase, sell, exchange, export or import a counterfeit stamp, or use or attempt to use as genuine, or possess, such stamp. 
+
+
+
+## **Explanation** : For the purposes of this Chapter,- 
+
+- (a) "stamp" means a postal stamp or other  revenue stamp to be affixed to a document, and this term also includes the sign of a stamp affixed to or printed on an envelope, post letter or any other object or a sticker to be used for the purpose of stamp. 
+
+- (b) "counterfeit stamp" means a forged stamp made in an unauthorized manner so that it resembles a stamp referred to in clause (a), and this term also includes a stamp that has once been used. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees. 
+
+
+
+**268. Prohibition of purchasing, selling, repairing instruments for counterfeiting stamps:** (1) No person shall make, repair, purchase, sell, exchange, possess any machinery or other instrument knowing or having reasonable ground to believe that it is intended to be used for the purpose of counterfeiting any stamp. 
+
+173 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees. 
+
+**269. Prohibition of re-using stamp used before** : (1) No person, knowing that any stamp is a stamp already used before, shall re-use as genuine such stamp or erase, efface or remove any seal or mark put or impressed upon any stamp with the intention of using it as genuine or attempt to do so. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+**270. Prohibition of removing from public document stamp used for it:** (1) No person shall remove, or attempt to remove, from a public document a stamp which has been used for it. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding six months or a fine not exceeding five thousand rupees or both the sentences. 
+
+**271. Forfeiture:** Any stamp, tool, instrument or other material related to the commission of any offence referred to in this Chapter shall be forfeited. 
+
+**272.  Statute of limitation:** No complaint shall lie after the expiry of one year from the date of knowledge of commission of any offence under this Chapter. 
+
+174 
+
+## **Chapter-24** 
+
+## **<u>Offences Relating to Weights and Measures</u>** 
+
+**273. Prohibition of making or using false instrument for weighing and measuring** : (1) No person shall make, or cause to be made, any instrument for weighing, measuring or determining quality standards in a manner that it does not conform to the specified standards or knowingly use as genuine any instrument so made for weighing, measuring or determining quality standards or possess or sell such instrument which is intended to be so used or make false seal or mark to be affixed to such instrument or tamper the seal or mark affixed to the instrument for weighing, measuring or determining quality standards or manipulate, with the help of any other instrument, the weighing, measuring or quality determining ability of such instrument or affix a false seal or mark to such instrument or, by way of any other means, make any weight or measure different from the prevalent one. 
+
+**Explanation:** For the purposes of this Section, the term "instrument for weighing, measuring or determining quality standards" means an instrument in use under the law to measure or determine the unit, quality or quantity of any good or service or purity or standards of such good or service or unit of any thing. 
+
+
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+175 
+
+(3) Any instrument made or brought into use under subsection (1) and tool for making or repairing such instrument shall also be forfeited. 
+
+**274. Prohibition of fraudulent use of instrument for weighing, measuring or determining quality standards:** (1) In using the instrument for weighing, measuring or determining quality standards in the course of any business, transaction or trade, no person shall fraudulently use such instrument in a manner to be different from the weight, measure or standard specified for use or, with the help of any other instrument or means, cause adverse effect to the weighing, measuring or quality determination by such instrument as per the prevailing weights and measures. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+**275. Statute of limitation** : No complaint shall lie in relation to any offence under this Chapter after the expiry of three months from the date of knowledge of commission of such offence. 
+
+
+
+176 
+
+## **Chapter-25** 
+
+## **<u>Offences Relating to Documents</u>** 
+
+**276. Prohibition of forgery:** (1) No person shall commit, or cause to be committed, forgery. 
+
+(2) For the purposes of sub-section (1), a person who makes a false document or false electronic record or a part or portion of a document or electronic record, with intent to cause any harm, injury or damage to the public or to any person or to render any benefit to the person himself or herself or to any person shall be considered to commit forgery. 
+
+**Explanation:** For the purposes of this Section,- 
+
+(a) "document" means signature, thumb impression, seal affixed on any document and the figure, word, date or any other content set forth in any document. 
+
+(b) "making a false document" means any of the following acts: 
+
+
+
+(1) to dishonestly prepare a document or part of a document, make or transmit an electronic record, archive digitals in an electronic record, with the intention of causing it to be believed that such document was made, written, signed or sealed by the person or authority who has not actually made, written, signed or sealed the document, 
+
+177 
+
+- (2) to, without lawful authority or dishonestly, add or delete any content to or from, strike out, change or otherwise alter or make unclear any content of a document or electronic record, 
+
+- (3) to cause any person to make, sign, seal, or alter any content of, a document knowing that such person by reason of being of unsound mind due to mental illness or intoxication of liquors or narcotics or by reason of deception practiced on him or her cannot know the meaning of any contents set down in the document, 
+
+
+
+- (4) to prepare or use any envelope, paper signed and delivered or any seal delivered for  a work or purpose other than that for which such envelope, paper or seal was signed, and delivered. 
+
+
+
+(3) A person who commits the offence referred to in sub-section (1) shall be liable to the following sentence: 
+
+- (a) A sentence of imprisonment for a term not exceeding ten years and a fine not exceeding one hundred thousand rupees, in the case of forgery of a document authenticated by the President, 
+
+- (b) A sentence of imprisonment for a term not exceeding eight years and a fine not exceeding 
+
+178 
+
+eighty thousand rupees, in the case of forgery of a judgment or order of a court, 
+
+- (c) A sentence of imprisonment for a term not exceeding seven years and a fine not exceeding seventy thousand rupees, in the case of forgery of a government or public document other than that referred to in clauses (a) and (b), 
+
+- (d) A sentence of imprisonment for a term not exceeding five years and a fine not exceeding fifty thousand rupees, in the case of forgery of a document other than that referred to in clauses (a), (b) and (c). 
+
+(4) A person who has already disposed of property which he or she has obtained by committing forgery shall be liable to an additional fine equal to the claimed amount, in addition to the sentence referred in sub-section (3). 
+
+(5) Where a person obtains any property by committing forgery, the person shall return such property to the concerned owner; and in the event that such property has already been disposed of, the claimed amount of such property shall be caused to be recovered to the owner from any other property of the offender. 
+
+
+
+**277. Prohibition of possessing or using as genuine a forged document** : 
+
+(1) No person shall, knowingly or having a reasonable reason to believe that a document is a forged one, possess such document, with intent to dishonestly use such document as genuine. 
+
+179 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees. 
+
+(3) A person who uses as genuine any document which he or she knows or has a reasonable reason to believe to be a forged document shall be liable to the sentence in the same manner as if he or she had forged such document. 
+
+## **278. Prohibition of making instrument for making forged document** : 
+
+(1) No person shall make, repair, purchase, exchange or possess any seal or other instrument for making a forged document, with the intention of using it in establishing or making a forged document, or knowingly or having a reasonable reason to believe that it may be used in such act. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding four years and a fine not exceeding forty thousand rupees. 
+
+**279** . **Prohibition of committing fraud:** (1) No person shall commit, or cause to be committed, fraud. 
+
+
+
+(2) For the purposes of sub-section (1), a person who, with intent to disentitle any one, expire the statute of limitation or appointed date for presence of, or cause, in any manner, loss, damage, injury or benefit to, any one, knowingly does an act stating that any thing has happened or been done which has not happened or been done in fact or makes or signs a document containing a false 
+
+180 
+
+date, figure or content or causes another person to sign such document or showing that he or she has entitlement in any thing in which he or she has no such entitlement in fact, which does not constitute the offence of forgery, shall be considered to commit the offence of fraud. 
+
+(3) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences. 
+
+(4) A person who has already disposed of property which he or she has obtained by committing fraud shall be liable to an additional fine equal to the claimed amount, in addition to the sentence referred in sub-section (3). 
+
+(5) Where a person obtains any property by committing fraud, the person shall return such property to the concerned owner; and in the event that such property has already been disposed of, the claimed amount of such property shall be caused to be recovered to the owner from any other property of the offender. 
+
+**280. Prohibition of using as genuine a fraudulent document:** (1) No person shall, knowingly or having a reason to believe that a document is a fraudulent one, use such document as genuine. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to the sentence in the same manner as if he or she had committed fraud. 
+
+**281. Liable to punishment as accomplice:** A person who becomes a witness to, or writes, a document knowing that the document is a 
+
+181 
+
+forged one shall be considered as an accomplice of the offence of forgery. 
+
+(2) An accomplice referred to in sub-section (1) shall be liable to half the sentence set forth in sub-section (3) of Section 273. 
+
+**282. Compensation ordered to be paid:** Where any loss or damage is caused to any person from the commission of any offence referred to in this Chapter, a reasonable compensation shall be ordered to be paid by the offender to such person who has suffered such loss or damage. 
+
+**283. Statute of limitation** : No complaint shall lie, in relation to the offence of forgery of a public document after the expiry of two years from the date of knowledge of commission of such offence, and in relation to any of the other offences under this Chapter, after the expiry of six months from the date of knowledge of commission of such offence. 
+
+
+
+182 
+
+## **Chapter-26** 
+
+## **<u>Offences Relating to Criminal Trespass and Criminal Mischief</u>** 
+
+**284. Prohibition of committing criminal trespass:** (1) No person shall commit, or cause to be committed, criminal trespass into the property of another person. 
+
+(2) For the purposes of sub-section (1), a person who, with intent to do the following act, enters, in an unauthorized manner, and whether doing manhandling or not, into a property owned or possessed by another person without obtaining such other person’s permission or enters into such property with such permission but remains in, or continues to occupy or use, that property with intent thereby to do any of such acts shall be considered to commit criminal trespass: 
+
+   - (a) Committing any offence, or 
+
+   - (b) Intimidating, insulting or annoying the owner or possessor of the property. 
+
+   - (3) A person commits the offence referred to in sub-section 
+
+- (1) shall be liable to the following sentence: 
+
+
+
+- (a) In the case of a person who commits criminal trespass for the purpose referred to in clause (a) of sub-section (2), a sentence equal to the sentence imposable for attempt to such offence, 
+
+- (b) In the case of criminal trespass into a government office or human dwelling house for the purpose referred to in clause (b) of sub-section (2), a sentence of imprisonment for a term not exceeding six months or a 
+
+183 
+
+fine not exceeding five thousand rupees or both the sentences. 
+
+**Explanation:** For the purposes of this Section,- 
+
+   - (1) A place of temporary residence shall also be considered to be a house. 
+
+   - (2) Entry into, or use of, a way, passage, water collection center, irrigation canal, graveyard, temple that have been in public use for time immemorial shall not be considered to be criminal trespass. 
+
+**285. Prohibition of committing criminal mischief** : (1) No person shall commit, or cause to be committed, criminal mischief. 
+
+(2) For the purposes of sub-section (1), a person who does any of the following acts shall be considered to commit criminal mischief: 
+
+
+
+(a) Destroying, or doing such act as to diminish the value, importance or utility of, any government, public or private property, with the intention of causing any harm, loss or damage to the Government of Nepal, State Government or Local Level, any body corporate under full or majority ownership or control of the Government of Nepal, State Government or Local Level or public or any person, or knowing or having a reasonable reason to believe that such damage is likely to be caused, or causing such damage by a negligent or reckless act, 
+
+184 
+
+- (b) Causing loss, damage or wrongful injury to, or doing any act that causes injury to, or knowingly causing any kind of obstruction, loss, damage or wrongful injury to the utility of, any public or private sewerage, water canal, drinking water pond, road, bridge or any means of communications or transportation and the like, 
+
+- (c) Destroying, removing, erasing or tampering any mark or sign fixed for public convenience, except for any act done in pursuance of an order of the competent authority, by spreading rumors or using any means of deception, 
+
+- (e) Concealing, or dishonestly causing delay in the delivery of, any correspondence, notice, parcel or other object of another person. 
+
+(3) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to the following sentence: 
+
+
+
+(a) The sentence of imprisonment for life and a fine equal to the claimed amount, in the case of setting fire to, or using explosives, in any national park or reserve or protected zone, with the objective of destroying the existence of species of any wildlife or flora or fauna protected by the Government of Nepal or protected pursuant to law, any historical or archeological monument or statue included in the world heritage list, any site or museum in which objects of historical or archeological importance are kept, or any achieve where 
+
+185 
+
+historical documents are kept, any military or paramilitary house or place in which arms and ammunition of the army or police are stored, security press, mint, factory, Nepal Rastra Bank's warehouse for bank note printing or storing, 
+
+(b) A sentence of imprisonment for a term of five to twelve years and a fine equal to the claimed amount, in the case of criminal mischief committed by setting fire to, or using explosives in, any historical, archeological or religious monument or statue other than that referred to in clause (a), any building containing documents of public or governmental importance, any court containing money ( _Tahabil_ ), any constitutional body, any office of the Government of Nepal, State Government or Local Level or body under full or majority ownership or control of the Government of Nepal, State Government, or Local Level, or any office of foreign diplomatic mission or international or intergovernmental organization, 
+
+
+
+(c) A sentence of imprisonment for a term not exceeding four years and a fine not exceeding forty thousand rupees, in the case of criminal mischief committed by doing any act other than that referred to in clause (a) or (b), thereby causing injury to any public property, 
+
+(d) A sentence of imprisonment for a term of two to five years and a fine of twenty thousand to fifty thousand rupees, in the case of criminal mischief committed by 
+
+186 
+
+setting fire to or using explosives in any house, office or property of any person, 
+
+- (e) A sentence of imprisonment for a term not exceeding three years and a fine not exceeding thirty thousand rupees in the case of criminal mischief committed by doing any act other than that referred to in clause (a), (b), (c) or (d), thereby causing any loss, damage to any person. 
+
+(4) Where any loss, damage is caused to any person by reason of the commission of the offence referred to in this Section, a compensation equal to the claimed amount of such loss or damage so caused shall be ordered to be paid by the offender to the victim of the offence. 
+
+**286. Prohibition of committing larceny (looting)** : (1) No person shall commit, or cause to be committed, larceny. 
+
+(2) For the purposes of sub-section (1), a person who does any act, other than an act that constitutes theft or cheating, by which he or she otherwise snatches, whether forcibly or not, takes, whether by manhandling or fighting or giving threat thereof, or causes loss, damage to any property which he or she has no right in or which is under ownership, custody or control of another person, with the intention of snatching, taking, or causing loss, damage to, such property shall be considered to commit larceny. 
+
+
+
+(3) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding three months or a fine not exceeding twenty-five 
+
+187 
+
+percent of the claimed amount subjected to larceny or both the sentences, and the claimed amount subjected to larceny shall be ordered to be paid by the offender to the victim. 
+
+**287. Prohibition of acquiring property obtained by committing offence:** (1) No person shall acquire, hold, purchase or sell any property knowing or having a reasonable reason to believe that such property has been obtained by committing an offence. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding five years or a fine not exceeding fifty thousand rupees or both the sentences. 
+
+(3) The property acquired, held, purchased or sold as set forth in sub-section (1) shall be returned to the owner of such property. 
+
+**288. Statute of limitation:** A complaint in relation to an offence under Section 284 or 285 shall not be entertained after the expiry of six months from the date of commission of such offence, in relation to the offence under Section 286, after the expiry of three months from the date of commission of such offence, and in relation to any of other offences under this Chapter, after the expiry of three months from the date of having knowledge of the commission of such offence. 
+
+188 
+
+## **Chapter-27** 
+
+## **<u>Offences Relating to Animals and Birds</u>** 
+
+**289. Prohibition of killing or beating cows or oxen:** (1) No person shall do, or cause to be done, any act with the intention of killing, or causing hurt to, any cow or ox. 
+
+(2) Where any act referred to in sub-section (1) causes the death of any cow or ox, the offender of such offence shall be liable to a sentence of imprisonment for a term not exceeding three years. 
+
+(3) A person shall be liable to a sentence of imprisonment for a term not exceeding six months, if he or she causes grievous hurt to a cow or ox, and to a sentence of a fine not exceeding fifty thousand rupees if other hurt is caused. 
+
+(4) Notwithstanding anything contained in sub-section (1), if a person does any act necessary to protect from any injury likely to be caused by any cow or ox to the body or life of the person or another person and such act causes the death of, or any harm to, such cow or ox, the person shall not be considered to commit any offence under this Section. 
+
+**290. Prohibition of cruel treatment to animals and birds:** (1) No person shall subject any animal or bird to torture by beating or hitting it, or by causing it to carry a load beyond its capacity or by causing it to walk or run beyond its ability or by engaging it in work if it is unable to work because of illness, wound or _Khatira_ , or any other cause, or by feeding it harmful substance or in any other manner whatsoever or leave publicly any animal or bird which he or 
+
+189 
+
+she has grown up because of its being ill or aged or otherwise treat it cruelly or mercilessly. 
+
+Provided that nothing shall bar the using of minimum force in order to make any animal or bird do any work or carry a load according to its physical capacity or make it run, with the objective to teach or train it to do any wok or make it efficient on its work. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding three months or a fine not exceeding five thousand rupees or both the sentences. 
+
+**291. Prohibition of killing animals or birds in public places** : (1) Except as otherwise provided in this Act, no person shall kill any animal or bird in any public place other than a religious place where there is a tradition to offer sacrifice of an animal or bird. 
+
+Provided that nothing shall bar the killing of any animal or bird in a fair, feast, exhibition or event or place where there is a tradition of slaughtering animals or birds being practiced from time immemorial. 
+
+**Explanation:** For the purposes of this Section, the term “public place” means a way, road, bridge, meadow or place for movement of human beings. 
+
+
+
+(2) In making sacrifice of an animal or bird under subsection (1), no sacrifice of such animal or bird shall be executed in any public place or religious place other than a religious place where the sacrifice of animals or birds has been in practice from time immemorial. 
+
+190 
+
+(3) In making sacrifice of an animal or bird under subsection (1), any alternative measure, if any available, to such sacrificing shall be adopted. 
+
+(4) Where it is necessary to make sacrifice of an animal or bird being it not possible to adopt the measure under sub-section (3), such sacrifice shall be made at such place and in accordance with such method as determined by the manager of the concerned religious place. 
+
+(5) A person who commits, or causes to be committed, the offence referred to in this Section shall be liable to a sentence of imprisonment for a term not exceeding one month or a fine not exceeding five thousand rupees or both the sentences. 
+
+**292. Statute of limitation:** No complaint shall lie in relation to any of the offences under Section 290, after the expiry of three months from the date of commission of such offence, and in relation to any of the other offences under this Chapter, after the expiry of three months from the date of knowledge of commission of such act. 
+
+
+
+191 
+
+## **Part-3** 
+
+## **<u>Offences against Individual Privacy and Prestige</u>** 
+
+## **Chapter-1** 
+
+## **<u>Offences against Privacy</u>** 
+
+## **293. Prohibition of listening to or recording other's conversation:** (1) 
+
+No person shall, by using a mechanical device, listen to, or record, any conversation held between two or more persons, without permission of the competent authority or consent of such persons holding conversation. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding two years or a fine not exceeding twenty thousand rupees or both the sentences. 
+
+Provided that this Section shall not apply to any speech or statement made publicly. 
+
+**294. Prohibition of divulging confidential matter:** (1) No person shall divulge another person's confidential matter, which he or she comes to know from such person in the course of his or her professional work, except where such divulgence is compelled by law or permitted by such person. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+192 
+
+**295. Prohibition of taking or disfiguring photograph of any person without his or her consent:** (1) No person shall, without consent of another person, take a photograph of that other person or make another photograph by mixing other's photograph with the photograph of that other person. 
+
+Provided that a person who, while taking a photograph of any public place, happens to take also a photograph of any person remaining in such place shall not be considered to commit the offence under this Section. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+(3) No person shall make a disfigured photograph by mixing some part of one's photograph with another part of other's photograph or in any other manner or publish such disfigured photograph. 
+
+(4) A person who commits, or causes to be committed, the offence referred to in sub-section (3) shall be liable to a sentence of imprisonment for a term not exceeding two years or a fine not exceeding twenty thousand rupees or both the sentences. 
+
+
+
+**296. Prohibition of giving or selling one’s photograph to another without consent:** (1) No person shall give or sell one's photograph without his or her consent to another person, or publish, publicize, purchase or sell such photograph, with the intention of annoying, disturbing or troubling him or her or taking any undue benefit from 
+
+193 
+
+him or her or taking benefit by making commercial use of such photograph. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences. 
+
+**297. Prohibition of opening letters or tapping telephone conversation:** (1) No person shall open a person's letter or tap or record a person’s telephone conversation by using any mechanical device, without permission of the competent authority or the concerned person. 
+
+(2) A person who commits, or causes to be committed, an offence under sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding two years or a fine not exceeding twenty thousand rupees or both the sentences. 
+
+**298. Prohibition of breaching privacy through electronic means** : (1) No person shall obtain, in an unauthorized manner, a notice, information and correspondence lying in or to be transmitted from any electronic means or breach privacy thereof, or transfer, or cause to be transferred, the same to another person in an unauthorized manner. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding two years or a fine not exceeding twenty thousand rupees or both the sentences. 
+
+**299. Prohibition of deceitfully making telephone calls or transmitting messages** : (1) No person shall deceitfully make, or cause to be made, 
+
+194 
+
+any telephone call or transmit any message, whether giving his or her identity or not, with the intention of avoiding, deceiving, annoying or troubling another person. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding two years or a fine not exceeding twenty thousand rupees or both the sentences. 
+
+**300. Prohibition of writing letters with dishonest intention of causing annoyance:** (1) No person shall, with the dishonest intention of causing fear, terror or pain to, or annoying, insulting or defaming another person, threat, annoy, tease that other person by writing or causing to be written any letter, pamphlet or document of any other type or through electronic means or otherwise behave such person improperly. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. **301. Prohibition search other's body** : (1) No person, except the competent authority, or with the order of the competent authority, or a person deputed for security purpose, with the permission of the competent authority, shall search, or cause to be searched, another person's body, vehicle or personal belongings without consent of that other person. 
+
+(2) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of 
+
+195 
+
+imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+**302. Prohibition of unauthorized entry into other's residence:** (1) No person, except the competent authority or with the order of such authority under law, shall authoritatively enter into another person's house, breach the privacy of the house owner or his or her family or search, or cause to be searched, such house, without the consent of the concerned house owner. 
+
+**Explanation:** For the purposes of this Section, the term "house" means a house, residence, housing, room where a person is dwelling, and this term also includes a hotel room, camp and tent where such person is staying to spend a night. 
+
+(2) A person who commits the offence referred to in subsection (1) shall be liable to a sentence of imprisonment for a term not exceeding three years or a fine not exceeding thirty thousand rupees or both the sentences. 
+
+**303. Compensation to be paid:** Where a person derives any benefit or causes any kind of damage, loss, annoyance or injury to another person by committing the offence referred to in this Chapter, a compensation for such damage, loss, annoyance or injury shall also be ordered to be paid by the offender to the victim. 
+
+**304. Statute of limitation** : No complaint shall lie after the expiry of three months from the date of commission of any offence under this Chapter. 
+
+196 
+
+## **Chapter-2** 
+
+## **<u>Offence Relating to Defamation</u>** 
+
+**305. Prohibition of committing slander:** (1) No person shall slander another person. 
+
+(2) For the purposes of sub-section (1), a person who uses degrading words, spoken or said, with the intention of lowering the reputation of another person shall be deemed to commit slander. 
+
+(3) A person who commits, or causes to be committed, the offence referred to in sub-section (1) shall be liable to a sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees or both the sentences. 
+
+- **306** . **Prohibition of committing libel:** (1) No person shall defame another person. 
+
+(2) For the purposes of sub-section (1), a person who commits any of the following acts shall be deemed to commit defamation: 
+
+
+
+(a)  By words in writing, by conduct or by signs or by visible representation or by publicity or by other means, damaging the character of another person by making imputation that, directly or indirectly, in the estimation of others, lowers the personal or moral character, conduct or reputation of that other person, or making imputation that causes it to be believed that the body of that other person is in a state generally considered as disgraceful or disseminating or publishing such imputation, with the intention of harming, or knowing, 
+
+197 
+
+or having a reasonable reason to believe that, such imputation will harm, the reputation of that other person, or knowingly selling or distribution any thing which is used as a means of libeling any one, 
+
+   - (b) Making any imputation against a deceased person if the imputation would harm the reputation of that person if living, and is intended to be hurtful to the feelings of his or her family or other near relatives, 
+
+   - (c) Making or expressing an imputation in the form of an alternative or ironically. 
+
+- (3) Notwithstanding anything contained elsewhere in sub- 
+
+- section (2), none of the following acts shall be considered to be libel: 
+
+   - (a) Publishing or broadcasting any thing which is true concerning any person, along with the evidence and basis, for public good, 
+
+
+
+- (b) Publishing in good faith and decently any thing respecting the conduct of any public servant in the discharge of his or her public functions or respecting his or her character only so far as his or her character appears in that conduct, 
+
+- (c) Expressing in good faith any opinion respecting the conduct of public office or position of any person and respecting his or her character only so far as his or her character appears in that conduct, 
+
+- (d) Expressing in good faith and decently any opinion respecting the merits of any performance which its 
+
+198 
+
+author has submitted to the public for opinion or respecting the character of the author only so far as his or her character appears in such performance, 
+
+   - (e) Passing in good faith any censure on the conduct of a person who has over another person any authority, either conferred by law or arising out of a contract made with that other person in matters to which such authority relates. 
+
+   - (f) Investigating into any offence in accordance with law or preferring accusation against him or her on that basis in accordance with law, 
+
+   - (g) Cautioning a person against other person, for his or her benefit or for the benefit of a person having his or her interest or for the benefit of the public. 
+
+**307. Punishment for libel:** (1) A person who commits, or causes to be committed, libel shall be liable to a sentence of imprisonment for a term not exceeding two years or a fine not exceeding twenty thousand rupees or both the sentences. 
+
+Provided that if libel is committed or, caused to be committed, by means of electronic or other means of mass communication, there shall be imposed an additional sentence of imprisonment for a term not exceeding one year or a fine not exceeding ten thousand rupees in addition to such punishment. 
+
+
+
+(2) If a person is convicted of libeling another person or causing such libel, a reasonable compensation to be set having regard to, _inter alia_ , the gravity of the offence, effect caused to the 
+
+199 
+
+reputation of such person and the commission of libel by means of electronic or other means of mass communication, shall be ordered to be paid by the offender to the libeled person, and litigation costs shall also be ordered to be paid by the offender to the libeled person. 
+
+(3) If a person is convicted of libeling a deceased under this Chapter, such compensation and litigation costs shall be ordered to be paid by the offender to the near successor to the deceased whose feeling was hurt. 
+
+**308. Statute of limitation:** No complaint shall lie after the expiry of three months from the date of knowledge of commission of any offence under this Chapter. 
+
+
+

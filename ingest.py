@@ -26,49 +26,6 @@ def read_markdown_file(file_path):
 
     return content
 
-# def split_into_chunks(text, chunk_size=1000, overlap=200):
-    """
-    Splits a long string into a list of smaller overlapping chunks.
-
-    chunk_size: how many characters each chunk should contain
-    overlap: how many characters from the end of one chunk are repeated
-             at the start of the next chunk
-
-    Why overlap? It prevents ideas that fall on a chunk boundary from being
-    completely severed between two chunks.
-    """
-
-     # 1. Edge case handling: Return empty list if text is empty
-    if not text or not text.strip():
-        return []
-
-    # 2. Initialize the smart recursive splitter
-    splitter = RecursiveCharacterTextSplitter(
-        chunk_size=chunk_size,
-        chunk_overlap=overlap,
-        length_function=len,
-        separators=["\n\n", "\n", ".", " ", ""] # Priority: Para -> Line -> Sentence -> Word
-    )
-    # chunks = []
-    # start = 0
-    # text_length = len(text)
-
-    # while start < text_length:
-    #     # end is where this chunk stops
-    #     end = start + chunk_size
-    #     chunk = text[start:end]
-    #     chunks.append(chunk)
-
-    #     # Move the start forward, but step back by `overlap` characters
-    #     # so the next chunk repeats a bit of this one
-    #     start = end - overlap
-
-    # 3. Split and return the text list directly
-    chunks = splitter.split_text(text)
-
-    return chunks
-
-
 def get_embedding(text):
     """
     Sends a piece of text to OpenAI's embedding model and returns
@@ -135,8 +92,8 @@ if __name__ == "__main__":
     chunks = build_chunks(
         document_text,
         source_name=config.DOCUMENT_PATH,
-        max_tokens=2000,
-        overlap_tokens=400
+        max_tokens=1500,
+        overlap_tokens=300
     )
     print(f"Split into {len(chunks)} chunks.")
 
@@ -149,36 +106,6 @@ if __name__ == "__main__":
     collection = build_vector_database(chunks)
 
     print(f"\nCollection now contains {collection.count()} items.")
-    # document_text = read_markdown_file(config.DOCUMENT_PATH)
-
-    # print(f"Successfully read document.")
-    # print(f"Total characters: {len(document_text)}")
-
-    # chunks = build_chunks(
-    #     document_text, 
-    #     source_name=config.DOCUMENT_PATH,
-    #     max_tokens=2000,
-    #     overlap_tokens=400
-    # )
-
-    # print(f"Total chunks generated: {len(chunks)}")
-
-    # # 2. Inspect multiple chunks to verify quality, overlap, and context
-    # print("\n=== CHUNKING QUALITY CHECK ===")
     
-    # # Check the first chunk, a middle chunk, and the last chunk
-    # sample_indices = [0, len(chunks) // 2, len(chunks) - 1]
-    # # Handle small documents with fewer than 3 chunks safely
-    # sample_indices = sorted(list(set(idx for idx in sample_indices if idx < len(chunks))))
-
-    # for idx in sample_indices:
-    #     print(f"\n" + "="*50)
-    #     print(f"--- INSPECTING CHUNK INDEX: {idx} ---")
-    #     print(f"="*50)
-    #     print(f"Metadata: {chunks[idx]['metadata']}")
-    #     print(f"Character Length: {len(chunks[idx]['text'])}")
-    #     print(f"--- Chunk Content Start ---")
-    #     print(chunks[idx]["text"])
-    #     print(f"--- Chunk Content End ---")
 
    
