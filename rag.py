@@ -9,6 +9,8 @@ import chromadb
 from openai import OpenAI
 
 client = OpenAI(api_key=config.OPENAI_API_KEY)
+DEBUG = False
+MAX_CHAT_HISTORY_MESSAGES = 10
 
 
 def get_embedding(text):
@@ -36,6 +38,17 @@ def get_collection():
         metadata={"hnsw:space": "cosine"}
     )
     return collection
+
+
+def trim_chat_history(chat_history, max_messages=MAX_CHAT_HISTORY_MESSAGES):
+    """
+    Keeps only the most recent messages in memory.
+    The history is intentionally ephemeral and resets when the program restarts.
+    """
+    if len(chat_history) <= max_messages:
+        return chat_history
+
+    return chat_history[-max_messages:]
 
 
 def _clean_expanded_query_lines(text):
@@ -121,7 +134,48 @@ def build_search_queries(question):
     return search_queries
 
 
-def retrieve_relevant_chunks(question, top_k=4):
+def rewrite_query_with_history(question, recent_history):
+    """
+    Uses recent conversation to turn a follow-up question into a standalone
+    retrieval query. If the question is already standalone, it is returned
+    unchanged.
+    """
+    if not recent_history:
+        return question
+
+    history_lines = []
+
+    for role, content in recent_history:
+        history_lines.append(f"{role.capitalize()}: {content}")
+
+    prompt = f"""You rewrite follow-up questions into standalone retrieval queries for a legal document search system.
+
+Use the recent conversation only to resolve references like "it", "that", "those restrictions", or "what about them".
+Do not answer the question.
+Do not add legal facts that are not implied by the conversation.
+If the question is already standalone, return it unchanged.
+Return only the rewritten query.
+
+Recent conversation:
+{chr(10).join(history_lines)}
+
+Current question:
+{question}
+
+Standalone retrieval query:"""
+
+    response = client.chat.completions.create(
+        model=config.CHAT_MODEL,
+        messages=[
+            {"role": "user", "content": prompt}
+        ]
+    )
+
+    rewritten_query = response.choices[0].message.content.strip()
+    return rewritten_query or question
+
+
+def retrieve_relevant_chunks(question, recent_history, top_k=4):
     """
     Given a user's question, returns the top_k most relevant chunks from the
     vector database after query expansion.
@@ -129,10 +183,13 @@ def retrieve_relevant_chunks(question, top_k=4):
     # Step 1: connect to the stored collection
     collection = get_collection()
 
-    # Step 2: create alternate search phrasings using the model's knowledge
-    search_queries = build_search_queries(question)
+    # Step 2: rewrite the question using recent conversation context
+    rewritten_query = rewrite_query_with_history(question, recent_history)
 
-    # Step 3: query ChromaDB for each phrasing and keep the best results we see
+    # Step 3: create alternate search phrasings using the model's knowledge
+    search_queries = build_search_queries(rewritten_query)
+
+    # Step 4: query ChromaDB for each phrasing and keep the best results we see
     ranked_chunks = []
 
     for query_text in search_queries:
@@ -167,14 +224,22 @@ def retrieve_relevant_chunks(question, top_k=4):
     retrieved_texts = [item[0] for item in ranked_chunks]
     distances = [item[1] for item in ranked_chunks]
 
-    return retrieved_texts, distances, search_queries
+    return retrieved_texts, distances, search_queries, rewritten_query
 
-def build_prompt(question, retrieved_chunks):
+
+def build_prompt(question, recent_history, retrieved_chunks):
     """
     Combines the retrieved chunks and the user's question into a single
     prompt string, with clear instructions for the model to stay grounded
     in the provided context.
     """
+    history_lines = []
+
+    for role, content in recent_history:
+        history_lines.append(f"{role.capitalize()}: {content}")
+
+    history_text = "\n".join(history_lines).strip() or "None"
+
     # Present each chunk as a separate evidence snippet so the model can
     # compare them more reliably instead of treating the context as one blob.
     context_lines = []
@@ -192,6 +257,8 @@ def build_prompt(question, retrieved_chunks):
 - Weak or partial evidence is still evidence — give the best-supported answer and briefly flag what's uncertain (e.g., "the context suggests X, but doesn't specify Y").
 - Only respond with "I couldn't find that information in the provided document." if NONE of the retrieved snippets are relevant to the question at all. This should be rare — check the context carefully before concluding this.
 - Never invent a specific section, article, or clause number that isn't in the context. If the context names the relevant Act/Code but not the exact section, say so explicitly (e.g., "under the relevant provisions of the Muluki Civil Code, 2074, though the exact section is not specified in the retrieved context") rather than guessing a number or refusing outright.
+    - Use recent conversation only to understand references in the user's question.
+    - Do not use conversation history as legal evidence.
 
 ## Response Style
 First, decide whether the question is:
@@ -211,6 +278,9 @@ First, decide whether the question is:
 
 Use markdown headers and bullets for scenario answers; keep factual answers short and unstructured.
 
+Recent conversation:
+{history_text}
+
 Context:
 {context_text}
 
@@ -221,12 +291,12 @@ Answer:"""
     return prompt
 
 
-def generate_answer(question, retrieved_chunks):
+def generate_answer(question, recent_history, retrieved_chunks):
     """
     Sends the constructed prompt to OpenAI's chat model and returns
     the model's answer as a string.
     """
-    prompt = build_prompt(question, retrieved_chunks)
+    prompt = build_prompt(question, recent_history, retrieved_chunks)
 
     response = client.chat.completions.create(
         model=config.CHAT_MODEL,
@@ -240,9 +310,17 @@ def generate_answer(question, retrieved_chunks):
 
     return answer
 
+
+def print_debug_block(title, content):
+    print(f"\n{title}")
+    print("-" * len(title))
+    print(content)
+
 if __name__ == "__main__":
-  
+
     print("RAG System Active. Type 'exit' or 'quit' to stop.\n")
+
+    chat_history = []
     
     while True:
         # 1. Capture user input
@@ -257,23 +335,47 @@ if __name__ == "__main__":
         if not test_question:
             continue
 
+        recent_history = chat_history[-MAX_CHAT_HISTORY_MESSAGES:]
+
         # 4. Process the query
-        chunks, distances, search_queries = retrieve_relevant_chunks(test_question, top_k=4)
+        chunks, distances, search_queries, rewritten_query = retrieve_relevant_chunks(
+            test_question,
+            recent_history,
+            top_k=4
+        )
 
-        print("\nExpanded search queries:")
-        for i, search_query in enumerate(search_queries):
-            print(f"  {i + 1}. {search_query}")
-        print()
+        if DEBUG:
+            print_debug_block("ORIGINAL QUESTION", test_question)
+            print_debug_block("REWRITTEN RETRIEVAL QUERY", rewritten_query)
 
-        print(f"\nTop {len(chunks)} retrieved chunks:\n")
-        for i, (chunk_text, distance) in enumerate(zip(chunks, distances)):
-            print(f"--- Chunk {i + 1} (distance: {distance:.4f}) ---")
-            print(chunk_text)
+            retrieved_debug_lines = []
+            for i, (chunk_text, distance) in enumerate(zip(chunks, distances), start=1):
+                retrieved_debug_lines.append(
+                    f"Chunk {i} (distance: {distance:.4f})\n{chunk_text}"
+                )
+            print_debug_block("RETRIEVED CHUNKS + DISTANCES", "\n\n".join(retrieved_debug_lines))
+        else:
+            print("\nExpanded search queries:")
+            for i, search_query in enumerate(search_queries):
+                print(f"  {i + 1}. {search_query}")
             print()
 
+            print(f"\nTop {len(chunks)} retrieved chunks:\n")
+            for i, (chunk_text, distance) in enumerate(zip(chunks, distances)):
+                print(f"--- Chunk {i + 1} (distance: {distance:.4f}) ---")
+                print(chunk_text)
+                print()
+
         print("Generating answer...\n")
-        answer = generate_answer(test_question, chunks)
+        answer = generate_answer(test_question, recent_history, chunks)
+
+        if DEBUG:
+            print_debug_block("FINAL ANSWER", answer)
 
         print("=== Answer ===")
         print(answer)
         print("-" * 40 + "\n")  # Visual separator for the next turn
+
+        chat_history.append(("user", test_question))
+        chat_history.append(("assistant", answer))
+        chat_history = trim_chat_history(chat_history)
