@@ -9,6 +9,7 @@ Lightweight retrieval-augmented legal chatbot for querying local documents.
 - **Install:** `pip install -r requirements.txt`
 - **Ingest documents:** `python ingest.py` (ingest your `data/` files)
 - **Run the chatbot:** `python rag.py`
+- **Run the Streamlit UI:** `streamlit run app.py`
 
 **Release**
 - **This release:** v0.1 — initial public demo. To publish on GitHub, tag `v0.1` and create a Release with a short changelog.

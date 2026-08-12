@@ -4,3 +4,4 @@ chromadb
 langchain-text-splitters
 langchain
 tiktoken
+streamlit
