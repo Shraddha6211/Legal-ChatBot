@@ -1,6 +1,7 @@
 openai
 python-dotenv
 chromadb
+pypdf
 langchain-text-splitters
 langchain
 tiktoken
