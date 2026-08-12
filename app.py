@@ -84,20 +84,29 @@ def render_document_panel():
 
     if active_document is not None:
         st.info(f"Current document: {active_document['filename']}")
+
+        # compact, single-row document action buttons
+        st.markdown('<div class="doc-button-row">', unsafe_allow_html=True)
         col1, col2, col3 = st.columns([1, 1, 1])
 
-        with col1:
-            if st.button("Generate Summary"):
-                st.session_state.summary_cache = "__needs_summary__"
+        # Use smaller buttons that do not expand to the full column width
+        generate_clicked = col1.button("Generate Summary", key="gen_summary", use_container_width=False)
+        ask_clicked = col2.button("Ask Questions", key="ask_questions", use_container_width=False)
+        remove_clicked = col3.button("Remove Document", key="remove_document", use_container_width=False)
+        st.markdown('</div>', unsafe_allow_html=True)
 
-        with col2:
-            if st.button("Ask Questions"):
-                pass
+        if generate_clicked:
+            st.session_state.summary_cache = "__needs_summary__"
 
-        with col3:
-            if st.button("Remove Document"):
-                clear_active_document()
-                return
+        if ask_clicked:
+            # Keep the user in document Q&A mode and clear any document chat history
+            # so follow-ups are tied to the uploaded document only.
+            st.session_state.mode = "Upload & Query a Document"
+            st.session_state.doc_messages = []
+
+        if remove_clicked:
+            clear_active_document()
+            return
 
         if st.session_state.summary_cache == "__needs_summary__":
             with st.spinner("Summarizing the uploaded document..."):
@@ -246,6 +255,23 @@ def render_document_query_mode():
     set_current_history(trim_chat_history(history))
 
 
+def render_booking_mode():
+    st.title("Book an Appointment")
+    st.write("Schedule a consultation using the booking widget below.")
+
+    booking_html = """
+    <div style='position: relative; padding-top: 56.25%;'>
+      <iframe
+        src='https://calendly.com/adv_shrinkhala_tiwari'
+        style='position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;'
+        allowfullscreen
+      ></iframe>
+    </div>
+    """
+
+    st.components.v1.html(booking_html, height=600, scrolling=True)
+
+
 def main():
     # ensure_session_state()
     # render_sidebar()
@@ -282,12 +308,14 @@ def main():
         """
         <style>
 
+        /* keep the horizontal block centering for wide experience buttons */
         div[data-testid="stHorizontalBlock"] {
             justify-content: center;
             gap: 25px;
         }
 
-        div.stButton > button {
+        /* Scope the large, prominent styling to only the experience buttons wrapper */
+        .experience-buttons div.stButton > button {
             height: 110px;
             width: 100%;
             border-radius: 16px;
@@ -299,12 +327,40 @@ def main():
             transition: all 0.2s ease;
         }
 
-        div.stButton > button:hover {
+        .experience-buttons div.stButton > button:hover {
             border-color: #00ffff;
             background-color: #001e39;
             color: #00ffff;
             transform: translateY(-4px);
             box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+        }
+
+        /* Compact document-panel buttons: inline, tighter spacing, smaller size */
+        .doc-button-row {
+            display: flex !important;
+            gap: 8px !important;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+
+        .doc-button-row div.stButton > button {
+            height: 36px;
+            width: auto;
+            padding: 6px 12px;
+            border-radius: 8px;
+            border: 1px solid #14213d;
+            background-color: #14213d;
+            color: #ffffff;
+            font-size: 14px;
+            font-weight: 600;
+        }
+
+        .doc-button-row div.stButton > button:hover {
+            background-color: #001e39;
+            color: #00ffff;
+            transform: none;
+            box-shadow: none;
         }
 
         </style>
@@ -317,12 +373,15 @@ def main():
     # EXPERIENCE BUTTONS
     # ---------------------------------------------------------
 
-    col1, col2= st.columns(2)
+    # wrap the prominent experience buttons so the large styling above applies only here
+    st.markdown('<div class="experience-buttons">', unsafe_allow_html=True)
+    col1, col2, col3 = st.columns(3)
 
     with col1:
         if st.button(
             "⚖️  Ask a Legal Query",
             use_container_width=True,
+            key="experience_legal_query",
         ):
             st.session_state.mode = "Ask a Legal Query"
             st.rerun()
@@ -331,26 +390,20 @@ def main():
         if st.button(
             "📄  Upload & Query a Document",
             use_container_width=True,
+            key="experience_document_query",
         ):
             st.session_state.mode = "Upload & Query a Document"
             st.rerun()
 
-    # with col3:
-    #     if st.button(
-    #         "Draft a legal document",
-    #         use_container_width=True,
-    #     ):
-    #         st.session_state.mode = "Draft a legal Document"
-    #         st.rerun()
-
-    # with col4:
-    #         if st.button(
-    #             "Book an appointment for legal consultation",
-    #             use_container_width=True,
-    #         ):
-    #             st.session_state.mode = "Book an appointment for legal consultation"
-    #             st.rerun()
-
+    with col3:
+        if st.button(
+            "🗓️  Book an Appointment",
+            use_container_width=True,
+            key="experience_book_appointment",
+        ):
+            st.session_state.mode = "Book an Appointment"
+            st.rerun()
+    st.markdown('</div>', unsafe_allow_html=True)
 
     # ---------------------------------------------------------
     # CURRENT MODE
@@ -358,8 +411,10 @@ def main():
 
     if st.session_state.mode == "Ask a Legal Query":
         render_legal_query_mode()
-    else:
+    elif st.session_state.mode == "Upload & Query a Document":
         render_document_query_mode()
+    else:
+        render_booking_mode()
 
 
 
