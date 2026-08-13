@@ -142,6 +142,15 @@ def render_document_panel():
     return
 
 
+def get_first_200_words(text):
+    words = text.split()
+    preview_words = words[:200]
+    preview = " ".join(preview_words)
+    if len(words) > 200:
+        preview = preview + "..."
+    return preview
+
+
 def show_debug_info(original_question, rewritten_query, chunks, distances):
     st.subheader("Debug")
 
@@ -160,8 +169,26 @@ def show_debug_info(original_question, rewritten_query, chunks, distances):
                 st.divider()
 
 
+def show_top_chunks(chunks, distances, top_n=3):
+    limit = min(top_n, len(chunks))
+    with st.expander(f"Top {limit} retrieved chunks", expanded=False):
+        for index, (chunk_text, distance) in enumerate(zip(chunks[:limit], distances[:limit]), start=1):
+            st.markdown(f"**Chunk {index}**")
+            st.caption(f"Distance: {distance:.4f}")
+            st.markdown(
+                f"""
+                <div class="retrieved-chunk-box">
+                {get_first_200_words(chunk_text)}
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
+            if index != limit:
+                st.write("")
+
+
 def render_legal_query_mode():
-    st.title("Simple RAG Legal Chatbot")
+    st.title("Legal Assistant — Multi-Agent RAG System")
     st.write("Ask questions about the legal knowledge base. The existing RAG pipeline is used unchanged.")
 
     render_chat_history()
@@ -190,6 +217,7 @@ def render_legal_query_mode():
             answer = generate_answer(user_message, recent_history, chunks)
 
             st.markdown(answer)
+            show_top_chunks(chunks, distances, top_n=3)
 
             # Display retrieval metrics
             st.markdown(f"\n📊 **Retrieval Metrics (k={metrics['k']})**")
@@ -255,6 +283,7 @@ def render_document_query_mode():
             answer = generate_answer(user_message, recent_history, chunks)
 
             st.markdown(answer)
+            show_top_chunks(chunks, distances, top_n=3)
 
             # Display retrieval metrics
             st.markdown(f"\n📊 **Retrieval Metrics (k={metrics['k']})**")
@@ -388,6 +417,22 @@ def main():
             color: #00ffff;
             transform: none;
             box-shadow: none;
+        }
+
+        .retrieved-chunk-box {
+            background: #f8fafc;
+            border: 1px solid #dfe7f1;
+            border-radius: 10px;
+            padding: 0.85rem 1rem;
+            margin-top: 0.5rem;
+            margin-bottom: 0.9rem;
+            max-height: 220px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            line-height: 1.5;
+            font-size: 0.92rem;
+            color: #111827;
         }
 
         </style>
