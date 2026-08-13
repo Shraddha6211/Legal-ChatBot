@@ -9,7 +9,15 @@ from pypdf import PdfReader
 import config
 from chunking import build_chunks
 
+# Use this to use locally
 client = OpenAI(api_key=config.OPENAI_API_KEY)
+
+# Use this to use after deploying in streamlit
+# import streamlit as st
+
+# Streamlit looks up the secret automatically
+# client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+
 
 
 def get_collection():

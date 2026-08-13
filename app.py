@@ -11,7 +11,7 @@ from rag import (
 )
 
 
-st.set_page_config(page_title="Simple RAG Legal Chatbot", page_icon="⚖️", layout="wide")
+st.set_page_config(page_title="Legal Assistant — Multi-Agent RAG System", page_icon="⚖️", layout="wide")
 
 
 def ensure_session_state():
@@ -181,7 +181,7 @@ def render_legal_query_mode():
 
     with st.chat_message("assistant"):
         with st.spinner("Searching legal documents and drafting an answer..."):
-            chunks, distances, search_queries, rewritten_query = retrieve_relevant_chunks(
+            chunks, distances, search_queries, rewritten_query, metrics = retrieve_relevant_chunks(
                 user_message,
                 recent_history,
                 top_k=st.session_state.top_k,
@@ -190,6 +190,20 @@ def render_legal_query_mode():
             answer = generate_answer(user_message, recent_history, chunks)
 
             st.markdown(answer)
+
+            # Display retrieval metrics
+            st.markdown(f"\n📊 **Retrieval Metrics (k={metrics['k']})**")
+            with st.expander("Evaluation"):
+                col1, col2 = st.columns(2)
+                with col1:
+                    st.metric("Precision@k", metrics['precision_at_k'])
+                with col2:
+                    st.metric("Relevant Chunks", f"{metrics['relevant_count']}/{metrics['k']}")
+                st.metric("Relevant Chunks", f"{metrics['relevant_count']}/{metrics['k']}")
+            with st.expander("Detailed Metrics"):
+                st.write(f"- **Mean Distance**: {metrics['mean_distance']}")
+                st.write(f"- **Min Distance**: {metrics['min_distance']}")
+                st.write(f"- **Max Distance**: {metrics['max_distance']}")
 
             if st.session_state.debug:
                 show_debug_info(user_message, rewritten_query, chunks, distances)
@@ -231,7 +245,7 @@ def render_document_query_mode():
     with st.chat_message("assistant"):
         with st.spinner("Searching the uploaded document and drafting an answer..."):
             document_id = st.session_state.active_document["document_id"]
-            chunks, distances, search_queries, rewritten_query = retrieve_relevant_chunks(
+            chunks, distances, search_queries, rewritten_query, metrics = retrieve_relevant_chunks(
                 user_message,
                 recent_history,
                 top_k=st.session_state.top_k,
@@ -241,6 +255,19 @@ def render_document_query_mode():
             answer = generate_answer(user_message, recent_history, chunks)
 
             st.markdown(answer)
+
+            # Display retrieval metrics
+            st.markdown(f"\n📊 **Retrieval Metrics (k={metrics['k']})**")
+            with st.expander("Evaluation"):
+                col1, col2 = st.columns(2)
+                with col1:
+                    st.metric("Precision@k", metrics['precision_at_k'])
+                with col2:
+                    st.metric("Relevant Chunks", f"{metrics['relevant_count']}/{metrics['k']}")
+            with st.expander("Detailed Metrics"):
+                st.write(f"- **Mean Distance**: {metrics['mean_distance']}")
+                st.write(f"- **Min Distance**: {metrics['min_distance']}")
+                st.write(f"- **Max Distance**: {metrics['max_distance']}")
 
             if st.session_state.debug:
                 show_debug_info(user_message, rewritten_query, chunks, distances)

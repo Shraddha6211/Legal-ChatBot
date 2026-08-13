@@ -1,4 +1,4 @@
-# Simple RAG Legal Chatbot
+# Legal Assistant — Multi-Agent RAG System
 
 A lightweight legal chatbot built with OpenAI, ChromaDB, and Streamlit. This project demonstrates a minimal retrieval-augmented generation (RAG) pipeline for legal query answering, plus a single-document upload/query workflow and a placeholder appointment-booking experience. Handles queries and pdfs in both English and Nepali language and responds accordingly.
 
@@ -98,6 +98,17 @@ This repo is organized to keep the core RAG pipeline separate from the Streamlit
   - `Ask Questions`
   - `Remove Document`
 - Improved UI layout so the three document buttons render horizontally with minimal spacing.
+
+### Metrics
+- Complete evaluation framework
+- Goldset generation from vector DB
+- Batch evaluation pipeline
+- MRR and hit rate metrics
+- Detailed failure analysis
+- Same inline metrics as before
+- Backward compatible interface
+
+
 
 ### Behavior guarantees
 - Only one uploaded document is active at a time.

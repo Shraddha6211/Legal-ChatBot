@@ -1,0 +1,8 @@
+{
+  "num_questions": 10,
+  "top_k": 5,
+  "hit_rate_at_k": 1.0,
+  "precision_at_k": 0.2,
+  "mrr": 0.9,
+  "misses": []
+}
