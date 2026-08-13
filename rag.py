@@ -7,6 +7,7 @@ import re
 import config
 import chromadb
 from openai import OpenAI
+from eval import calculate_retrieval_metrics
 
 client = OpenAI(api_key=config.OPENAI_API_KEY)
 DEBUG = False
@@ -227,7 +228,15 @@ def retrieve_relevant_chunks(question, recent_history, top_k=4, metadata_filter=
     retrieved_texts = [item[0] for item in ranked_chunks]
     distances = [item[1] for item in ranked_chunks]
 
-    return retrieved_texts, distances, search_queries, rewritten_query
+    # Calculate retrieval metrics (precision@k, recall@k)
+    # Using similarity threshold of 0.5 (cosine distance < 0.5 = relevant)
+    metrics = calculate_retrieval_metrics(
+        distances=distances,
+        k=top_k,
+        similarity_threshold=0.5
+    )
+
+    return retrieved_texts, distances, search_queries, rewritten_query, metrics
 
 
 def build_prompt(question, recent_history, retrieved_chunks):
